@@ -1,0 +1,733 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Dear Kazuma,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":199,"split":0,"start":101.0,"end":152.0}],"english":[{"lang":"uk","section":0,"entry":69,"split":0,"start":101.0,"end":152.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:0_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Querido Kazuma,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="If you're reading this letter,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":200,"split":0,"start":160.0,"end":210.0}],"english":[{"lang":"uk","section":1,"entry":70,"split":0,"start":160.0,"end":210.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:1_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:1_0_0"
+msgid "si estás leyendo esta carta,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["2_0_0"]
+#. y1:english="then you probably already know."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":2,"entry":201,"split":0,"start":210.0,"end":276.0}],"english":[{"lang":"uk","section":2,"entry":71,"split":0,"start":210.0,"end":276.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:2_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:2_0_0"
+msgid "entonces seguramente lo sepas."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["3_0_0"]
+#. y1:english="It's true."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":3,"entry":202,"split":0,"start":276.0,"end":321.0}],"english":[{"lang":"uk","section":3,"entry":72,"split":0,"start":276.0,"end":321.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:3_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Es verdad,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["4_0_0","4_0_1"]
+#. y1:english="I was Nishiki's informant.\nI betrayed you."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":4,"entry":203,"split":0,"start":337.0,"end":444.0}],"english":[{"lang":"uk","section":4,"entry":73,"split":0,"start":337.0,"end":444.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:4_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:4_0_0"
+msgid "era la informadora"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["4_0_0","4_0_1"]
+#. y1:english="I was Nishiki's informant.\nI betrayed you."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":4,"entry":203,"split":0,"start":337.0,"end":444.0}],"english":[{"lang":"uk","section":4,"entry":73,"split":0,"start":337.0,"end":444.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:4_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:4_0_1"
+msgid "de Nishiki. Te traicioné."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["5_0_0"]
+#. y1:english="I'm sorry."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":5,"entry":204,"split":0,"start":471.0,"end":521.0}],"english":[{"lang":"uk","section":5,"entry":74,"split":0,"start":471.0,"end":521.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:5_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Lo siento."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=6_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["6_0_0"]
+#. y1:english="Please forgive me."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":6,"entry":205,"split":0,"start":525.0,"end":583.0}],"english":[{"lang":"uk","section":6,"entry":75,"split":0,"start":525.0,"end":583.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:6_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Perdóname, por favor."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=7_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["7_0_0"]
+#. y1:english="I've always loved Nishiki."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":7,"entry":206,"split":0,"start":628.0,"end":704.0}],"english":[{"lang":"uk","section":7,"entry":76,"split":0,"start":628.0,"end":704.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:7_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Siempre he amado a Nishiki."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=8_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["8_0_0"]
+#. y1:english="I just wanted him to be happy with me."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":8,"entry":207,"split":0,"start":704.0,"end":791.0}],"english":[{"lang":"uk","section":8,"entry":77,"split":0,"start":704.0,"end":791.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:8_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Sólo quería que fuera feliz conmigo."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=9_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["9_0_0"]
+#. y1:english="That's why I did everything..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":9,"entry":208,"split":0,"start":792.0,"end":853.0}],"english":[{"lang":"uk","section":9,"entry":78,"split":0,"start":792.0,"end":853.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:9_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Por eso lo hice todo."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=10_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["10_0_0"]
+#. y1:english="to make him happy."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":10,"entry":209,"split":0,"start":854.0,"end":894.0}],"english":[{"lang":"uk","section":10,"entry":79,"split":0,"start":854.0,"end":894.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:10_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Para hacerle feliz."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=11_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["11_0_0","11_0_1"]
+#. y1:english="I would have done anything to make\nhis hopes and desires come
+#. true."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":11,"entry":210,"split":0,"start":894.0,"end":1008.0}],"english":[{"lang":"uk","section":11,"entry":80,"split":0,"start":894.0,"end":1008.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:11_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Habría hecho cualquier cosa para que mis"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=11_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["11_0_0","11_0_1"]
+#. y1:english="I would have done anything to make\nhis hopes and desires come
+#. true."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":11,"entry":210,"split":0,"start":894.0,"end":1008.0}],"english":[{"lang":"uk","section":11,"entry":80,"split":0,"start":894.0,"end":1008.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:11_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:11_0_1"
+msgid "esperanzas y deseos se hicieran realidad."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=12_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["12_0_0"]
+#. y1:english="I knew what I was doing was wrong,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":12,"entry":211,"split":0,"start":1011.0,"end":1098.0}],"english":[{"lang":"uk","section":12,"entry":81,"split":0,"start":1011.0,"end":1098.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:12_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Sabía que lo que estaba"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=12_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["12_0_0"]
+#. y1:english="I knew what I was doing was wrong,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":12,"entry":211,"split":0,"start":1011.0,"end":1098.0}],"english":[{"lang":"uk","section":12,"entry":81,"split":0,"start":1011.0,"end":1098.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:12_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:12_0_1"
+msgid "haciendo estaba mal."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=13_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["13_0_0"]
+#. y1:english="but I went along and did it anyway."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":13,"entry":212,"split":0,"start":1098.0,"end":1172.0}],"english":[{"lang":"uk","section":13,"entry":82,"split":0,"start":1098.0,"end":1172.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:13_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:13_0_0"
+msgid "pero continué y lo hice de todas formas."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=14_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["14_0_0"]
+#. y1:english="I was such a fool."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":14,"entry":213,"split":0,"start":1202.0,"end":1261.0}],"english":[{"lang":"uk","section":14,"entry":83,"split":0,"start":1202.0,"end":1261.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:14_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Fui tan tonta..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=15_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["15_0_0"]
+#. y1:english="But then,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":15,"entry":214,"split":0,"start":1286.0,"end":1320.0}],"english":[{"lang":"uk","section":15,"entry":84,"split":0,"start":1286.0,"end":1320.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:15_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Pero, entonces,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=16_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["16_0_0"]
+#. y1:english="when I saw you with Haruka,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":16,"entry":215,"split":0,"start":1320.0,"end":1376.0}],"english":[{"lang":"uk","section":16,"entry":85,"split":0,"start":1320.0,"end":1376.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:16_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:16_0_0"
+msgid "cuando te vi con Haruka,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=17_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["17_0_0","17_0_1"]
+#. y1:english="I remembered something important,\nsomething I'd forgotten."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":17,"entry":216,"split":0,"start":1376.0,"end":1482.0}],"english":[{"lang":"uk","section":17,"entry":86,"split":0,"start":1376.0,"end":1482.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:17_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:17_0_0"
+msgid "recordé algo importante,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=17_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["17_0_0","17_0_1"]
+#. y1:english="I remembered something important,\nsomething I'd forgotten."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":17,"entry":216,"split":0,"start":1376.0,"end":1482.0}],"english":[{"lang":"uk","section":17,"entry":86,"split":0,"start":1376.0,"end":1482.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:17_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:17_0_1"
+msgid "algo que había olvidado."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=18_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["18_0_0"]
+#. y1:english="It's too late now though..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":18,"entry":217,"split":0,"start":1482.0,"end":1545.0}],"english":[{"lang":"uk","section":18,"entry":87,"split":0,"start":1482.0,"end":1545.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:18_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Aunque ya es demasiado tarde..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=19_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["19_0_0","19_0_1"]
+#. y1:english="I'm going to take responsibility\nfor my actions..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":19,"entry":218,"split":0,"start":1578.0,"end":1688.0}],"english":[{"lang":"uk","section":19,"entry":88,"split":0,"start":1578.0,"end":1688.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:19_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:19_0_0"
+msgid "voy a asumir la responsabilidad de"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=19_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["19_0_0","19_0_1"]
+#. y1:english="I'm going to take responsibility\nfor my actions..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":19,"entry":218,"split":0,"start":1578.0,"end":1688.0}],"english":[{"lang":"uk","section":19,"entry":88,"split":0,"start":1578.0,"end":1688.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:19_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:19_0_1"
+msgid "mis actos"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=20_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["20_0_0"]
+#. y1:english="...in my own way."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":20,"entry":219,"split":0,"start":1704.0,"end":1760.0}],"english":[{"lang":"uk","section":20,"entry":89,"split":0,"start":1704.0,"end":1760.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:20_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:20_0_0"
+msgid "... a mi manera."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=21_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["21_0_0"]
+#. y1:english="Reina..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":21,"entry":220,"split":0,"start":1781.0,"end":1829.0}],"english":[{"lang":"uk","section":21,"entry":90,"split":0,"start":1781.0,"end":1829.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:21_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Reina..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=22_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["22_0_0"]
+#. y1:english="Aniki..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":22,"entry":221,"split":0,"start":1997.0,"end":2042.0}],"english":[{"lang":"uk","section":22,"entry":91,"split":0,"start":1997.0,"end":2042.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:22_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Aniki..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=23_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["23_0_0"]
+#. y1:english="Shinji?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":23,"entry":222,"split":0,"start":2043.0,"end":2091.0}],"english":[{"lang":"uk","section":23,"entry":92,"split":0,"start":2043.0,"end":2091.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:23_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:23_0_0"
+msgid "¿Shinji?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=24_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["24_0_0"]
+#. y1:english="What happened?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":24,"entry":223,"split":0,"start":2098.0,"end":2129.0}],"english":[{"lang":"uk","section":24,"entry":93,"split":0,"start":2098.0,"end":2129.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:24_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:24_0_0"
+msgid "¿Qué ha pasado?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=25_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["25_0_0"]
+#. y1:english="It was Reina..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":25,"entry":224,"split":0,"start":2129.0,"end":2168.0}],"english":[{"lang":"uk","section":25,"entry":94,"split":0,"start":2129.0,"end":2168.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:25_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Era Reina..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=26_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["26_0_0","26_0_1"]
+#. y1:english="She's the one who's been\nbetraying you all along..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":26,"entry":225,"split":0,"start":2168.0,"end":2263.0}],"english":[{"lang":"uk","section":26,"entry":95,"split":0,"start":2168.0,"end":2263.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:26_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Es ella la que me estaba traicionando..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=27_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["27_0_0"]
+#. y1:english="Yeah,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":27,"entry":226,"split":0,"start":2263.0,"end":2300.0}],"english":[{"lang":"uk","section":27,"entry":96,"split":0,"start":2263.0,"end":2300.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:27_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Sí,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=28_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["28_0_0"]
+#. y1:english="I just found out."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":28,"entry":227,"split":0,"start":2300.0,"end":2333.0}],"english":[{"lang":"uk","section":28,"entry":97,"split":0,"start":2300.0,"end":2333.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:28_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:28_0_0"
+msgid "lo sé."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=29_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["29_0_0"]
+#. y1:english="Reina..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":29,"entry":228,"split":0,"start":2333.0,"end":2375.0}],"english":[{"lang":"uk","section":29,"entry":98,"split":0,"start":2333.0,"end":2375.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:29_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Reina"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=30_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["30_0_0"]
+#. y1:english="invited Nishiki Oyabun to Serena..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":30,"entry":229,"split":0,"start":2381.0,"end":2463.0}],"english":[{"lang":"uk","section":30,"entry":99,"split":0,"start":2381.0,"end":2463.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:30_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:30_0_0"
+msgid "invitó a Nishiki Oyabun a Serena..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=31_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["31_0_0"]
+#. y1:english="and tried to shoot him."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":31,"entry":230,"split":0,"start":2463.0,"end":2503.0}],"english":[{"lang":"uk","section":31,"entry":100,"split":0,"start":2463.0,"end":2503.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:31_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:31_0_0"
+msgid "e intentó dispararle."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=32_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["32_0_0"]
+#. y1:english="What?!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":32,"entry":231,"split":0,"start":2503.0,"end":2527.0}],"english":[{"lang":"uk","section":32,"entry":101,"split":0,"start":2503.0,"end":2527.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:32_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:32_0_0"
+msgid "i¿Qué?!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=33_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["33_0_0"]
+#. y1:english="She's with me now."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":33,"entry":232,"split":0,"start":2527.0,"end":2559.0}],"english":[{"lang":"uk","section":33,"entry":102,"split":0,"start":2527.0,"end":2559.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:33_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:33_0_0"
+msgid "Ahora está conmigo."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=34_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["34_0_0"]
+#. y1:english="We're trying to get away."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":34,"entry":233,"split":0,"start":2559.0,"end":2625.0}],"english":[{"lang":"uk","section":34,"entry":103,"split":0,"start":2559.0,"end":2625.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:34_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:34_0_0"
+msgid "Estamos tratando de escapar."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=35_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["35_0_0"]
+#. y1:english="Shinji!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":35,"entry":234,"split":0,"start":2631.0,"end":2664.0}],"english":[{"lang":"uk","section":35,"entry":104,"split":0,"start":2631.0,"end":2664.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:35_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:35_0_0"
+msgid "iShinji!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=36_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["36_0_0"]
+#. y1:english="Where are you at?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":36,"entry":235,"split":0,"start":2664.0,"end":2702.0}],"english":[{"lang":"uk","section":36,"entry":105,"split":0,"start":2664.0,"end":2702.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:36_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:36_0_0"
+msgid "¿Dónde estás?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=37_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["37_0_0"]
+#. y1:english="I'm not too sure..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":37,"entry":236,"split":0,"start":2702.0,"end":2742.0}],"english":[{"lang":"uk","section":37,"entry":106,"split":0,"start":2702.0,"end":2742.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:37_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:37_0_0"
+msgid "No estoy seguro..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=38_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["38_0_0"]
+#. y1:english="I see the Millennium Tower..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":38,"entry":237,"split":0,"start":2742.0,"end":2805.0}],"english":[{"lang":"uk","section":38,"entry":107,"split":0,"start":2742.0,"end":2805.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:38_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Veo la Torre del Milenio..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=39_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["39_0_0"]
+#. y1:english="and Purgatory."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":39,"entry":238,"split":0,"start":2805.0,"end":2853.0}],"english":[{"lang":"uk","section":39,"entry":108,"split":0,"start":2805.0,"end":2853.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:39_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:39_0_0"
+msgid "y el Purgatorio."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=40_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["40_0_0"]
+#. y1:english="Shinji, stay right there!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":40,"entry":239,"split":0,"start":2853.0,"end":2897.0}],"english":[{"lang":"uk","section":40,"entry":109,"split":0,"start":2853.0,"end":2897.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:40_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:40_0_0"
+msgid "Shinji, iquédate ahí!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=41_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["41_0_0"]
+#. y1:english="Don't move!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":41,"entry":240,"split":0,"start":2897.0,"end":2931.0}],"english":[{"lang":"uk","section":41,"entry":110,"split":0,"start":2897.0,"end":2931.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:41_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:41_0_0"
+msgid "iNo te muevas!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=42_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["42_0_0"]
+#. y1:english="And whatever you do, don't die!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":42,"entry":241,"split":0,"start":2931.0,"end":3008.0}],"english":[{"lang":"uk","section":42,"entry":111,"split":0,"start":2931.0,"end":3008.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN:42_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER13/AUTH_CHAPTER13_003.DAT/1___FILE.BIN::line:42_0_0"
+msgid "iY hagas lo que hagas, no mueras!"
+msgstr ""

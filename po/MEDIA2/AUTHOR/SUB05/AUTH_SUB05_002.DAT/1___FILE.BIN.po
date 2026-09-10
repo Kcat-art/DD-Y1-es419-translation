@@ -1,0 +1,557 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Ali! Ali! Are you alright?!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":207,"split":0,"start":75.0,"end":139.0}],"english":[{"lang":"uk","section":0,"entry":101,"split":0,"start":75.0,"end":139.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:0_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:0_0_0"
+msgid "iAli! ¿Ali? i¿Estás bien?!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Be still!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":208,"split":0,"start":139.0,"end":168.0}],"english":[{"lang":"uk","section":1,"entry":102,"split":0,"start":139.0,"end":168.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:1_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:1_0_0"
+msgid "iNo te muevas!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Hey!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":2,"entry":209,"split":0,"start":168.0,"end":184.0}],"english":[{"lang":"uk","section":2,"entry":103,"split":0,"start":168.0,"end":184.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:2_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:2_0_0"
+msgid "iHey!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["3_0_0","3_0_1"]
+#. y1:english="This boy needs some medical attention.\nCan you help us out?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":3,"entry":210,"split":0,"start":184.0,"end":300.0}],"english":[{"lang":"uk","section":3,"entry":104,"split":0,"start":184.0,"end":300.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:3_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Este chaval necesita atención médica."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_1
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["3_0_0","3_0_1"]
+#. y1:english="This boy needs some medical attention.\nCan you help us out?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":3,"entry":210,"split":0,"start":184.0,"end":300.0}],"english":[{"lang":"uk","section":3,"entry":104,"split":0,"start":184.0,"end":300.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:3_0_1
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:3_0_1"
+msgid "¿Puedes ayudarnos?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["4_0_0"]
+#. y1:english="Hey! Where are you going?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":4,"entry":211,"split":0,"start":327.0,"end":398.0}],"english":[{"lang":"uk","section":4,"entry":105,"split":0,"start":327.0,"end":398.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:4_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:4_0_0"
+msgid "iHey! ¿Adónde vas?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["5_0_0"]
+#. y1:english="Be quiet."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":5,"entry":212,"split":0,"start":398.0,"end":461.0}],"english":[{"lang":"uk","section":5,"entry":106,"split":0,"start":398.0,"end":461.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:5_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Quieto."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=6_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["6_0_0"]
+#. y1:english="Okay... let me see here."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":6,"entry":213,"split":0,"start":461.0,"end":541.0}],"english":[{"lang":"uk","section":6,"entry":107,"split":0,"start":461.0,"end":541.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:6_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Ok... Déjame ver."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=7_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["7_0_0","7_0_1"]
+#. y1:english="He said he had a stomachache\nand he just collapsed."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":7,"entry":214,"split":0,"start":551.0,"end":656.0}],"english":[{"lang":"uk","section":7,"entry":108,"split":0,"start":551.0,"end":656.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:7_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Dijo que le dolía el"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=7_0_1
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["7_0_0","7_0_1"]
+#. y1:english="He said he had a stomachache\nand he just collapsed."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":7,"entry":214,"split":0,"start":551.0,"end":656.0}],"english":[{"lang":"uk","section":7,"entry":108,"split":0,"start":551.0,"end":656.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:7_0_1
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:7_0_1"
+msgid "estómago y se desmayó."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=8_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["8_0_0"]
+#. y1:english="We don't have a second to lose."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":8,"entry":215,"split":0,"start":722.0,"end":778.0}],"english":[{"lang":"uk","section":8,"entry":109,"split":0,"start":722.0,"end":778.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:8_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:8_0_0"
+msgid "No hay tiempo que perder."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=9_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["9_0_0"]
+#. y1:english="He'll have to have emergency surgery."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":9,"entry":216,"split":0,"start":778.0,"end":824.0}],"english":[{"lang":"uk","section":9,"entry":110,"split":0,"start":778.0,"end":824.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:9_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Tenemos que operarlo de urgencia."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=10_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["10_0_0"]
+#. y1:english="What? You mean cut him open?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":10,"entry":217,"split":0,"start":824.0,"end":899.0}],"english":[{"lang":"uk","section":10,"entry":111,"split":0,"start":824.0,"end":899.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:10_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:10_0_0"
+msgid "¿Qué? ¿Te refieres a abrirlo?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=11_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["11_0_0"]
+#. y1:english="Hey! What about him?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":11,"entry":218,"split":0,"start":899.0,"end":984.0}],"english":[{"lang":"uk","section":11,"entry":112,"split":0,"start":899.0,"end":984.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:11_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:11_0_0"
+msgid "iAy! ¿Qué pasa con él?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=12_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["12_0_0"]
+#. y1:english="Hey!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":12,"entry":219,"split":0,"start":984.0,"end":1024.0}],"english":[{"lang":"uk","section":12,"entry":113,"split":0,"start":984.0,"end":1024.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:12_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:12_0_0"
+msgid "iAy!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=13_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["13_0_0"]
+#. y1:english="Hey! Ali!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":13,"entry":220,"split":0,"start":1024.0,"end":1080.0}],"english":[{"lang":"uk","section":13,"entry":114,"split":0,"start":1024.0,"end":1080.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:13_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:13_0_0"
+msgid "iHey! iAli!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=14_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["14_0_0"]
+#. y1:english="You okay?!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":14,"entry":221,"split":0,"start":1080.0,"end":1112.0}],"english":[{"lang":"uk","section":14,"entry":115,"split":0,"start":1080.0,"end":1112.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:14_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:14_0_0"
+msgid "i¿Estás bien?!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=15_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["15_0_0"]
+#. y1:english="The doctor is unfair! He's a racist!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":15,"entry":222,"split":0,"start":1112.0,"end":1218.0}],"english":[{"lang":"uk","section":15,"entry":116,"split":0,"start":1112.0,"end":1218.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:15_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:15_0_0"
+msgid "iEl médico no es justo! iEs un racista!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=16_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["16_0_0"]
+#. y1:english="What?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":16,"entry":223,"split":0,"start":1218.0,"end":1240.0}],"english":[{"lang":"uk","section":16,"entry":117,"split":0,"start":1218.0,"end":1240.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:16_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:16_0_0"
+msgid "¿Qué?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=17_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["17_0_0"]
+#. y1:english="They came after we did,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":17,"entry":224,"split":0,"start":1240.0,"end":1293.0}],"english":[{"lang":"uk","section":17,"entry":118,"split":0,"start":1240.0,"end":1293.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:17_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Llegaron después de nosotros,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=18_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["18_0_0"]
+#. y1:english="but they are getting treated first!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":18,"entry":225,"split":0,"start":1293.0,"end":1346.0}],"english":[{"lang":"uk","section":18,"entry":119,"split":0,"start":1293.0,"end":1346.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:18_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:18_0_0"
+msgid "ipero los atienden primero!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=19_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["19_0_0"]
+#. y1:english="The doctor just ignored Ali!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":19,"entry":226,"split":0,"start":1346.0,"end":1431.0}],"english":[{"lang":"uk","section":19,"entry":120,"split":0,"start":1346.0,"end":1431.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:19_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:19_0_0"
+msgid "iEl médico ha hecho caso omiso de Ali!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=20_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["20_0_0"]
+#. y1:english="Ali!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":20,"entry":227,"split":0,"start":1448.0,"end":1477.0}],"english":[{"lang":"uk","section":20,"entry":121,"split":0,"start":1448.0,"end":1477.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:20_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:20_0_0"
+msgid "iAli!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=21_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["21_0_0"]
+#. y1:english="Aliiii!!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":21,"entry":228,"split":0,"start":1477.0,"end":1516.0}],"english":[{"lang":"uk","section":21,"entry":122,"split":0,"start":1477.0,"end":1516.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:21_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:21_0_0"
+msgid "iAliiii!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=22_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["22_0_0"]
+#. y1:english="Shit!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":22,"entry":229,"split":0,"start":1516.0,"end":1573.0}],"english":[{"lang":"uk","section":22,"entry":123,"split":0,"start":1516.0,"end":1573.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:22_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:22_0_0"
+msgid "iMierda!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=23_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["23_0_0"]
+#. y1:english="Can't you see I'm operating!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":23,"entry":230,"split":0,"start":1700.0,"end":1767.0}],"english":[{"lang":"uk","section":23,"entry":124,"split":0,"start":1700.0,"end":1767.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:23_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:23_0_0"
+msgid "iEs que no ves que estoy operando!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=24_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["24_0_0"]
+#. y1:english="Get outta here!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":24,"entry":231,"split":0,"start":1767.0,"end":1821.0}],"english":[{"lang":"uk","section":24,"entry":125,"split":0,"start":1767.0,"end":1821.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:24_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Lárgate de aquí."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=25_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["25_0_0"]
+#. y1:english="You..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":25,"entry":232,"split":0,"start":1832.0,"end":1888.0}],"english":[{"lang":"uk","section":25,"entry":126,"split":0,"start":1832.0,"end":1888.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:25_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Tú..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=26_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["26_0_0"]
+#. y1:english="You let my brother die!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":26,"entry":233,"split":0,"start":1896.0,"end":1978.0}],"english":[{"lang":"uk","section":26,"entry":127,"split":0,"start":1896.0,"end":1978.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:26_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:26_0_0"
+msgid "iHas dejado morir a mi hermano!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=27_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["27_0_0"]
+#. y1:english="You're gonna pay for that!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":27,"entry":234,"split":0,"start":1993.0,"end":2038.0}],"english":[{"lang":"uk","section":27,"entry":128,"split":0,"start":1993.0,"end":2038.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:27_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:27_0_0"
+msgid "iVas a pagar por eso!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=28_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["28_0_0"]
+#. y1:english="Shut up, and get out!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":28,"entry":235,"split":0,"start":2038.0,"end":2105.0}],"english":[{"lang":"uk","section":28,"entry":129,"split":0,"start":2038.0,"end":2105.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:28_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:28_0_0"
+msgid "iCállate, y lárgate!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=29_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["29_0_0"]
+#. y1:english="Fuck you!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":29,"entry":236,"split":0,"start":2105.0,"end":2143.0}],"english":[{"lang":"uk","section":29,"entry":130,"split":0,"start":2105.0,"end":2143.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:29_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:29_0_0"
+msgid "iQue te jodan!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=30_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["30_0_0","30_0_1","31_0_0"]
+#. y1:english="My brother is dead.\nI'm gonna fucking...\nkill you!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":30,"entry":237,"split":0,"start":2143.0,"end":2260.0}],"english":[{"lang":"uk","section":30,"entry":131,"split":0,"start":2143.0,"end":2206.0},{"lang":"uk","section":31,"entry":132,"split":0,"start":2206.0,"end":2260.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:30_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Mi hermano está muerto. iVoy a matarte!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=31_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["32_0_0"]
+#. y1:english="If you kill him, you kill the kid, too."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":31,"entry":238,"split":0,"start":2263.0,"end":2352.0}],"english":[{"lang":"uk","section":32,"entry":133,"split":0,"start":2263.0,"end":2352.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:31_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Si lo matas, también"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=31_0_1
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["32_0_0"]
+#. y1:english="If you kill him, you kill the kid, too."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":31,"entry":238,"split":0,"start":2263.0,"end":2352.0}],"english":[{"lang":"uk","section":32,"entry":133,"split":0,"start":2263.0,"end":2352.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:31_0_1
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:31_0_1"
+msgid "matas al chaval."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=32_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["33_0_0"]
+#. y1:english="That's not gonna happen."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":32,"entry":239,"split":0,"start":2352.0,"end":2419.0}],"english":[{"lang":"uk","section":33,"entry":134,"split":0,"start":2352.0,"end":2419.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:32_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Pelearé contigo si quieres."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=33_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["34_0_0"]
+#. y1:english="Okay,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":33,"entry":240,"split":0,"start":2419.0,"end":2444.0}],"english":[{"lang":"uk","section":34,"entry":135,"split":0,"start":2419.0,"end":2444.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:33_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:33_0_0"
+msgid "OK,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=34_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["35_0_0","35_0_1"]
+#. y1:english="if that's what you want,\nI'll kill you, too!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":34,"entry":241,"split":0,"start":2444.0,"end":2536.0}],"english":[{"lang":"uk","section":35,"entry":136,"split":0,"start":2444.0,"end":2536.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:34_0_0
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:34_0_0"
+msgid "iSi es eso lo que quieres,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=34_0_1
+#. y1:english_source=MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["35_0_0","35_0_1"]
+#. y1:english="if that's what you want,\nI'll kill you, too!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":34,"entry":241,"split":0,"start":2444.0,"end":2536.0}],"english":[{"lang":"uk","section":35,"entry":136,"split":0,"start":2444.0,"end":2536.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN:34_0_1
+msgctxt "MEDIA2/AUTHOR/SUB05/AUTH_SUB05_002.DAT/1___FILE.BIN::line:34_0_1"
+msgid "te mataré a ti también!"
+msgstr ""

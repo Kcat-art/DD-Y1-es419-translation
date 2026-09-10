@@ -1,0 +1,466 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Cancel"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_0_0"
+msgid "Cancelar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Payment"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_1_0"
+msgid "Pago"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="Market Value"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_2_0"
+msgid "Precio de venta"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="/"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="Seems like you don't have enough money.||Come again, okay?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_4_0"
+msgid "Parece que no tienes suficiente dinero.||Vuelve otro día, ¿vale?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_5_0"]
+#. y1:english="Thanks.||That'll be {NU:02_08_00}00000000 yen."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_5_0"
+msgid "Gracias.||Serán {NU:02_08_00}00000000 yenes."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_6_0"]
+#. y1:english="Did you need anything else?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_6_0"
+msgid "¿Necesita algo más?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_7_0"]
+#. y1:english="You've got a lot of stuff there.||Won't you sort your things out?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_7_0"
+msgid "Llevas un montón de cosas.||¿Por qué no ordenas un poco tu inventario?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_8_0"]
+#. y1:english="ten"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_8_0"
+msgid "ten"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_9_0"]
+#. y1:english="honn"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_9_0"
+msgid "honn"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_10_0"]
+#. y1:english="ko"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_10_0"
+msgid "ko"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_11_0"]
+#. y1:english="huri"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_11_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_11_0"
+msgid "huri"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=0_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["0_12_0"]
+#. y1:english="tyou"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:0_12_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:0_12_0"
+msgid "tyou"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Tonfa"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_0_0"
+msgid "Tonfa"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="Tactical Baton"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_1_0"
+msgid "Bastón Táctico"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="Survival Knife"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_2_0"
+msgid "Cuchillo Militar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_3_0"]
+#. y1:english="Blackjack"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_3_0"
+msgid "Blackjack"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_4_0"]
+#. y1:english="Stun Gun"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_4_0"
+msgid "Pistola Aturdidora"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_5_0"]
+#. y1:english="Brass Knuckles"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_5_0"
+msgid "Nudillos Metálicos"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_6_0"]
+#. y1:english="Mace"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_6_0"
+msgid "Spray Personal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_7_0"]
+#. y1:english="Chinese Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_7_0"
+msgid "Espada China"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_8_0"]
+#. y1:english="Lightning Bomb"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_8_0"
+msgid "Bomba Incendiaria"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_9_0"]
+#. y1:english="Handmade Pistol"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_9_0"
+msgid "Pistola Automática"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=1_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["1_10_0"]
+#. y1:english="Bulletproof Shield"
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:1_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:1_10_0"
+msgid "Escudo Antibalas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Tonfa. American police use them too.||They do much more damage than bare hands."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_0_0"
+msgid "Tonfa. La policía americana también los usa.||Hace más daño que las manos desnudas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="A tactical baton. It's a striking weapon.||Easy to handle since it folds up compactly."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_1_0"
+msgid "Un bastón táctico. Es un arma contundente.||es fácil de manejar porque se puede plegar."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="A military survival knife.||It looks like it was really made for combat."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_2_0"
+msgid "Una navaja militar del ejército.||Parece pensado para el combate."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="A blackjack. It deals damage without||leaving any bruises."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_3_0"
+msgid "Una cachiporra, también conocida como||Blackjack. Puede golpear sin dejar marcas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_4_0"]
+#. y1:english="A stun gun. It renders the enemy powerless||with high voltage electricity."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_4_0"
+msgid "Una pistola aturdidora. Deja al enemigo||impotente con electricidad de alto voltaje."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_5_0"]
+#. y1:english="Brass knuckles.||You can swing a good punch even with {IC:00_00}➿."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_5_0"
+msgid "Nudillos metálicos. Tienes que acostumbrarte.||Puedes asestar un puñetazo con {IC:00_00}➿."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_6_0"]
+#. y1:english="Mace. Self-defence gear that'll temporarily||blind whomever it's sprayed at."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_6_0"
+msgid "Spray de defensa personal. Defensa propia,||cegando temporalmente a quien se aplique."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_7_0"]
+#. y1:english="A typical Chinese sword.||I reckon it's easier to use than a dagger."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_7_0"
+msgid "Una típica espada china.||Creo que es más fácil de usar que una daga."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_8_0"]
+#. y1:english="An electric bomb. Think of it as the bomb||version of a stun gun."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_8_0"
+msgid "Una bomba eléctrica. Imagínatela como una||pistola aturdidora, pero en versión bomba."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_9_0"]
+#. y1:english="A handmade old type automatic pistol.||There's only one bullet in the chamber."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_9_0"
+msgid "Pistola automática de estilo antiguo hecha a||mano. Sólo tiene una bala en la recámara."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:type=line
+#. y1:id=2_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0046.BIN
+#. y1:english_ids=["2_10_0"]
+#. y1:english="A bulletproof shield? It's a compact type.||It becomes handy in this town."
+#: MEDIA/TALK/SHOP/TALK_SHOP0046.BIN:2_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0046.BIN::line:2_10_0"
+msgid "Escudo antibalas. De tipo compacto.||Creo que te será útil en muchas ocasiones."
+msgstr ""

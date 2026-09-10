@@ -1,0 +1,71 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Welcome... Oh!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":31,"split":0,"start":172.0,"end":225.0}],"english":[{"lang":"uk","section":0,"entry":19,"split":0,"start":172.0,"end":225.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN:0_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Bienvenido... ioh!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="It's been a long time..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":32,"split":0,"start":232.0,"end":277.0}],"english":[{"lang":"uk","section":1,"entry":20,"split":0,"start":232.0,"end":277.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN:1_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Hace mucho tiempo..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Reina."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":2,"entry":33,"split":0,"start":277.0,"end":319.0}],"english":[{"lang":"uk","section":2,"entry":21,"split":0,"start":277.0,"end":319.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN:2_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Reina."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["3_0_0"]
+#. y1:english="Kazuma-chan!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":3,"entry":34,"split":0,"start":338.0,"end":395.0}],"english":[{"lang":"uk","section":3,"entry":22,"split":0,"start":338.0,"end":395.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN:3_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_007.DAT/1___FILE.BIN::line:3_0_0"
+msgid "iKazuma-chan!"
+msgstr ""

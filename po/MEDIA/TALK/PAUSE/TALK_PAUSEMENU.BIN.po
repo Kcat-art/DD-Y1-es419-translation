@@ -1,0 +1,271 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Items"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:0_0_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:0_0_0"
+msgid "Objetos"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Map"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:0_1_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:0_1_0"
+msgid "Mapa"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="Power Up"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:0_2_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:0_2_0"
+msgid "Habilidades"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="Text Messages"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:0_3_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:0_3_0"
+msgid "Mensajes"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="Profiles"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:0_4_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:0_4_0"
+msgid "Perfiles"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=0_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["0_5_0"]
+#. y1:english="Missions"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:0_5_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:0_5_0"
+msgid "Misiones"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=0_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["0_6_0"]
+#. y1:english="Settings"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:0_6_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:0_6_0"
+msgid "Configuración"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="You can use items you have||and change equipment."
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:1_0_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:1_0_0"
+msgid "Puedes utilizar objetos que ya tienes||y cambiar de equipación."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="You can view a map of the town||and check the names of streets and shops using zoom."
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:1_1_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:1_1_0"
+msgid "Puedes ver el mapa de la ciudad y consultar||nombres de calles y tiendas con el zoom."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="You can enhance Kazuma's abilities||using experience points you have gained."
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:1_2_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:1_2_0"
+msgid "Puedes mejorar las habilidades de Kazuma con||los puntos de experiencia que hayas obtenido."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=1_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["1_3_0"]
+#. y1:english="You can check text messages||received on your cell phone."
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:1_3_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:1_3_0"
+msgid "Puedes consultar los mensajes de texto||que hayas recibido en tu teléfono móvil."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=1_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["1_4_0"]
+#. y1:english="You can check the characters' profiles."
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:1_4_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:1_4_0"
+msgid "Puedes consultar los perfiles."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=1_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["1_5_0"]
+#. y1:english="You can check the details on current missions||and encountered sub scenarios."
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:1_5_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:1_5_0"
+msgid "Puedes consultar datos de misiones actuales||y subescenarios que hayas encontrado."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=1_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["1_6_0"]
+#. y1:english="You can set various configurations, including||the audio, video, and vibration."
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:1_6_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:1_6_0"
+msgid "Puedes configurar varios ajustes,||incluidos sonido, imagen y vibración."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="You can enhance your||abilities. Press {IC:00_03}➿"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:2_0_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:2_0_0"
+msgid "Mejora habilidades.||Pulsa {IC:00_03}➿"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="Money"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:2_1_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:2_1_0"
+msgid "Dinero"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="Roundhouse Kick! {IC:00_03}➿"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:2_2_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:2_2_0"
+msgid "Has adquirido||Patada Giratoria {IC:00_03}➿."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="You cannot select this item at this point."
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:2_3_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:2_3_0"
+msgid "En este momento no puedes seleccionar este objeto."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["3_0_0"]
+#. y1:english="There are no text messages."
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:3_0_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:3_0_0"
+msgid "No hay mensajes de texto."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN
+#. y1:english_ids=["4_0_0"]
+#. y1:english="No Map"
+#: MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN:4_0_0
+msgctxt "MEDIA/TALK/PAUSE/TALK_PAUSEMENU.BIN::line:4_0_0"
+msgid "No hay Mapa."
+msgstr ""

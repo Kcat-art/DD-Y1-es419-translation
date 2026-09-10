@@ -1,0 +1,570 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Cancel"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:0_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:0_0_0"
+msgid "Cancelar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Payment"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:0_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:0_1_0"
+msgid "Pago"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="Market Value"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:0_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:0_2_0"
+msgid "Precio de venta"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="/"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:0_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="Excuse me, Sir.||You don't have enough money."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:0_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:0_4_0"
+msgid "Lo siento, señor.||No tiene suficiente dinero."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=0_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["0_5_0"]
+#. y1:english="Yes, of course.||That comes to {NU:02_08_00}00000000 yen."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:0_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:0_5_0"
+msgid "Sí, por supuesto.||Serán {NU:02_08_00}00000000 yenes."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=0_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["0_6_0"]
+#. y1:english="Would you like anything else to drink?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:0_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:0_6_0"
+msgid "¿Querría tomar alguna cosa más?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=0_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["0_7_0"]
+#. y1:english="Sir, you can't carry any more items.||Won't you rearrange your things?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:0_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:0_7_0"
+msgid "Señor, no puede llevar más objetos.||¿Por qué no reordena sus pertenencias?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=0_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["0_8_0"]
+#. y1:english="hai"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:0_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:0_8_0"
+msgid "hai"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Bowmore 40 Years"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_0_0"
+msgid "Bowmore 40 Years"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="Yamazaki 12 Years"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_1_0"
+msgid "Yamazaki 12 Years"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="Hakushu 10 Years"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_2_0"
+msgid "Hakushu 10 Years"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_3_0"]
+#. y1:english="The Macallan 12 Years"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_3_0"
+msgid "The Macallan 12 Years"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_4_0"]
+#. y1:english="Laphroaig 15 Years"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_4_0"
+msgid "Laphro Aig 15 Years"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_5_0"]
+#. y1:english="Bowmore 12 Years"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_5_0"
+msgid "Bowmore 12 Years"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_6_0"]
+#. y1:english="Glenfiddich 12 Years"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_6_0"
+msgid "Glenfiddich 12 Years"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_7_0"]
+#. y1:english="NAZO 2003"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_7_0"
+msgid "NAZO 2003"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_8_0"]
+#. y1:english="Ballantine's 17 Years Old"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_8_0"
+msgid "Ballantine's 17 Years Old"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_9_0"]
+#. y1:english="Ballantine's Finest"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_9_0"
+msgid "Ballantine's Finest"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_10_0"]
+#. y1:english="Jack Daniel's"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_10_0"
+msgid "Jack Daniel's"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_11_0"]
+#. y1:english="Early Times"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_11_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_11_0"
+msgid "Early Times"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_12_0"]
+#. y1:english="Courvoisier XO"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_12_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_12_0"
+msgid "Courvoisier XO"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_13_0"]
+#. y1:english="Suntory Malt's Beer"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_13_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_13_0"
+msgid "Suntory Malt's Beer"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_14_0"]
+#. y1:english="Carlsberg"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_14_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_14_0"
+msgid "Carlsberg"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_15_0"]
+#. y1:english="Lemon Hart Demerara"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_15_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_15_0"
+msgid "Lemon Hart Demerara"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=1_16_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["1_16_0"]
+#. y1:english="Herradura Tequila Silver"
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:1_16_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:1_16_0"
+msgid "Herradura Tequila Silver"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="It's single malt Scotch, Bowmore 40 Years."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_0_0"
+msgid "Es single malt Scotch Bowmore 40 Years."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="It's single malt Scotch, Yamazaki 12 Years."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_1_0"
+msgid "Es single malt Scotch, Yamazaki 12 Years."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="It's single malt Scotch, Hakushu 10 Years."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_2_0"
+msgid "Es single malt Scotch||HAKUSHU de 10 AÑOS."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="It's single malt Scotch, The Macallan 12 Years."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_3_0"
+msgid "Es single malt Scotch||THE MACALLAN de 12 AÑOS."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_4_0"]
+#. y1:english="It's single malt Scotch, Laphroaig 15 Years."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_4_0"
+msgid "Es single malt Scotch, Laphroaig 15 Years."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_5_0"]
+#. y1:english="It's single malt Scotch, Bowmore 12 Years."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_5_0"
+msgid "Es single malt Scotch, Bowmore 12 Years."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_6_0"]
+#. y1:english="It's single malt Scotch,||Glenfiddich 12 Years."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_6_0"
+msgid "Es single malt Scotch, Glenfiddich 12 Years."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_7_0"]
+#. y1:english="It's Scotch whisky, NAZO 2003."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_7_0"
+msgid "Es whisky Scotch||NAZO 2003."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_8_0"]
+#. y1:english="It's Scotch whisky,||Ballantine's 17 Years Old."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_8_0"
+msgid "Es whisky Scotch, Ballantine's 17 Years Old."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_9_0"]
+#. y1:english="It's Scotch whisky, Ballantine's Finest."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_9_0"
+msgid "Es whisky Scotch, Ballantine's Finest."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_10_0"]
+#. y1:english="It's bourbon, Jack Daniel's."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_10_0"
+msgid "Es bourbon, Jack Daniel's."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_11_0"]
+#. y1:english="It's bourbon, Early Times."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_11_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_11_0"
+msgid "Es bourbon, Early Times."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_12_0"]
+#. y1:english="It's brandy, Courvoisier XO."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_12_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_12_0"
+msgid "Es brandy||COURVOISIER XO."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_13_0"]
+#. y1:english="It's beer, Suntory Malt's Beer."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_13_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_13_0"
+msgid "Es cerveza, Suntory Malt's Beer."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_14_0"]
+#. y1:english="It's beer, Carlsberg."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_14_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_14_0"
+msgid "Es cerveza, Carlsberg."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_15_0"]
+#. y1:english="It's rum, Lemon Hart Demerara."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_15_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_15_0"
+msgid "Es ron, Lemon Hart Demerara."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:type=line
+#. y1:id=2_16_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0040.BIN
+#. y1:english_ids=["2_16_0"]
+#. y1:english="It's tequila, Herradura Tequila Silver."
+#: MEDIA/TALK/SHOP/TALK_SHOP0040.BIN:2_16_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0040.BIN::line:2_16_0"
+msgid "Es tequila, Herradura Tequila Silver."
+msgstr ""

@@ -1,0 +1,102 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="0123456789+-円万億¥,枚点"
+#: MEDIA/STGTALK/GER/ST_KAB0060.BIN:0_0_0
+msgctxt "MEDIA/STGTALK/GER/ST_KAB0060.BIN::line:0_0_0"
+msgid "0123456789+-円万億¥,枚点"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Exp: {NU:02_08_00}00000000"
+#: MEDIA/STGTALK/GER/ST_KAB0060.BIN:0_1_0
+msgctxt "MEDIA/STGTALK/GER/ST_KAB0060.BIN::line:0_1_0"
+msgid "Exp: {NU:02_08_00}00000000"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="You got a HP Supplement."
+#: MEDIA/STGTALK/GER/ST_KAB0060.BIN:0_2_0
+msgctxt "MEDIA/STGTALK/GER/ST_KAB0060.BIN::line:0_2_0"
+msgid "Has obtenido un Suplemento de PV."
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="You cannot carry any more items.||Sending it to the Item Box."
+#: MEDIA/STGTALK/GER/ST_KAB0060.BIN:0_3_0
+msgctxt "MEDIA/STGTALK/GER/ST_KAB0060.BIN::line:0_3_0"
+msgid "No puedes llevar más objetos.||Se enviarán al Inventario."
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="You cannot carry any more items."
+#: MEDIA/STGTALK/GER/ST_KAB0060.BIN:0_4_0
+msgctxt "MEDIA/STGTALK/GER/ST_KAB0060.BIN::line:0_4_0"
+msgid "No puedes llevar más objetos."
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Haruka's Trust"
+#: MEDIA/STGTALK/GER/ST_KAB0060.BIN:1_0_0
+msgctxt "MEDIA/STGTALK/GER/ST_KAB0060.BIN::line:1_0_0"
+msgid "Conf de Haruka"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/GER/ST_KAB0060.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Bantam"
+#: MEDIA/STGTALK/GER/ST_KAB0060.BIN:2_0_0
+msgctxt "MEDIA/STGTALK/GER/ST_KAB0060.BIN::line:2_0_0"
+msgid "Bantam"
+msgstr ""

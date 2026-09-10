@@ -1,0 +1,635 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="{IC:00_01}➿: Cancel"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:0_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_0_0"
+msgid "{IC:00_01}➿: OK"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="{IC:01_03}➿: OK"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:0_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_1_0"
+msgid "{IC:01_03}➿: Cancelar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="{IC:02_0f}➿: Change Bet"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:0_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_2_0"
+msgid "{IC:02_0f}➿: Re-apostar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="{IC:03_07}➿: Move Table||    to Right"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:0_3_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_3_0"
+msgid "{IC:03_07}➿: Mover Tabla||    a la Der"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="{IC:04_09}➿: Move Table||    to Left"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:0_4_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_4_0"
+msgid "{IC:04_09}➿: Mover Tabla||    a la Izq"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=0_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["0_5_0"]
+#. y1:english="START button: Directions"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:0_5_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_5_0"
+msgid "botón START: Instrucciones"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=0_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["0_6_0"]
+#. y1:english="SELECT button: Quit"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:0_6_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_6_0"
+msgid "botón SELECT: Salir"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Place your bet."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:1_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:1_0_0"
+msgid "Haz tu apuesta."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="No more bets."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:1_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:1_1_0"
+msgid "Ya no se pueden hacer más apuestas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Bets on red,||winning bets will be doubled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_0_0"
+msgid "Apuesta al rojo tu,||apuesta se duplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="Bets on black,||winning bets will be doubled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_1_0"
+msgid "Apuesta al negro, tu||apuesta se duplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="Bets on even,||winning bets will be doubled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_2_0"
+msgid "Apuesta a los pares,tu||apuesta se duplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="Bets on odd,||winning bets will be doubled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_3_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_3_0"
+msgid "Apuesta a los impares tu,||apuesta se duplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_4_0"]
+#. y1:english="Bets on 1-18,||winning bets will be doubled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_4_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_4_0"
+msgid "Apuesta a los números 1-18, tu||apuesta se duplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_5_0"]
+#. y1:english="Bets on 19-36,||winning bets will be doubled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_5_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_5_0"
+msgid "Apuesta a los números 19-36, tu||apuesta se duplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_6_0"]
+#. y1:english="Bets on 1-12,||winning bets will be tripled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_6_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_6_0"
+msgid "Apuesta a los números 1-12 tu,||apuesta se triplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_7_0"]
+#. y1:english="Bets on 13-24,||winning bets will be tripled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_7_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_7_0"
+msgid "Apuesta a los números 13-24, tu||apuesta se triplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_8_0"]
+#. y1:english="Bets on 25-36,||winning bets will be tripled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_8_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_8_0"
+msgid "Apuesta a los números 25-36, tu||apuesta se triplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_9_0"]
+#. y1:english="Bets on left column,||winning bets will be tripled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_9_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_9_0"
+msgid "Apuesta en columna izq, tu||apuesta se triplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_10_0"]
+#. y1:english="Bets on centre column,||winning bets will be tripled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_10_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_10_0"
+msgid "Apuesta en columna central, tu||apuesta se triplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_11_0"]
+#. y1:english="Bets on right column,||winning bets will be tripled."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_11_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_11_0"
+msgid "Apuesta en columna derecha tu,||apuesta se triplica si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_12_0"]
+#. y1:english="Bets on six numbers, winning||bets will be multiplied by 6."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_12_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_12_0"
+msgid "Apuesta en seis números tu,||apuesta por 6 si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_13_0"]
+#. y1:english="Bets on four numbers, winning||bets will be multiplied by 9."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_13_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_13_0"
+msgid "Apuesta en cuatro números, tu||apuesta por 9 si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_14_0"]
+#. y1:english="Bets on three numbers, winning||bets will be multiplied by 12."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_14_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_14_0"
+msgid "Apuesta en tres números, tu||apuesta por 12 si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_15_0"]
+#. y1:english="Bets on two numbers, winning||bets will be multiplied by 18."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_15_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_15_0"
+msgid "Apuesta en dos números, tu||apuesta por 18 si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=2_16_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["2_16_0"]
+#. y1:english="Bets on one number, winning||bets will be multiplied by 36."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:2_16_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_16_0"
+msgid "Apuesta en un número, tu||apuesta por 36 si ganas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["3_0_0"]
+#. y1:english="Decide how many chips to bet."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:3_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:3_0_0"
+msgid "Decide cuántas fichas quieres apostar."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=3_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["3_1_0"]
+#. y1:english="You have already put your chips down."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:3_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:3_1_0"
+msgid "Ya has colocado tus fichas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=3_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["3_2_0"]
+#. y1:english="Bet again."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:3_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:3_2_0"
+msgid "Volver a apostar."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["4_0_0"]
+#. y1:english="Are you finished betting?"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:4_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:4_0_0"
+msgid "¿Has acabado de apostar?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=4_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["4_1_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:4_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:4_1_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=4_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["4_2_0"]
+#. y1:english="No"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:4_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:4_2_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["5_0_0"]
+#. y1:english="Time is up."
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:5_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:5_0_0"
+msgid "Se ha acabado el tiempo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=6_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["6_0_0"]
+#. y1:english="Continue?"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:6_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:6_0_0"
+msgid "¿Quieres continuar?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=6_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["6_1_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:6_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:6_1_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=6_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["6_2_0"]
+#. y1:english="No"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:6_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:6_2_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=7_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["7_0_0"]
+#. y1:english="BET"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:7_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_0_0"
+msgid "APUESTA"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=7_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["7_1_0"]
+#. y1:english="WIN"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:7_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_1_0"
+msgid "GANADO"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=7_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["7_2_0"]
+#. y1:english="Total"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:7_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_2_0"
+msgid "Total"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=7_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["7_3_0"]
+#. y1:english="MIN"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:7_3_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_3_0"
+msgid "MÍN"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=7_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["7_4_0"]
+#. y1:english="MAX"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:7_4_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_4_0"
+msgid "MÁX"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=8_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["8_0_0"]
+#. y1:english="Quit?"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:8_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:8_0_0"
+msgid "¿Salir?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=8_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["8_1_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:8_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:8_1_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=8_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["8_2_0"]
+#. y1:english="No"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:8_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:8_2_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=9_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["9_0_0"]
+#. y1:english="YOU WIN"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:9_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:9_0_0"
+msgid "HAS GANADO"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=9_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["9_1_0"]
+#. y1:english="YOU LOSE"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:9_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:9_1_0"
+msgid "HAS PERDIDO"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=9_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["9_2_0"]
+#. y1:english="DRAW"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:9_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:9_2_0"
+msgid "EMPATE"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:type=line
+#. y1:id=9_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN
+#. y1:english_ids=["9_3_0"]
+#. y1:english="TIME"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN:9_3_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:9_3_0"
+msgid "TIEMPO"
+msgstr ""

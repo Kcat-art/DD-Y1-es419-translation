@@ -1,0 +1,245 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Medals"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:0_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:0_0_0"
+msgid "Fichas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Machine Number"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:0_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:0_1_0"
+msgid "Número de Máquina"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Finish"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_0_0"
+msgid "Terminar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="{IC:00_0c}➿: Lever"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_1_0"
+msgid "{IC:00_0c}➿: Palanca"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="left||analog stick:    ||    Glance"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_2_0"
+msgid "joystick||analógico||izquierdo: Ojeada"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_3_0"]
+#. y1:english="{IC:01_07}➿: Insert a Medal"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_3_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_3_0"
+msgid "{IC:01_07}➿: Insertar Ficha"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_4_0"]
+#. y1:english="{IC:02_08}➿: Maximum Bet"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_4_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_4_0"
+msgid "{IC:02_08}➿: Apuesta Máxima"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_5_0"]
+#. y1:english="{IC:03_02}➿: Stop Left Reel"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_5_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_5_0"
+msgid "{IC:03_02}➿: Parar Carrete I"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_6_0"]
+#. y1:english="{IC:04_00}➿: Stop Right Reel"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_6_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_6_0"
+msgid "{IC:04_00}➿: Parar Carrete D"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_7_0"]
+#. y1:english="{IC:05_03}➿: Stop Centre Reel"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_7_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_7_0"
+msgid "{IC:05_03}➿: Parar Carrete C"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_8_0"]
+#. y1:english="START button: Directions"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_8_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_8_0"
+msgid "botón START: Instrucciones"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_9_0"]
+#. y1:english="SELECT button: Quit"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_9_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_9_0"
+msgid "botón SELECT: Salir"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_10_0"]
+#. y1:english="{IC:06_09}➿: Bet 1 Medal"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_10_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_10_0"
+msgid "{IC:06_09}➿: Meter 1 Ficha"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=1_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["1_11_0"]
+#. y1:english="{IC:07_0a}➿: Bet 2 Medals"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:1_11_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_11_0"
+msgid "{IC:07_0a}➿: Meter 2 Fichas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Quit?"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:2_0_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:2_0_0"
+msgid "¿Salir?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:2_1_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:2_1_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="No"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:2_2_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:2_2_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="Buy 50 medals?"
+#: MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN:2_3_0
+msgctxt "MEDIA/TALK/MINIGAME/TALK_MGAME_PSLOT.BIN::line:2_3_0"
+msgid "¿Comprar 50 fichas?"
+msgstr ""

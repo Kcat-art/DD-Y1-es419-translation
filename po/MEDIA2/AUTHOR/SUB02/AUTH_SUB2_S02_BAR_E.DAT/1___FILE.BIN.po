@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1"]
+#. y1:english="Don't hold back.\nHere's to a dirty night..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":22,"split":0,"start":309.0,"end":398.0}],"english":[{"lang":"uk","section":0,"entry":16,"split":0,"start":309.0,"end":398.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN:0_0_0
+msgctxt "MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN::line:0_0_0"
+msgid "No te controles. Aquí empieza"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_1
+#. y1:english_source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1"]
+#. y1:english="Don't hold back.\nHere's to a dirty night..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":22,"split":0,"start":309.0,"end":398.0}],"english":[{"lang":"uk","section":0,"entry":16,"split":0,"start":309.0,"end":398.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN:0_0_1
+msgctxt "MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN::line:0_0_1"
+msgid "una noche sucia,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="for the two of us!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":23,"split":0,"start":398.0,"end":488.0}],"english":[{"lang":"uk","section":1,"entry":17,"split":0,"start":398.0,"end":488.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN:1_0_0
+msgctxt "MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN::line:1_0_0"
+msgid "entre los dos."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","2_0_0","2_1_0"]
+#. y1:english="Don't hold back.\nHere's to a dirty night...\nfor the two of
+#. us!\nCheers.\nI don't feel like drinking right now."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN:2_0_0
+msgctxt "MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Salud."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","2_0_0","2_1_0"]
+#. y1:english="Don't hold back.\nHere's to a dirty night...\nfor the two of
+#. us!\nCheers.\nI don't feel like drinking right now."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN:2_1_0
+msgctxt "MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S02_BAR_E.DAT/1___FILE.BIN::line:2_1_0"
+msgid "Ahora no me apetece beber."
+msgstr ""

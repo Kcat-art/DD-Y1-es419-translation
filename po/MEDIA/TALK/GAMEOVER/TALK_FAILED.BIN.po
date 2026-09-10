@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/GAMEOVER/TALK_FAILED.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=unpaired
+#. y1:status=missing_en
+#. y1:english_source=MEDIA/TALK/GAMEOVER/TALK_FAILED.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english=""
+#: MEDIA/TALK/GAMEOVER/TALK_FAILED.BIN:0_0_0
+msgctxt "MEDIA/TALK/GAMEOVER/TALK_FAILED.BIN::line:0_0_0"
+msgid "MISIÓN FALLIDA"
+msgstr ""

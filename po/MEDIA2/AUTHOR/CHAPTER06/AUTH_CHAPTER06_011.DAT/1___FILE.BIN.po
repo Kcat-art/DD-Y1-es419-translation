@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Mister, why?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":39,"split":0,"start":6.0,"end":68.0}],"english":[{"lang":"uk","section":0,"entry":21,"split":0,"start":6.0,"end":68.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN:0_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Señor... ¿por qué...?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Why are the bad men out to get me?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":40,"split":0,"start":79.0,"end":164.0}],"english":[{"lang":"uk","section":1,"entry":22,"split":0,"start":79.0,"end":164.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN:1_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN::line:1_0_0"
+msgid "¿Por qué me quieren los malos?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Why..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":2,"entry":41,"split":0,"start":164.0,"end":189.0}],"english":[{"lang":"uk","section":2,"entry":23,"split":0,"start":164.0,"end":189.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN:2_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN::line:2_0_0"
+msgid "¿Por qué...?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["3_0_0"]
+#. y1:english="Please tell me!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":3,"entry":42,"split":0,"start":189.0,"end":244.0}],"english":[{"lang":"uk","section":3,"entry":24,"split":0,"start":189.0,"end":244.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN:3_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN::line:3_0_0"
+msgid "iDígamelo, por favor!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["4_0_0"]
+#. y1:english="I don't know..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":4,"entry":43,"split":0,"start":262.0,"end":313.0}],"english":[{"lang":"uk","section":4,"entry":25,"split":0,"start":262.0,"end":313.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN:4_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN::line:4_0_0"
+msgid "No lo sé..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["5_0_0"]
+#. y1:english="Not yet, at least..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":5,"entry":44,"split":0,"start":323.0,"end":392.0}],"english":[{"lang":"uk","section":5,"entry":26,"split":0,"start":323.0,"end":392.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN:5_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER06/AUTH_CHAPTER06_011.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Aún no, al menos..."
+msgstr ""

@@ -1,0 +1,297 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Cancel"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_0_0"
+msgid "Cancelar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Payment"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_1_0"
+msgid "Pago"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="Market Value"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_2_0"
+msgid "Precio de venta"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="/"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="Excuse me, Sir.||You don't have enough money."
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_4_0"
+msgid "Lo siento, señor.||No tiene suficiente dinero."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_5_0"]
+#. y1:english="Yes, of course.||That'll be {NU:02_08_00}00000000 yen."
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_5_0"
+msgid "Sí, por supuesto.||Serán {NU:02_08_00}00000000 yenes."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_6_0"]
+#. y1:english="Will there be anything else?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_6_0"
+msgid "¿Desea algo más?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_7_0"]
+#. y1:english="You can't carry any more stuff.||Why don't you sort your things out?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_7_0"
+msgid "No puede llevar más objetos.||¿Por qué no ordena un poco su inventario?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_8_0"]
+#. y1:english="hai"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_8_0"
+msgid "hai"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=0_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["0_9_0"]
+#. y1:english="ko"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:0_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:0_9_0"
+msgid "ko"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Coffee of the Day"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:1_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:1_0_0"
+msgid "Café del Día"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="Cafe Mocha"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:1_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:1_1_0"
+msgid "Café Mocha"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="Cappuccino"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:1_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:1_2_0"
+msgid "Cappuccino"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=1_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["1_3_0"]
+#. y1:english="Caramel Cappuccino"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:1_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:1_3_0"
+msgid "Cappuccino al caramelo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=1_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["1_4_0"]
+#. y1:english="Mille Crepe Cake"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:1_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:1_4_0"
+msgid "Crep en Capas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=1_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["1_5_0"]
+#. y1:english="Mixed Juice"
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:1_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:1_5_0"
+msgid "Zumo Mixto"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Our house blend, which changes daily.||Today's blend has a Kilimanjaro base."
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:2_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:2_0_0"
+msgid "Nuestra mezcla original cambia diariamente.||La mezcla de hoy se basa en Kilimanjaro."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="Espresso coffee containing milk and||chocolate results in this sweet coffee."
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:2_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:2_1_0"
+msgid "Este café está compuesto por espresso||con leche y chocolate."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="Espresso coffee mixed with milk and||cinnamon powder."
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:2_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:2_2_0"
+msgid "Café espresso con leche y||canela en polvo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="Cappuccino and caramel syrup||have been mixed to make this coffee."
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:2_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:2_3_0"
+msgid "Para hacer este café se mezclan||capuccino y jarabe de caramelo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=2_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["2_4_0"]
+#. y1:english="Fresh cream and crepes were layered||many times over to form this cake."
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:2_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:2_4_0"
+msgid "Para hacer este pastel hacen falta||varias capas de nata y crepes."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:type=line
+#. y1:id=2_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0011.BIN
+#. y1:english_ids=["2_5_0"]
+#. y1:english="Many varieties of fruit were blended||to make this original juice."
+#: MEDIA/TALK/SHOP/TALK_SHOP0011.BIN:2_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0011.BIN::line:2_5_0"
+msgid "Para obtener este zumo tan original||hay que mezclar muchos tipos de fruta."
+msgstr ""

@@ -1,0 +1,2208 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Cancel"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_0_0"
+msgid "Cancelar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Payment"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_1_0"
+msgid "Pago"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="Market Value"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_2_0"
+msgid "Precio de venta"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="/"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="Hey pal, there's a bit of a problem.||You don't got enough money."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_4_0"
+msgid "Hey, tío, hay un pequeño problema.||No tienes suficiente dinero."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_5_0"]
+#. y1:english="Oh, you want that, don't you?||That'll be {NU:02_08_00}00000000 yen."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_5_0"
+msgid "Oh, así que quieres eso, ¿eh?||Te saldrá por {NU:02_08_00}00000000 yenes."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_6_0"]
+#. y1:english="Is there anything else you want?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_6_0"
+msgid "¿Quieres algo más?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_7_0"]
+#. y1:english="You got too much stuff on you, pal.||Go and sort your items out, will you?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_7_0"
+msgid "Llevas demasiadas cosas, tío.||Anda y organízate las cosas, ¿vale?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_8_0"]
+#. y1:english="ten"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_8_0"
+msgid "ten"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_9_0"]
+#. y1:english="honn"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_9_0"
+msgid "honn"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_10_0"]
+#. y1:english="ko"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_10_0"
+msgid "ko"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_11_0"]
+#. y1:english="huri"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_11_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_11_0"
+msgid "huri"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_12_0"]
+#. y1:english="tyou"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_12_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_12_0"
+msgid "tyou"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_13_0"]
+#. y1:english="tyaku"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_13_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_13_0"
+msgid "tyaku"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=0_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["0_14_0"]
+#. y1:english="mai"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:0_14_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:0_14_0"
+msgid "mai"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Staminan X"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_0_0"
+msgid "Staminan X"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="Staminan XX"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_1_0"
+msgid "Staminan XX"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="Staminan Royal"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_2_0"
+msgid "Staminan Royal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_3_0"]
+#. y1:english="Staminan Spark"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_3_0"
+msgid "Staminan Spark"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_4_0"]
+#. y1:english="Tauriner"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_4_0"
+msgid "Tauriner"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_5_0"]
+#. y1:english="Tauriner +"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_5_0"
+msgid "Tauriner +"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_6_0"]
+#. y1:english="Tauriner ++"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_6_0"
+msgid "Tauriner ++"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_7_0"]
+#. y1:english="Expensive Umbrella"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_7_0"
+msgid "Paraguas Caro"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_8_0"]
+#. y1:english="Gavel"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_8_0"
+msgid "Martillo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_9_0"]
+#. y1:english="Japanese Sake Bottle"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_9_0"
+msgid "Sake Japonés"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_10_0"]
+#. y1:english="Cedar Log"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_10_0"
+msgid "Tronco de Cedro"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_11_0"]
+#. y1:english="Darts"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_11_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_11_0"
+msgid "Dardos"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_12_0"]
+#. y1:english="Kettle"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_12_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_12_0"
+msgid "Tetera"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_13_0"]
+#. y1:english="Softball"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_13_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_13_0"
+msgid "Bola de Béisbol"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_14_0"]
+#. y1:english="Bug Spray"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_14_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_14_0"
+msgid "Spray Insecticida"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_15_0"]
+#. y1:english="Saw"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_15_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_15_0"
+msgid "Sierra"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_16_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_16_0"]
+#. y1:english="Men's Umbrella"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_16_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_16_0"
+msgid "Paraguas de Hombre"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_17_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_17_0"]
+#. y1:english="Rope"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_17_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_17_0"
+msgid "Cuerda"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_18_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_18_0"]
+#. y1:english="Butcher's Knife"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_18_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_18_0"
+msgid "Carnicero Chino"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_19_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_19_0"]
+#. y1:english="Thermos"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_19_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_19_0"
+msgid "Bote de Té"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_20_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_20_0"]
+#. y1:english="Pliers"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_20_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_20_0"
+msgid "Alicates"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_21_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_21_0"]
+#. y1:english="Bat"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_21_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_21_0"
+msgid "Bate"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_22_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_22_0"]
+#. y1:english="Lamp"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_22_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_22_0"
+msgid "Linterna"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_23_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_23_0"]
+#. y1:english="Golf Club"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_23_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_23_0"
+msgid "Palo de Golf"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_24_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_24_0"]
+#. y1:english="Crowbar"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_24_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_24_0"
+msgid "Palanca"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_25_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_25_0"]
+#. y1:english="Ashtray"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_25_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_25_0"
+msgid "Cenicero"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_26_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_26_0"]
+#. y1:english="Beer Bottle"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_26_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_26_0"
+msgid "Botella de Cerveza"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_27_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_27_0"]
+#. y1:english="Sledgehammer"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_27_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_27_0"
+msgid "Mazo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_28_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_28_0"]
+#. y1:english="Briefcase"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_28_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_28_0"
+msgid "Maletín"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_29_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_29_0"]
+#. y1:english="Table Salt"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_29_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_29_0"
+msgid "Sal de Mesa"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_30_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_30_0"]
+#. y1:english="Tactical Baton"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_30_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_30_0"
+msgid "Bastón Táctico"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_31_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_31_0"]
+#. y1:english="Brass Knuckles"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_31_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_31_0"
+msgid "Nudillos Metálicos"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_32_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_32_0"]
+#. y1:english="Doctored Lighter"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_32_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_32_0"
+msgid "Súper Encendedor"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_33_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_33_0"]
+#. y1:english="Blackjack"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_33_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_33_0"
+msgid "Blackjack"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_34_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_34_0"]
+#. y1:english="Stun Gun"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_34_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_34_0"
+msgid "Pistola Aturdidora"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_35_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_35_0"]
+#. y1:english="Mace"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_35_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_35_0"
+msgid "Spray Personal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_36_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_36_0"]
+#. y1:english="Tonfa"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_36_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_36_0"
+msgid "Tonfa"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_37_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_37_0"]
+#. y1:english="SP Tactical Baton"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_37_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_37_0"
+msgid "Bastón Táctico"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_38_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_38_0"]
+#. y1:english="Doctored Iron"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_38_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_38_0"
+msgid "Plancha Manipulada"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_39_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_39_0"]
+#. y1:english="Portable Stove"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_39_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_39_0"
+msgid "Horno Portátil"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_40_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_40_0"]
+#. y1:english="Iron Pipe"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_40_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_40_0"
+msgid "Tubería de Hierro"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_41_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_41_0"]
+#. y1:english="Butterfly Knife"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_41_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_41_0"
+msgid "Mariposa"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_42_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_42_0"]
+#. y1:english="Ninja Dagger"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_42_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_42_0"
+msgid "Daga Ninja"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_43_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_43_0"]
+#. y1:english="Survival Knife"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_43_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_43_0"
+msgid "Navaja Militar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_44_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_44_0"]
+#. y1:english="Old Dagger"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_44_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_44_0"
+msgid "Daga Vieja"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_45_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_45_0"]
+#. y1:english="Long Dagger"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_45_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_45_0"
+msgid "Daga Larga"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_46_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_46_0"]
+#. y1:english="Mifune's Kodachi"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_46_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_46_0"
+msgid "Kodachi de Mifune"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_47_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_47_0"]
+#. y1:english="Musashi's Dagger"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_47_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_47_0"
+msgid "Daga de Musashi"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_48_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_48_0"]
+#. y1:english="Survival Knife"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_48_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_48_0"
+msgid "Cuchillo Militar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_49_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_49_0"]
+#. y1:english="Forbidden Wood Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_49_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_49_0"
+msgid "Espada Prohibida"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_50_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_50_0"]
+#. y1:english="Bungo Shimizu Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_50_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_50_0"
+msgid "Espada Shimizu"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_51_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_51_0"]
+#. y1:english="Chinese Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_51_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_51_0"
+msgid "Espada China"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_52_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_52_0"]
+#. y1:english="Lau's Chinese Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_52_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_52_0"
+msgid "Espada de Lau"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_53_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_53_0"]
+#. y1:english="Iai-do Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_53_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_53_0"
+msgid "Espada Iai-do"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_54_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_54_0"]
+#. y1:english="Old Chinese Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_54_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_54_0"
+msgid "Espada China"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_55_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_55_0"]
+#. y1:english="Chinese Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_55_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_55_0"
+msgid "Espada China"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_56_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_56_0"]
+#. y1:english="Nameless Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_56_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_56_0"
+msgid "Espada sin Grabar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_57_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_57_0"]
+#. y1:english="Oak Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_57_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_57_0"
+msgid "Espada de Roble"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_58_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_58_0"]
+#. y1:english="Tesshusai"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_58_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_58_0"
+msgid "Espada Tesshusai"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_59_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_59_0"]
+#. y1:english="Mail Order Sword"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_59_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_59_0"
+msgid "Espada de Catalogo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_60_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_60_0"]
+#. y1:english="Imp. Army Grenade"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_60_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_60_0"
+msgid "Granada Imperial"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_61_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_61_0"]
+#. y1:english="Lightning Bomb"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_61_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_61_0"
+msgid "Bomba Incendiaria"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_62_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_62_0"]
+#. y1:english="Flash Bomb"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_62_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_62_0"
+msgid "Bomba Cegadora"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_63_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_63_0"]
+#. y1:english="Tear Grenade"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_63_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_63_0"
+msgid "Gas Lacrimógena"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_64_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_64_0"]
+#. y1:english="Smoke Grenade"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_64_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_64_0"
+msgid "Granada de Humo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_65_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_65_0"]
+#. y1:english="Handmade Pistol"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_65_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_65_0"
+msgid "Pistola Automática"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_66_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_66_0"]
+#. y1:english="9mm Automatic"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_66_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_66_0"
+msgid "Automática de 9mm"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_67_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_67_0"]
+#. y1:english="Shotgun"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_67_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_67_0"
+msgid "Escopeta"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_68_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_68_0"]
+#. y1:english="Old Automatic Pistol"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_68_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_68_0"
+msgid "Pistola Antigua"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_69_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_69_0"]
+#. y1:english="Western Shield"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_69_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_69_0"
+msgid "Escudo Occidental"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_70_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_70_0"]
+#. y1:english="Bulletproof Shield"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_70_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_70_0"
+msgid "Escudo Antibalas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_71_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_71_0"]
+#. y1:english="Bulletproof Vest"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_71_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_71_0"
+msgid "Chaleco Antibalas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_72_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_72_0"]
+#. y1:english="Cloth"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_72_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_72_0"
+msgid "Ropa"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_73_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_73_0"]
+#. y1:english="Fighting Cloth"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_73_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_73_0"
+msgid "Ropa de Combate"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_74_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_74_0"]
+#. y1:english="Chivalry Cloth"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_74_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_74_0"
+msgid "Ropa de Caballería"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_75_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_75_0"]
+#. y1:english="Chain Mail"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_75_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_75_0"
+msgid "Cota de Malla"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=1_76_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["1_76_0"]
+#. y1:english="Demon Cloth"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:1_76_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:1_76_0"
+msgid "Ropa de Demonio"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Staminan, energy for the body and spirit||It's good when you're a bit tired."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_0_0"
+msgid "Staminan, ienergía para cuerpo y espíritu!||Va bien cuando estás un poco cansado."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="For when you feel drained. It's effective||in restoring mental and physical energy."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_1_0"
+msgid "Para cuando estás completamente exhausto.||Buena para restaurar energía mental y física."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="A health drink for mental and physical||energy. Royal is pretty effective."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_2_0"
+msgid "Una bebida saludable para la energía mental||y física. Royal es bastante efectivo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="A health drink for mental and physical||energy. Nothing works better than this."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_3_0"
+msgid "Una bebida saludable para la energía mental||y física. Nada va mejor."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_4_0"]
+#. y1:english="When your mental energy is lagging,||use this to keep your spirit from dropping."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_4_0"
+msgid "Cuando tu energía mental flaquea, toma un||poco, evitará que tu espíritu disminuya."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_5_0"]
+#. y1:english="When you want to maintain your spirit||for a longer time, this is the one."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_5_0"
+msgid "Si quieres mantener tu espíritu más tiempo,||esto es lo que necesitas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_6_0"]
+#. y1:english="When you want to raise your mental energy||to the max, this is it."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_6_0"
+msgid "Si quieres subir al máximo tu energía mental||esto es lo que necesitas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_7_0"]
+#. y1:english="It's an expensive umbrella. Being||an expensive item, it's pretty durable."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_7_0"
+msgid "Es de una gran calidad. Se usa como arma.||El alto precio garantiza su durabilidad."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_8_0"]
+#. y1:english="A gavel. It's a wooden hammer. You can act||like you're on the other side of the law."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_8_0"
+msgid "Un martillo. Está hecho de madera. Puedes||actuar como si estuvieras fuera de la ley."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_9_0"]
+#. y1:english="A Japanese sake bottle for glassware||collectors. Well, if you like it, buy it."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_9_0"
+msgid "Una botella de Sake para coleccionistas.||Bueno, si te gusta, cómprala."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_10_0"]
+#. y1:english="That's a log of cedar. It's just wood.||It's fuel for bonfires."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_10_0"
+msgid "Es un tronco de cedro. No es más que madera.||Leña para hogueras."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_11_0"]
+#. y1:english="Darts. These are perfect for killing time.||Don't throw them at people, okay?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_11_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_11_0"
+msgid "Dardos. Perfectos para pasar el rato.||No se los tires a la gente, ¿vale?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_12_0"]
+#. y1:english="It's a kettle. On a cold day, use this to||boil some water or something to warm up."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_12_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_12_0"
+msgid "Es una tetera. En los días fríos||puedes usarla para hervir un poco de agua."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_13_0"]
+#. y1:english="A ball. This is a great time killer too.||It's cheap as well, so I recommend it."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_13_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_13_0"
+msgid "Una pelota. Es perfecta para pasar el rato,||y además es barata, así que te la recomiendo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_14_0"]
+#. y1:english="Bug spray. Well, it's winter, isn't it?||It's not selling very well."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_14_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_14_0"
+msgid "Spray insecticida. Bueno, es invierno, ¿no?||No está teniendo mucho éxito."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_15_0"]
+#. y1:english="A saw. It's pretty useful.||It's appreciated in Purgatory."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_15_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_15_0"
+msgid "Una sierra. Es bastante útil.||En el Purgatorio las valoran."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_16_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_16_0"]
+#. y1:english="A men's umbrella.||Surprisingly useful as a weapon."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_16_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_16_0"
+msgid "Un paraguas de hombre.||Sorprendentemente útil como arma."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_17_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_17_0"]
+#. y1:english="Rope. It has many uses.||Try it out."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_17_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_17_0"
+msgid "Cuerda. Sirve para muchas cosas.||Pruébala."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_18_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_18_0"]
+#. y1:english="A Chinese butcher knife. The knife itself||has a mass, so it's good for chopping."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_18_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_18_0"
+msgid "Cuchillo Carnicero Chino. Es pesado,||así que va bien para cortar en pedacitos."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_19_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_19_0"]
+#. y1:english="A thermos. I found it in a scrap heap.||It's still usable."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_19_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_19_0"
+msgid "Un bote. Lo encontré entre la chatarra.||Todavía puede servir."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_20_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_20_0"]
+#. y1:english="Pliers. They're an everyday item.||I'll make 'em cheap."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_20_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_20_0"
+msgid "Alicates. Son un objeto cotidiano.||Te los dejaré baratos."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_21_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_21_0"]
+#. y1:english="A bat. Buy it as a set with a ball.||It's a pretty good bat."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_21_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_21_0"
+msgid "Un bate. Cómpralo con la pelota.||Es un bate bastante bueno."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_22_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_22_0"]
+#. y1:english="A lamp. It breaks really easily,||so use it carefully, okay?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_22_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_22_0"
+msgid "Una linterna. Se rompe fácilmente,||así que úsala con cuidado, ¿vale?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_23_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_23_0"]
+#. y1:english="A golf club. I think I'll try to||improve my swing with this thing."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_23_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_23_0"
+msgid "Un palo de golf. Creo que lo utilizaré||para intentar mejorar mi swing."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_24_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_24_0"]
+#. y1:english="A crowbar, so-called nail claw.||I'll make this cheap as well."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_24_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_24_0"
+msgid "Una palanca, conocida como un arrancaclavos.||También te la dejaré barata."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_25_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_25_0"]
+#. y1:english="An ashtray. It's pretty hard, but it is||glass. If you hit it hard, it'll smash."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_25_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_25_0"
+msgid "Un cenicero. Es duro, pero es de cristal.||Si le das con fuerza, se romperá."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_26_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_26_0"]
+#. y1:english="A beer bottle. Well, I guess||selling anything is my policy."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_26_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_26_0"
+msgid "Una botella de cerveza. La verdad es que||mi filosofía es vender cualquier cosa."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_27_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_27_0"]
+#. y1:english="A hammer for smashing up concrete.||It probably doesn't have much use though."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_27_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_27_0"
+msgid "Un martillo para romper hormigón en pedazos.||Sin embargo, seguramente no es muy útil."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_28_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_28_0"]
+#. y1:english="A briefcase. It's sturdily made.||Being hit with this would hurt."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_28_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_28_0"
+msgid "Un maletín. Es robusto.||Si te golpearan con esto te dolería."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_29_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_29_0"]
+#. y1:english="Table salt. Don't shake it into||someone's eyes, even mistakenly."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_29_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_29_0"
+msgid "Sal de mesa. No se la tires a nadie||a los ojos, ni que sea sin querer."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_30_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_30_0"]
+#. y1:english="A tactical baton. It can be put away||compactly. It's a handy weapon."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_30_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_30_0"
+msgid "Un bastón táctico. Se puede guardar plegado.||Es una herramienta útil."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_31_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_31_0"]
+#. y1:english="Brass knuckles. I bet you're used to using||these. You can swing a good punch with {IC:00_00}➿."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_31_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_31_0"
+msgid "Nudillos metálicos. Tienes que acostumbrarte.||Puedes asestar un buen puñetazo con {IC:00_00}➿."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_32_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_32_0"]
+#. y1:english="A doctored lighter. I manipulated a||commercially available lighter to make this."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_32_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_32_0"
+msgid "Un súper encendedor. Manipulé||un encendedor normal para hacer esto."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_33_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_33_0"]
+#. y1:english="A slapper aka blackjack.||It's a quietly painful weapon. Try it."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_33_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_33_0"
+msgid "Una cachiporra, también conocida como||Blackjack, silenciosa y dolorosa. Pruébala."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_34_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_34_0"]
+#. y1:english="A stun gun. Young people tend to carry them.||They're popular in this town."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_34_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_34_0"
+msgid "Una pistola aturdidora. La gente joven la||lleva a menudo. Son populares en esta ciudad"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_35_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_35_0"]
+#. y1:english="Mace. It's for self-defence. Well, you can't||expect it to be too powerful."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_35_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_35_0"
+msgid "Spray de defensa personal.||No puedes esperar que sea muy potente."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_36_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_36_0"]
+#. y1:english="Tonfa. I think of them||as a type of night stick."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_36_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_36_0"
+msgid "Tonfa. Son como una especie de porra. Son||mucho más potentes que las manos desnudas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_37_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_37_0"]
+#. y1:english="A special tactical baton. When struck,||an electric current surges into the enemy."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_37_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_37_0"
+msgid "Un bastón táctico especial. El enemigo||sufre una descarga de corriente eléctrica."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_38_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_38_0"]
+#. y1:english="It's a doctored iron. No one would||be suspicious if they saw you with this."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_38_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_38_0"
+msgid "Plancha manipulada. Gracias a su aspecto,||nadie sospechará cuando vayas por la calle."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_39_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_39_0"]
+#. y1:english="It's a doctored portable stove. Just hitting||someone with this sets them on fire."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_39_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_39_0"
+msgid "Horno portátil manipulado. Cuando golpeas a||alguien con él prenderá fuego."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_40_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_40_0"]
+#. y1:english="An iron pipe. I picked it off the scrap||heap. It's a pretty good weapon."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_40_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_40_0"
+msgid "Tubería de hierro. La cogí entre la||chatarra. Es un arma bastante buena."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_41_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_41_0"]
+#. y1:english="A butterfly knife. It's not particularly||powerful. How about using it to peel fruit?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_41_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_41_0"
+msgid "Una navaja mariposa. No es muy fuerte.||¿Y si la usaras para pelar fruta?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_42_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_42_0"]
+#. y1:english="A Ninja dagger. It's light and easy to use."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_42_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_42_0"
+msgid "Una daga ninja. Es ligera y fácil de usar."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_43_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_43_0"]
+#. y1:english="A military survival knife. It's an old model||but it's still effective as a knife."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_43_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_43_0"
+msgid "Navaja militar del ejército,||pero de modelo viejo. Sirve como cuchillo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_44_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_44_0"]
+#. y1:english="An old dagger. It's old but really sharp.||This has a fine blade."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_44_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_44_0"
+msgid "Daga vieja. Es vieja pero está muy afilada||y tiene una buena hoja."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_45_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_45_0"]
+#. y1:english="A long dagger? It's a good quality product.||It's an antique-class item."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_45_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_45_0"
+msgid "¿Una daga larga? Producto de buena calidad.||Es un objeto de estilo antiguo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_46_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_46_0"]
+#. y1:english="Mifune's Kodachi. It's used in festivals||as well. It's a pretty good product."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_46_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_46_0"
+msgid "Es una Kodachi de Mifune, también se usa en||festivales. Es un producto bastante bueno."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_47_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_47_0"]
+#. y1:english="The dagger used by Musashi Miyamamoto. I'm||not sure if that's true, but it's robust."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_47_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_47_0"
+msgid "La daga que utilizó Musashi Miyamamoto.||No sé si es cierto, pero sin duda es robusta."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_48_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_48_0"]
+#. y1:english="A military survival knife.||As useful as a standard dagger."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_48_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_48_0"
+msgid "Una navaja militar del ejército.||Tan útil como una daga normal."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_49_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_49_0"]
+#. y1:english="Forbidden Wood Sword. It's made||of the best quality wood available."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_49_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_49_0"
+msgid "¿Espada Prohibida? Es la espada.||de madera de más calidad del mercado."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_50_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_50_0"]
+#. y1:english="The Bungo Shimizu Sword. It's a great sword.||It has a razor sharp edge."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_50_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_50_0"
+msgid "La Espada Shimizu. Se supone que es||una gran espada. Tiene un borde afiladísimo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_51_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_51_0"]
+#. y1:english="A typical Chinese sword.||The workmanship seems a bit rough."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_51_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_51_0"
+msgid "Una típica espada china.||La factura es un poco burda."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_52_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_52_0"]
+#. y1:english="The Lau family's Chinese sword. It's a great||sword. I guarantee its sharpness."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_52_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_52_0"
+msgid "Espada china de la familia Lau. Es una gran||espada. Te garantizo que estará afilada"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_53_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_53_0"]
+#. y1:english="The Iai-do Sword. Seriously, it's damn||sharp. Don't swing it around here, alright?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_53_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_53_0"
+msgid "Espada Iai-do En serio, está afiladísima.||No la blandas por aquí, ¿vale?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_54_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_54_0"]
+#. y1:english="It's an old Chinese sword. It's a bit worn.||If you use it roughly, it'll break easily."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_54_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_54_0"
+msgid "Antigua espada china.||Úsala con cuidado o se romperá enseguida."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_55_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_55_0"]
+#. y1:english="Oh, a Chinese sword. It's not unusual around||these parts. I'll make it cheap."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_55_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_55_0"
+msgid "Oh, una espada china. Bastante frecuente||por aquí. Te la dejaré barata."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_56_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_56_0"]
+#. y1:english="A Japanese sword. It's not engraved.||It's good quality though."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_56_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_56_0"
+msgid "Una espada japonesa. No está grabada.||Sin embargo, es de buena calidad."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_57_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_57_0"]
+#. y1:english="A wooden sword made from oak.||It's an effective weapon."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_57_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_57_0"
+msgid "Una espada de madera de roble.||Es un arma efectiva."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_58_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_58_0"]
+#. y1:english="The Tesshusai. It's engraved and is a good||item. It's pretty popular, you know."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_58_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_58_0"
+msgid "Espada Tesshusai. Está grabada y es buena.||Es bastante popular, ¿sabes?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_59_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_59_0"]
+#. y1:english="A cursed sword from catalog shopping. It's||nothing special. Even the blade is fake."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_59_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_59_0"
+msgid "Espada maldita, que se vende por catálogo.||No es nada especial. Hasta la hoja es falsa."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_60_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_60_0"]
+#. y1:english="An Imperial Army grenade.||I found them at a certain place."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_60_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_60_0"
+msgid "Granada del Ejército Imperial. Las descubrí||en cierto lugar. No sé qué potencia tendrán."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_61_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_61_0"]
+#. y1:english="A lightning bomb. When thrown,||everyone around you will get a nice shock."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_61_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_61_0"
+msgid "Una bomba incendiaria. Cuando la tires,||los que te rodeen recibirán una descarga."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_62_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_62_0"]
+#. y1:english="A flash bomb. Anyone on the receiving end||will be totally knocked out."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_62_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_62_0"
+msgid "Una bomba cegadora. Quien reciba el impacto||quedará completamente K.O."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_63_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_63_0"]
+#. y1:english="A tear grenade. It obstructs the enemies'||field of vision within a certain area."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_63_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_63_0"
+msgid "Granada lacrimógena. Se obstruye la visión||de los enemigos en un radio determinado."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_64_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_64_0"]
+#. y1:english="A smoke grenade. It renders the enemy blind||for a while within a certain area."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_64_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_64_0"
+msgid "Granada de humo. Cuando la lanzas durante un||tiempo ciegas a los enemigos a tu alrededor."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_65_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_65_0"]
+#. y1:english="A handmade old type automatic pistol.||There's only one bullet in the chamber."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_65_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_65_0"
+msgid "Pistola automática de estilo antiguo hecha a||mano. Sólo tiene una bala en la recámara."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_66_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_66_0"]
+#. y1:english="A 9mm automatic pistol. It's easy to use||and the accuracy is also high."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_66_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_66_0"
+msgid "Una pistola automática de 9mm.||Fácil de usar y de gran precisión."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_67_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_67_0"]
+#. y1:english="A shotgun. It's a gun that fires a mass||of pellets. It's pretty powerful."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_67_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_67_0"
+msgid "Una escopeta. Dispara una gran cantidad de||perdigones. Es muy potente."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_68_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_68_0"]
+#. y1:english="An old type automatic pistol.||Its degree of accuracy isn't very high."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_68_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_68_0"
+msgid "Una pistola automática antigua.||No es muy precisa."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_69_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_69_0"]
+#. y1:english="A western shield. Great workmanship.||But yeah, it's an interior decoration."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_69_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_69_0"
+msgid "Un escudo occidental. Muy buena factura.||Pero vaya, es para decorar interiores."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_70_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_70_0"]
+#. y1:english="A bulletproof shield. It's not as good as a||bulletproof vest, but it wards off bullets."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_70_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_70_0"
+msgid "Escudo antibalas. No es igual a un chaleco||antibalas, pero protege contra las balas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_71_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_71_0"]
+#. y1:english="Equipment with high defence. Special||materials were used to make this gear."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_71_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_71_0"
+msgid "Equipamiento con una defensa alta. Para||fabricarlo se usaron materiales especiales."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_72_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_72_0"]
+#. y1:english="Cloth.||Partially protects the stomach a little."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_72_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_72_0"
+msgid "Ropa. Protege parcialmente la barriga,||que es un punto débil."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_73_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_73_0"]
+#. y1:english="Fighting Cloth.||The material's thicker than usual."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_73_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_73_0"
+msgid "Ropa de combate. De tejido más grueso de lo normal.||Si te la pones no notarás ningún ataque débil."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_74_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_74_0"]
+#. y1:english="Chivalry Cloth. A famous item, huh?||Go ahead, try it on."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_74_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_74_0"
+msgid "Ropa de Caballería. Un objeto famoso, ¿eh?||Vamos, pruébatela."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_75_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_75_0"]
+#. y1:english="A retro item, but still good for use.||Pretty decent protective gear."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_75_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_75_0"
+msgid "Es un poco retro, pero todavía se puede usar.||Es bastante decente como equipo protector."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:type=line
+#. y1:id=2_76_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0045.BIN
+#. y1:english_ids=["2_76_0"]
+#. y1:english="Demon Cloth. This is a good one. A piece of||iron has been sewn into the thick material."
+#: MEDIA/TALK/SHOP/TALK_SHOP0045.BIN:2_76_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0045.BIN::line:2_76_0"
+msgid "Ropa de Demonio. Fabricada con un material||grueso, le han cosido un trozo de hierro."
+msgstr ""

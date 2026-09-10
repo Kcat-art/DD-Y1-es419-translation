@@ -1,0 +1,778 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Cancel"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_0_0"
+msgid "Cancelar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Payment"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_1_0"
+msgid "Pago"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="Market Value"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_2_0"
+msgid "Precio de venta"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="/"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="Excuse me, Sir.||You don't have enough money."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_4_0"
+msgid "Lo siento, señor.||No tiene suficiente dinero."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_5_0"]
+#. y1:english="Yes, of course.||That'll be {NU:02_08_00}00000000 yen."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_5_0"
+msgid "Sí, por supuesto.||Serán {NU:02_08_00}00000000 yenes."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_6_0"]
+#. y1:english="Will there be anything else?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_6_0"
+msgid "¿Desea algo más?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_7_0"]
+#. y1:english="Sir, I don't think you can carry any more||items. Would you please rearrange them?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_7_0"
+msgid "Señor, no puede cargar más objetos...||¿Podría reorganizar sus pertenencias?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_8_0"]
+#. y1:english="ten"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_8_0"
+msgid "ten"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_9_0"]
+#. y1:english="ko"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_9_0"
+msgid "ko"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_10_0"]
+#. y1:english="honn"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_10_0"
+msgid "honn"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_11_0"]
+#. y1:english="hukuro"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_11_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_11_0"
+msgid "hukuro"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=0_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["0_12_0"]
+#. y1:english="kann"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:0_12_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:0_12_0"
+msgid "kann"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Italian Perfume"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_0_0"
+msgid "Perfume Italiano"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="French Perfume"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_1_0"
+msgid "Perfume Francés"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="Staminan X"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_2_0"
+msgid "Staminan X"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_3_0"]
+#. y1:english="Staminan XX"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_3_0"
+msgid "Staminan XX"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_4_0"]
+#. y1:english="Staminan Royal"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_4_0"
+msgid "Staminan Royal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_5_0"]
+#. y1:english="Tauriner"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_5_0"
+msgid "Tauriner"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_6_0"]
+#. y1:english="Tauriner +"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_6_0"
+msgid "Tauriner +"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_7_0"]
+#. y1:english="Tauriner ++"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_7_0"
+msgid "Tauriner ++"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_8_0"]
+#. y1:english="Dog Food"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_8_0"
+msgid "Comida de Perro"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_9_0"]
+#. y1:english="Cat Food"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_9_0"
+msgid "Comida de Gato"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_10_0"]
+#. y1:english="Caviar Skin Bag"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_10_0"
+msgid "Bolso de Cuero"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_11_0"]
+#. y1:english="Monogram Bag"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_11_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_11_0"
+msgid "Bolso de Marca"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_12_0"]
+#. y1:english="High-Class Necklace"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_12_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_12_0"
+msgid "Collar de Calidad"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_13_0"]
+#. y1:english="Italian Watch"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_13_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_13_0"
+msgid "Reloj de Mujer"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_14_0"]
+#. y1:english="French Scarf"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_14_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_14_0"
+msgid "Bufanda Francesa"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_15_0"]
+#. y1:english="BLACK BOSS"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_15_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_15_0"
+msgid "BLACK BOSS"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_16_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_16_0"]
+#. y1:english="iemon"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_16_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_16_0"
+msgid "iemon"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_17_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_17_0"]
+#. y1:english="iemon hot"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_17_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_17_0"
+msgid "iemon hot"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_18_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_18_0"]
+#. y1:english="Natchan Orange"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_18_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_18_0"
+msgid "Natchan Orange"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_19_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_19_0"]
+#. y1:english="Dekavita-C"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_19_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_19_0"
+msgid "Dekavita-C"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_20_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_20_0"]
+#. y1:english="Amino-Shiki"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_20_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_20_0"
+msgid "Amino-Shiki"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_21_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_21_0"]
+#. y1:english="Suntory Natural Mineral Water"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_21_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_21_0"
+msgid "Suntory Natural Mineral Water"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=1_22_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["1_22_0"]
+#. y1:english="Bikkle"
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:1_22_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:1_22_0"
+msgid "Bikkle"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="With it's fruity scent, this Italian-made||fragrance is popular among women."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_0_0"
+msgid "Esta fragancia italiana es popular entre||las mujeres gracias a su aroma afrutado."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="A blend of white birch and vanilla base,||this has a distinctive floral fragrance."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_1_0"
+msgid "Una mezcla de abedul blanco y vainilla||con un aroma floral distintivo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="Staminan, energy for the body and spirit||It's good when you're a bit tired."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_2_0"
+msgid "Staminan, ienergía para cuerpo y espíritu!||Va bien cuando estás un poco cansado."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="For when you feel drained. It's effective||in restoring mental and physical energy."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_3_0"
+msgid "Para cuando estás completamente exhausto.||Buena para restaurar energía mental y física."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_4_0"]
+#. y1:english="A health drink for mental and physical||energy. Royal is pretty effective."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_4_0"
+msgid "Una bebida saludable para la energía mental||y física. Royal es bastante efectivo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_5_0"]
+#. y1:english="When your mental energy is lagging,||use this to keep your spirit from dropping."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_5_0"
+msgid "Cuando tu energía mental flaquea, toma un||poco, evitará que tu espíritu disminuya."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_6_0"]
+#. y1:english="When you want to maintain your spirit||for a longer time, this is the one."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_6_0"
+msgid "Si quieres mantener tu espíritu más tiempo,||esto es lo que necesitas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_7_0"]
+#. y1:english="When you want to raise your mental energy||to the max, this is it."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_7_0"
+msgid "Si quieres subir al máximo tu energía mental||esto es lo que necesitas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_8_0"]
+#. y1:english="Dog Food.||It's very popular even among top breeders."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_8_0"
+msgid "Comida de perro.||Muy popular entre los mejores criadores."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_9_0"]
+#. y1:english="Cat food.||It's a pretty popular product."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_9_0"
+msgid "Comida de gato.||Es un producto bastante popular."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_10_0"]
+#. y1:english="A caviar skin bag.||It's a pretty luxurious item."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_10_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_10_0"
+msgid "Bolsa de cuero 'Caviar'.||Es un objeto muy lujoso."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_11_0"]
+#. y1:english="The monogram bag.||All the girls want one."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_11_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_11_0"
+msgid "Una bolsa de marca.||Todas las chicas quieren una."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_12_0"]
+#. y1:english="An expensive brand name accessory.||It's a high quality European-made necklace."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_12_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_12_0"
+msgid "Un accesorio de marca cara.||Collar de alta calidad fabricado en Europa."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_13_0"]
+#. y1:english="An Italian-made ladies' watch.||This model is all the rage this year."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_13_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_13_0"
+msgid "Un reloj para mujeres fabricado en Italia.||Este modelo es el éxito del año."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_14_0"]
+#. y1:english="A French-made scarf. A luxury item||made using high quality cashmere."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_14_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_14_0"
+msgid "Bufanda francesa. Objeto de lujo fabricado||utilizando cashemira de alta calidad."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_15_0"]
+#. y1:english="BLACK BOSS coffee. Deep-roasted beans||dripped at low temperature for clear taste."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_15_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_15_0"
+msgid "Lata de café puro BLACK BOSS no edulcorado.||Granos calentados a baja temperatura."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_16_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_16_0"]
+#. y1:english="500ml of iemon. A Kyoto tea expert selects||home-grown leaves to use in this tea."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_16_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_16_0"
+msgid "500ml de iemon. Un té verde japonés que||presta atención especial a las hojas y agua."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_17_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_17_0"]
+#. y1:english="345ml of iemon hot. A warm green tea with||a distinctive flavour."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_17_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_17_0"
+msgid "345 ml de iemon hot. Un té verde cálido||con un distintivo sabor."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_18_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_18_0"]
+#. y1:english="500ml of Natchan Orange. A juice with||a refreshing blend of sweet and sour."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_18_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_18_0"
+msgid "500ml de Natchan Orange. Un zumo que||contiene una refrescante mezcla agridulce."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_19_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_19_0"]
+#. y1:english="210ml of Dekavita-C. It contains a variety||of vitamins and gives you energy."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_19_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_19_0"
+msgid "Botella de 210ml de Dekavita-C.||Contiene varias vitaminas y te da energía."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_20_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_20_0"]
+#. y1:english="500ml of Amino-Shiki. It contains various||amino acids and is good for your health."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_20_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_20_0"
+msgid "500ml de Amino-Shiki. Contiene aminoácidos||y es beneficioso para la salud."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_21_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_21_0"]
+#. y1:english="500ml of Suntory Natural Mineral Water.||Quality mineral water from Kaikomagatake."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_21_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_21_0"
+msgid "500ml de Suntory Natural Mineral Water.||Agua mineral de calidad de Kaikomagatake."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:type=line
+#. y1:id=2_22_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0012.BIN
+#. y1:english_ids=["2_22_0"]
+#. y1:english="220ml of Bikkle. It contains oligosaccharide||and is good for you."
+#: MEDIA/TALK/SHOP/TALK_SHOP0012.BIN:2_22_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0012.BIN::line:2_22_0"
+msgid "220ml de Bikkle. Contiene oligosacáridos||y es buena para ti."
+msgstr ""

@@ -1,0 +1,297 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Cancel"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_0_0"
+msgid "Cancelar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Payment"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_1_0"
+msgid "Pago"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="Market Value"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_2_0"
+msgid "Precio de venta"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="/"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="Sir, I'm afraid there's a problem.||You don't seem to have enough money."
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_4_0"
+msgid "Señor, me temo que hay un problema.||Parece que no tiene suficiente dinero."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_5_0"]
+#. y1:english="Yes, of course.||That comes to {NU:02_08_00}00000000 yen."
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_5_0"
+msgid "Sí, por supuesto.||Serán {NU:02_08_00}00000000 yenes."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_6_0"]
+#. y1:english="Will there be anything else?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_6_0"
+msgid "¿Desea algo más?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_7_0"]
+#. y1:english="Sir, looks like you can't carry any more||items. Could you rearrange your belongings?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_7_0"
+msgid "Señor, no puede cargar más objetos...||¿Podría reorganizar sus pertenencias?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_8_0"]
+#. y1:english="ten"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_8_0"
+msgid "ten"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=0_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["0_9_0"]
+#. y1:english="honn"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:0_9_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:0_9_0"
+msgid "honn"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Staminan X"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:1_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:1_0_0"
+msgid "Staminan X"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="Staminan XX"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:1_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:1_1_0"
+msgid "Staminan XX"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="Staminan Royal"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:1_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:1_2_0"
+msgid "Staminan Royal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=1_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["1_3_0"]
+#. y1:english="Tauriner"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:1_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:1_3_0"
+msgid "Tauriner"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=1_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["1_4_0"]
+#. y1:english="Tauriner +"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:1_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:1_4_0"
+msgid "Tauriner +"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=1_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["1_5_0"]
+#. y1:english="Tauriner ++"
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:1_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:1_5_0"
+msgid "Tauriner ++"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Staminan, energy for the body and spirit||It's good when you're a bit tired."
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:2_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:2_0_0"
+msgid "Staminan, ienergía para cuerpo y espíritu!||Va bien cuando estás un poco cansado."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="For when you feel drained. It's effective||in restoring mental and physical energy."
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:2_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:2_1_0"
+msgid "Para cuando estás completamente exhausto.||Buena para restaurar energía mental y física."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="A health drink for mental and physical||energy. Royal is pretty effective."
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:2_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:2_2_0"
+msgid "Una bebida saludable para la energía mental||y física. Royal es bastante efectivo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="When your mental energy is lagging,||use this to keep your spirit from dropping."
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:2_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:2_3_0"
+msgid "Cuando tu energía mental flaquea, toma un||poco, evitará que tu espíritu disminuya."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=2_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["2_4_0"]
+#. y1:english="When you want to maintain your spirit||for a longer time, this is the one."
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:2_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:2_4_0"
+msgid "Si quieres mantener tu espíritu más tiempo,||esto es lo que necesitas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:type=line
+#. y1:id=2_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0002.BIN
+#. y1:english_ids=["2_5_0"]
+#. y1:english="When you want to raise your mental energy||to the max, this is it."
+#: MEDIA/TALK/SHOP/TALK_SHOP0002.BIN:2_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0002.BIN::line:2_5_0"
+msgid "Si quieres subir al máximo tu energía mental,||esto es lo que necesitas."
+msgstr ""

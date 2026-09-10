@@ -1,0 +1,1025 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="0123456789+-円万億¥,枚点"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:0_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:0_0_0"
+msgid "0123456789+-円万億¥,枚点"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Exp: {NU:02_08_00}00000000"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:0_1_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:0_1_0"
+msgid "Exp: {NU:02_08_00}00000000"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="You got a HP Supplement."
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:0_2_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:0_2_0"
+msgid "Has obtenido un Suplemento de PV."
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="You cannot carry any more items.||Sending it to the Item Box."
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:0_3_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:0_3_0"
+msgid "No puedes llevar más objetos.||Se enviarán al Inventario."
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="You cannot carry any more items."
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:0_4_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:0_4_0"
+msgid "No puedes llevar más objetos."
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Haruka's Trust"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:1_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:1_0_0"
+msgid "Conf de Haruka"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Bantam"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:2_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:2_0_0"
+msgid "Bantam"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["5_0_0"]
+#. y1:english="Akagyu Taihei Blvd."
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:5_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:5_0_0"
+msgid "Bulevar Akagyu Taihei"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=6_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["6_0_0"]
+#. y1:english="Smile Burger"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:6_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:6_0_0"
+msgid "Hamburguesa Sonriente"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=7_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["7_0_0"]
+#. y1:english="Kyushu No.1 Star"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:7_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:7_0_0"
+msgid "Estrella de Kyushu"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=8_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["8_0_0"]
+#. y1:english="Ebisu Pawn"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:8_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:8_0_0"
+msgid "Tienda de empeños Ebisu"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=9_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["9_0_0"]
+#. y1:english="Gelato Shop"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:9_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:9_0_0"
+msgid "Heladería"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=10_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["10_0_0"]
+#. y1:english="Good Cafe"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:10_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:10_0_0"
+msgid "Buen Café"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=11_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["11_0_0"]
+#. y1:english="Kotobuki Chemist"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:11_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:11_0_0"
+msgid "Farmacia Kotobuki"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=12_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["12_0_0"]
+#. y1:english="Poppo Showa St."
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:12_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:12_0_0"
+msgid "Poppo. Calle Showa"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=13_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["13_0_0"]
+#. y1:english="Hideout"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:13_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:13_0_0"
+msgid "Guarida"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=14_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["14_0_0"]
+#. y1:english="Deborah"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:14_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:14_0_0"
+msgid "Déborah"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=15_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["15_0_0"]
+#. y1:english="Cafe Alps"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:15_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:15_0_0"
+msgid "Café Alpes"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=16_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["16_0_0"]
+#. y1:english="Club SEGA Theatre Ave."
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:16_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:16_0_0"
+msgid "Club SEGA Avenida Teatro"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=17_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["17_0_0"]
+#. y1:english="Club SEGA Nakamichi St."
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:17_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:17_0_0"
+msgid "Calle Nakamichi Club SEGA"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=18_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["18_0_0"]
+#. y1:english="Poppo Nakamichi Alley"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:18_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:18_0_0"
+msgid "Poppo. Callejón Nakamichi"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=19_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["19_0_0"]
+#. y1:english="Beam"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:19_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:19_0_0"
+msgid "Rayo"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=20_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["20_0_0"]
+#. y1:english="MEB"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:20_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:20_0_0"
+msgid "Centro información"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=21_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["21_0_0"]
+#. y1:english="Super Lotto Stand"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:21_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:21_0_0"
+msgid "Quiosco de la Super Lotto"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=22_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["22_0_0"]
+#. y1:english="Behind Serena"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:22_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:22_0_0"
+msgid "Detrás de Serena"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=23_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["23_0_0"]
+#. y1:english="Millennium Tower Gardens"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:23_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:23_0_0"
+msgid "Jardines de la Torre del Milenio"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=24_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["24_0_0"]
+#. y1:english="Hidden Armoury"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:24_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:24_0_0"
+msgid "Armería secreta"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=25_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["25_0_0"]
+#. y1:english="Hallway to Serena"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:25_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:25_0_0"
+msgid "Vestíbulo de Serena"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=26_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["26_0_0"]
+#. y1:english="Hallway to Parlour"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:26_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:26_0_0"
+msgid "Vestíbulo del Salón"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=27_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["27_0_0"]
+#. y1:english="Gambling Parlour"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:27_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:27_0_0"
+msgid "Salón de Apuestas"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=28_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["28_0_0"]
+#. y1:english="Shine"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:28_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:28_0_0"
+msgid "Shine"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=29_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["29_0_0"]
+#. y1:english="Jewel"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:29_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:29_0_0"
+msgid "Jewel"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=30_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["30_0_0"]
+#. y1:english="Serena"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:30_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:30_0_0"
+msgid "Serena"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=31_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["31_0_0"]
+#. y1:english="Bacchus"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:31_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:31_0_0"
+msgid "Baco"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=32_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["32_0_0"]
+#. y1:english="Stardust"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:32_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:32_0_0"
+msgid "Stardust"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=33_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["33_0_0"]
+#. y1:english="Batting Cage"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:33_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:33_0_0"
+msgid "Jaula de Bateo"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=34_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["34_0_0"]
+#. y1:english="Rune"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:34_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:34_0_0"
+msgid "Runa"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=35_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["35_0_0"]
+#. y1:english="Pares"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:35_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:35_0_0"
+msgid "Pares"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=36_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["36_0_0"]
+#. y1:english="Shellac"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:36_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:36_0_0"
+msgid "Shellac"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=37_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["37_0_0"]
+#. y1:english="Asia"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:37_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:37_0_0"
+msgid "Asia"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=38_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["38_0_0"]
+#. y1:english="Love in Heart"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:38_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:38_0_0"
+msgid "Amor en el Corazón"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=39_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["39_0_0"]
+#. y1:english="Mini Doll"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:39_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:39_0_0"
+msgid "Mini Muñeca"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=40_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["40_0_0"]
+#. y1:english="Volcano"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:40_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:40_0_0"
+msgid "Volcán"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=41_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["41_0_0"]
+#. y1:english="Stairway to Deborah"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:41_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:41_0_0"
+msgid "Escaleras a Déborah"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=42_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["42_0_0"]
+#. y1:english="Akagyu Tenkaichi St."
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:42_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:42_0_0"
+msgid "Akagyu. Calle Tenkaichi"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=43_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["43_0_0"]
+#. y1:english="Poppo Tenkaichi St."
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:43_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:43_0_0"
+msgid "Poppo. Calle Tenkaichi"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=44_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["44_0_0"]
+#. y1:english="M Store"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:44_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:44_0_0"
+msgid "Tienda M"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=45_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["45_0_0"]
+#. y1:english="Don Quijote"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:45_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:45_0_0"
+msgid "Don Quijote"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=46_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["46_0_0"]
+#. y1:english="Hideout"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:46_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:46_0_0"
+msgid "Guarida"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=47_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["47_0_0"]
+#. y1:english="Rokuran Mah Jong"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:47_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:47_0_0"
+msgid "Rokuran Mah Jong"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=48_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["48_0_0"]
+#. y1:english="Purgatory"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:48_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:48_0_0"
+msgid "Purgatorio"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=49_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["49_0_0"]
+#. y1:english="Red-Light District"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:49_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:49_0_0"
+msgid "Barrio Rojo"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=50_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["50_0_0"]
+#. y1:english="Public Restroom"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:50_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:50_0_0"
+msgid "Baños Públicos"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=51_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["51_0_0"]
+#. y1:english="Kage's Room"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:51_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:51_0_0"
+msgid "Habitación de Kage"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=52_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["52_0_0"]
+#. y1:english="Tojo Clan HQ"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:52_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:52_0_0"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=53_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["53_0_0"]
+#. y1:english="Tojo Clan HQ"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:53_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:53_0_0"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=54_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["54_0_0"]
+#. y1:english="Tojo Clan HQ"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:54_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:54_0_0"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=55_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["55_0_0"]
+#. y1:english="Tojo Clan HQ"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:55_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:55_0_0"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=56_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["56_0_0"]
+#. y1:english="Surveillance Room"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:56_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:56_0_0"
+msgid "Cuarto de Vigilancia"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=57_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["57_0_0"]
+#. y1:english="Millennium Tower GF"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:57_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:57_0_0"
+msgid "Torre del Milenio 10"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=58_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["58_0_0"]
+#. y1:english="Ares"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:58_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:58_0_0"
+msgid "Ares"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=59_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["59_0_0"]
+#. y1:english="Asia"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:59_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:59_0_0"
+msgid "Asia"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=60_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["60_0_0"]
+#. y1:english="Deborah"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:60_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:60_0_0"
+msgid "Déborah"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=61_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["61_0_0"]
+#. y1:english="Purgatory"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:61_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:61_0_0"
+msgid "Purgatorio"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=62_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["62_0_0"]
+#. y1:english="Shangri-la GF"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:62_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:62_0_0"
+msgid "Shangri-la 1P"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=63_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["63_0_0"]
+#. y1:english="Fuma Family's Office"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:63_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:63_0_0"
+msgid "Oficina de la Familia Fuma"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=64_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["64_0_0"]
+#. y1:english="Todo Building"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:64_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:64_0_0"
+msgid "Edificio Todo"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=65_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["65_0_0"]
+#. y1:english="Passageway to Colosseum"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:65_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:65_0_0"
+msgid "Pasillo al coliseo"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=66_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["66_0_0"]
+#. y1:english="Fukuma Casino"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:66_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:66_0_0"
+msgid "Casino Fukuma"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=67_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["67_0_0"]
+#. y1:english="Shibaura Wharf"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:67_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:67_0_0"
+msgid "Shibaura Muelle"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=68_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["68_0_0"]
+#. y1:english="Go Parlour"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:68_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:68_0_0"
+msgid "Salón de Go"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=69_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["69_0_0"]
+#. y1:english="Multipurpose Complex"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:69_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:69_0_0"
+msgid "Complejo Multiuso"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=70_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["70_0_0"]
+#. y1:english="Paradise"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:70_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:70_0_0"
+msgid "Paraíso"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=71_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["71_0_0"]
+#. y1:english="Hanagata Building"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:71_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:71_0_0"
+msgid "Edificio Hanagata"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=72_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["72_0_0"]
+#. y1:english="Shangri-la"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:72_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:72_0_0"
+msgid "Shangri-la"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=73_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["73_0_0"]
+#. y1:english="Ryujin Building"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:73_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:73_0_0"
+msgid "Edificio Ryujin"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=74_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["74_0_0"]
+#. y1:english="Peace Finance"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:74_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:74_0_0"
+msgid "Finanzas de Paz"
+msgstr ""
+
+#. y1:source=MEDIA/STGTALK/SPA/ST_SNACK1.BIN
+#. y1:type=line
+#. y1:id=75_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/STGTALK/BRI/ST_SNACK1.BIN
+#. y1:english_ids=["75_0_0"]
+#. y1:english="Clinic"
+#: MEDIA/STGTALK/SPA/ST_SNACK1.BIN:75_0_0
+msgctxt "MEDIA/STGTALK/SPA/ST_SNACK1.BIN::line:75_0_0"
+msgid "Clínica"
+msgstr ""

@@ -1,0 +1,2702 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="￥"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:0_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:0_0_0"
+msgid "￥"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english=","
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:0_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:0_1_0"
+msgid ","
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:0_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:0_2_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="Prize Money"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:0_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:0_3_0"
+msgid "Importe del Premio"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="Supplementary Prize"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:0_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:0_4_0"
+msgid "Premio Adicional"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Magnum Force Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_0_0"
+msgid "Premio Magnum Force"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="Hyper Tournament"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_1_0"
+msgid "Premio Súper Torneo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="Face Off Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_2_0"
+msgid "Premio Confrontación"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_3_0"]
+#. y1:english="Sword Duel Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_3_0"
+msgid "Premio Duelo de Espadas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_4_0"]
+#. y1:english="Burning Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_4_0"
+msgid "Premio Ardiente"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_5_0"]
+#. y1:english="Revenge Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_5_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_5_0"
+msgid "Premio Venganza"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_6_0"]
+#. y1:english="Street Fight Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_6_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_6_0"
+msgid "Premio Lucha Callejera"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_7_0"]
+#. y1:english="Scorpion Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_7_0"
+msgid "Premio Escorpión"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_8_0"]
+#. y1:english="Hyper Open Tournament"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_8_0"
+msgid "Súper Torneo Abierto"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_9_0"]
+#. y1:english="Exhibition Tournament"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_9_0"
+msgid "Torneo de Exhibición"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_10_0"]
+#. y1:english="Wins"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_10_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_10_0"
+msgid "Victorias"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_11_0"]
+#. y1:english="Losses"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_11_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_11_0"
+msgid "Derrotas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_12_0"]
+#. y1:english="Not entered"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_12_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_12_0"
+msgid "No introducido"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_13_0"]
+#. y1:english="Tournaments to be held"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_13_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_13_0"
+msgid "Torneos que se celebrarán"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_14_0"]
+#. y1:english="Tournaments to be held are as shown."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_14_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_14_0"
+msgid "Se celebrarán los siguientes torneos."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=1_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["1_15_0"]
+#. y1:english="In which tournament would you like to participate?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:1_15_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:1_15_0"
+msgid "¿En qué torneo querrías participar?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Magnum Force Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:2_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:2_0_0"
+msgid "Premio Magnum Force"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="Only the \"strongest\" men enter!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:2_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:2_1_0"
+msgid "iSólo los más fuertes participan en el torneo!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="The fighter that everyone's been anticipating"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:2_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:2_2_0"
+msgid "iEl hombre más esperado ha entrado en el torneo!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=2_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["2_3_0"]
+#. y1:english="has entered!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:2_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:2_3_0"
+msgid "iLos combatientes mostrarán sus habilidades!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=2_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["2_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:2_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:2_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=2_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["2_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:2_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:2_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=2_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["2_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:2_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:2_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["3_0_0"]
+#. y1:english="Hyper Tournament"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:3_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:3_0_0"
+msgid "Premio Súper Torneo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=3_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["3_1_0"]
+#. y1:english="The much anticipated year end tournament!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:3_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:3_1_0"
+msgid "iEl más esperado torneo de fin de año!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=3_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["3_2_0"]
+#. y1:english="This is the bottom line of \"no hold barred\" fighting!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:3_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:3_2_0"
+msgid "iLucha libre llevada al último extremo!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=3_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["3_3_0"]
+#. y1:english="Who will win the audience's respect!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:3_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:3_3_0"
+msgid "¿Quién se ganará el respeto del público?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=3_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["3_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:3_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:3_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=3_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["3_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:3_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:3_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=3_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["3_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:3_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:3_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["4_0_0"]
+#. y1:english="Face Off Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:4_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:4_0_0"
+msgid "Premio Confrontación"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=4_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["4_1_0"]
+#. y1:english="\"Kazuma vs. Guns\", Death Tournament!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:4_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:4_1_0"
+msgid "i\"Kazuma vs. Guns\", un torneo a muerte!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=4_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["4_2_0"]
+#. y1:english="Organised for Kazuma, this year's expected champion."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:4_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:4_2_0"
+msgid "Torneo creado para Kazuma, anticipado campeón."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=4_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["4_3_0"]
+#. y1:english="Gunmen from all over gather for this special tournament!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:4_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:4_3_0"
+msgid "iPistoleros del mundo se reúnen para el torneo!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=4_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["4_4_0"]
+#. y1:english="Will Kazuma survive against these sharpshooters?!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:4_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:4_4_0"
+msgid "¿Sobrevivirá Kazuma contra estos pistoleros?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=4_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["4_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:4_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:4_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=4_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["4_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:4_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:4_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=4_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["4_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:4_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:4_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["5_0_0"]
+#. y1:english="Sword Duel Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:5_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:5_0_0"
+msgid "Premio Duelo de Espadas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=5_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["5_1_0"]
+#. y1:english="Knives, daggers and katanas, in the ring!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:5_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:5_1_0"
+msgid "iCuchillos, dagas y katanas en el ring!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=5_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["5_2_0"]
+#. y1:english="Deathmatches that defy the martial arts world!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:5_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:5_2_0"
+msgid "iCombates a muerte!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=5_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["5_3_0"]
+#. y1:english="A split second can determine the winner in these duels!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:5_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:5_3_0"
+msgid "iFracciones de segundo determinarán el ganador!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=5_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["5_4_0"]
+#. y1:english="*Note: Kazuma will be given a katana"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:5_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:5_4_0"
+msgid "*Nota: Se le prestará una katana a Kazuma-san."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=5_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["5_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:5_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:5_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=5_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["5_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:5_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:5_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=5_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["5_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:5_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:5_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=6_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["6_0_0"]
+#. y1:english="Burning Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:6_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:6_0_0"
+msgid "Premio Ardiente"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=6_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["6_1_0"]
+#. y1:english="Crazy bastards beat each other in a ring of fire!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:6_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:6_1_0"
+msgid "iLocos enfrentados en un ring rodeado de fuego!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=6_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["6_2_0"]
+#. y1:english="Burn or be burned!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:6_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:6_2_0"
+msgid "iQuema o arderás!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=6_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["6_3_0"]
+#. y1:english="Use your mind and body before the flames engulf you!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:6_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:6_3_0"
+msgid "iUsa tu mente y cuerpo en este ardiente torneo!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=6_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["6_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:6_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:6_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=6_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["6_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:6_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:6_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=6_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["6_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:6_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:6_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=7_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["7_0_0"]
+#. y1:english="Revenge Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:7_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:7_0_0"
+msgid "Premio Venganza"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=7_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["7_1_0"]
+#. y1:english="A tournament to settle all grudges."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:7_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:7_1_0"
+msgid "iUn torneo brindando oportunidades de vengaza!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=7_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["7_2_0"]
+#. y1:english="Will Daniel Feldman clear his name?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:7_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:7_2_0"
+msgid "¿Limpiará Daniel Feldman su nombre?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=7_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["7_3_0"]
+#. y1:english="Or Kaewkwan Plumuk?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:7_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:7_3_0"
+msgid "¿O Kaewkwan Plumuk?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=7_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["7_4_0"]
+#. y1:english="Or, our favourite, Gary Buster Holmes?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:7_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:7_4_0"
+msgid "¿O nuestro favorito, Gary Buster Holmes?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=7_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["7_5_0"]
+#. y1:english="Revenge in the Ring!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:7_5_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:7_5_0"
+msgid "iVenganza en el Ring!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=7_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["7_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:7_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:7_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=7_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["7_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:7_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:7_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=7_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["7_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:7_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:7_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=8_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["8_0_0"]
+#. y1:english="Street Fight Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:8_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:8_0_0"
+msgid "Premio Lucha Callejera"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=8_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["8_1_0"]
+#. y1:english="A no holds barred street fight!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:8_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:8_1_0"
+msgid "iTodo vale en las peleas callejeras!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=8_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["8_2_0"]
+#. y1:english="Fighters from all over have gathered!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:8_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:8_2_0"
+msgid "iLuchadores callejeros del mundo se han reunido!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=8_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["8_3_0"]
+#. y1:english="Beat your opponent to a pulp with weapons!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:8_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:8_3_0"
+msgid "iCoge las armas para hacer polvo a tu enemigo!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=8_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["8_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:8_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:8_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=8_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["8_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:8_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:8_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=8_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["8_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:8_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:8_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=9_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["9_0_0"]
+#. y1:english="Scorpion Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:9_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:9_0_0"
+msgid "Premio Escorpión"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=9_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["9_1_0"]
+#. y1:english="Groundwork and throwing are prohibited!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:9_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:9_1_0"
+msgid "iNo se permite atacar ni lanzar hombres caídos!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=9_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["9_2_0"]
+#. y1:english="Rules of the \"Way\" are observed even in Purgatory."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:9_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:9_2_0"
+msgid "iNormas de las \"Artes\" valen en el Purgatorio!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=9_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["9_3_0"]
+#. y1:english="Does a kickboxer really have the upper hand?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:9_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:9_3_0"
+msgid "¿Tienen realmente ventaja los kickboxers?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=9_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["9_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:9_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:9_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=9_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["9_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:9_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:9_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=9_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["9_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:9_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:9_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=10_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["10_0_0"]
+#. y1:english="Hyper Open Tournament"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:10_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:10_0_0"
+msgid "Súper Torneo Abierto"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=10_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["10_1_0"]
+#. y1:english="You must win to qualify for the finals!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:10_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:10_1_0"
+msgid "iTienes que ganar para entrar al torneo final!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=10_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["10_2_0"]
+#. y1:english="\"Hyper Tournament\" will be held again this year!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:10_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:10_2_0"
+msgid "Este año se volverá a celebrar el \"Súper Torneo\""
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=10_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["10_3_0"]
+#. y1:english="A good indicator of who will become the champion."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:10_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:10_3_0"
+msgid "iUna buena guía para saber quién será ganador!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=10_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["10_4_0"]
+#. y1:english="Victory will lead you to the path of glory!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:10_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:10_4_0"
+msgid "iLa victoria te llevará al camino a la gloria!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=10_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["10_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:10_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:10_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=10_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["10_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:10_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:10_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=10_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["10_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:10_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:10_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=11_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["11_0_0"]
+#. y1:english="Exhibition Tournament"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:11_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:11_0_0"
+msgid "Torneo de Exhibición"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=11_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["11_1_0"]
+#. y1:english="Fist fighters gather from all over Kamurocho!"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:11_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:11_1_0"
+msgid "iLuchadores y camorristas de todo Kamurocho!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=11_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["11_2_0"]
+#. y1:english="Rookies test their courage in front of a huge crowd."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:11_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:11_2_0"
+msgid "iNovatos prueban su valor ante un gran público!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=11_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["11_3_0"]
+#. y1:english="A respectable tournament held to predict"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:11_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:11_3_0"
+msgid "iTorneo para ver a un futuro \"héroe\"!"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=11_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["11_7_0"]
+#. y1:english="Would you like to enter this tournament?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:11_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:11_7_0"
+msgid "¿Quieres entrar en este torneo?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=11_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["11_8_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:11_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:11_8_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=11_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["11_9_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:11_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:11_9_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=12_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["12_0_0"]
+#. y1:english="Five Rules for the Colosseum"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:12_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:12_0_0"
+msgid "En el Coliseo hay cinco normas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=12_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["12_1_0"]
+#. y1:english="1. 8 men go in, only 1 man comes out."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:12_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:12_1_0"
+msgid "1. 8 competidores, pero un solo ganador."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=12_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["12_2_0"]
+#. y1:english="2. There is no time limit. Wins by KOs only."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:12_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:12_2_0"
+msgid "2. No hay límite de tiempo. Gana por KO."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=12_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["12_3_0"]
+#. y1:english="3. No weapons allowed without permission."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:12_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:12_3_0"
+msgid "3. Prohibido entrar al ring con armas sin permiso."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=12_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["12_4_0"]
+#. y1:english="4. 30% of the max HP is recovered during intervals."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:12_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:12_4_0"
+msgid "4. En cada intervalo se recupera el 30% de PV máx."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=12_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["12_5_0"]
+#. y1:english="5. Honour, cash and other prizes go to the winner."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:12_5_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:12_5_0"
+msgid "5. Honor, dinero y otros premios para el ganador."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=12_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["12_6_0"]
+#. y1:english="The above are the basic rules of conduct."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:12_6_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:12_6_0"
+msgid "Estas son las normas de conducta básicas."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=12_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["12_7_0"]
+#. y1:english="Each tournament has its own additional rules."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:12_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:12_7_0"
+msgid "Cada torneo tiene sus propias reglas adicionales."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=13_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["13_0_0"]
+#. y1:english="Fight Record for Kazuma Kiryu"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:13_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:13_0_0"
+msgid "Historial de combate de Kazuma Kiryu"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=13_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["13_1_0"]
+#. y1:english="This is the fight record for Kazuma-san."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:13_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:13_1_0"
+msgid "Este es el historial de combate de Kazuma-san."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_0_0"]
+#. y1:english="Results"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_0_0"
+msgid "Resultados"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_1_0"]
+#. y1:english="Tournament Name"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_1_0"
+msgid "Nombre del Torneo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_2_0"]
+#. y1:english="Fight Record"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_2_0"
+msgid "Historial de Combate"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_3_0"]
+#. y1:english="Cash Prize Winnings"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_3_0"
+msgid "Premios en Metálico"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_4_0"]
+#. y1:english="Prize Winnings"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_4_0"
+msgid "Premios"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_5_0"]
+#. y1:english="Experience Points"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_5_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_5_0"
+msgid "Puntos de Experiencia"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_6_0"]
+#. y1:english="Victories"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_6_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_6_0"
+msgid "Victorias"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_7_0"]
+#. y1:english="Losses in the Final Bout"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_7_0"
+msgid "Derrotas en el Último Combate"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_8_0"]
+#. y1:english="Losses in the 2nd Bout"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_8_0"
+msgid "Derrotas en el Segundo Combate"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_9_0"]
+#. y1:english="Losses in the 1st Bout"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_9_0"
+msgid "Derrotas en el Primer Combate"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_10_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_10_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_10_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_11_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_11_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_11_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_12_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_12_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_12_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_13_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_13_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_13_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_14_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_14_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_14_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_15_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_15_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_15_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_16_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_16_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_16_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_16_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_17_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_17_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_17_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_17_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_18_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_18_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_18_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_18_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_19_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_19_0"]
+#. y1:english="yen"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_19_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_19_0"
+msgid "yen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_20_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_20_0"]
+#. y1:english="None"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_20_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_20_0"
+msgid "Ninguno"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_21_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_21_0"]
+#. y1:english="This is the fight record for Kazuma-san.||Congratulations on your victory."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_21_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_21_0"
+msgid "Historial de combate de Kazuma.||Felicidades por tu victoria."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_22_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_22_0"]
+#. y1:english="This victory enables you to enter a new tournament."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_22_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_22_0"
+msgid "Esta victoria te permite||entrar en un nuevo torneo."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_23_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_23_0"]
+#. y1:english="Too bad, better luck next time..."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_23_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_23_0"
+msgid "iLástima!||Más suerte la próxima vez..."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_24_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_24_0"]
+#. y1:english="You cannot hold any more items.||Shall we send it to you later?"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_24_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_24_0"
+msgid "No puedes llevar más objetos.||¿Te lo enviamos luego?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_25_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_25_0"]
+#. y1:english="Yes"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_25_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_25_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_26_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_26_0"]
+#. y1:english="No"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_26_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_26_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_27_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_27_0"]
+#. y1:english="Okay, we will send it to the Item Box."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_27_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_27_0"
+msgid "De acuerdo, te lo enviamos al Inventario."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_28_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_28_0"]
+#. y1:english="Okay, we won't present you with the prize."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_28_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_28_0"
+msgid "De acuerdo, entonces no te entregamos el premio."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_29_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_29_0"]
+#. y1:english="You gained||||exp."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_29_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_29_0"
+msgid "Has ganado||||experiencia."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=14_30_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["14_30_0"]
+#. y1:english="You won a||||yen cash prize."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:14_30_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:14_30_0"
+msgid "Has ganado un premio de||||yenes."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_0_0"]
+#. y1:english="Demon's Fang Sword"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_0_0"
+msgid "Espada de Colmillo de Demonio"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_1_0"]
+#. y1:english="Champion's Ring"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_1_0"
+msgid "Anillo de Campeón"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_2_0"]
+#. y1:english="Staminan Spark"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_2_0"
+msgid "Staminan Spark"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_3_0"]
+#. y1:english="Dragon Cloth"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_3_0"
+msgid "Ropa de Dragón"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_4_0"]
+#. y1:english="Charming Picture"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_4_0"
+msgid "Foto Carismática"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_5_0"]
+#. y1:english="Staminan Spark"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_5_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_5_0"
+msgid "Staminan Spark"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_6_0"]
+#. y1:english="Demon Cloth"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_6_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_6_0"
+msgid "Ropa de Demonio"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_7_0"]
+#. y1:english="Dragon Knuckles"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_7_0"
+msgid "Nudillos de Dragón"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_8_0"]
+#. y1:english="Staminan Spark"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_8_0"
+msgid "Staminan Spark"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_9_0"]
+#. y1:english="Cursed Sengetsu"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_9_0"
+msgid "Espada Sengetsu"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_10_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_10_0"]
+#. y1:english="Mifune's Kodachi"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_10_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_10_0"
+msgid "Kodachi de Mifune"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_11_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_11_0"]
+#. y1:english="Staminan Spark"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_11_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_11_0"
+msgid "Staminan Spark"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_12_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_12_0"]
+#. y1:english="Cursed Myogetsu"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_12_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_12_0"
+msgid "Espada Myougetsu"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_13_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_13_0"]
+#. y1:english="Ogre Knuckles"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_13_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_13_0"
+msgid "Nudillos de Ogro"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_14_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_14_0"]
+#. y1:english="Staminan Royal"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_14_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_14_0"
+msgid "Staminan Royal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_15_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_15_0"]
+#. y1:english="Captain's Bat"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_15_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_15_0"
+msgid "Bate del Capitán"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_16_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_16_0"]
+#. y1:english="Staminan Royal"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_16_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_16_0"
+msgid "Staminan Royal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_17_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_17_0"]
+#. y1:english="Staminan Royal"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_17_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_17_0"
+msgid "Staminan Royal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_18_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_18_0"]
+#. y1:english="SP Tactical Baton"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_18_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_18_0"
+msgid "Bastón de Tácticas Especiales"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_19_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_19_0"]
+#. y1:english="Chain Mail"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_19_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_19_0"
+msgid "Cota de Malla"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_20_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_20_0"]
+#. y1:english="Staminan XX"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_20_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_20_0"
+msgid "Staminan XX"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_21_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_21_0"]
+#. y1:english="Staminan Royal"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_21_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_21_0"
+msgid "Staminan Royal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_22_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_22_0"]
+#. y1:english="Fighting Cloth"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_22_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_22_0"
+msgid "Ropa de Combate"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_23_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_23_0"]
+#. y1:english="Mail Order Sword"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_23_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_23_0"
+msgid "Espada de Catalogo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_24_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_24_0"]
+#. y1:english="Staminan Royal"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_24_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_24_0"
+msgid "Staminan Royal"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_25_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_25_0"]
+#. y1:english="Imperial Army Grenade"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_25_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_25_0"
+msgid "Granada del Ejército Imperial"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_26_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_26_0"]
+#. y1:english="Motomiya's Dagger"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_26_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_26_0"
+msgid "Daga de Motomiya"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_27_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_27_0"]
+#. y1:english="Flash Bomb"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_27_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_27_0"
+msgid "Bomba Cegadora"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_28_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_28_0"]
+#. y1:english="Tauriner ++"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_28_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_28_0"
+msgid "Tauriner ++"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_29_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_29_0"]
+#. y1:english="Staminan XX"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_29_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_29_0"
+msgid "Staminan XX"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_30_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_30_0"]
+#. y1:english="You got a \"Demon's Fang Sword\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_30_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_30_0"
+msgid "Has obtenido||una \"Espada de Colmillo de Demonio\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_31_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_31_0"]
+#. y1:english="You got a \"Champion's Ring\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_31_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_31_0"
+msgid "Has obtenido un \"Anillo de Campeón\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_32_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_32_0"]
+#. y1:english="You got a \"Staminan Spark\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_32_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_32_0"
+msgid "Has obtenido un \"Staminan Spark\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_33_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_33_0"]
+#. y1:english="You got a \"Dragon Cloth\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_33_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_33_0"
+msgid "Has obtenido \"Ropa de Dragón\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_34_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_34_0"]
+#. y1:english="You got a \"Charming Picture\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_34_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_34_0"
+msgid "Has obtenido una \"Foto Carismática\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_35_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_35_0"]
+#. y1:english="You got a \"Staminan Spark\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_35_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_35_0"
+msgid "Has obtenido un \"Staminan Spark\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_36_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_36_0"]
+#. y1:english="You got a \"Demon Cloth\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_36_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_36_0"
+msgid "Has obtenido \"Ropa de Dragón\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_37_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_37_0"]
+#. y1:english="You got \"Dragon Knuckles\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_37_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_37_0"
+msgid "Has obtenido \"Nudillos de Dragón\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_38_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_38_0"]
+#. y1:english="You got a \"Staminan Spark\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_38_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_38_0"
+msgid "Has obtenido un \"Staminan Spark\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_39_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_39_0"]
+#. y1:english="You got a \"Cursed Sengetsu\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_39_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_39_0"
+msgid "Has obtenido una \"Espada Maldita Sengetsu\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_40_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_40_0"]
+#. y1:english="You got a \"Mifune's Kodachi\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_40_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_40_0"
+msgid "Has obtenido un \"Kodachi de Mifune\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_41_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_41_0"]
+#. y1:english="You got a \"Staminan Spark\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_41_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_41_0"
+msgid "Has obtenido un \"Staminan Spark\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_42_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_42_0"]
+#. y1:english="You got a \"Cursed Myogetsu\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_42_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_42_0"
+msgid "Has obtenido una \"Espada Maldita Myougetsu\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_43_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_43_0"]
+#. y1:english="You got \"Ogre Knuckles\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_43_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_43_0"
+msgid "Has obtenido \"Nudillos de Ogro\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_44_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_44_0"]
+#. y1:english="You got a \"Staminan Royal\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_44_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_44_0"
+msgid "Has obtenido un \"Staminan Royal\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_45_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_45_0"]
+#. y1:english="You got a \"Captain's Bat\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_45_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_45_0"
+msgid "Has obtenido un \"Bate del Capitán\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_46_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_46_0"]
+#. y1:english="You got a \"Staminan Royal\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_46_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_46_0"
+msgid "Has obtenido un \"Staminan Royal\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_47_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_47_0"]
+#. y1:english="You got a \"Staminan Royal\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_47_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_47_0"
+msgid "Has obtenido un \"Staminan Royal\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_48_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_48_0"]
+#. y1:english="You got a \"SP Tactical Baton\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_48_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_48_0"
+msgid "Has obtenido||un \"Bastón de Tácticas Especiales\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_49_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_49_0"]
+#. y1:english="You got a \"Chain Mail\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_49_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_49_0"
+msgid "Has obtenido una \"Cota de Malla\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_50_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_50_0"]
+#. y1:english="You got a \"Staminan XX\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_50_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_50_0"
+msgid "Has obtenido un \"Staminan XX.\""
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_51_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_51_0"]
+#. y1:english="You got a \"Staminan Royal\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_51_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_51_0"
+msgid "Has obtenido un \"Staminan Royal\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_52_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_52_0"]
+#. y1:english="You got a \"Fighting Cloth\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_52_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_52_0"
+msgid "Has obtenido \"Ropa de Combate\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_53_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_53_0"]
+#. y1:english="You got a \"Mail Order Sword\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_53_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_53_0"
+msgid "Has obtenido una \"Espada de Catalogo\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_54_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_54_0"]
+#. y1:english="You got a \"Staminan Royal\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_54_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_54_0"
+msgid "Has obtenido un \"Staminan Royal\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_55_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_55_0"]
+#. y1:english="You got an \"Imperial Army Grenade\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_55_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_55_0"
+msgid "Has obtenido||una \"Granada del Ejército Imperial\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_56_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_56_0"]
+#. y1:english="You got a \"Motomiya's Dagger\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_56_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_56_0"
+msgid "Has obtenido una \"Daga de Motomiya\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_57_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_57_0"]
+#. y1:english="You got a \"Flash Bomb\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_57_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_57_0"
+msgid "Has obtenido una \"Bomba Cegadora\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_58_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_58_0"]
+#. y1:english="You got a \"Tauriner ++\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_58_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_58_0"
+msgid "Has obtenido un \"Tauriner ++\"."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=15_59_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["15_59_0"]
+#. y1:english="You got a \"Staminan XX\"."
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:15_59_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:15_59_0"
+msgid "Has obtenido un \"Staminan XX.\""
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_0_0"]
+#. y1:english="Magnum Force Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_0_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_0_0"
+msgid "Premio Magnum Force"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_1_0"]
+#. y1:english="Hyper Tournament"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_1_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_1_0"
+msgid "Premio Súper Torneo"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_2_0"]
+#. y1:english="Face Off Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_2_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_2_0"
+msgid "Premio Confrontación"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_3_0"]
+#. y1:english="Sword Duel Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_3_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_3_0"
+msgid "Premio Duelo de Espadas"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_4_0"]
+#. y1:english="Burning Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_4_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_4_0"
+msgid "Premio Ardiente"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_5_0"]
+#. y1:english="Revenge Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_5_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_5_0"
+msgid "Premio Venganza"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_6_0"]
+#. y1:english="Street Fight Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_6_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_6_0"
+msgid "Premio Lucha Callejera"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_7_0"]
+#. y1:english="Scorpion Grand Prix"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_7_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_7_0"
+msgid "Premio Escorpión"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_8_0"]
+#. y1:english="Hyper Open Tournament"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_8_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_8_0"
+msgid "Súper Torneo Abierto"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:type=line
+#. y1:id=16_9_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN
+#. y1:english_ids=["16_9_0"]
+#. y1:english="Exhibition Tournament"
+#: MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN:16_9_0
+msgctxt "MEDIA/TALK/COLOSSEUM/TALK_COLOSSEUM.BIN::line:16_9_0"
+msgid "Torneo de Exhibición"
+msgstr ""

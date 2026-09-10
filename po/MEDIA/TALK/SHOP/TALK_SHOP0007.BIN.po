@@ -1,0 +1,206 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Cancel"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:0_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:0_0_0"
+msgid "Cancelar"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=0_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["0_1_0"]
+#. y1:english="Payment"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:0_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:0_1_0"
+msgid "Pago"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=0_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["0_2_0"]
+#. y1:english="Market Value"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:0_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:0_2_0"
+msgid "Precio de venta"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=0_3_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["0_3_0"]
+#. y1:english="/"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:0_3_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=0_4_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["0_4_0"]
+#. y1:english="Doesn't look like you got enough money.||Please come again."
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:0_4_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:0_4_0"
+msgid "Parece que no tienes suficiente dinero.||Vuelve otro día, por favor."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=0_5_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["0_5_0"]
+#. y1:english="Thanks.||That'll be {NU:02_08_00}00000000 yen."
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:0_5_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:0_5_0"
+msgid "Gracias.||Serán {NU:02_08_00}00000000 yenes."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=0_6_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["0_6_0"]
+#. y1:english="Will there be anything else?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:0_6_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:0_6_0"
+msgid "¿Desea algo más?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=0_7_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["0_7_0"]
+#. y1:english="You can't carry any more stuff.||Why don't you sort your things out?"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:0_7_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:0_7_0"
+msgid "No puedes llevar más objetos.||¿Por qué no ordenas un poco tu inventario?"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=0_8_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["0_8_0"]
+#. y1:english="ko"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:0_8_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:0_8_0"
+msgid "ko"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Ramen"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:1_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:1_0_0"
+msgid "Ramen"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=1_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["1_1_0"]
+#. y1:english="Char Siu Ramen"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:1_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:1_1_0"
+msgid "Ramen Char Siu"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=1_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["1_2_0"]
+#. y1:english="Won Ton Ramen"
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:1_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:1_2_0"
+msgid "Ramen Won Ton"
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Tokyo style soy sauce based ramen. A simple||taste that you'll never grow tired of."
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:2_0_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:2_0_0"
+msgid "Ramen con salsa de soya estilo Tokio.||Un sabor simple del cual nunca te cansarás."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=2_1_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["2_1_0"]
+#. y1:english="Has stewed pork slices as a topping.||It's pretty filling."
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:2_1_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:2_1_0"
+msgid "Lleva tiras de carne de cerdo guisadas||como aderezo. Quedarás satisfecho."
+msgstr ""
+
+#. y1:source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:type=line
+#. y1:id=2_2_0
+#. y1:alignment=single_line
+#. y1:status=paired
+#. y1:english_source=MEDIA/TALK/SHOP/TALK_SHOP0007.BIN
+#. y1:english_ids=["2_2_0"]
+#. y1:english="A great dish with a home-made won ton||topping. It's quite filling."
+#: MEDIA/TALK/SHOP/TALK_SHOP0007.BIN:2_2_0
+msgctxt "MEDIA/TALK/SHOP/TALK_SHOP0007.BIN::line:2_2_0"
+msgid "Magnífico plato con un aderezo de won ton||casero. Llena bastante."
+msgstr ""

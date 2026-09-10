@@ -1,0 +1,56 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Hey! What the fuck?!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":62,"split":0,"start":612.0,"end":664.0}],"english":[{"lang":"uk","section":0,"entry":53,"split":0,"start":612.0,"end":664.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN:0_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN::line:0_0_0"
+msgid "iHey! i¿Qué cojones?!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="What the fuck are you doing!!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":63,"split":0,"start":664.0,"end":736.0}],"english":[{"lang":"uk","section":1,"entry":54,"split":0,"start":664.0,"end":736.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN:1_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN::line:1_0_0"
+msgid "iiQué cojones haces!!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Get in!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":2,"entry":64,"split":0,"start":742.0,"end":784.0}],"english":[{"lang":"uk","section":2,"entry":55,"split":0,"start":742.0,"end":784.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN:2_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER05/AUTH_CHAPTER05_001.DAT/1___FILE.BIN::line:2_0_0"
+msgid "iMétete!"
+msgstr ""

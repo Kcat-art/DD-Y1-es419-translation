@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Uncle Kazuma!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":41,"split":0,"start":142.0,"end":199.0}],"english":[{"lang":"uk","section":0,"entry":23,"split":0,"start":142.0,"end":199.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN:0_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN::line:0_0_0"
+msgid "iTío Kazuma!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="...I'm sorry!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":42,"split":0,"start":199.0,"end":246.0}],"english":[{"lang":"uk","section":1,"entry":24,"split":0,"start":199.0,"end":246.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN:1_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN::line:1_0_0"
+msgid "... iLo siento!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["2_0_0"]
+#. y1:english="I'm sorry!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":2,"entry":43,"split":0,"start":246.0,"end":307.0}],"english":[{"lang":"uk","section":2,"entry":25,"split":0,"start":246.0,"end":307.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN:2_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN::line:2_0_0"
+msgid "iLo siento!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["3_0_0"]
+#. y1:english="Kazuma Kiryu!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":3,"entry":44,"split":0,"start":475.0,"end":533.0}],"english":[{"lang":"uk","section":3,"entry":26,"split":0,"start":475.0,"end":533.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN:3_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN::line:3_0_0"
+msgid "iKazuma Kiryu!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["4_0_0"]
+#. y1:english="You're under arrest..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":4,"entry":45,"split":0,"start":551.0,"end":610.0}],"english":[{"lang":"uk","section":4,"entry":27,"split":0,"start":551.0,"end":610.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN:4_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN::line:4_0_0"
+msgid "iEstás arrestado"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["5_0_0"]
+#. y1:english="for kidnapping!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":5,"entry":46,"split":0,"start":612.0,"end":672.0}],"english":[{"lang":"uk","section":5,"entry":28,"split":0,"start":612.0,"end":672.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN:5_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER12/AUTH_CHAPTER12_005.DAT/1___FILE.BIN::line:5_0_0"
+msgid "por secuestro!"
+msgstr ""

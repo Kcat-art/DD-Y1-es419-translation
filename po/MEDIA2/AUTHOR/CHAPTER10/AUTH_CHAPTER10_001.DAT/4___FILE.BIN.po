@@ -1,0 +1,603 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Kazuma."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":177,"split":0,"start":15.0,"end":63.0}],"english":[{"lang":"uk","section":0,"entry":81,"split":0,"start":15.0,"end":63.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:0_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:0_0_0"
+msgid "Kazuma."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="Hey... Kazuma!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":178,"split":0,"start":66.0,"end":126.0}],"english":[{"lang":"uk","section":1,"entry":82,"split":0,"start":66.0,"end":126.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:1_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:1_0_0"
+msgid "Hey... iKazuma!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["2_0_0"]
+#. y1:english="Take a look at this."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":2,"entry":179,"split":0,"start":140.0,"end":201.0}],"english":[{"lang":"uk","section":2,"entry":83,"split":0,"start":140.0,"end":201.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:2_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:2_0_0"
+msgid "Échale un vistazo a esto."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["3_0_0"]
+#. y1:english="What's this?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":3,"entry":180,"split":0,"start":383.0,"end":426.0}],"english":[{"lang":"uk","section":3,"entry":84,"split":0,"start":383.0,"end":426.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:3_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:3_0_0"
+msgid "¿Qué es lo que estoy viendo?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["4_0_0","4_0_1"]
+#. y1:english="This morning...\nwe found this corpse in Tokyo Bay."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":4,"entry":181,"split":0,"start":426.0,"end":538.0}],"english":[{"lang":"uk","section":4,"entry":85,"split":0,"start":426.0,"end":538.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:4_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:4_0_0"
+msgid "Esta mañana... encontramos este"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["4_0_0","4_0_1"]
+#. y1:english="This morning...\nwe found this corpse in Tokyo Bay."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":4,"entry":181,"split":0,"start":426.0,"end":538.0}],"english":[{"lang":"uk","section":4,"entry":85,"split":0,"start":426.0,"end":538.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:4_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:4_0_1"
+msgid "cadáver en la Bahía de Tokio."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["5_0_0"]
+#. y1:english="This tattoo...!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":5,"entry":182,"split":0,"start":549.0,"end":611.0}],"english":[{"lang":"uk","section":5,"entry":86,"split":0,"start":549.0,"end":611.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:5_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:5_0_0"
+msgid "iEste tatuaje...!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=6_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["6_0_0","6_0_1"]
+#. y1:english="The cause of death was loss of blood\ndue to blunt force trauma
+#. to the head."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":6,"entry":183,"split":0,"start":736.0,"end":855.0}],"english":[{"lang":"uk","section":6,"entry":87,"split":0,"start":736.0,"end":855.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:6_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:6_0_0"
+msgid ""
+"La causa de la muerte fue la pérdida de¥Nsangre provocada por un traumatismo"
+" craneal."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=7_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["7_0_0","7_0_1"]
+#. y1:english="The body was weighed down with\ncinder blocks and thrown into
+#. the bay."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":7,"entry":184,"split":0,"start":855.0,"end":958.0}],"english":[{"lang":"uk","section":7,"entry":88,"split":0,"start":855.0,"end":958.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:7_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:7_0_0"
+msgid "Le metieron peso al cuerpo con bloques"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=7_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["7_0_0","7_0_1"]
+#. y1:english="The body was weighed down with\ncinder blocks and thrown into
+#. the bay."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":7,"entry":184,"split":0,"start":855.0,"end":958.0}],"english":[{"lang":"uk","section":7,"entry":88,"split":0,"start":855.0,"end":958.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:7_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:7_0_1"
+msgid "de cemento y lo tiraron a la bahía."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=8_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["8_0_0"]
+#. y1:english="There are signs of torture as well."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":8,"entry":185,"split":0,"start":958.0,"end":1025.0}],"english":[{"lang":"uk","section":8,"entry":89,"split":0,"start":958.0,"end":1025.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:8_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:8_0_0"
+msgid "También muestra señales de tortura."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=9_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["9_0_0"]
+#. y1:english="...Is it Mizuki?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":9,"entry":186,"split":0,"start":1025.0,"end":1070.0}],"english":[{"lang":"uk","section":9,"entry":90,"split":0,"start":1025.0,"end":1070.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:9_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:9_0_0"
+msgid "... ¿Es Mizuki?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=10_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["10_0_0"]
+#. y1:english="I can't say for sure..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":10,"entry":187,"split":0,"start":1070.0,"end":1125.0}],"english":[{"lang":"uk","section":10,"entry":91,"split":0,"start":1070.0,"end":1125.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:10_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:10_0_0"
+msgid "No lo puedo asegurar..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=11_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["11_0_0"]
+#. y1:english="But the tattoo,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":11,"entry":188,"split":0,"start":1125.0,"end":1172.0}],"english":[{"lang":"uk","section":11,"entry":92,"split":0,"start":1125.0,"end":1172.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:11_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:11_0_0"
+msgid "pero el tatuaje,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=12_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["12_0_0"]
+#. y1:english="isn't it the same as the one Mizuki has?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":12,"entry":189,"split":0,"start":1172.0,"end":1271.0}],"english":[{"lang":"uk","section":12,"entry":93,"split":0,"start":1172.0,"end":1271.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:12_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:12_0_0"
+msgid "¿no es el mismo que tiene Mizuki?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=13_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["13_0_0"]
+#. y1:english="Looks like..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":13,"entry":190,"split":0,"start":1289.0,"end":1331.0}],"english":[{"lang":"uk","section":13,"entry":94,"split":0,"start":1289.0,"end":1331.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:13_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:13_0_0"
+msgid "Parece..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=14_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["14_0_0"]
+#. y1:english="What's up?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":14,"entry":191,"split":0,"start":1331.0,"end":1363.0}],"english":[{"lang":"uk","section":14,"entry":95,"split":0,"start":1331.0,"end":1363.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:14_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:14_0_0"
+msgid "¿Qué sucede?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=15_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["15_0_0"]
+#. y1:english="Take a closer look..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":15,"entry":192,"split":0,"start":1363.0,"end":1394.0}],"english":[{"lang":"uk","section":15,"entry":96,"split":0,"start":1363.0,"end":1394.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:15_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:15_0_0"
+msgid "Mira mejor."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=16_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["16_0_0"]
+#. y1:english="around here."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":16,"entry":193,"split":0,"start":1394.0,"end":1444.0}],"english":[{"lang":"uk","section":16,"entry":97,"split":0,"start":1394.0,"end":1444.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:16_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:16_0_0"
+msgid "Por aquí."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=17_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["17_0_0"]
+#. y1:english="Looks like the character for \"Uta\","
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":17,"entry":194,"split":0,"start":1444.0,"end":1519.0}],"english":[{"lang":"uk","section":17,"entry":98,"split":0,"start":1444.0,"end":1519.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:17_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:17_0_0"
+msgid "Parece el carácter \"Uta\","
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=18_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["18_0_0"]
+#. y1:english="doesn't it?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":18,"entry":195,"split":0,"start":1519.0,"end":1556.0}],"english":[{"lang":"uk","section":18,"entry":99,"split":0,"start":1519.0,"end":1556.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:18_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:18_0_0"
+msgid "¿no?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=19_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["19_0_0"]
+#. y1:english="Yeah, it does."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":19,"entry":196,"split":0,"start":1556.0,"end":1604.0}],"english":[{"lang":"uk","section":19,"entry":100,"split":0,"start":1556.0,"end":1604.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:19_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:19_0_0"
+msgid "Sí que lo parece."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=20_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["20_0_0","20_0_1"]
+#. y1:english="That means it's the work of \"Utabori\n the second\", the
+#. master tattoo artist."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":20,"entry":197,"split":0,"start":1604.0,"end":1732.0}],"english":[{"lang":"uk","section":20,"entry":101,"split":0,"start":1604.0,"end":1732.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:20_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:20_0_0"
+msgid "Significa que es el trabajo de"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=20_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["20_0_0","20_0_1"]
+#. y1:english="That means it's the work of \"Utabori\n the second\", the
+#. master tattoo artist."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":20,"entry":197,"split":0,"start":1604.0,"end":1732.0}],"english":[{"lang":"uk","section":20,"entry":101,"split":0,"start":1604.0,"end":1732.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:20_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:20_0_1"
+msgid "\"Utabori segundo\", el maestro tatuador."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=21_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["21_0_0","21_0_1"]
+#. y1:english="He always leaves his signature\nsomewhere on his pieces."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":21,"entry":198,"split":0,"start":1732.0,"end":1829.0}],"english":[{"lang":"uk","section":21,"entry":102,"split":0,"start":1732.0,"end":1829.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:21_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:21_0_0"
+msgid "Siempre deja su firma en algún lugar"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=21_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["21_0_0","21_0_1"]
+#. y1:english="He always leaves his signature\nsomewhere on his pieces."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":21,"entry":198,"split":0,"start":1732.0,"end":1829.0}],"english":[{"lang":"uk","section":21,"entry":102,"split":0,"start":1732.0,"end":1829.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:21_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:21_0_1"
+msgid "en sus obras."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=22_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["22_0_0","22_0_1"]
+#. y1:english="So, you're saying this corpse\nwas tattooed by this Utabori?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":22,"entry":199,"split":0,"start":1829.0,"end":1953.0}],"english":[{"lang":"uk","section":22,"entry":103,"split":0,"start":1829.0,"end":1953.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:22_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:22_0_0"
+msgid "Entonces, ¿este cuerpo ha sido"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=22_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["22_0_0","22_0_1"]
+#. y1:english="So, you're saying this corpse\nwas tattooed by this Utabori?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":22,"entry":199,"split":0,"start":1829.0,"end":1953.0}],"english":[{"lang":"uk","section":22,"entry":103,"split":0,"start":1829.0,"end":1953.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:22_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:22_0_1"
+msgid "tatuado por este Utabori?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=23_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["23_0_0"]
+#. y1:english="Yeah,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":23,"entry":200,"split":0,"start":1953.0,"end":1978.0}],"english":[{"lang":"uk","section":23,"entry":104,"split":0,"start":1953.0,"end":1978.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:23_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:23_0_0"
+msgid "Sí,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=24_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["24_0_0"]
+#. y1:english="I had my back done by him."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":24,"entry":201,"split":0,"start":1978.0,"end":2057.0}],"english":[{"lang":"uk","section":24,"entry":105,"split":0,"start":1978.0,"end":2057.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:24_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:24_0_0"
+msgid "a mi me tatuó la espalda."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=25_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["25_0_0"]
+#. y1:english="He should be in the Ryujin Building,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":25,"entry":202,"split":0,"start":2064.0,"end":2114.0}],"english":[{"lang":"uk","section":25,"entry":106,"split":0,"start":2064.0,"end":2114.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:25_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:25_0_0"
+msgid "Debe estar en el Edificio Ryujin,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=26_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["26_0_0","26_0_1"]
+#. y1:english="located somewhere between\nSenryo Ave. and Pink St."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":26,"entry":203,"split":0,"start":2114.0,"end":2219.0}],"english":[{"lang":"uk","section":26,"entry":107,"split":0,"start":2114.0,"end":2219.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:26_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:26_0_0"
+msgid "situado"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=26_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["26_0_0","26_0_1"]
+#. y1:english="located somewhere between\nSenryo Ave. and Pink St."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":26,"entry":203,"split":0,"start":2114.0,"end":2219.0}],"english":[{"lang":"uk","section":26,"entry":107,"split":0,"start":2114.0,"end":2219.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:26_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:26_0_1"
+msgid "entre la Avenida Senryo y la Calle Pink."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=27_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["27_0_0","27_0_1"]
+#. y1:english="If the woman in the picture is\nin fact Mizuki,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":27,"entry":204,"split":0,"start":2219.0,"end":2296.0}],"english":[{"lang":"uk","section":27,"entry":108,"split":0,"start":2219.0,"end":2296.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:27_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:27_0_0"
+msgid "Si la mujer de la fotografía es"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=27_0_1
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["27_0_0","27_0_1"]
+#. y1:english="If the woman in the picture is\nin fact Mizuki,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":27,"entry":204,"split":0,"start":2219.0,"end":2296.0}],"english":[{"lang":"uk","section":27,"entry":108,"split":0,"start":2219.0,"end":2296.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:27_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:27_0_1"
+msgid "realmente Mizuki,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=28_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["28_0_0"]
+#. y1:english="we must never tell Haruka."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":28,"entry":205,"split":0,"start":2296.0,"end":2379.0}],"english":[{"lang":"uk","section":28,"entry":109,"split":0,"start":2296.0,"end":2379.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:28_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:28_0_0"
+msgid "nunca le debemos decir a Haruka."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=29_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["29_0_0"]
+#. y1:english="Yeah."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":29,"entry":206,"split":0,"start":2397.0,"end":2439.0}],"english":[{"lang":"uk","section":29,"entry":110,"split":0,"start":2397.0,"end":2439.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:29_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:29_0_0"
+msgid "Sí."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=30_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["30_0_0"]
+#. y1:english="I'm gonna step out for a bit."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":30,"entry":207,"split":0,"start":2527.0,"end":2579.0}],"english":[{"lang":"uk","section":30,"entry":111,"split":0,"start":2527.0,"end":2579.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:30_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:30_0_0"
+msgid "Voy a salir un rato."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:type=line
+#. y1:id=31_0_0
+#. y1:english_source=MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["31_0_0"]
+#. y1:english="Be careful..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":31,"entry":208,"split":0,"start":2579.0,"end":2637.0}],"english":[{"lang":"uk","section":31,"entry":112,"split":0,"start":2579.0,"end":2637.0}],"fallback":false}
+#: MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN:31_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/CHAPTER10/AUTH_CHAPTER10_001.DAT/4___FILE.BIN::line:31_0_0"
+msgid "Ten cuidado..."
+msgstr ""

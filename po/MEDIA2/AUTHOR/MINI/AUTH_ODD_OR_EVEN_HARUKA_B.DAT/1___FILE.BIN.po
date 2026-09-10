@@ -1,0 +1,1355 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:0_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Un juego de dados."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_1
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:0_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:0_0_1"
+msgid "¿Quieres jugar una partida?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:1_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:1_0_0"
+msgid "¿Estas listo？"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_1
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:1_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:1_0_1"
+msgid "iComencemos！"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:2_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Buena suerte..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:3_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:3_0_0"
+msgid "¿Cuanto vamos a apostar？"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_1
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:3_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:3_0_1"
+msgid "Usa los botones de dirección para apostar."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:4_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Los dados están listos."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_1
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:4_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:4_0_1"
+msgid "iAbre!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_0_0"
+msgid "iMira bien! iPares！"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_1_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_1_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_1_0"
+msgid "2 y 1 iImpar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_2_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_2_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_2_0"
+msgid "3 y 1 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_3_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_3_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_3_0"
+msgid "4 y 1 iImpar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_4_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_4_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_4_0"
+msgid "5 y 1 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_5_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_5_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_5_0"
+msgid "6 y 1 iImpar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_6_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_6_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_6_0"
+msgid "Doble 2  iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_7_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_7_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_7_0"
+msgid "2 y 3 iImpar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_8_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_8_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_8_0"
+msgid "2 y 4 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_9_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_9_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_9_0"
+msgid "2 y 5 iImpar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_10_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_10_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_10_0"
+msgid "2 y 6 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_11_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_11_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_11_0"
+msgid "Doble 3 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_12_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_12_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_12_0"
+msgid "4 y 3 iImpar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_13_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_13_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_13_0"
+msgid "5 y 3 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_14_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_14_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_14_0"
+msgid "3 y 6 iImpar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_15_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_15_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_15_0"
+msgid "Doble 4 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_16_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_16_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_16_0"
+msgid "5 y 4 iImpar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_17_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_17_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_17_0"
+msgid "4 y 6 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_18_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_18_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_18_0"
+msgid "Doble 5 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_19_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_19_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_19_0"
+msgid "5 y 6 iImpar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_20_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:5_20_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:5_20_0"
+msgid "Doble 6 iPar!"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=6_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:6_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Este es el resultado"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=6_0_1
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:6_0_1
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:6_0_1"
+msgid "en la tabla. {NU:02_08_00}00000000Puntos"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=6_1_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:6_1_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:6_1_0"
+msgid "Mala suerte, señor."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=6_2_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:6_2_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:6_2_0"
+msgid "No está mal, pequeña."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=7_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:7_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:7_0_0"
+msgid "¿Otra partida?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=8_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:8_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Haruka \"iPares!\""
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=8_1_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:8_1_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:8_1_0"
+msgid "Haruka \"iImpar!\""
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=9_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:9_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Kazuma \"(Confio en la intuición de Haruka...)\""
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=9_1_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:9_1_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:9_1_0"
+msgid "Kazuma \"(Confiaré en Haruka...)\""
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=10_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:10_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Vamos a comenzar otra partida."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=10_1_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:10_1_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:10_1_0"
+msgid "Parece que está quebrado señor..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=10_1_1
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:10_1_1
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:10_1_1"
+msgid "Aquí lo esperamos cuando traiga dinero."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=11_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:11_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Sí"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=11_1_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:11_1_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:11_1_0"
+msgid "No"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=12_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:12_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Pares"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=12_1_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:12_1_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:12_1_0"
+msgid "Impares"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=13_0_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:13_0_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Otra vez."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=13_1_0
+#. y1:english_source=MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN
+#. y1:alignment=scene_context
+#. y1:status=paired
+#. y1:english_ids=["0_0_0","0_0_1","1_0_0","1_0_1","2_0_0","3_0_0","3_0_1","4_0_0","4_0_1","5_0_0","5_1_0","5_2_0","5_3_0","5_4_0","5_5_0","5_6_0","5_7_0","5_8_0","5_9_0","5_10_0","5_11_0","5_12_0","5_13_0","5_14_0","5_15_0","5_16_0","5_17_0","5_18_0","5_19_0","5_20_0","6_0_0","6_0_1","6_1_0","6_2_0","7_0_0","8_0_0","8_1_0","9_0_0","9_1_0","10_0_0","10_1_0","10_1_1","11_0_0","11_1_0","12_0_0","12_1_0","13_0_0","13_1_0"]
+#. y1:english="A dice game.\nWanna give it a shot?\nAre you ready?\nLet's
+#. begin!\nGood luck...\nHow much should we bet?\nUse the directional button
+#. to bet.\nThe dice are ready.\nOpen!\nSnake eyes! Even!\n2 and 1! Odd!\n3
+#. and 1! Even!\n4 and 1! Odd!\n5 and 1! Even!\n6 and 1! Odd!\nDouble 2s!
+#. Even!\n2 and 3! Odd!\n2 and 4! Even!\n2 and 5! Odd!\n2 and 6! Even!\nDouble
+#. 3s! Even!\n4 and 3! Odd!\n5 and 3! Even!\n3 and 6! Odd!\nDouble 4s!
+#. Even!\n5 and 4! Odd!\n4 and 6! Even!\nDouble 5s! Even!\n5 and 6!
+#. Odd!\nDouble 6s! Even!\nHere are your points after the table
+#. charge.\n{NU:02_08_00}00000000 Points\nToo bad, sir.\nNot bad, little
+#. girl.\nOne more roll?\nHaruka \"Even!\"\nHaruka \"Odd!\"\nKazuma \"(I trust
+#. Haruka's instincts...)\"\nKazuma \"(I'll take Haruka's word for
+#. it...)\"\nLet's start the next roll.\nYou're looking a little broke
+#. there...\nBring more cash next time.\nYes\nNo\nEven\nOdd\nOne more
+#. time.\nNo, thanks."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.B00","unit":"native_timeline_ticks","spanish":[],"english":[],"fallback":true}
+#: MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN:13_1_0
+msgctxt ""
+"MEDIA2/AUTHOR/MINI/AUTH_ODD_OR_EVEN_HARUKA_B.DAT/1___FILE.BIN::line:13_1_0"
+msgid "No, gracias."
+msgstr ""

@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Okay."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":24,"split":0,"start":1.0,"end":47.0}],"english":[{"lang":"uk","section":0,"entry":15,"split":0,"start":1.0,"end":47.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN:0_0_0
+msgctxt "MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Ok."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="We'll just excuse ourselves now..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":25,"split":0,"start":47.0,"end":127.0}],"english":[{"lang":"uk","section":1,"entry":16,"split":0,"start":47.0,"end":127.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN:1_0_0
+msgctxt "MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Ahora nos vamos..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["2_0_0"]
+#. y1:english="We're very sorry for all the trouble!!"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":2,"entry":26,"split":0,"start":127.0,"end":225.0}],"english":[{"lang":"uk","section":2,"entry":17,"split":0,"start":127.0,"end":225.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN:2_0_0
+msgctxt "MEDIA2/AUTHOR/SUB02/AUTH_SUB2_S04_BAR_B.DAT/1___FILE.BIN::line:2_0_0"
+msgid "iiSentimos las molestias!!"
+msgstr ""

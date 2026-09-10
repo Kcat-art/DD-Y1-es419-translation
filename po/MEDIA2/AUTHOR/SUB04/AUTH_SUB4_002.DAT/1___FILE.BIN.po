@@ -1,0 +1,137 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 EU SLES_541.71\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Context-Dictionary: talk_context_en_es.tsv\n"
+"X-Game-Control-Tags: Preserve || and {...} verbatim\n"
+"X-Source-Language: es\n"
+
+#. y1:source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=0_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["0_0_0"]
+#. y1:english="Please excuse me..."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":0,"entry":51,"split":0,"start":53.0,"end":93.0}],"english":[{"lang":"uk","section":0,"entry":27,"split":0,"start":53.0,"end":93.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN:0_0_0
+msgctxt "MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Discúlpenme, por favor..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=1_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["1_0_0"]
+#. y1:english="I'll be back in just a moment."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":1,"entry":52,"split":0,"start":93.0,"end":163.0}],"english":[{"lang":"uk","section":1,"entry":28,"split":0,"start":93.0,"end":163.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN:1_0_0
+msgctxt "MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Volveré en un momento."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=2_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["2_0_0"]
+#. y1:english="This gambling thing is pretty easy, huh?"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":2,"entry":53,"split":0,"start":291.0,"end":366.0}],"english":[{"lang":"uk","section":2,"entry":29,"split":0,"start":291.0,"end":366.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN:2_0_0
+msgctxt "MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Este juego de apuestas es bastante fácil, ¿eh?"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=3_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["3_0_0"]
+#. y1:english="I think I'm a natural."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":3,"entry":54,"split":0,"start":366.0,"end":441.0}],"english":[{"lang":"uk","section":3,"entry":30,"split":0,"start":366.0,"end":441.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN:3_0_0
+msgctxt "MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Soy una jugadora nata."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=4_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["4_0_0"]
+#. y1:english="You can say that again."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":4,"entry":55,"split":0,"start":442.0,"end":479.0}],"english":[{"lang":"uk","section":4,"entry":31,"split":0,"start":442.0,"end":479.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN:4_0_0
+msgctxt "MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Ya te digo..."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["5_0_0"]
+#. y1:english="Since my good luck is helping you win,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":5,"entry":56,"split":0,"start":479.0,"end":535.0}],"english":[{"lang":"uk","section":5,"entry":32,"split":0,"start":479.0,"end":535.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN:5_0_0
+msgctxt "MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Ya que te estoy ayudando"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=5_0_1
+#. y1:english_source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["5_0_0"]
+#. y1:english="Since my good luck is helping you win,"
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":5,"entry":56,"split":0,"start":479.0,"end":535.0}],"english":[{"lang":"uk","section":5,"entry":32,"split":0,"start":479.0,"end":535.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN:5_0_1
+msgctxt "MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN::line:5_0_1"
+msgid "a ganar con mi suerte,"
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=6_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["6_0_0"]
+#. y1:english="you should treat me to something."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":6,"entry":57,"split":0,"start":535.0,"end":611.0}],"english":[{"lang":"uk","section":6,"entry":33,"split":0,"start":535.0,"end":611.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN:6_0_0
+msgctxt "MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN::line:6_0_0"
+msgid "deberías hacerme un regalito."
+msgstr ""
+
+#. y1:source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:type=line
+#. y1:id=7_0_0
+#. y1:english_source=MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN
+#. y1:alignment=subtitle_time_overlap
+#. y1:status=paired
+#. y1:english_ids=["7_0_0"]
+#. y1:english="Sure, no problem."
+#. y1:timing={"scene":"MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.B00","unit":"native_timeline_ticks","spanish":[{"lang":"es","section":7,"entry":58,"split":0,"start":611.0,"end":672.0}],"english":[{"lang":"uk","section":7,"entry":34,"split":0,"start":611.0,"end":672.0}],"fallback":false}
+#: MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN:7_0_0
+msgctxt "MEDIA2/AUTHOR/SUB04/AUTH_SUB4_002.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Sí, claro."
+msgstr ""
