@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0009\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0009.BIN\n"
+"X-Y1PS2-Source-SHA256: 6bf1b8c4352d25d60368c2c67afab6710c8a08122955d1655f54b66f20d2a599\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0009.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0009.BIN\n"
+"X-Y1PS2-Talk-SHA256: 6bf1b8c4352d25d60368c2c67afab6710c8a08122955d1655f54b66f20d2a599\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 97\n"
+"X-Y1PS2-Raw-Block-ID: 102\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0066\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 660001037c3c0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0009|block=0102|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mus_suit3_E\n"
+"X-Y1PS2-Actor: w_3\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0009/reference/jp/t00__TALK_ST_KAB0009__jp__sec-0101__block-0102__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0009/reference/en/t00__ST_KAB0009__en__sec-0097__block-0102__type-01.po\n"
+
+#. y1ps2.full_id: 97_0_0
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_0"
+msgid "Eh, {PA:10}tú.{PA:10}||¿Qué acabas de decir?"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_1
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_1"
+msgid "¿Ehh? {PA:10}i¿Tú quién eres?!{PA:10}||¿Eres uno de los nuestros?"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_2
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_2"
+msgid "No..."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_3
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_3"
+msgid "Bueno, {PA:10}lo que sea.{PA:20}||¿Conoces bien esta ciudad?"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_4
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_4"
+msgid "Sí, {PA:10}un poco."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_5
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_5"
+msgid "¿De verdad? {PA:10}¿Conoces,{PA:10}||por casualidad, a un tipo llamado Kazuma?"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_6
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_6"
+msgid "¿Qué?"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_7
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_7"
+msgid "iKa {PA:10}-zu {PA:10}-ma!{PA:10}||Un tipo llamado Kazuma."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_8
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_8"
+msgid "¿Por qué lo estás buscando?"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_9
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_9"
+msgid "No conozco los detalles,{PA:10}||es una orden directa de nuestro Oyabun."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_10
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_10"
+msgid "He estado buscándolo,{PA:10}||Pero ya que {PA:10}mi territorio es Akabane,"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_11
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_11"
+msgid "no sé por dónde empezar."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_12
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_12"
+msgid "... Ya veo."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_13
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_13"
+msgid "Menuda suerte tengo.{PA:10}||Si descubres algo,"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_14
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_14"
+msgid "por favor, házmelo saber. {PA:10}¿Lo harás?"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_15
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_15"
+msgid "{PA:10}No."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_16
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_16"
+msgid "Oh, ok.{PA:10} Bueno...{PA:20}||No importa."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_17
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_0_17"
+msgid "Siento molestarte."
+msgstr ""
+
+#. y1ps2.full_id: 97_1_0
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_1_0"
+msgid "Incluso si he escuchado||el nombre Kazuma..."
+msgstr ""
+
+#. y1ps2.full_id: 97_2_0
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_2_0"
+msgid "iKa{PA:10}-zu{PA:10}-ma!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 97_2_1
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_2_1"
+msgid "Si encuentras a un hombre llamado Kazuma,||dímelo por favor,"
+msgstr ""
+
+#. y1ps2.full_id: 97_2_2
+#. y1ps2.logical_line_key: ST_KAB0009|block=0102|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "97_2_2"
+msgid "¿ok?"
+msgstr ""

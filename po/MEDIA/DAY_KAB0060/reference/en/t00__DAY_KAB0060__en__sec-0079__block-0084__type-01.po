@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0060\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0060.BIN\n"
+"X-Y1PS2-Source-SHA256: 62dac0f5453abd8e98ee4dce9a0a46abab25b044fa8146541d70a98b1eeb2cd4\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0060.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0060.BIN\n"
+"X-Y1PS2-Talk-SHA256: 62dac0f5453abd8e98ee4dce9a0a46abab25b044fa8146541d70a98b1eeb2cd4\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 79\n"
+"X-Y1PS2-Raw-Block-ID: 84\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0054\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 54000101982d0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0060|block=0084|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_11\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NIN_TRG_JEWEL\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 79_0_0
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_0"
+msgid "(There's this week's issue||of SPA! magazine.)"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_1
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_1"
+msgid "- Clear and Present Danger -"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_2
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_2"
+msgid "Kamurocho, the biggest||entertainment district in Japan..."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_3
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_3"
+msgid "The word around town is that||a certain organisation"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_4
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_4"
+msgid "is in the midst of an internal conflict."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_5
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_5"
+msgid "On the other side of the wall from||where businessmen play with hostesses..."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_6
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_6"
+msgid "fights break out, spilling blood all over."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_7
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_7"
+msgid "The reporters of the SPA! editorial||department have risked our own lives"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_8
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_8"
+msgid "to make contact with people on the inside!"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_9
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_9"
+msgid "The clear and present danger is||reported in detail in the article."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_10
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_10"
+msgid "Keep reading?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_11
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_11"
+msgid "Ah, {PA:10}about the ○○ Clan..."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_12
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_12"
+msgid "It seems like the two oldest captains,{PA:10}||F Oyabun and S Oyabun, {PA:10}are having a dispute."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_13
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_13"
+msgid "The members of the S Family are trespassing||on Tenkaichi St. which is clearly"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_14
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_14"
+msgid "the territory of the F Family."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_15
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_15"
+msgid "This has resulted in the constant||street wars as of late.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_16
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_16"
+msgid "(Insider of a certain family)"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_17
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_17"
+msgid "Keep reading?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_18
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_18"
+msgid "As for the ○○ Clan, there was further||internal trouble 10 years ago in which"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_19
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_19"
+msgid "a member had killed a top captain."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_20
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_20"
+msgid "In addition, {PA:10}the man who was accused||and sentenced for the killing of the captain"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_21
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_21"
+msgid "will be released from prison soon."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_22
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_22"
+msgid "It looks as if this will||add fuel to the fire."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_23
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_23"
+msgid "If I were an ordinary citizen, I wouldn't||even set one foot in this filthy town."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_24
+#. y1ps2.logical_line_key: DAY_KAB0060|block=0084|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_24"
+msgid "(Ex-captain of a tertiary family)"
+msgstr ""

@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0057\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0057.BIN\n"
+"X-Y1PS2-Source-SHA256: c15d06a66fab315b32a282700420da7cf9da83955b926beaae48d94755742ccf\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0057.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0057.BIN\n"
+"X-Y1PS2-Talk-SHA256: c15d06a66fab315b32a282700420da7cf9da83955b926beaae48d94755742ccf\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 79\n"
+"X-Y1PS2-Raw-Block-ID: 82\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0052\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 52000101e02c0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0057|block=0082|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_11\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NIN_TRG_CHILD_PARK\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 79_0_0
+#. y1ps2.logical_line_key: DAY_KAB0057|block=0082|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "79_0_0"
+msgid "This Char Siu Ramen is so delicious||that the pork just melts in your mouth!"
+msgstr ""

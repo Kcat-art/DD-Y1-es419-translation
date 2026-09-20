@@ -1,0 +1,3415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0005\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0005.BIN\n"
+"X-Y1PS2-Source-SHA256: 6f2417f0811415f027dd22696407eb6e27b03b5ca0bec6029cead0b023fd538f\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0005.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0005.BIN\n"
+"X-Y1PS2-Talk-SHA256: 6f2417f0811415f027dd22696407eb6e27b03b5ca0bec6029cead0b023fd538f\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 74\n"
+"X-Y1PS2-Raw-Block-ID: 75\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4b00010b20310000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0005|block=0075|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER14\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C14_TRG_TOKYO_YUBO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 74_0_7
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_7"
+msgid "Hey...{PA:20} you Aoki?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_8
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_8"
+msgid "Huh...? {PA:10}Oh, Kazuma-san?{PA:10}||From the Dojima Family?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_9
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_9"
+msgid "Yeah. {PA:20}You remembered me, huh?{PA:20} I haven't||set foot in this town for a long time."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_10
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_10"
+msgid "I'm glad you made it outta prison.{PA:20}||10 years is awfully long."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_11
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_11"
+msgid "You knew I was in the joint?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_12
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_12"
+msgid "Of course.{PA:10}||Everyone in this town back then knew."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_13
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_13"
+msgid "The famous \"Dragon of the Dojima Family\"||killed his own Oyabun."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_14
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_14"
+msgid "That story was all over the headlines."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_15
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_15"
+msgid "I see."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_16
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_16"
+msgid "...By the way,||where is Tamura these days?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_17
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_17"
+msgid "...Tamura-san died 5 years ago."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_18
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_18"
+msgid "What?!"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_19
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_19"
+msgid "Since the killing 10 years ago,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_20
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_20"
+msgid "Tamura-san set out to uncover||the truth behind what happened."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_21
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_21"
+msgid "He always said, \"Kazuma-san would be||the last person to kill his Oyabun.\""
+msgstr ""
+
+#. y1ps2.full_id: 74_0_22
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_22"
+msgid "...Although he wasn't a reporter by trade,"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_23
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_23"
+msgid "he was very forceful||when he interrogated people."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_24
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_24"
+msgid "...Of course, it was a huge story"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_25
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_25"
+msgid "for someone who makes a living off||of trading information."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_26
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_26"
+msgid "But,||Tamura-san was not your average guy."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_27
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=27
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_27"
+msgid "...One day,{PA:10} 5 years ago,{PA:10}||he disappeared into thin air."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_28
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=28
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_28"
+msgid "A week later, they found his body||in concrete at the bottom of the bay..."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_29
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_29"
+msgid "I think he knew too much."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_30
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=30
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_30"
+msgid "I didn't know that..."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_31
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_31"
+msgid "Personally, I owe Tamura-san a lot.||I was getting a lot of great info from him."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_32
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=32
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_32"
+msgid "We worked together for several years."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_33
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=33
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_33"
+msgid "So, I wanted to gather juicy information||for him."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_34
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=34
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_34"
+msgid "That's why I became a reporter||and informant."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_35
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=35
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_35"
+msgid "...So,{PA:10} Kazuma-san.{PA:10}||Do you want any information?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_36
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=36
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_36"
+msgid "Is there anything else||you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_37
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=37
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_37"
+msgid "Is there anything else||you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_38
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=38
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_38"
+msgid "Is there anything else||you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_39
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=39
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_39"
+msgid "Is there anything else||you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_40
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=40
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_40"
+msgid "Is there anything else||you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_41
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=41
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_41"
+msgid "Is there anything else||you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_42
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=42
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_42"
+msgid "No, thanks."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_43
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=43
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_43"
+msgid "You're welcome..."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_44
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=44
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_44"
+msgid "I'm not as good as Tamura,||but I get the job done."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_45
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=45
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_45"
+msgid "Please come to me when you need information."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_46
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=46
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_46"
+msgid "Stardust? Yeah.{PA:10}||It's a {MS:0}\"{CC:ffc8c8}host bar on Tenkaichi St.{CR:00}\""
+msgstr ""
+
+#. y1ps2.full_id: 74_0_47
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=47
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_47"
+msgid "Host bar?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_48
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=48
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_48"
+msgid "Yeah. {PA:20}There were no host bars||on Tenkaichi St. 10 years ago,"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_49
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=49
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_49"
+msgid "but over time, they made their way up from||the back streets to the main streets."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_50
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=50
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_50"
+msgid "Stardust seems to be the most popular||host bar around."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_51
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=51
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_51"
+msgid "I see."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_52
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=52
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_52"
+msgid "It's right across the street from Serena,||the bar you frequently visited 10 years ago"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_53
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=53
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_53"
+msgid "You'll know it when you see it."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_55
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=55
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_55"
+msgid "Is Serena still there?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_56
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=56
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_56"
+msgid "Serena?{PA:10} Yes, it is.{PA:20}||Same place as 10 years ago."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_57
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=57
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 57
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_57"
+msgid "But they're closed today."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_58
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=58
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 58
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_58"
+msgid "Does Reina still run the place?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_59
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=59
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 59
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_59"
+msgid "Yes. She's alive and kicking."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_60
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=60
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 60
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_60"
+msgid "I hear, she only opens to regulars."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_61
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=61
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 61
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_61"
+msgid "Tamura once took me there. Nice place."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_62
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=62
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 62
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_62"
+msgid "There aren't too many places like Serena||in this town these days,"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_63
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=63
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 63
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_63"
+msgid "where you can sit down||and have a nice quiet drink."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_64
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=64
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 64
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_64"
+msgid "...Come to think of it, I saw some delivery||boys go in and out a few minutes ago."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_65
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=65
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 65
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_65"
+msgid "Maybe they'll be open tomorrow.||Why don't you go, if you have the time?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_67
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=67
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 67
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_67"
+msgid "Did anything happen on Nakamichi St.?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_68
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=68
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 68
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_68"
+msgid "Oh yeah, {PA:10}that racket.{PA:20} ...I don't||know exactly what happened just yet,"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_69
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=69
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 69
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_69"
+msgid "but I heard a Captain||from the Tojo Clan was killed there."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_70
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=70
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 70
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_70"
+msgid "Captain?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_71
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=71
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 71
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_71"
+msgid "Yes.{PA:20}||Judging by the number of cops there,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_72
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=72
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 72
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_72"
+msgid "the victim must've been||someone very important."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_73
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=73
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 73
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_73"
+msgid "...To be honest, {PA:10}it reminded||me of what happened 10 years ago."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_74
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=74
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 74
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_74"
+msgid "This situation is awfully||similar to Dojima's killing."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_75
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=75
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 75
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_75"
+msgid "Who killed that guy?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_76
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=76
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 76
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_76"
+msgid "No one knows yet."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_77
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=77
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 77
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_77"
+msgid "...But there's a rumour going around that||it's another internal conflict."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_78
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=0|sg=78
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 78
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_78"
+msgid "Since you've been gone,||the Tojo Clan's run into a lot of troubles."
+msgstr ""
+
+#. y1ps2.full_id: 74_1_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_0"
+msgid "Stardust? Yeah.||It's a  \"{CC:ffc8c8}host bar on Tenkaichi St.{CR:00}\""
+msgstr ""
+
+#. y1ps2.full_id: 74_1_1
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_1"
+msgid "It's right across the street from Serena,||the bar you frequently visited 10 years ago"
+msgstr ""
+
+#. y1ps2.full_id: 74_1_2
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_2"
+msgid "You'll know it when you see it."
+msgstr ""
+
+#. y1ps2.full_id: 74_1_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_3"
+msgid "I'm not as good as Tamura,||but I get the job done.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 74_1_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_4"
+msgid "Please come to me when you need information."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_0"
+msgid "You up to something already, {PA:10}Kazuma-san?"
+msgstr ""
+
+#. y1ps2.full_id: 74_2_1
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_1"
+msgid "What're you talking about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_2_2
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_2"
+msgid "Well, {PA:10}there was some ruckus||on Tenkaichi St. and when I went to check..."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_3"
+msgid "I saw some Yakuza who got beat up, running||away. {PA:20}I figured it was you who beat them up."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_4"
+msgid "You got a good eye."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_5
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_5"
+msgid "You're damn right I do.{PA:20}||How else am I gonna get good info?"
+msgstr ""
+
+#. y1ps2.full_id: 74_2_6
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_6"
+msgid "Still, {PA:10}the news about your release"
+msgstr ""
+
+#. y1ps2.full_id: 74_2_7
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_7"
+msgid "is all over town by now."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_8
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_8"
+msgid "From this point on, the Tojo Clan is your||enemy. {PA:20}I'd watch my back, if I were you."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_9
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_9"
+msgid "Hmm...{PA:10} You're probably right."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_10
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_10"
+msgid "But still, I didn't come back here||to fight with the Tojo Clan."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_11
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_11"
+msgid "...But {PA:10}you're gonna||go to the funeral, aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 74_2_12
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_12"
+msgid "How the hell did you know that?!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 74_2_13
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_13"
+msgid "Hehe... {PA:20}Instinct."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_14
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_14"
+msgid "...As soon as the chairman||of the Tojo clan was killed,"
+msgstr ""
+
+#. y1ps2.full_id: 74_2_15
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=15
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_15"
+msgid "\"The Dragon of the Dojima Family\" returned."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_16
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=16
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_16"
+msgid "There's gotta be something going on...{PA:20}||But don't worry about it now."
+msgstr ""
+
+#. y1ps2.full_id: 74_2_17
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=2|sg=17
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_2_17"
+msgid "I got your back, Kazuma-san.{PA:20}||I won't say a word to anyone about you."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_3"
+msgid "Hello,{PA:10} Kazuma-san.{PA:10}||Did you go to Serena?"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_4"
+msgid "Ahh, you know."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_5
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_5"
+msgid "Yeah. {PA:10}When I was on my way||back from the office,"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_6
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_6"
+msgid "I noticed that the lights were on||in Serena, {PA:10}so I figured they were open."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_7
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_7"
+msgid "By the way, {PA:10}do you know||anything about a bar called \"Bacchus\"?"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_8
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_8"
+msgid "Bacchus...{PA:10} Yeah,{PA:10}||the bar right by the Millennium Tower."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_9
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_9"
+msgid "I know about it."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_10
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_10"
+msgid "Is there anything else you wanna know about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_11
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=11
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_11"
+msgid "Is there anything else you wanna know about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_12
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=12
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_12"
+msgid "Yeah,{PA:10}||I'm sure most connoisseurs know about it."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_13
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=13
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_13"
+msgid "The bartender has a wide knowledge||of beverages and a huge selection."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_14
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=14
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_14"
+msgid "If you would rather enjoy a nice drink than||hanging out with girls,"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_15
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=15
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_15"
+msgid "that's the place for you."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_17
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=17
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_17"
+msgid "That building over there."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_18
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=18
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_18"
+msgid "It's a skyscraper office building||that was built a few years ago."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_19
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=19
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_19"
+msgid "It was planned to be built||in the centre of this city,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_20
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=20
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_20"
+msgid "but because residents complained that||it would block sunlight, it was called off."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_21
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=21
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_21"
+msgid "However, with the backing of||some shady organisation,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_22
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=22
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_22"
+msgid "they went ahead with construction."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_23
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=23
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_23"
+msgid "This building has a long story behind it."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_24
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=24
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_24"
+msgid "A shady organisation... {PA:20}The Yakuza?"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_25
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=25
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_25"
+msgid "Yeah, {PA:20}probably.||I think the Tojo Clan was involved."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_26
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=26
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_26"
+msgid "The inside is just like any other office||building, but corporate associates"
+msgstr ""
+
+#. y1ps2.full_id: 74_3_27
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=27
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_27"
+msgid "or what they call \"fronts\" aren't in there."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_28
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=28
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_28"
+msgid "I'm not sure what the purpose of||the building was..."
+msgstr ""
+
+#. y1ps2.full_id: 74_3_29
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=3|sg=29
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_3_29"
+msgid "I see."
+msgstr ""
+
+#. y1ps2.full_id: 74_4_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_0"
+msgid "By the way,||do you know a bar called \"Ares\"?"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_1
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_1"
+msgid "Ares?{PA:10}||The legendary bar?"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_2
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_2"
+msgid "Legendary?"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_3"
+msgid "Yes. There was once a rumour floating||around town about Ares."
+msgstr ""
+
+#. y1ps2.full_id: 74_4_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_4"
+msgid "But no one has ever confirmed the rumour."
+msgstr ""
+
+#. y1ps2.full_id: 74_4_5
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_5"
+msgid "No one knows its location,{PA:10}||who goes there, {PA:10}or what the bar is like."
+msgstr ""
+
+#. y1ps2.full_id: 74_4_6
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_6"
+msgid "All I know is that||the owner's name is \"Mizuki\"."
+msgstr ""
+
+#. y1ps2.full_id: 74_4_7
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_7"
+msgid "I see. I was told that the bartender||of Bacchus knows where it is."
+msgstr ""
+
+#. y1ps2.full_id: 74_4_8
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_8"
+msgid "Really?{PA:10}||That's interesting."
+msgstr ""
+
+#. y1ps2.full_id: 74_4_9
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_9"
+msgid "I'll go ask him now."
+msgstr ""
+
+#. y1ps2.full_id: 74_4_10
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_10"
+msgid "If his information is correct,{PA:10}||please let me know!"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_11
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_11"
+msgid "I have a deadline for an article today,{PA:10}||so I have to get back to the office."
+msgstr ""
+
+#. y1ps2.full_id: 74_4_12
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=12
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_12"
+msgid "See you tomorrow!"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_13
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=4|sg=13
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_4_13"
+msgid "Got it. See you later."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_0"
+msgid "Ah,{PA:10} Kazuma-san,{PA:10}||you're alive."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_1
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_1"
+msgid "What are you talking about?"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_2
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_2"
+msgid "Hm?{PA:10} You said you were going to||Bacchus yesterday."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_3"
+msgid "And when I went there this morning,{PA:10}||the bar had closed down."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=4
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_4"
+msgid "I was worried that you got involved||in something bad."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_5
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=5
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_5"
+msgid "No,{PA:10} I wasn't involved,{PA:10}||but I did run into some problems."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_6
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=6
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_6"
+msgid "...{PA:20}I see.||I didn't know."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_7
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=7
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_7"
+msgid "Yeah. {PA:20}So, I decided||to go visit \"Kage of Purgatory\"."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_8
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=8
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_8"
+msgid "What?!{PA:10}||You mean the legendary informant?!"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_9
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=9
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_9"
+msgid "Yeah.{PA:20} Come to think of it, Tamura||used to be in the same line of business."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_10
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=10
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_10"
+msgid "Yeah.{PA:10} Tamura-san often told me about him."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_11
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=11
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_11"
+msgid "I once tried to investigate him,{PA:10}||but Purgatory is heavily guarded..."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_12
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=12
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_12"
+msgid "What?{PA:10}||You mean you've been inside Purgatory?"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_13
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=13
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_13"
+msgid "No,{PA:10} I couldn't even get close||to the entrance."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_14
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=14
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_14"
+msgid "Entrance?"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_15
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=15
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_15"
+msgid "Yes.{PA:20} I hope they didn't change it,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_16
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=16
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_16"
+msgid "but I heard the entrance to Purgatory||is a public restroom."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_17
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=17
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_17"
+msgid "However, when I went there, {PA:10}there was||nothing that looked like an entrance..."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_18
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=18
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_18"
+msgid "A public restroom. Okay.{PA:20}||I'll go there."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_19
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=19
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_19"
+msgid "...But why did you want to go||check out Purgatory?"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_20
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=20
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_20"
+msgid "Because of Tamura-san."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_21
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=21
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_21"
+msgid "Even though Tamura-san was reportedly||found in Tokyo Bay, {PA:10}I didn't believe it..."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_22
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=22
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_22"
+msgid "He was my mentor."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_23
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=23
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_23"
+msgid "So,{PA:10} I thought I could find out||what \"really happened\","
+msgstr ""
+
+#. y1ps2.full_id: 74_5_24
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=24
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_24"
+msgid "through the legendary informant."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_25
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=25
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_25"
+msgid "I see."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_26
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=26
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_26"
+msgid "...Well,{PA:10} I'll ask him about that||if I ever meet him."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_27
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=27
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_27"
+msgid "Kazuma-san, {PA:20}Purgatory is a very dangerous||place.{PA:10} It's a place shrouded in mystery."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_28
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=28
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_28"
+msgid "Watch your back."
+msgstr ""
+
+#. y1ps2.full_id: 74_5_29
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=5|sg=29
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_5_29"
+msgid "...Yeah, {PA:10}I got it."
+msgstr ""
+
+#. y1ps2.full_id: 74_6_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_6_0"
+msgid "I heard its entrance is||the \"public restroom\"."
+msgstr ""
+
+#. y1ps2.full_id: 74_7_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_0"
+msgid "Hello, {PA:10}Kazuma-san.{PA:20}||You're alright after all."
+msgstr ""
+
+#. y1ps2.full_id: 74_7_1
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_1"
+msgid "I'm glad you're okay... {PA:20}It's strange...{PA:10}||I saw that little girl a little bit ago."
+msgstr ""
+
+#. y1ps2.full_id: 74_7_2
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=2
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_2"
+msgid "What? {PA:10}You saw her?!"
+msgstr ""
+
+#. y1ps2.full_id: 74_7_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=3
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_3"
+msgid "Yes.{PA:20}||She went to the arcade over there."
+msgstr ""
+
+#. y1ps2.full_id: 74_7_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=4
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_4"
+msgid "But she seemed a little strange."
+msgstr ""
+
+#. y1ps2.full_id: 74_7_5
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=5
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_5"
+msgid "How?"
+msgstr ""
+
+#. y1ps2.full_id: 74_7_6
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=6
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_6"
+msgid "Yeah, {PA:10}she seemed kinda lonely..."
+msgstr ""
+
+#. y1ps2.full_id: 74_7_7
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=7
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_7"
+msgid "She was walking with her head down,{PA:10}||so I couldn't get her attention."
+msgstr ""
+
+#. y1ps2.full_id: 74_7_8
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=8
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_8"
+msgid "I see...{PA:20}||Is she still there?"
+msgstr ""
+
+#. y1ps2.full_id: 74_7_9
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=9
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_9"
+msgid "Umm, {PA:10}I'm not sure...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 74_7_10
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=10
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_10"
+msgid "But perhaps the people in the arcade||may know."
+msgstr ""
+
+#. y1ps2.full_id: 74_7_11
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=7|sg=11
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_7_11"
+msgid "I see. {PA:20}Thanks."
+msgstr ""
+
+#. y1ps2.full_id: 74_8_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_0"
+msgid "Hello, {PA:10}Kazuma-san!{PA:10}||Is the girl alright?"
+msgstr ""
+
+#. y1ps2.full_id: 74_8_1
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_1"
+msgid "Yeah,{PA:10}||I found her just in the nick of time."
+msgstr ""
+
+#. y1ps2.full_id: 74_8_2
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=2
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_2"
+msgid "So, {PA:10}where are you going?"
+msgstr ""
+
+#. y1ps2.full_id: 74_8_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=3
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_3"
+msgid "To Purgatory. {PA:20}There's some shit going||down... and it's not safe to be at Serena."
+msgstr ""
+
+#. y1ps2.full_id: 74_8_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=4
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_4"
+msgid "Really..."
+msgstr ""
+
+#. y1ps2.full_id: 74_8_5
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=5
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_5"
+msgid "Listen, {PA:10}Aoki. {PA:20}I owe you a lot...{PA:20}||Let me return the favour."
+msgstr ""
+
+#. y1ps2.full_id: 74_8_6
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=6
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_6"
+msgid "Oh,{PA:10}||don't mention it. {PA:10}It's no problem at all."
+msgstr ""
+
+#. y1ps2.full_id: 74_8_7
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=7
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_7"
+msgid "Just let me return the favour.{PA:20}||... Come to Purgatory later."
+msgstr ""
+
+#. y1ps2.full_id: 74_8_8
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=8
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_8"
+msgid "Huh? {PA:10}To Purgatory...? {PA:20}But..."
+msgstr ""
+
+#. y1ps2.full_id: 74_8_9
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=9
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_9"
+msgid "Just come.{PA:20}||I'll be waiting."
+msgstr ""
+
+#. y1ps2.full_id: 74_8_10
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=8|sg=10
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_8_10"
+msgid "O... {PA:10}okay."
+msgstr ""
+
+#. y1ps2.full_id: 74_9_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_9_0"
+msgid "Kazuma-san.{PA:20} I heard that recently you've||been accosted by a group of vigilantes."
+msgstr ""
+
+#. y1ps2.full_id: 74_9_1
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=9|sg=1
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_9_1"
+msgid "Yeah.{PA:20} A bunch of crazy bastards||that call themselves the Gangbusters."
+msgstr ""
+
+#. y1ps2.full_id: 74_9_2
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=9|sg=2
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_9_2"
+msgid "Yeah.{PA:10} They were talking some gibberish||about neighbourhood security or something..."
+msgstr ""
+
+#. y1ps2.full_id: 74_9_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=9|sg=3
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_9_3"
+msgid "But in reality,||someone is pulling the strings."
+msgstr ""
+
+#. y1ps2.full_id: 74_9_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=9|sg=4
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_9_4"
+msgid "Who is it?"
+msgstr ""
+
+#. y1ps2.full_id: 74_9_5
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=9|sg=5
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_9_5"
+msgid "Oh,{PA:10} I'm not sure who."
+msgstr ""
+
+#. y1ps2.full_id: 74_9_6
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=9|sg=6
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_9_6"
+msgid "They act exactly like the Yakuza."
+msgstr ""
+
+#. y1ps2.full_id: 74_10_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_10_0"
+msgid "They were talking some gibberish||about neighbourhood security or something..."
+msgstr ""
+
+#. y1ps2.full_id: 74_10_1
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_10_1"
+msgid "But in reality,||someone is pulling the strings."
+msgstr ""
+
+#. y1ps2.full_id: 74_10_2
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=10|sg=2
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_10_2"
+msgid "Who is it?"
+msgstr ""
+
+#. y1ps2.full_id: 74_10_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=10|sg=3
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_10_3"
+msgid "Oh,{PA:10} I'm not sure who."
+msgstr ""
+
+#. y1ps2.full_id: 74_10_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0075|type=01|mg=10|sg=4
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_10_4"
+msgid "They act exactly like the Yakuza."
+msgstr ""

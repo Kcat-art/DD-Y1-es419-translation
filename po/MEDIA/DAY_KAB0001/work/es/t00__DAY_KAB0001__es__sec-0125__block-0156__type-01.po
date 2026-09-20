@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0001\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Source-SHA256: dab02d505edf20cb1003d51631fe4ac68fdb06f849bd96ff6a2a55ca3843a3ae\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Talk-SHA256: dab02d505edf20cb1003d51631fe4ac68fdb06f849bd96ff6a2a55ca3843a3ae\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 125\n"
+"X-Y1PS2-Raw-Block-ID: 156\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x009C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 9c000104fc400000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0001|block=0156|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: str_a_Mnit\n"
+"X-Y1PS2-Actor: str_a_Mnit\n"
+"X-Y1PS2-Pose: Smoking01\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0001/reference/en/t00__DAY_KAB0001__en__sec-0125__block-0156__type-01.po\n"
+
+#. y1ps2.full_id: 125_0_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_0"
+msgid "iOye tú! ¿Sabes si hay un hospital||o una clínica por aquí?"
+msgstr ""
+
+#. y1ps2.full_id: 125_0_1
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_1"
+msgid "iEh! iYo también quiero saberlo!||Tengo un dolor de estómago terrible.."
+msgstr ""
+
+#. y1ps2.full_id: 125_0_2
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_2"
+msgid "Oh, lo siento."
+msgstr ""
+
+#. y1ps2.full_id: 125_0_3
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_3"
+msgid "iEspera! Parece que ese||chico está peor que yo..."
+msgstr ""
+
+#. y1ps2.full_id: 125_0_4
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_4"
+msgid "... Parece que el Dr. Enomoto tiene una||clínica en algún lugar de por aquí."
+msgstr ""
+
+#. y1ps2.full_id: 125_0_5
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_5"
+msgid "¿Enomoto?"
+msgstr ""
+
+#. y1ps2.full_id: 125_0_6
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_6"
+msgid "Sí. He oído que es el mejor."
+msgstr ""
+
+#. y1ps2.full_id: 125_0_7
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_7"
+msgid "... Pero, seguramente vaya al||hospital al que voy normalmente."
+msgstr ""
+
+#. y1ps2.full_id: 125_0_8
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_8"
+msgid "¿Tienes alguna idea de||dónde está la clínica?"
+msgstr ""
+
+#. y1ps2.full_id: 125_0_9
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_9"
+msgid "He oído que su clínica||está en un edificio en"
+msgstr ""
+
+#. y1ps2.full_id: 125_0_10
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_10"
+msgid "el Bulevar W. Taihei. Mejor que te||des prisa y lleves al chico."
+msgstr ""
+
+#. y1ps2.full_id: 125_0_11
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_0_11"
+msgid "...Nos vemos.||Ouch ouch..."
+msgstr ""
+
+#. y1ps2.full_id: 125_1_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_1_0"
+msgid "Auch... ime duele el estómago...!"
+msgstr ""
+
+#. y1ps2.full_id: 125_3_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_3_0"
+msgid "Creo que su clínica está en un||edificio en el Bulevar W. Taihei."
+msgstr ""
+
+#. y1ps2.full_id: 125_3_1
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0156|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: Smoking01
+msgctxt "125_3_1"
+msgid "Oww oww..."
+msgstr ""

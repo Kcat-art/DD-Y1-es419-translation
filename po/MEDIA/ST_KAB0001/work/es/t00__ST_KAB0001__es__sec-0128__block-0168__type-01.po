@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0001\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0001.BIN\n"
+"X-Y1PS2-Source-SHA256: 7267a3f0eda6105bc3389f3f510d2d9a52118911d8e339930722b0351cedd8bf\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0001.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0001.BIN\n"
+"X-Y1PS2-Talk-SHA256: 7267a3f0eda6105bc3389f3f510d2d9a52118911d8e339930722b0351cedd8bf\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 128\n"
+"X-Y1PS2-Raw-Block-ID: 168\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00A8\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: a800010194490000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0001|block=0168|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: harukaPOP_ST_KAB0002\n"
+"X-Y1PS2-Pose: Freeze\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0001/reference/jp/t00__TALK_ST_KAB0001__jp__sec-0139__block-0168__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0001/reference/en/t00__ST_KAB0001__en__sec-0128__block-0168__type-01.po\n"
+
+#. y1ps2.full_id: 128_0_0
+#. y1ps2.logical_line_key: ST_KAB0001|block=0168|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: harukaPOP_ST_KAB0002
+#. y1ps2.pose: Freeze
+msgctxt "128_0_0"
+msgid "¿No crees que últimamente||esto se ha vuelto peligroso?"
+msgstr ""

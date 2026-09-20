@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0086\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0086.BIN\n"
+"X-Y1PS2-Source-SHA256: 55c558b673baf179a8db942e5c6c0f530ea3267c6a8c17ad48c37d220bcc2bf1\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0086.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0086.BIN\n"
+"X-Y1PS2-Talk-SHA256: 55c558b673baf179a8db942e5c6c0f530ea3267c6a8c17ad48c37d220bcc2bf1\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 88\n"
+"X-Y1PS2-Raw-Block-ID: 100\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0064\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 64000103a0370000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0086|block=0100|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: jack_B_M64\n"
+"X-Y1PS2-Actor: w_11\n"
+"X-Y1PS2-Pose: cus_wait_table_01\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0086/reference/en/t00__DAY_KAB0086__en__sec-0088__block-0100__type-01.po\n"
+
+#. y1ps2.full_id: 88_1_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_1_0"
+msgid "Señor, no hemos cambiado ningún||dinero por fichas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 88_1_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_1_1"
+msgid "Tenemos que conseguir fichas primero."
+msgstr ""
+
+#. y1ps2.full_id: 88_1_2
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_1_2"
+msgid "Oh sí.{PA:20}||Consigamos algunas fichas primero."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_0"
+msgid "Señor,{PA:10} no hemos ganado tanto.{PA:20}||Juguemos un poco más."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_1"
+msgid "Ok.{PA:20} Juguemos un poco más."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_2
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_2"
+msgid "iYupi!"
+msgstr ""
+
+#. y1ps2.full_id: 88_2_3
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_3"
+msgid "Es una pérdida de tiempo.{PA:20} Nos vamos."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_4
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_4"
+msgid "Awwww,{PA:10} ¿ya nos vamos?{PA:20}||¿Qué vamos a hacer con las fichas?"
+msgstr ""
+
+#. y1ps2.full_id: 88_2_5
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_5"
+msgid "Le diré al recepcionista||que se las dé a Motoki."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_6
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_6"
+msgid "... Ok."
+msgstr ""

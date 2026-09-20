@@ -1,0 +1,482 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0103\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Source-SHA256: caf67c0f9e280fdc9891ac47150dc0465ddb08d916ff19676b253b1c7edfa5a9\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-SHA256: caf67c0f9e280fdc9891ac47150dc0465ddb08d916ff19676b253b1c7edfa5a9\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 41\n"
+"X-Y1PS2-Raw-Block-ID: 42\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x002A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 2a00010654370000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0103|block=0042|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: host_black_Mlg_ht\n"
+"X-Y1PS2-Actor: w_1048650\n"
+"X-Y1PS2-Pose: Stand05\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0103/reference/jp/t00__TALK_ST_KAB0103__jp__sec-0041__block-0042__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0103/reference/en/t00__ST_KAB0103__en__sec-0041__block-0042__type-01.po\n"
+
+#. y1ps2.full_id: 41_3_0
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_0"
+msgid "¿Puedo entrar?"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_1
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 01
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_1"
+msgid "iHey! ¿Estás sólo?||¿Sin compañía?"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_2
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_2"
+msgid "¿Quién crees que soy?"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_3
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_3"
+msgid "¿Eh? {PA:10}Obviamente no eres una mujer..."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_4
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_4"
+msgid "Esto es un bar de alterne donde||sólo se permiten mujeres."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_5
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_5"
+msgid "Debes estar acompañado por una para entrar."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_6
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_6"
+msgid "{CU:c8c8c8}iEy! i¿Pero qué haces?!{CU:ffffff}"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_7
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_7"
+msgid "¿Eh?"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_8
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_8"
+msgid "{CU:c8c8c8}Es amigo de Kazuki-san."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_9
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_9"
+msgid "Si eres nuevo, {PA:10}ivete dentro y espera a||que alguien necesite tu ayuda!{CU:ffffff}"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_10
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_10"
+msgid "Lo siento...||{PA:10}No lo sabía."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_11
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=11
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_11"
+msgid "No te preocupes."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_12
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=12
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_12"
+msgid "... {PA:10}¿Te importa que esté solo?{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_13
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=13
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_13"
+msgid "Sí que me importa. Esto es un bar||de alterne donde sólo se permiten mujeres."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_14
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=14
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_14"
+msgid "Debes estar acompañado por una para entrar."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_15
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=15
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_15"
+msgid "Es de sentido común.||{PA:10}Deberías saberlo.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_16
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=16
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_16"
+msgid "{CU:c8c8c8}iImbécil! {PA:10}i¿Con quién cojones te||crees que estás hablando?!{CU:ffffff}"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_17
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=17
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_17"
+msgid "¿Eh?||{PA:10}¿Cuál es {PA:5}el problema?"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_18
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=18
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_18"
+msgid "Es amigo de Kazuki-san."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_19
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=19
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_19"
+msgid "Si eres nuevo, {PA:10}ivete dentro y espera a||que alguien necesite tu ayuda!{CU:ffffff}"
+msgstr ""
+
+#. y1ps2.full_id: 41_3_20
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=20
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_20"
+msgid "Lo siento...||{PA:10}No lo sabía."
+msgstr ""
+
+#. y1ps2.full_id: 41_3_21
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=3|sg=21
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_3_21"
+msgid "No te preocupes."
+msgstr ""
+
+#. y1ps2.full_id: 41_4_0
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_4_0"
+msgid "Tengo un mal presentimiento sobre esto."
+msgstr ""
+
+#. y1ps2.full_id: 41_4_1
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_4_1"
+msgid "¿Te refieres a Shota?"
+msgstr ""
+
+#. y1ps2.full_id: 41_4_2
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_4_2"
+msgid "Sí..."
+msgstr ""
+
+#. y1ps2.full_id: 41_4_3
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_4_3"
+msgid "Los chicos de hoy tienden||a no tomarse su trabajo en serio."
+msgstr ""
+
+#. y1ps2.full_id: 41_4_4
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_4_4"
+msgid "Los clientes no están forrados."
+msgstr ""
+
+#. y1ps2.full_id: 41_4_5
+#. y1ps2.logical_line_key: ST_KAB0103|block=0042|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_black_Mlg_ht
+#. y1ps2.actor: w_1048650
+#. y1ps2.pose: Stand05
+msgctxt "41_4_5"
+msgid "No tienen en cuenta lo que||el cliente puede permitirse."
+msgstr ""

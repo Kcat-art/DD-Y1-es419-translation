@@ -1,0 +1,474 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0031\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0031.BIN\n"
+"X-Y1PS2-Source-SHA256: a5b62d5abdff7fbc81f125163419396d821ba4eadfd2a1424e546e2e0f840cce\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0031.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0031.BIN\n"
+"X-Y1PS2-Talk-SHA256: a5b62d5abdff7fbc81f125163419396d821ba4eadfd2a1424e546e2e0f840cce\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 79\n"
+"X-Y1PS2-Raw-Block-ID: 80\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0050\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 50000104302f0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0031|block=0080|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_05\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_ISHA_TRG_SHINRYOJO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 79_0_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_0"
+msgid "Somebody!{PA:20}||Help me!"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_1"
+msgid "Shut the fuck up!"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_2
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_2"
+msgid "What's wrong?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_3
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_3"
+msgid "Who the hell are you?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_4
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_4"
+msgid "You have nothing to do with this."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_5
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_5"
+msgid "This dirty whore's been writing||too much dirt on the Tojo Clan."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_6
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_6"
+msgid "So, we're gonna teach this bitch a lesson.{PA:20}||It's none of your business.{PA:20} Get lost."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_7
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_7"
+msgid "Let go of her."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_8
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_8"
+msgid "Why are you gonna go and rough||her up over some dumb ass articles?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_9
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_9"
+msgid "What?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_10
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_10"
+msgid "You stupid shit!{PA:20}||I thought I told you to get outta here!"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_11
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_11"
+msgid "Fuck this motherfucker up!"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_13
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_13"
+msgid "Okay,{PA:10} sorry..."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_14
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_14"
+msgid "Help me!"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_15
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_15"
+msgid "Hehe...{PA:20} You'll end up dead||if you write bad things about the Yakuza."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_16
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_16"
+msgid "Now,{PA:10} let's go take some pictures of you."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_17
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_17"
+msgid "Eeeeek!"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_18
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_18"
+msgid "Take her away."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_0"
+msgid "Thank you!{PA:20}||You saved my life!"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_1"
+msgid "You're free to write articles...{MS:0}{PA:20}||as long as you understand the consequences."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_2
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_2"
+msgid "Yes...{PA:20} I understand.{MS:1}{MS:0}{PA:20}||Here,{PA:10} this is for saving me."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_3
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_3"
+msgid "You received 40,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_4
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_4"
+msgid "You gained 500 exp."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_5
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_5"
+msgid "See you again."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_0"
+msgid "Take this, you bitch!"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0080|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_1"
+msgid "Eeek!"
+msgstr ""

@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0084\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0084.ARC\n"
+"X-Y1PS2-Source-SHA256: d233f98b12ba80de1c4a8d6d1aa4b8f7f0ca570756978e84b58624ebd00ce477\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0084.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0084.ARC/0/8___TALK_ST_KAB0084.BIN\n"
+"X-Y1PS2-Talk-SHA256: 8c7a089c3d4cb319685862bdf75fba909f631bf566713251a098b8b3cbcfa29e\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 81\n"
+"X-Y1PS2-Raw-Block-ID: 82\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0052\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 52000105f8dd0100\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0084|block=0082|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: host_neck_Msane_a\n"
+"X-Y1PS2-Actor: w_1048656\n"
+"X-Y1PS2-Pose: Stand05\n"
+
+#. y1ps2.full_id: 81_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0082|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Msane_a
+#. y1ps2.actor: w_1048656
+#. y1ps2.pose: Stand05
+msgctxt "81_3_0"
+msgid "桐生さん、{PA:10}お一人ですか？"
+msgstr ""
+
+#. y1ps2.full_id: 81_3_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0082|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Msane_a
+#. y1ps2.actor: w_1048656
+#. y1ps2.pose: Stand05
+msgctxt "81_3_1"
+msgid "{CU:c8c8ff}あぁ、{PA:10}中で知り合いの女が||飲んでるかもしれないんだ。"
+msgstr ""
+
+#. y1ps2.full_id: 81_3_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0082|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Msane_a
+#. y1ps2.actor: w_1048656
+#. y1ps2.pose: Stand05
+msgctxt "81_3_2"
+msgid "{CU:ffffff}そうですか。||{PA:10}じゃあ、急いで席用意しますね！"
+msgstr ""
+
+#. y1ps2.full_id: 81_3_3
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0082|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Msane_a
+#. y1ps2.actor: w_1048656
+#. y1ps2.pose: Stand05
+msgctxt "81_3_3"
+msgid "{CU:c8c8ff}あぁ、いいんだ。||{PA:10}勝手に入らせてもらうよ。"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0082|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Msane_a
+#. y1ps2.actor: w_1048656
+#. y1ps2.pose: Stand05
+msgctxt "81_4_0"
+msgid "翔太君{PA:7}大丈夫ですかね？"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0082|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Msane_a
+#. y1ps2.actor: w_1048656
+#. y1ps2.pose: Stand05
+msgctxt "81_4_1"
+msgid "{CU:c8c8ff}心配なのか？"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0082|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Msane_a
+#. y1ps2.actor: w_1048656
+#. y1ps2.pose: Stand05
+msgctxt "81_4_2"
+msgid "{CU:ffffff}僕、{PA:10}翔太君は絶対に||脅されてるんだと思うんです。"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_3
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0082|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Msane_a
+#. y1ps2.actor: w_1048656
+#. y1ps2.pose: Stand05
+msgctxt "81_4_3"
+msgid "{CU:c8c8ff}脅されてる？"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_4
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0082|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Msane_a
+#. y1ps2.actor: w_1048656
+#. y1ps2.pose: Stand05
+msgctxt "81_4_4"
+msgid "{CU:ffffff}多分、{PA:5}あの沙耶ってこのためにお金借りて||借金取りに脅されてるんじゃないですかね？"
+msgstr ""

@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: OLD_KAB0001\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: OLD_KAB0001.BIN\n"
+"X-Y1PS2-Source-SHA256: 760460be00926fd77afa11fb849118b748f6665b0996081d0d86d0c1a3961466\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: OLD_KAB0001.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: OLD_KAB0001.BIN\n"
+"X-Y1PS2-Talk-SHA256: 760460be00926fd77afa11fb849118b748f6665b0996081d0d86d0c1a3961466\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 80\n"
+"X-Y1PS2-Raw-Block-ID: 81\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0051\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 51000103703b0000\n"
+"X-Y1PS2-Logical-Section-Key: OLD_KAB0001|block=0081|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_08\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_BOX_TRG_JANSO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: OLD_KAB0001/reference/jp/t00__TALK_ST_KAB0001__jp__sec-0080__block-0081__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: OLD_KAB0001/reference/en/t00__OLD_KAB0001__en__sec-0080__block-0081__type-01.po\n"
+
+#. y1ps2.full_id: 80_0_0
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0081|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_0"
+msgid "La jerarquía de poder de los Yakuza||en esta ciudad es muy difícil de entender..."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_1
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0081|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_1"
+msgid "Cada tienda de||esta ciudad..."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_2
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0081|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_2"
+msgid "paga dinero a distintas familias||para que la protejan..."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_3
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0081|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_3"
+msgid "Lo cierto es que los Yakuza||le piden a los dueños que paguen..."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_4
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0081|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_4"
+msgid "Recaudan{PA:10}||el dinero una vez al mes."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_5
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0081|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_5"
+msgid "Si te niegas a pagar,||te acosan o utilizan la fuerza..."
+msgstr ""
+
+#. y1ps2.full_id: 80_1_0
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0081|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_1_0"
+msgid "Ésta es una ciudad {PA:20}muy extraña..."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_0
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0081|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_0"
+msgid "Ésta no es||Tu ciudad habitual."
+msgstr ""

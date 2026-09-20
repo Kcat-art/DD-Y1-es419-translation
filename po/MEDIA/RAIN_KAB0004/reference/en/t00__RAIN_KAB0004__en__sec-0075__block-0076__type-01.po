@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0004\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Source-SHA256: eb0603c4a310f37da6960814da8108bf853114947c67fc08871edf635ce4d7cd\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Talk-SHA256: eb0603c4a310f37da6960814da8108bf853114947c67fc08871edf635ce4d7cd\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 75\n"
+"X-Y1PS2-Raw-Block-ID: 76\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4c00010344320000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0004|block=0076|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER16\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C16_TRG_M_TOWER\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 75_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0076|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_0"
+msgid "W... Wait!"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0076|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_1"
+msgid "It looks like your faithful boyfriend's||run away."
+msgstr ""
+
+#. y1ps2.full_id: 75_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0076|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_2"
+msgid "...Listen. {PA:20}Why don't we cooperate and make||some money? {PA:20}Think about it!"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0076|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_3"
+msgid "Hah! {PA:10}How can you keep a straight face||and say that to me?"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0076|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_4"
+msgid "Huh? Well, fuck you then!{PA:20}||It doesn't matter. {PA:10}I'll find someone else."
+msgstr ""
+
+#. y1ps2.full_id: 75_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0076|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_5"
+msgid "You gained 200 exp."
+msgstr ""
+
+#. y1ps2.full_id: 75_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0076|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_0"
+msgid "W... Wait!"
+msgstr ""

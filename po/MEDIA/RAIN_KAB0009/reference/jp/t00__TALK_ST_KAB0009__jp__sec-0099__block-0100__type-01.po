@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0009\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0009.ARC\n"
+"X-Y1PS2-Source-SHA256: 6747e71bf6bf8fe735d153842d0383457b7ad65b0e433fe89300985075244a64\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0009.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0009.ARC/0/8___TALK_ST_KAB0009.BIN\n"
+"X-Y1PS2-Talk-SHA256: b40a7de185bb49476d9d4a4fa3a2917f9553a11d18a592d4ea524a21170f8926\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 99\n"
+"X-Y1PS2-Raw-Block-ID: 100\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0064\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 64000102b81c0200\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0009|block=0100|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_shigan_kanbu\n"
+"X-Y1PS2-Actor: w_9\n"
+"X-Y1PS2-Pose: Smoking01\n"
+
+#. y1ps2.full_id: 99_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_0"
+msgid "来たか、{PA:10}加納⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_1"
+msgid "ええ、{PA:10}まあ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_2"
+msgid "⋯で、{PA:10}あんたが桐生一馬だな？"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_3"
+msgid "{CU:c8c8ff}なに？➿{PA:10}どうして俺の名を？"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_4
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_4"
+msgid "{CU:ffffff}フフ⋯➿{PA:10}人のいい極道もいるもんだぜ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_5
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_5"
+msgid "{CU:c8c8ff}どういうことだ？"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_6
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_6"
+msgid "{CU:ffffff}ご苦労だったな、{PA:10}加納。{PA:20}||おめえはもういい。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_7
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_7"
+msgid "す、{PA:10}すまねえ、{PA:10}兄貴！"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_8
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_8"
+msgid "俺には⋯➿{PA:10}こうするしかなかったんだ⋯。{PA:20}||本当にすまねえ！"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_9
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_9"
+msgid "鉄砲玉のマトはてめえだったんだよ。{PA:20}||桐生一馬。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_10
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_10"
+msgid "タマぁとらせてもらうぜ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_11
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_0_11"
+msgid "兄貴、許してくれ！！➿{PA:10}うらまねえでくれ！"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0009|block=0100|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_kanbu
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Smoking01
+msgctxt "99_1_1"
+msgid "くそ！➿{PA:10}なんて野郎だ！"
+msgstr ""

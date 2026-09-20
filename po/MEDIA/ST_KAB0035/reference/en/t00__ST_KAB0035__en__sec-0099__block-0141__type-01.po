@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0035\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0035.BIN\n"
+"X-Y1PS2-Source-SHA256: 0ca7c906f2d066bdf70c79b6b6eb2917590095c86a2cc1dff09a4fb85ee3abd1\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0035.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0035.BIN\n"
+"X-Y1PS2-Talk-SHA256: 0ca7c906f2d066bdf70c79b6b6eb2917590095c86a2cc1dff09a4fb85ee3abd1\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 99\n"
+"X-Y1PS2-Raw-Block-ID: 141\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x008D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8d000105ec340000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0035|block=0141|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: double_B_M64\n"
+"X-Y1PS2-Actor: double_B_M64\n"
+"X-Y1PS2-Pose: Wait01\n"
+
+#. y1ps2.full_id: 99_0_0
+#. y1ps2.logical_line_key: ST_KAB0035|block=0141|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Wait01
+msgctxt "99_0_0"
+msgid "Hey, {PA:10}buddy.{PA:20}||Why don't you get outta my way?"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_1
+#. y1ps2.logical_line_key: ST_KAB0035|block=0141|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Wait01
+msgctxt "99_0_1"
+msgid "You're in the way."
+msgstr ""
+
+#. y1ps2.full_id: 99_0_2
+#. y1ps2.logical_line_key: ST_KAB0035|block=0141|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Wait01
+msgctxt "99_0_2"
+msgid "So what."
+msgstr ""
+
+#. y1ps2.full_id: 99_0_3
+#. y1ps2.logical_line_key: ST_KAB0035|block=0141|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Wait01
+msgctxt "99_0_3"
+msgid "Are you trying to start some shit?"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_4
+#. y1ps2.logical_line_key: ST_KAB0035|block=0141|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Wait01
+msgctxt "99_0_4"
+msgid "You should've sized me up before||you started this shit!!"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_5
+#. y1ps2.logical_line_key: ST_KAB0035|block=0141|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Wait01
+msgctxt "99_0_5"
+msgid "Oh, {PA:10}okay."
+msgstr ""
+
+#. y1ps2.full_id: 99_0_6
+#. y1ps2.logical_line_key: ST_KAB0035|block=0141|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Wait01
+msgctxt "99_0_6"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_0
+#. y1ps2.logical_line_key: ST_KAB0035|block=0141|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Wait01
+msgctxt "99_1_0"
+msgid "......"
+msgstr ""

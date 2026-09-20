@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0006\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0006.BIN\n"
+"X-Y1PS2-Source-SHA256: e69d86bbd8788f2da59a59326bf2677e4118fef0c3324b6f24b9ba221d7e770d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-SHA256: e69d86bbd8788f2da59a59326bf2677e4118fef0c3324b6f24b9ba221d7e770d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 185\n"
+"X-Y1PS2-Raw-Block-ID: 190\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00BE\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: be00010488420000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0006|block=0190|type=01\n"
+"X-Y1PS2-Story-Type: substory_unresolved\n"
+"X-Y1PS2-Story-Key: SUB_AYAKA\n"
+"X-Y1PS2-Story-Evidence: unmapped_sub_trigger_prefix\n"
+"X-Y1PS2-Context: sub_ayaka\n"
+"X-Y1PS2-Actor: w_100016\n"
+"X-Y1PS2-Pose: Stand04\n"
+
+#. y1ps2.full_id: 185_0_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_0_0"
+msgid "Hey, {PA:10}gramps!{PA:10}||Keep your hands away from my girl!"
+msgstr ""
+
+#. y1ps2.full_id: 185_0_1
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_0_1"
+msgid "Oh, Kiyoshi!{PA:10}||You're so cool!❤"
+msgstr ""
+
+#. y1ps2.full_id: 185_0_2
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_0_2"
+msgid "I'm gonna fuck you up for trying to||cop a feel on my girl!"
+msgstr ""
+
+#. y1ps2.full_id: 185_0_3
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_0_3"
+msgid "Kick his ass for me,||Kiyoshi!"
+msgstr ""
+
+#. y1ps2.full_id: 185_1_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_0"
+msgid "I'm sorry...||I'm sorry!"
+msgstr ""

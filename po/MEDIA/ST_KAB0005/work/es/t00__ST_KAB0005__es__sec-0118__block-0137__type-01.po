@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0005\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0005.BIN\n"
+"X-Y1PS2-Source-SHA256: 16224f1c725943eee00f981762d7cf214250f095ed48596a498c5e8742ddb54d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0005.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0005.BIN\n"
+"X-Y1PS2-Talk-SHA256: 16224f1c725943eee00f981762d7cf214250f095ed48596a498c5e8742ddb54d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 118\n"
+"X-Y1PS2-Raw-Block-ID: 137\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0089\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8900010280410000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0005|block=0137|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Fcas_a_Fsh\n"
+"X-Y1PS2-Actor: Fcas_a_Fsh\n"
+"X-Y1PS2-Pose: Wait02\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0005/reference/en/t00__ST_KAB0005__en__sec-0118__block-0137__type-01.po\n"
+
+#. y1ps2.full_id: 118_0_0
+#. y1ps2.logical_line_key: ST_KAB0005|block=0137|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Fcas_a_Fsh
+#. y1ps2.actor: Fcas_a_Fsh
+#. y1ps2.pose: Wait02
+msgctxt "118_0_0"
+msgid "Hay un centro de información de||entretenimiento para adultos en"
+msgstr ""
+
+#. y1ps2.full_id: 118_0_1
+#. y1ps2.logical_line_key: ST_KAB0005|block=0137|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Fcas_a_Fsh
+#. y1ps2.actor: Fcas_a_Fsh
+#. y1ps2.pose: Wait02
+msgctxt "118_0_1"
+msgid "La Calle Shichifuku. Allí hay||un tío que se llama Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 118_0_2
+#. y1ps2.logical_line_key: ST_KAB0005|block=0137|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Fcas_a_Fsh
+#. y1ps2.actor: Fcas_a_Fsh
+#. y1ps2.pose: Wait02
+msgctxt "118_0_2"
+msgid "La información que suministra es||de primera mano, correcta y actualizada."
+msgstr ""
+
+#. y1ps2.full_id: 118_0_3
+#. y1ps2.logical_line_key: ST_KAB0005|block=0137|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Fcas_a_Fsh
+#. y1ps2.actor: Fcas_a_Fsh
+#. y1ps2.pose: Wait02
+msgctxt "118_0_3"
+msgid "Quiero ser como||él cuando crezca."
+msgstr ""
+
+#. y1ps2.full_id: 118_1_0
+#. y1ps2.logical_line_key: ST_KAB0005|block=0137|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Fcas_a_Fsh
+#. y1ps2.actor: Fcas_a_Fsh
+#. y1ps2.pose: Wait02
+msgctxt "118_1_0"
+msgid "iSólo Masutatsu Mizuno podría||tener esa información!"
+msgstr ""
+
+#. y1ps2.full_id: 118_1_1
+#. y1ps2.logical_line_key: ST_KAB0005|block=0137|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Fcas_a_Fsh
+#. y1ps2.actor: Fcas_a_Fsh
+#. y1ps2.pose: Wait02
+msgctxt "118_1_1"
+msgid "No puedo sino respetarlo."
+msgstr ""

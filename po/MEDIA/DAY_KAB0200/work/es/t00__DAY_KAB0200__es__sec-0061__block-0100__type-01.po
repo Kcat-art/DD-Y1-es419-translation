@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Source-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 61\n"
+"X-Y1PS2-Raw-Block-ID: 100\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0064\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 640001037c5b0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0100|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER07\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C7_TRG_OUT_OF_SAI\n"
+"X-Y1PS2-Actor: w_14\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0200/reference/jp/t00__TALK_ST_KAB0200__jp__sec-0061__block-0100__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0200/reference/en/t00__DAY_KAB0200__en__sec-0061__block-0100__type-01.po\n"
+
+#. y1ps2.full_id: 61_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0100|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "61_1_0"
+msgid "Hola, {MS:0}{PA:10}viejo."
+msgstr ""
+
+#. y1ps2.full_id: 61_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0100|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "61_1_1"
+msgid "¿Umm? {MS:0}{PA:10}¿Eres tú, Kazuma?"
+msgstr ""
+
+#. y1ps2.full_id: 61_1_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0100|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "61_1_2"
+msgid "He estado buscando un nuevo aprendiz..."
+msgstr ""
+
+#. y1ps2.full_id: 61_1_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0100|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "61_1_3"
+msgid "Pero nadie tiene tu potencial."
+msgstr ""
+
+#. y1ps2.full_id: 61_1_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0100|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "61_1_4"
+msgid "Lo que es todavía peor,||todos son unos enclenques."
+msgstr ""
+
+#. y1ps2.full_id: 61_1_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0100|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "61_1_5"
+msgid "Por ejemplo, el otro día.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 61_1_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0100|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "61_1_6"
+msgid "Bloqueé un ataque y empezó a llorar.||Qué patético..."
+msgstr ""
+
+#. y1ps2.full_id: 61_1_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0100|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "61_1_7"
+msgid "Me pregunto si||¿hay alguien con energía ahí afuera?"
+msgstr ""
+
+#. y1ps2.full_id: 61_2_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0100|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "61_2_0"
+msgid "Ummm..."
+msgstr ""

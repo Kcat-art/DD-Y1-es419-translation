@@ -1,0 +1,913 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0031\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0031.BIN\n"
+"X-Y1PS2-Source-SHA256: e6048fe1a32061b2e0e2efd55bfa6dd2674459cd83d47d9fd5daf36a2be98475\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0031.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0031.BIN\n"
+"X-Y1PS2-Talk-SHA256: e6048fe1a32061b2e0e2efd55bfa6dd2674459cd83d47d9fd5daf36a2be98475\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 103\n"
+"X-Y1PS2-Raw-Block-ID: 132\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0084\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8400010d6c3e0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0031|block=0132|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Yyak_b_zako_b\n"
+"X-Y1PS2-Actor: w_24\n"
+"X-Y1PS2-Pose: Stand03\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0031/reference/en/t00__DAY_KAB0031__en__sec-0103__block-0132__type-01.po\n"
+
+#. y1ps2.full_id: 103_0_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_0_0"
+msgid "(\"{CC:ffc8c8}Salón de Masajes,||Amor en el Corazón{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_0_1"
+msgid "(\"{CC:ffc8c8}AVISO: somos un salón de||masajes certificado.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_2
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_0_2"
+msgid "(\"{CC:ffc8c8}No ofrecemos servicios extra||u opcionales con cargo extra{CR:00}.\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_3
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_0_3"
+msgid "(\"{CC:ffc8c8}Pruebe nuestra nueva técnica de masajes||y relaje su cuerpo.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_4
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_0_4"
+msgid "(.........)"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_5
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_0_5"
+msgid "(No puedo permitírmelo...||Necesito al menos 5.000 yenes.)"
+msgstr ""
+
+#. y1ps2.full_id: 103_1_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_1_0"
+msgid "(\"{CC:ffc8c8}Salón de Masajes,||Amor en el Corazón{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_1_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_1_1"
+msgid "(\"{CC:ffc8c8}AVISO: somos un salón||de masajes certificado.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_1_2
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_1_2"
+msgid "(\"{CC:ffc8c8}No ofrecemos servicios extra||u opcionales con cargo extra{CR:00}.\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_1_3
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_1_3"
+msgid "(\"{CC:ffc8c8}Pruebe nuestra nueva técnica de masajes||y relaje su cuerpo.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_1_4
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_1_4"
+msgid "(.........)"
+msgstr ""
+
+#. y1ps2.full_id: 103_2_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_2_0"
+msgid "(\"{CC:ffc8c8}Salón de Masajes, Amor en el Corazón{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_2_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_2_1"
+msgid "(\"{CC:ffc8c8}AVISO: somos un salón de||masajes certificado.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_2_2
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_2_2"
+msgid "(\"{CC:ffc8c8}No ofrecemos servicios extra||u opcionales con cargo extra{CR:00}.\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_2_3
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_2_3"
+msgid "(\"{CC:ffc8c8}Pruebe nuestra nueva técnica de masajes||y relaje su cuerpo.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_2_4
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_2_4"
+msgid "(.........)"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_0"
+msgid "(\"{CC:ffc8c8}Salón de Masajes, Amor en el Corazón{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_1"
+msgid "(\"{CC:ffc8c8}AVISO: somos un salón||salón de masajes certificado.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_2
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_2"
+msgid "(\"{CC:ffc8c8}No ofrecemos servicios extra||u opcionales con cargo extra{CR:00}.\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_3
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_3"
+msgid "(\"{CC:ffc8c8}Pruebe nuestra nueva técnica de masajes||y relaje su cuerpo.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_4
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_4"
+msgid "(Entrar... i¿Ahora?!)"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_5
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_5"
+msgid "Hey,{PA:10} i¿qué crees que estás haciendo?!"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_6
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_6"
+msgid "Lo siento,{PA:10} pero espérame aquí un rato.{PA:20}||Volveré pronto."
+msgstr ""
+
+#. y1ps2.full_id: 103_3_7
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_7"
+msgid "... iNo puedo creerlo! iEres asqueroso!"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_9
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_9"
+msgid "Sólo bromeaba."
+msgstr ""
+
+#. y1ps2.full_id: 103_3_10
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_3_10"
+msgid "... No pensé que lo hicieras."
+msgstr ""
+
+#. y1ps2.full_id: 103_4_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_0"
+msgid "(\"{CC:ffc8c8}Salón de Masajes, Amor en el Corazón{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_4_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_1"
+msgid "(\"{CC:ffc8c8}AVISO: somos un salón de||masajes certificado.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_4_2
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_2"
+msgid "(\"{CC:ffc8c8}No ofrecemos servicios extra||u opcionales con cargo extra{CR:00}.\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_4_3
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_3"
+msgid "(\"{CC:ffc8c8}Pruebe nuestra nueva técnica de masajes||y relaje su cuerpo.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_4_4
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_4"
+msgid "(El Detective Date está conmigo...||¿Qué debería hacer...?)"
+msgstr ""
+
+#. y1ps2.full_id: 103_4_5
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_5"
+msgid "iHey, Kazuma!||¿Vas a...?"
+msgstr ""
+
+#. y1ps2.full_id: 103_4_6
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_6"
+msgid "Lo siento,{PA:10} pero espérame aquí un rato.{PA:20}||Volveré pronto."
+msgstr ""
+
+#. y1ps2.full_id: 103_4_7
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_7"
+msgid "¿Así que vas a divertirte sin mí?{PA:20}||iBah!{PA:20} Lo pillo."
+msgstr ""
+
+#. y1ps2.full_id: 103_4_9
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_9"
+msgid "No puedo entrar en un momento así."
+msgstr ""
+
+#. y1ps2.full_id: 103_4_10
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_4_10"
+msgid "Umf, puedes ir si realmente quieres."
+msgstr ""
+
+#. y1ps2.full_id: 103_5_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_0"
+msgid "(\"{CC:ffc8c8}Salón de Masajes, Amor en el Corazón{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_5_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_1"
+msgid "(\"{CC:ffc8c8}AVISO: somos un salón de||masajes certificado.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_5_2
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_2"
+msgid "(\"{CC:ffc8c8}No ofrecemos servicios extra||u opcionales con cargo extra{CR:00}.\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_5_3
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_3"
+msgid "(\"{CC:ffc8c8}Pruebe nuestra nueva técnica de masajes||y relaje su cuerpo.{CR:00}\")"
+msgstr ""
+
+#. y1ps2.full_id: 103_5_4
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=4
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_4"
+msgid "(Haruka está conmigo...||¿Qué debería hacer...?)"
+msgstr ""
+
+#. y1ps2.full_id: 103_5_5
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=5
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_5"
+msgid "Señor,{PA:10} ¿vas a dejarme aquí?"
+msgstr ""
+
+#. y1ps2.full_id: 103_5_6
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=6
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_6"
+msgid "Lo siento, pero espérame aquí un rato.||Volveré pronto."
+msgstr ""
+
+#. y1ps2.full_id: 103_5_7
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=7
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_7"
+msgid "¿De verdad?{PA:20} Supongo..."
+msgstr ""
+
+#. y1ps2.full_id: 103_5_9
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=9
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_9"
+msgid "No debería dejarte aquí sola."
+msgstr ""
+
+#. y1ps2.full_id: 103_5_10
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=10
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_10"
+msgid "...Señor,{PA:10} ¿estás seguro?"
+msgstr ""
+
+#. y1ps2.full_id: 103_5_11
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=5|sg=11
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_5_11"
+msgid "Sí.{PA:20}{PA:20} Ya iré en otro momento."
+msgstr ""
+
+#. y1ps2.full_id: 103_6_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_6_0"
+msgid "(Éste no es momento para||pararse en el bar...)"
+msgstr ""
+
+#. y1ps2.full_id: 103_7_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_7_0"
+msgid "(Creo que debería seguir a||Haruka por ahora...)"
+msgstr ""
+
+#. y1ps2.full_id: 103_8_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_8_0"
+msgid "(Tengo que llevar a esta niño al médico...)"
+msgstr ""
+
+#. y1ps2.full_id: 103_9_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_9_0"
+msgid "iLlegas tarde!{PA:10} Todavía no entiendo||por qué has tenido que ir justo ahora."
+msgstr ""
+
+#. y1ps2.full_id: 103_10_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_10_0"
+msgid "Umf...{PA:10} Has tardado más de lo que pensaba.||iVamos!"
+msgstr ""
+
+#. y1ps2.full_id: 103_11_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_11_0"
+msgid "... Señor,{PA:20} llegas tarde."
+msgstr ""
+
+#. y1ps2.full_id: 103_11_1
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=11|sg=1
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_11_1"
+msgid "... Lo siento."
+msgstr ""
+
+#. y1ps2.full_id: 103_12_0
+#. y1ps2.logical_line_key: DAY_KAB0031|block=0132|type=01|mg=12|sg=0
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand03
+msgctxt "103_12_0"
+msgid "(No está abierto todavía...)"
+msgstr ""

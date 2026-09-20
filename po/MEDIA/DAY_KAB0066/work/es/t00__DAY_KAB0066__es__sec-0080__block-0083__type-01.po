@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0066\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0066.BIN\n"
+"X-Y1PS2-Source-SHA256: 5517357b6e84660fb5fbb029737138b1ee05722b92d8503b734ef1f6d3d1361c\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0066.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0066.BIN\n"
+"X-Y1PS2-Talk-SHA256: 5517357b6e84660fb5fbb029737138b1ee05722b92d8503b734ef1f6d3d1361c\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 80\n"
+"X-Y1PS2-Raw-Block-ID: 83\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0053\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5300010428370000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0066|block=0083|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_11\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NIN_TRG_SHINE\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0066/reference/jp/t00__TALK_ST_KAB0066__jp__sec-0082__block-0083__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0066/reference/en/t00__DAY_KAB0066__en__sec-0080__block-0083__type-01.po\n"
+
+#. y1ps2.full_id: 80_0_0
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_0_0"
+msgid "(Un Fotomatón. {PA:20}300 yenes por sesión...{PA:20}||No tengo suficiente dinero ahora mismo...）"
+msgstr ""
+
+#. y1ps2.full_id: 80_1_0
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_1_0"
+msgid "(Un Fotomatón. {PA:20}¿Tenían esto hace 10 años?{PA:10}||A quién le importa...)"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_0
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_0"
+msgid "iSeñor!{PA:10}||iQuiero hacer unas fotos!"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_1
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_1"
+msgid "¿Puedo {PA:10}intentarlo?{PA:10}||iSólo una vez! {PA:10}iPor favor!"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_2
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_2"
+msgid "(300 yenes por sesión...)"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_3
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_3"
+msgid "Sí, {PA:10}ok."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_4
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_4"
+msgid "iBien!"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_5
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_5"
+msgid "Me pregunto cómo ponerme..."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_6
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 1e
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_6"
+msgid "¿ ...？ {PA:20}¿Cómo se supone que funciona esto?"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_7
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 1e
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_7"
+msgid "Señor, {PA:10}¿no sabe cómo hacer||que funcione el fotomatón?"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_8
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 1e
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_8"
+msgid "Ah, {PA:10}iha comenzado!||Señor, {PA:10}iacérquese!"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_9
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_9"
+msgid "{PA:10}\"Patata...\""
+msgstr ""
+
+#. y1ps2.full_id: 80_2_10
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_10"
+msgid "... ¿Qué es eso?||¿Ha funcionado?"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_11
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_11"
+msgid "iMe preguntó cómo saldremos!{PA:10}||...Oh, {PA:10}iiahí viene!!"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_13
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_13"
+msgid "Juas. {PA:20}Señor, {PA:10}imire su cara!{PA:10}||Hey, {PA:10}¿puedo quedármela?"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_14
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_14"
+msgid "Sí, {PA:10}por supuesto."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_15
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=15
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_15"
+msgid "iGracias! {PA:10}iSeñor!"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_16
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=16
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_16"
+msgid "No puedes.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_17
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=17
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_17"
+msgid "¿Por qué querrías hacer||fotos de todas formas?"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_18
+#. y1ps2.logical_line_key: DAY_KAB0066|block=0083|type=01|mg=2|sg=18
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_18"
+msgid "Snif...{PA:20}||Es usted tan agarrado, señor..."
+msgstr ""

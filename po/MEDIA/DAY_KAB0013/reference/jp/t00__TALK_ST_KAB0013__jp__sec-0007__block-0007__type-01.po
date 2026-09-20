@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0013\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0013.ARC\n"
+"X-Y1PS2-Source-SHA256: 2dc4fab818a2e047b625c91a4c8909df9fa6e744ccd6321bb7200e0530fe9e95\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0013.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0013.ARC/0/8___TALK_ST_KAB0013.BIN\n"
+"X-Y1PS2-Talk-SHA256: 624e89883b409d56cec86ee4733ecd521873293fe7020380c673d45c2caf3a13\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 7\n"
+"X-Y1PS2-Raw-Block-ID: 7\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0007\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 07000105ac4f0200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0013|block=0007|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_26\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 7_1_0
+#. y1ps2.logical_line_key: DAY_KAB0013|block=0007|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_1_0"
+msgid "おじさん、{PA:10}この子すごく辛そう⋯。{PA:20}||早く病院に行かなきゃっ！"
+msgstr ""
+
+#. y1ps2.full_id: 7_2_0
+#. y1ps2.logical_line_key: DAY_KAB0013|block=0007|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_0"
+msgid "おじさん！{PA:10}➿この子、{PA:10}ぐったりしてる⋯。{PA:20}||急がなきゃ！！"
+msgstr ""
+
+#. y1ps2.full_id: 7_3_0
+#. y1ps2.logical_line_key: DAY_KAB0013|block=0007|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_3_0"
+msgid "ねぇ⋯{PA:20}大丈夫？{PA:10}||ねぇ、{PA:10}ねぇってばっ！！！"
+msgstr ""
+
+#. y1ps2.full_id: 7_3_1
+#. y1ps2.logical_line_key: DAY_KAB0013|block=0007|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_3_1"
+msgid "おじさん、{PA:10}返事がないよっ！！{PA:10}||急いでよ！！"
+msgstr ""
+
+#. y1ps2.full_id: 7_4_0
+#. y1ps2.logical_line_key: DAY_KAB0013|block=0007|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_4_0"
+msgid "おじさん⋯{PA:20}||もう、{PA:10}間に合わないよぉ！！"
+msgstr ""

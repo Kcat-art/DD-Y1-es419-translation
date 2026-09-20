@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0026\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0026.BIN\n"
+"X-Y1PS2-Source-SHA256: aa604a2ac082b31fd350d57a8fe831269b8cf8cd35a2d336ec7f611bb0c50e04\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0026.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0026.BIN\n"
+"X-Y1PS2-Talk-SHA256: aa604a2ac082b31fd350d57a8fe831269b8cf8cd35a2d336ec7f611bb0c50e04\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 82\n"
+"X-Y1PS2-Raw-Block-ID: 83\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0053\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5300010370390000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0026|block=0083|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_11\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NIN_TRG_SHINE\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0026/reference/jp/t00__TALK_ST_KAB0026__jp__sec-0082__block-0083__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0026/reference/en/t00__RAIN_KAB0026__en__sec-0082__block-0083__type-01.po\n"
+
+#. y1ps2.full_id: 82_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_0_0"
+msgid "iOh, no! iHe perdido el manuscrito!"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_0"
+msgid "¿Qué pasa?"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_1"
+msgid "Vine a tomarme una copa mientras||cubría una historia,"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_2"
+msgid "pero he bebido demasiado..."
+msgstr ""
+
+#. y1ps2.full_id: 82_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_3"
+msgid "Cuando me he despertado,||ihe visto que me falta el manuscrito!"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_4"
+msgid "iiTengo que entregarlo dentro de nada!!"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_5"
+msgid "¿Necesitas ayuda?"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_6
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_6"
+msgid "¿Qué?{PA:20} ¿De verdad lo dices?{PA:20}||iGracias!"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_7
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_7"
+msgid "He estado buscándolo por esta zona...{PA:20}||Pero debo haberlo perdido en cualquier"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_8
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_8"
+msgid "sitio del Distrito Champion."
+msgstr ""
+
+#. y1ps2.full_id: 82_1_9
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_9"
+msgid "Ok.{PA:20}||Te lo traeré cuando lo encuentre."
+msgstr ""
+
+#. y1ps2.full_id: 82_1_11
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_11"
+msgid "Es tu problema."
+msgstr ""
+
+#. y1ps2.full_id: 82_1_12
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_12"
+msgid "Me gusta beber...{PA:10} demasiado."
+msgstr ""
+
+#. y1ps2.full_id: 82_1_13
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_13"
+msgid "Bebo mucho incluso cuando tengo||cosas importantes de trabajo que hacer..."
+msgstr ""
+
+#. y1ps2.full_id: 82_1_14
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_1_14"
+msgid "Lo encontraré sola..."
+msgstr ""
+
+#. y1ps2.full_id: 82_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_2_0"
+msgid "¿Cómo ha ido?{PA:20}||¿Has encontrado mi manuscrito?"
+msgstr ""
+
+#. y1ps2.full_id: 82_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_2_1"
+msgid "No,{PA:10} no lo he encontrado todavía."
+msgstr ""
+
+#. y1ps2.full_id: 82_2_2
+#. y1ps2.logical_line_key: RAIN_KAB0026|block=0083|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_SHINE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "82_2_2"
+msgid "Estuve de copas en el Distrito Champion.||Debo haberlo perdido allí..."
+msgstr ""

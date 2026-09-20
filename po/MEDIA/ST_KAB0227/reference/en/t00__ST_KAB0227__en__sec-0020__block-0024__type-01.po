@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0227\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0227.BIN\n"
+"X-Y1PS2-Source-SHA256: 020579ad6740bf9b92784935887ff46417c74c9ed23a62ffde9ab05df57d04af\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0227.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0227.BIN\n"
+"X-Y1PS2-Talk-SHA256: 020579ad6740bf9b92784935887ff46417c74c9ed23a62ffde9ab05df57d04af\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 20\n"
+"X-Y1PS2-Raw-Block-ID: 24\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0018\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 18000103e4250000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0227|block=0024|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: STALKER_SHINJI\n"
+"X-Y1PS2-Pose: Freeze\n"
+
+#. y1ps2.full_id: 20_0_0
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_0_0"
+msgid "Listen,{PA:10} Kazuma.{PA:20} I want you to fight against||three men in a row, in that ring ahead."
+msgstr ""
+
+#. y1ps2.full_id: 20_0_1
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_0_1"
+msgid "No weapons or equipment.{PA:20}||Other than that, get as crazy as you want."
+msgstr ""
+
+#. y1ps2.full_id: 20_0_2
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_0_2"
+msgid "I want you to fight some tough guys. There||will be a large sum of money in it for you."
+msgstr ""
+
+#. y1ps2.full_id: 20_0_3
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_0_3"
+msgid "You have to prove to me that||you accomplished your \"assignment\","
+msgstr ""
+
+#. y1ps2.full_id: 20_0_4
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_0_4"
+msgid "by defeating all three of these men."
+msgstr ""
+
+#. y1ps2.full_id: 20_0_5
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_0_5"
+msgid "Do you understand?"
+msgstr ""
+
+#. y1ps2.full_id: 20_0_6
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_0_6"
+msgid "Come talk to me when you're ready."
+msgstr ""
+
+#. y1ps2.full_id: 20_1_0
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_1_0"
+msgid "Are you ready?"
+msgstr ""
+
+#. y1ps2.full_id: 20_1_1
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_1_1"
+msgid "Hurry up."
+msgstr ""
+
+#. y1ps2.full_id: 20_1_2
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_1_2"
+msgid "I hope you can get the crowd cheering.||Later."
+msgstr ""
+
+#. y1ps2.full_id: 20_2_0
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_2_0"
+msgid "Are you ready?"
+msgstr ""
+
+#. y1ps2.full_id: 20_2_1
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_2_1"
+msgid "Hurry up."
+msgstr ""
+
+#. y1ps2.full_id: 20_2_2
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_2_2"
+msgid "Whoa. It looks like you have weapons||or equipment.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 20_2_3
+#. y1ps2.logical_line_key: ST_KAB0227|block=0024|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "20_2_3"
+msgid "They're not allowed. Get rid of them."
+msgstr ""

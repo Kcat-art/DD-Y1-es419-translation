@@ -1,0 +1,1105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0213\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Source-SHA256: dcd075e987e510c984072e65fe0d6bd210c532a741a237e1731816fac2be9530\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-SHA256: dcd075e987e510c984072e65fe0d6bd210c532a741a237e1731816fac2be9530\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 81\n"
+"X-Y1PS2-Raw-Block-ID: 109\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6d00010cb83e0000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0213|block=0109|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER07\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C7_TRG_SAI_CHIKA\n"
+"X-Y1PS2-Actor: w_13\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0213/reference/jp/t00__TALK_ST_KAB0213__jp__sec-0081__block-0109__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0213/reference/en/t00__RAIN_KAB0213__en__sec-0081__block-0109__type-01.po\n"
+
+#. y1ps2.full_id: 81_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_1_0"
+msgid "Hola,{PA:10} viejo."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_1_1"
+msgid "iOh! {PA:10}iMi aprendiz! {PA:10}iEstás vivo!{PA:10}||iEstoy muy contento!"
+msgstr ""
+
+#. y1ps2.full_id: 81_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_1_2"
+msgid "Debes haber venido por||la siguiente lección... {PA:10}{MS:0}Ok."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_1_3"
+msgid "Pero...||No has entrenado lo suficiente."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_1_4"
+msgid "Antes de la siguiente lección,{PA:10}||necesitas alcanzar"
+msgstr ""
+
+#. y1ps2.full_id: 81_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_1_5"
+msgid "un cierto nivel en tu \"GI\" y \"TAI\"."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_1_6"
+msgid "iVuelve a las calles y entrénate!"
+msgstr ""
+
+#. y1ps2.full_id: 81_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_2_0"
+msgid "i¿Comprendido?{PA:10}||Entrena tu \"GI\" y \"TAI\"!"
+msgstr ""
+
+#. y1ps2.full_id: 81_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_2_1"
+msgid "iVuelve cuando estés listo!{PA:10}||iTe estaré esperando!"
+msgstr ""
+
+#. y1ps2.full_id: 81_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_3_0"
+msgid "Hola,{PA:10} viejo."
+msgstr ""
+
+#. y1ps2.full_id: 81_3_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_3_1"
+msgid "iOh! iMi aprendiz! iEstás vivo!||iEstoy muy contento!"
+msgstr ""
+
+#. y1ps2.full_id: 81_3_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_3_2"
+msgid "Parece que has venido aquí por||el siguiente entrenamiento... Ok."
+msgstr ""
+
+#. y1ps2.full_id: 81_3_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_3_3"
+msgid "iUmm!{PA:10} iHas entrenado||tu \"GI\" y \"TAI\" lo suficiente!"
+msgstr ""
+
+#. y1ps2.full_id: 81_3_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_3_4"
+msgid "¿Estás listo para la siguiente lección?"
+msgstr ""
+
+#. y1ps2.full_id: 81_3_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_3_5"
+msgid "Umm.{PA:10}||Si estás ocupado vuelve cuando quieras.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 81_3_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_3_6"
+msgid "Te estaré esperando."
+msgstr ""
+
+#. y1ps2.full_id: 81_3_7
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_3_7"
+msgid "Prepárate..."
+msgstr ""
+
+#. y1ps2.full_id: 81_4_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_0"
+msgid "Hola,{PA:10} viejo."
+msgstr ""
+
+#. y1ps2.full_id: 81_4_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_1"
+msgid "iOh!{PA:10} iMi aprendiz!{PA:10} iEstás vivo!{PA:10}||iEstoy muy contento!"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_2"
+msgid "Parece que has venido aquí por||el siguiente entrenamiento...{PA:10} Ok."
+msgstr ""
+
+#. y1ps2.full_id: 81_4_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_3"
+msgid "iUmm!{PA:10} iHas entrenado tu \"GI\"||y \"TAI\" lo suficiente!"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_4"
+msgid "¿Estás listo para la siguiente lección?"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_5"
+msgid "Umm.{PA:10}||Si estás ocupado vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 81_4_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_6"
+msgid "Te estaré esperando.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_7
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_7"
+msgid "Prepárate..."
+msgstr ""
+
+#. y1ps2.full_id: 81_4_8
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_8"
+msgid "¿Umm?{PA:20}||Ahora estás equipado,{PA:10} ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 81_4_9
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_9"
+msgid "No podemos empezar||el entrenamiento en estas condiciones..."
+msgstr ""
+
+#. y1ps2.full_id: 81_4_10
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_4_10"
+msgid "Quítate el equipo y vuelve."
+msgstr ""
+
+#. y1ps2.full_id: 81_5_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_5_0"
+msgid "iUmm!{PA:10} iHas entrenado||tu \"GI\" y \"TAI\" lo suficiente!"
+msgstr ""
+
+#. y1ps2.full_id: 81_5_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_5_1"
+msgid "¿Estás listo para la siguiente lección?"
+msgstr ""
+
+#. y1ps2.full_id: 81_5_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_5_2"
+msgid "Umm.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 81_5_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_5_3"
+msgid "Si estás ocupado vuelve cuando quieras.{MS:0}{PA:10}||Te estaré esperando."
+msgstr ""
+
+#. y1ps2.full_id: 81_5_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=5|sg=4
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_5_4"
+msgid "Prepárate..."
+msgstr ""
+
+#. y1ps2.full_id: 81_6_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_6_0"
+msgid "iUmm!{PA:10} iHas entrenado tu \"GI\"||y \"TAI\" lo suficiente!"
+msgstr ""
+
+#. y1ps2.full_id: 81_6_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_6_1"
+msgid "¿Estás listo para la siguiente lección?"
+msgstr ""
+
+#. y1ps2.full_id: 81_6_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_6_2"
+msgid "Umm.{PA:10}||Si estás ocupado vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 81_6_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_6_3"
+msgid "Te estaré esperando.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 81_6_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=6|sg=4
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_6_4"
+msgid "Prepárate..."
+msgstr ""
+
+#. y1ps2.full_id: 81_6_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=6|sg=5
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_6_5"
+msgid "¿Umm?{PA:20}||Ahora estás equipado,{PA:10} ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 81_6_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=6|sg=6
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_6_6"
+msgid "No podemos empezar||el entrenamiento en estas condiciones..."
+msgstr ""
+
+#. y1ps2.full_id: 81_6_7
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=6|sg=7
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_6_7"
+msgid "Quítate el equipo y vuelve."
+msgstr ""
+
+#. y1ps2.full_id: 81_7_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_7_0"
+msgid "¿Quieres otra lección,{PA:10}mi aprendiz?"
+msgstr ""
+
+#. y1ps2.full_id: 81_7_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_7_1"
+msgid "Umm.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 81_7_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=7|sg=2
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_7_2"
+msgid "Si estás ocupado vuelve cuando quieras.{MS:0}{PA:10}||Te estaré esperando."
+msgstr ""
+
+#. y1ps2.full_id: 81_7_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=7|sg=3
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_7_3"
+msgid "Prepárate..."
+msgstr ""
+
+#. y1ps2.full_id: 81_8_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_8_0"
+msgid "¿Quieres otra lección,{PA:10} mi aprendiz?"
+msgstr ""
+
+#. y1ps2.full_id: 81_8_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_8_1"
+msgid "Umm.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 81_8_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=8|sg=2
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_8_2"
+msgid "Si estás ocupado vuelve cuando quieras.{MS:0}{PA:10}||Te estaré esperando."
+msgstr ""
+
+#. y1ps2.full_id: 81_8_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=8|sg=3
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_8_3"
+msgid "Prepárate..."
+msgstr ""
+
+#. y1ps2.full_id: 81_8_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=8|sg=4
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_8_4"
+msgid "¿Umm?{PA:20}||Ahora estás equipado,{PA:10} ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 81_8_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=8|sg=5
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_8_5"
+msgid "No podemos empezar||el entrenamiento en estas condiciones..."
+msgstr ""
+
+#. y1ps2.full_id: 81_8_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=8|sg=6
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_8_6"
+msgid "Quítate el equipo y vuelve."
+msgstr ""
+
+#. y1ps2.full_id: 81_9_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_9_0"
+msgid "¿Quieres otra lección,{PA:10}mi aprendiz?"
+msgstr ""
+
+#. y1ps2.full_id: 81_9_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=9|sg=1
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_9_1"
+msgid "Umm.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 81_9_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=9|sg=2
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_9_2"
+msgid "Si estás ocupado vuelve cuando quieras.{MS:0}{PA:10}||Te estaré esperando."
+msgstr ""
+
+#. y1ps2.full_id: 81_9_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=9|sg=3
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_9_3"
+msgid "Prepárate..."
+msgstr ""
+
+#. y1ps2.full_id: 81_10_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_10_0"
+msgid "¿Quieres otra lección,{PA:10} mi aprendiz?"
+msgstr ""
+
+#. y1ps2.full_id: 81_10_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_10_1"
+msgid "Umm.{PA:10}||Si estás ocupado vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 81_10_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=10|sg=2
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_10_2"
+msgid "Te estaré esperando.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 81_10_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=10|sg=3
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_10_3"
+msgid "Prepárate..."
+msgstr ""
+
+#. y1ps2.full_id: 81_10_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=10|sg=4
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_10_4"
+msgid "¿Umm?{PA:20}||Ahora estás equipado,{PA:10} ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 81_10_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=10|sg=5
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_10_5"
+msgid "No podemos empezar||el entrenamiento en estas condiciones...||Rimuovi tutto e torna di nuovo.||Quítate el equipo y vuelve."
+msgstr ""
+
+#. y1ps2.full_id: 81_11_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0109|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_SAI_CHIKA
+#. y1ps2.actor: w_13
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "81_11_0"
+msgid "Umm..."
+msgstr ""

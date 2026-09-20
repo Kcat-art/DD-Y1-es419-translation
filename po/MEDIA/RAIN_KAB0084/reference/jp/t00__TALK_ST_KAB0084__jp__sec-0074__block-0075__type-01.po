@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0084\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0084.ARC\n"
+"X-Y1PS2-Source-SHA256: d233f98b12ba80de1c4a8d6d1aa4b8f7f0ca570756978e84b58624ebd00ce477\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0084.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0084.ARC/0/8___TALK_ST_KAB0084.BIN\n"
+"X-Y1PS2-Talk-SHA256: 8c7a089c3d4cb319685862bdf75fba909f631bf566713251a098b8b3cbcfa29e\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 74\n"
+"X-Y1PS2-Raw-Block-ID: 75\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4b00010608dc0100\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0084|block=0075|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: hos_g_Fup\n"
+"X-Y1PS2-Actor: w_1048660\n"
+"X-Y1PS2-Pose: cus_kaiwa_sofa_02\n"
+
+#. y1ps2.full_id: 74_4_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_0"
+msgid "あぁ、{PA:1}お店の人？"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_1"
+msgid "{CU:c8c8ff}は？"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_2"
+msgid "{CU:ffffff}ちょっと、どうなってんのよ！"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_3
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_3"
+msgid "翔太、指名重なっちゃって||全然席に来ないじゃないのよ！！"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_4
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_4"
+msgid "{CU:c8c8ff}⋯誠に申し訳ありません。"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_5
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_5"
+msgid "{CU:ffffff}ホントに、なんとかしてよね！{PA:10}||ワタシ翔太じゃないと嫌なんだから！"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_6
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_6"
+msgid "{SP:2}もう店にこないからね！！{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_7
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_7"
+msgid "{CU:c8c8ff}⋯分かりました。{PA:10}||オーナーに相談します。"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_8
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_8"
+msgid "{CU:c8c8ff}俺は関係ないんだ。"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_9
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_9"
+msgid "{CU:ffffff}え？||{PA:15}じゃぁ、{SP:3}{PA:10}何で居るのよ！{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_10
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_10"
+msgid "関係ないって何なの？{PA:10}||もう礼儀知らずね。"
+msgstr ""
+
+#. y1ps2.full_id: 74_4_11
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_4_11"
+msgid "{CU:c8c8ff}⋯⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_0"
+msgid "もう店閉めちゃうのかな？"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_1"
+msgid "{CU:c8c8ff}あぁ、多分な。"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_2"
+msgid "{CU:ffffff}んもう！{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_3
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_3"
+msgid "スターダストって最高にいいんだけど||揉め事ばっかりなんだから。"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_4
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=4
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_4"
+msgid "でも来ちゃうんだけどね。"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_5
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=5
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_5"
+msgid "{CU:c8c8ff}飲み足りないのか？"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_6
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=6
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_6"
+msgid "{CU:ffffff}いや⋯||{PA:15}どうせこれから自分の店で飲むからいいの。"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_7
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=7
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_7"
+msgid "{CU:c8c8ff}自分の⋯"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_8
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=8
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_8"
+msgid "{CU:ffffff}そう。{PA:10}||私、{PA:5}近くのキャバクラで働いてんのよ。"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_9
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=9
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_9"
+msgid "何か急に呼ばれちゃったから||ヘルプで入らないといけないんだ。"
+msgstr ""
+
+#. y1ps2.full_id: 74_5_10
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0075|type=01|mg=5|sg=10
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: hos_g_Fup
+#. y1ps2.actor: w_1048660
+#. y1ps2.pose: cus_kaiwa_sofa_02
+msgctxt "74_5_10"
+msgid "だからまぁ、{PA:10}ちょうど良かったわ。"
+msgstr ""

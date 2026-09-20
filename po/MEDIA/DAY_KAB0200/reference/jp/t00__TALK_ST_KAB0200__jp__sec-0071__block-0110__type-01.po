@@ -1,0 +1,768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.ARC\n"
+"X-Y1PS2-Source-SHA256: 6ea7c8d7d86a5978c7793c256fec6d21e26a03cb715e0e09fb3d37c0157f2963\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.ARC/0/8___TALK_ST_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: b184badc669a3dcc2f9a492348010790596ab528067990b877aaf1b9d5fd1259\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 71\n"
+"X-Y1PS2-Raw-Block-ID: 110\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6e00010c20d10200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0110|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: battlemaster\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Stand01\n"
+
+#. y1ps2.full_id: 71_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_1_0"
+msgid "{CU:c8c8ff}よう、{PA:10}じいさん。"
+msgstr ""
+
+#. y1ps2.full_id: 71_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_1_1"
+msgid "{CU:ffffff}おお！➿{PA:10}愛弟子よ！➿{PA:10}生きておったか！{PA:10}||元気そうで何よりじゃ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_1_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_1_2"
+msgid "次の修行を望んでおるようじゃな⋯➿{PA:10}{MS:0}ふむ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_1_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_1_3"
+msgid "しかし⋯➿{PA:10}お主はまだ鍛錬が出来て||いないようじゃ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_1_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_1_4"
+msgid "次の修行をさせるには、{PA:10}一定以上の「技」と「体」を||鍛錬している必要がある。"
+msgstr ""
+
+#. y1ps2.full_id: 71_1_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_1_5"
+msgid "野に出て鍛えてまいれ！"
+msgstr ""
+
+#. y1ps2.full_id: 71_2_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_2_0"
+msgid "よいか？➿{PA:10}「技」と「体」の鍛錬じゃぞ！||{MS:0}それが出来たら来い！➿{PA:10}行ってまいれ！"
+msgstr ""
+
+#. y1ps2.full_id: 71_3_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_3_0"
+msgid "{CU:c8c8ff}よう、{PA:10}じいさん。"
+msgstr ""
+
+#. y1ps2.full_id: 71_3_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_3_1"
+msgid "{CU:ffffff}おお！➿{PA:10}愛弟子よ！{PA:10}➿生きておったか！{PA:10}||元気そうで何よりじゃ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_3_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_3_2"
+msgid "次の修行を望んでおるようじゃな⋯{PA:10}➿ふむ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_3_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_3_3"
+msgid "む！➿{PA:10}「技」と「体」の鍛錬も充分なようじゃ。{PA:20}||それでは、{PA:10}次の修行を始めるとするか？"
+msgstr ""
+
+#. y1ps2.full_id: 71_3_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_3_4"
+msgid "{CU:ffffff}む、➿{PA:10}急いでおるようならば仕方あるまい。{PA:10}||いつでも来い。➿{MS:0}{PA:10}待っておるぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_3_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_3_5"
+msgid "{CU:ffffff}では参るぞ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 71_4_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_4_0"
+msgid "{CU:c8c8ff}よう、{PA:10}じいさん。"
+msgstr ""
+
+#. y1ps2.full_id: 71_4_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_4_1"
+msgid "{CU:ffffff}おお！➿{PA:10}愛弟子よ！{PA:10}➿生きておったか！{PA:10}||元気そうで何よりじゃ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_4_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_4_2"
+msgid "次の修行を望んでおるようじゃな⋯{PA:10}➿ふむ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_4_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_4_3"
+msgid "む！➿{PA:10}「技」と「体」の鍛錬も充分なようじゃ。{PA:20}||それでは、{PA:10}次の修行を始めるとするか？"
+msgstr ""
+
+#. y1ps2.full_id: 71_4_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_4_4"
+msgid "{CU:ffffff}む、➿{PA:10}急いでおるようならば仕方あるまい。{PA:10}||いつでも来い。➿{MS:0}{PA:10}待っておるぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_4_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_4_5"
+msgid "{CU:ffffff}では参るぞ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 71_4_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_4_6"
+msgid "むむ？{PA:20}||お主、{PA:10}今、{PA:10}何かを装備しておるじゃろ？"
+msgstr ""
+
+#. y1ps2.full_id: 71_4_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_4_7"
+msgid "それでは、{PA:10}修行にならぬ⋯。{PA:20}||装備を外して、{PA:10}出直して来い。"
+msgstr ""
+
+#. y1ps2.full_id: 71_5_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_5_0"
+msgid "ふむ、{PA:10}「技」と「体」の鍛錬も充分なようじゃ。{PA:20}||それでは、{PA:10}次の修行を始めるとするか？"
+msgstr ""
+
+#. y1ps2.full_id: 71_5_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_5_1"
+msgid "{CU:ffffff}む？➿{PA:10}急いでおるのか？{PA:10}||ならば仕方があるまい、{MS:0}{PA:10}いつでも待っておるぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_5_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_5_2"
+msgid "{CU:ffffff}では参るぞ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 71_6_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_6_0"
+msgid "ふむ、{PA:10}「技」と「体」の鍛錬も充分なようじゃ。{PA:20}||それでは、{PA:10}次の修行を始めるとするか？"
+msgstr ""
+
+#. y1ps2.full_id: 71_6_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_6_1"
+msgid "{CU:ffffff}む？➿{PA:10}急いでおるのか？{PA:10}||ならば仕方があるまい、{MS:0}{PA:10}いつでも待っておるぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_6_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_6_2"
+msgid "{CU:ffffff}では参るぞ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 71_6_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_6_3"
+msgid "むむ？{PA:20}||お主、{PA:10}今、{PA:10}何かを装備しておるじゃろ？"
+msgstr ""
+
+#. y1ps2.full_id: 71_6_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=6|sg=4
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_6_4"
+msgid "それでは、{PA:10}修行にならぬ⋯。{PA:20}||装備を外して、{PA:10}出直して来い。"
+msgstr ""
+
+#. y1ps2.full_id: 71_7_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_7_0"
+msgid "愛弟子よ。➿{PA:10}再び修行を受ける気になったか？"
+msgstr ""
+
+#. y1ps2.full_id: 71_7_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_7_1"
+msgid "{CU:ffffff}む、{PA:10}急いでおるようならば仕方があるまい。{PA:10}||{MS:0}いつでも来い。➿待っておるぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_7_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=7|sg=2
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_7_2"
+msgid "{CU:ffffff}では参るぞ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 71_8_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_8_0"
+msgid "愛弟子よ。➿{PA:10}再び修行を受ける気になったか？"
+msgstr ""
+
+#. y1ps2.full_id: 71_8_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_8_1"
+msgid "{CU:ffffff}む、{PA:10}急いでおるようならば仕方があるまい。{PA:10}||{MS:0}いつでも来い。➿待っておるぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_8_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=8|sg=2
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_8_2"
+msgid "{CU:ffffff}では参るぞ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 71_8_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=8|sg=3
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_8_3"
+msgid "むむ？{PA:20}||お主、{PA:10}今、{PA:10}何かを装備しておるじゃろ？"
+msgstr ""
+
+#. y1ps2.full_id: 71_8_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=8|sg=4
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_8_4"
+msgid "それでは、{PA:10}修行にならぬ⋯。{PA:20}||装備を外して、{PA:10}出直して来い。"
+msgstr ""
+
+#. y1ps2.full_id: 71_9_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_9_0"
+msgid "愛弟子よ。➿{PA:10}再び修行を受ける気になったか？"
+msgstr ""
+
+#. y1ps2.full_id: 71_9_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=9|sg=1
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_9_1"
+msgid "{CU:ffffff}む、{PA:10}急いでおるようならば仕方があるまい。{PA:10}||{MS:0}いつでも来い。➿待っておるぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_9_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=9|sg=2
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_9_2"
+msgid "{CU:ffffff}では参るぞ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 71_10_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_10_0"
+msgid "愛弟子よ。➿{PA:10}再び修行を受ける気になったか？"
+msgstr ""
+
+#. y1ps2.full_id: 71_10_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_10_1"
+msgid "{CU:ffffff}む、{PA:10}急いでおるようならば仕方があるまい。{PA:10}||{MS:0}いつでも来い。➿待っておるぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 71_10_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=10|sg=2
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_10_2"
+msgid "{CU:ffffff}では参るぞ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 71_10_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=10|sg=3
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_10_3"
+msgid "むむ？{PA:20}||お主、{PA:10}今、{PA:10}何かを装備しておるじゃろ？"
+msgstr ""
+
+#. y1ps2.full_id: 71_10_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=10|sg=4
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_10_4"
+msgid "それでは、{PA:10}修行にならぬ⋯。{PA:20}||装備を外して、{PA:10}出直して来い。"
+msgstr ""
+
+#. y1ps2.full_id: 71_11_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0110|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "71_11_0"
+msgid "ヌヌヌ⋯⋯"
+msgstr ""

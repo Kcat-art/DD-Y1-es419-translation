@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0103\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Source-SHA256: defcd2bef43c5a7a3c32ac3f2d1ba3d7af9d80eca864e66b93e699ece1cfb815\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-SHA256: defcd2bef43c5a7a3c32ac3f2d1ba3d7af9d80eca864e66b93e699ece1cfb815\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 40\n"
+"X-Y1PS2-Raw-Block-ID: 41\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0029\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 29000106182e0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0103|block=0041|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: host_neck_Mlg_ht\n"
+"X-Y1PS2-Actor: w_1048649\n"
+"X-Y1PS2-Pose: Stand05\n"
+
+#. y1ps2.full_id: 40_3_0
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_3_0"
+msgid "By yourself today, {PA:10}Kazuma-san?"
+msgstr ""
+
+#. y1ps2.full_id: 40_3_1
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_3_1"
+msgid "Yeah,{PA:10}||I came here looking for a girl I know."
+msgstr ""
+
+#. y1ps2.full_id: 40_3_2
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_3_2"
+msgid "Oh, I see. {PA:10}Then, we'll arrange||a table for you real quick."
+msgstr ""
+
+#. y1ps2.full_id: 40_3_3
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_3_3"
+msgid "Don't bother.||{PA:10}I'll just look around on my own."
+msgstr ""
+
+#. y1ps2.full_id: 40_4_0
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_4_0"
+msgid "I wonder if Shota's alright."
+msgstr ""
+
+#. y1ps2.full_id: 40_4_1
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_4_1"
+msgid "Are you worried about him?"
+msgstr ""
+
+#. y1ps2.full_id: 40_4_2
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_4_2"
+msgid "I have a feeling that Shota's being||threatened."
+msgstr ""
+
+#. y1ps2.full_id: 40_4_3
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_4_3"
+msgid "Threatened?"
+msgstr ""
+
+#. y1ps2.full_id: 40_4_4
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_4_4"
+msgid "He probably borrowed money for that girl||Saya..."
+msgstr ""
+
+#. y1ps2.full_id: 40_4_5
+#. y1ps2.logical_line_key: ST_KAB0103|block=0041|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_neck_Mlg_ht
+#. y1ps2.actor: w_1048649
+#. y1ps2.pose: Stand05
+msgctxt "40_4_5"
+msgid "and ended up getting harassed by debt||collectors."
+msgstr ""

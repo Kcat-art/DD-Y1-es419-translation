@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.ARC\n"
+"X-Y1PS2-Source-SHA256: 6ea7c8d7d86a5978c7793c256fec6d21e26a03cb715e0e09fb3d37c0157f2963\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.ARC/0/8___TALK_ST_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: b184badc669a3dcc2f9a492348010790596ab528067990b877aaf1b9d5fd1259\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 48\n"
+"X-Y1PS2-Raw-Block-ID: 87\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0057\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 57000103a0cc0200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0087|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: date\n"
+"X-Y1PS2-Actor: date10_tanaka_kawara\n"
+"X-Y1PS2-Pose: Stand01\n"
+
+#. y1ps2.full_id: 48_0_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_0_0"
+msgid "桐生⋯{PA:20}||まだ錦山と会うまでは時間がある。"
+msgstr ""
+
+#. y1ps2.full_id: 48_0_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_0_1"
+msgid "⋯遥も色々あって辛かっただろうから||少しは気晴らしに行って来い。"
+msgstr ""
+
+#. y1ps2.full_id: 48_0_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_0_2"
+msgid "{CU:c8c8ff}だが遥は傷が⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 48_0_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_0_3"
+msgid "{CU:ffffff}傷は浅い。"
+msgstr ""
+
+#. y1ps2.full_id: 48_0_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_0_4"
+msgid "それにあの子にとっちゃ||たまの遊びの方が良いクスリになるさ。"
+msgstr ""
+
+#. y1ps2.full_id: 48_0_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_0_5"
+msgid "⋯俺はここで待ってるから||行ってやってくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 48_0_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_0_6"
+msgid "{CU:c8c8ff}分かった。{PA:20}||宜しく頼むよ。"
+msgstr ""
+
+#. y1ps2.full_id: 48_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_1_0"
+msgid "まだ錦山と会うまでは時間がある。||少しは気晴らしに行って来い。"
+msgstr ""
+
+#. y1ps2.full_id: 48_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_1_1"
+msgid "それにあの子にとっちゃ||たまの遊びの方が良いクスリになるさ。"
+msgstr ""
+
+#. y1ps2.full_id: 48_2_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0087|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: date10_tanaka_kawara
+#. y1ps2.pose: Stand01
+msgctxt "48_2_0"
+msgid "１０時に{MS:0}セレナだぜ。{PA:10}||気をつけてな、{PA:10}桐生。{MR:00}"
+msgstr ""

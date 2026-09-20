@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0086\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0086.ARC\n"
+"X-Y1PS2-Source-SHA256: 5a6e60ffa297c59f239a0f03b7d96c254aed570dcc30a3c8bd1ef1f1e1fa6777\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0086.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0086.ARC/0/8___TALK_ST_KAB0086.BIN\n"
+"X-Y1PS2-Talk-SHA256: c6de6b529e2bb53f15f9901c90af510075cd37ebcaba1112bc4d2afcd48851a9\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 93\n"
+"X-Y1PS2-Raw-Block-ID: 95\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005F\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5f000104d4c60100\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0086|block=0095|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: baten\n"
+"X-Y1PS2-Actor: w_1\n"
+"X-Y1PS2-Pose: sp_BJ\n"
+
+#. y1ps2.full_id: 93_0_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 01
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "93_0_0"
+msgid "ブラックジャック"
+msgstr ""
+
+#. y1ps2.full_id: 93_1_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "93_1_0"
+msgid "「{CC:ffc8c8}ブラックジャック{CR:00}」で遊びますか？"
+msgstr ""
+
+#. y1ps2.full_id: 93_1_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 1e
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "93_1_1"
+msgid "{CU:ffffff}"
+msgstr ""
+
+#. y1ps2.full_id: 93_2_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "93_2_0"
+msgid "お客様、{CU:ffc8c8}ブラックジャック{MR:00}をプレイして頂くには||お手持ちのチップが足りないようです。"
+msgstr ""
+
+#. y1ps2.full_id: 93_3_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "93_3_0"
+msgid "こちらは、{PA:10}ブラックジャックコーナーです。{PA:20}||おや？➿{PA:10}お客さん勝負師の目をしていますね？"
+msgstr ""
+
+#. y1ps2.full_id: 93_3_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "93_3_1"
+msgid "では今日は特別レートで行きましょうか？{PA:20}||当店の通常の１００倍のレートで。"
+msgstr ""
+
+#. y1ps2.full_id: 93_3_2
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "93_3_2"
+msgid "「{CC:ffc8c8}ブラックジャック{CR:00}」で遊びますか？"
+msgstr ""
+
+#. y1ps2.full_id: 93_3_3
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "93_3_3"
+msgid "{CU:c8c8ff}ブラックジャックか⋯。➿{PA:20}ちょっと試してみるか。"
+msgstr ""
+
+#. y1ps2.full_id: 93_3_5
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "93_3_5"
+msgid "{CU:c8c8ff}やめておこう。"
+msgstr ""

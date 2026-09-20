@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0064\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0064.BIN\n"
+"X-Y1PS2-Source-SHA256: 76750f0bf081d181424b01e21cb4bc69bbb1f94112b1d46a8621b71fa69311d4\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0064.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0064.BIN\n"
+"X-Y1PS2-Talk-SHA256: 76750f0bf081d181424b01e21cb4bc69bbb1f94112b1d46a8621b71fa69311d4\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 39\n"
+"X-Y1PS2-Raw-Block-ID: 40\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0028\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 280001026c350000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0064|block=0040|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: cava_minigameF\n"
+"X-Y1PS2-Actor: w_7\n"
+"X-Y1PS2-Pose: Stand01\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0064/reference/jp/t00__TALK_ST_KAB0064__jp__sec-0039__block-0040__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0064/reference/en/t00__RAIN_KAB0064__en__sec-0039__block-0040__type-01.po\n"
+
+#. y1ps2.full_id: 39_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0064|block=0040|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Stand01
+msgctxt "39_0_0"
+msgid "He oído que el Ojo Sangriento||ha atacado el Purgatorio."
+msgstr ""
+
+#. y1ps2.full_id: 39_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0064|block=0040|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Stand01
+msgctxt "39_0_1"
+msgid "Van a hacer una fiesta esta noche||para celebrar el ataque..."
+msgstr ""
+
+#. y1ps2.full_id: 39_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0064|block=0040|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Stand01
+msgctxt "39_1_0"
+msgid "Son esos. Esos son los||que han atacado el Purgatorio."
+msgstr ""

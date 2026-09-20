@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0001\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Source-SHA256: dab02d505edf20cb1003d51631fe4ac68fdb06f849bd96ff6a2a55ca3843a3ae\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Talk-SHA256: dab02d505edf20cb1003d51631fe4ac68fdb06f849bd96ff6a2a55ca3843a3ae\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 101\n"
+"X-Y1PS2-Raw-Block-ID: 102\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0066\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 66000104dc3e0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0001|block=0102|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: wall_10m\n"
+"X-Y1PS2-Actor: w_7\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0001/reference/jp/t00__TALK_ST_KAB0001__jp__sec-0101__block-0102__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0001/reference/en/t00__DAY_KAB0001__en__sec-0101__block-0102__type-01.po\n"
+
+#. y1ps2.full_id: 101_0_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_0_0"
+msgid "Hic... ¿Tienes algo de Sake...?||Si tienes... iiidámelo!!!"
+msgstr ""
+
+#. y1ps2.full_id: 101_0_1
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_0_1"
+msgid "(¿Debería darle un poco de Sake?)"
+msgstr ""
+
+#. y1ps2.full_id: 101_0_4
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_0_4"
+msgid "Oh, ¿Qué...? iNo tienes!||¿Por qué tratas de, hic, engañarme...?"
+msgstr ""
+
+#. y1ps2.full_id: 101_0_5
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_0_5"
+msgid "iOh! Gracias colega...||Toma, toma esto, hic."
+msgstr ""
+
+#. y1ps2.full_id: 101_0_6
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_0_6"
+msgid "Has recibido 500 yenes||que apestan a alcohol."
+msgstr ""
+
+#. y1ps2.full_id: 101_0_7
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_0_7"
+msgid "¿Qué? i¿No me vas a dar nada de Sake?!||iPiérdete entonces! iFuuu! iFuuu!"
+msgstr ""
+
+#. y1ps2.full_id: 101_1_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_1_0"
+msgid "Creo que debería dejar de beber..."
+msgstr ""
+
+#. y1ps2.full_id: 101_2_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_2_0"
+msgid "iHic!||Oye, ¿no tendrás un poco más de Sake?"
+msgstr ""
+
+#. y1ps2.full_id: 101_2_3
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_2_3"
+msgid "Oh, ¿Qué...? iNo tienes!||¿Por qué tratas de, hic, engañarme...?"
+msgstr ""
+
+#. y1ps2.full_id: 101_2_4
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_2_4"
+msgid "iOh! Gracias colega...{MS:1}{MS:0}||Toma, toma esto, hic."
+msgstr ""
+
+#. y1ps2.full_id: 101_2_5
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_2_5"
+msgid "Has recibido 500 yenes||que apestan a alcohol."
+msgstr ""
+
+#. y1ps2.full_id: 101_2_6
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_2_6"
+msgid "iEstoy muy ciego...||Hic!"
+msgstr ""
+
+#. y1ps2.full_id: 101_2_7
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_2_7"
+msgid "¿Qué?||¿Me dices que soy un borracho? iJódete! Hic."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_0"
+msgid "iOwww! !Aghh!||¿Tienes alguna medicina?"
+msgstr ""
+
+#. y1ps2.full_id: 101_3_1
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_1"
+msgid "(Parece estar muy borracho.||Se pondrá bien si le doy un Staminan X.)"
+msgstr ""
+
+#. y1ps2.full_id: 101_3_3
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_3"
+msgid "Oh, no tienes."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_4
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_4"
+msgid "iOwww!||iOww! Me estoy muriendo..."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_5
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_5"
+msgid "Le has dado un Staminan Royal."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_6
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_6"
+msgid "Le has dado un Staminan X."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_7
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_7"
+msgid "Le has dado un Staminan XX."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_8
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_8"
+msgid "Le has dado un Staminan Spark."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_9
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_9"
+msgid "iOh! iEres mi salvador!{MS:1}{MS:0}||Toma esto como muestra de agradecimiento."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_10
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_10"
+msgid "Has recibido 30.000 yenes||que huelen a perros muertos."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_11
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=11
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_11"
+msgid "Has obtenido 200 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 101_3_13
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0102|type=01|mg=3|sg=13
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: wall_10m
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "101_3_13"
+msgid "¿Qué?||¿Me dices que soy un borracho? iJódete! Hic."
+msgstr ""

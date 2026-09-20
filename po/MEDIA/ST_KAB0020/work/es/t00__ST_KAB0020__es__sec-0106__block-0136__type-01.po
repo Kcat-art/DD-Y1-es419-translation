@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0020\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0020.BIN\n"
+"X-Y1PS2-Source-SHA256: 15e83bdb850af14cd1057f5a44a93d4403bd46dd8869823d8e5549909ac4acd7\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0020.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0020.BIN\n"
+"X-Y1PS2-Talk-SHA256: 15e83bdb850af14cd1057f5a44a93d4403bd46dd8869823d8e5549909ac4acd7\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 106\n"
+"X-Y1PS2-Raw-Block-ID: 136\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0088\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 88000103703d0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0020|block=0136|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: salap_b_M64\n"
+"X-Y1PS2-Actor: Mmiddle_a_02\n"
+"X-Y1PS2-Pose: Stand01\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0020/reference/en/t00__ST_KAB0020__en__sec-0106__block-0136__type-01.po\n"
+
+#. y1ps2.full_id: 106_0_0
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_0_0"
+msgid "Yuya"
+msgstr ""
+
+#. y1ps2.full_id: 106_1_1
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_1_1"
+msgid "¿Dónde?"
+msgstr ""
+
+#. y1ps2.full_id: 106_1_3
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_1_3"
+msgid "Lo tengo."
+msgstr ""
+
+#. y1ps2.full_id: 106_2_0
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_2_0"
+msgid "Soy Yuya. Los he encontrado."
+msgstr ""
+
+#. y1ps2.full_id: 106_2_2
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_2_2"
+msgid "En el salón de Go, en el Bulevar del Parque."
+msgstr ""
+
+#. y1ps2.full_id: 106_2_4
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_2_4"
+msgid "Miyu está en peligro."
+msgstr ""
+
+#. y1ps2.full_id: 106_2_5
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_2_5"
+msgid "Si me pasa algo, encárgate de todo,||por favor..."
+msgstr ""
+
+#. y1ps2.full_id: 106_2_8
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_2_8"
+msgid "... iNo puedo!||No queda tiempo. iEntro ya!"
+msgstr ""
+
+#. y1ps2.full_id: 106_2_9
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_2_9"
+msgid "¿Eh? Ok... gracias...||Encárgate de todo, por favor..."
+msgstr ""
+
+#. y1ps2.full_id: 106_2_12
+#. y1ps2.logical_line_key: ST_KAB0020|block=0136|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mmiddle_a_02
+#. y1ps2.pose: Stand01
+msgctxt "106_2_12"
+msgid "iSí!"
+msgstr ""

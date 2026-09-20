@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0217\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0217.BIN\n"
+"X-Y1PS2-Source-SHA256: f771994c961e3cace6209b8f6910fd4b311bda635cb6d67ac1511e138bc741d5\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0217.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0217.BIN\n"
+"X-Y1PS2-Talk-SHA256: f771994c961e3cace6209b8f6910fd4b311bda635cb6d67ac1511e138bc741d5\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 22\n"
+"X-Y1PS2-Raw-Block-ID: 23\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0017\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 17000102544d0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0217|block=0023|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: Navi_shi_01_K00_03\n"
+"X-Y1PS2-Pose: Freeze\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0217/reference/jp/t00__TALK_ST_KAB0217__jp__sec-0023__block-0023__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0217/reference/en/t00__ST_KAB0217__en__sec-0022__block-0023__type-01.po\n"
+
+#. y1ps2.full_id: 22_0_0
+#. y1ps2.logical_line_key: ST_KAB0217|block=0023|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_0"
+msgid "Nene,{PA:10} sin duda eres mi tipo,||así que tendrás que"
+msgstr ""
+
+#. y1ps2.full_id: 22_0_1
+#. y1ps2.logical_line_key: ST_KAB0217|block=0023|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_1"
+msgid "venir solo la próxima vez."
+msgstr ""
+
+#. y1ps2.full_id: 22_1_0
+#. y1ps2.logical_line_key: ST_KAB0217|block=0023|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_1_0"
+msgid "iHey, tú!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 22_1_1
+#. y1ps2.logical_line_key: ST_KAB0217|block=0023|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_1_1"
+msgid "¿Qué crees que estás haciendo||trayendo una niña pequeña?"
+msgstr ""
+
+#. y1ps2.full_id: 22_1_2
+#. y1ps2.logical_line_key: ST_KAB0217|block=0023|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_1_2"
+msgid "Venga papi,{PA:10} únete."
+msgstr ""
+
+#. y1ps2.full_id: 22_1_3
+#. y1ps2.logical_line_key: ST_KAB0217|block=0023|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_1_3"
+msgid "¿Por casualidad eres Akemi...?"
+msgstr ""
+
+#. y1ps2.full_id: 22_1_4
+#. y1ps2.logical_line_key: ST_KAB0217|block=0023|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_1_4"
+msgid "No.{PA:20} Soy Rumi.{PA:10}||Siento decepcionarte."
+msgstr ""

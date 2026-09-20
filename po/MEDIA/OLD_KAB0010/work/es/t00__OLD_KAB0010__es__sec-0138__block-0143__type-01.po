@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: OLD_KAB0010\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: OLD_KAB0010.BIN\n"
+"X-Y1PS2-Source-SHA256: 2354cd7cccb2aee4419d1761718beac33cee76432fd0db18579b20d18bb2494d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: OLD_KAB0010.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: OLD_KAB0010.BIN\n"
+"X-Y1PS2-Talk-SHA256: 2354cd7cccb2aee4419d1761718beac33cee76432fd0db18579b20d18bb2494d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 138\n"
+"X-Y1PS2-Raw-Block-ID: 143\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x008F\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8f0001034c3b0000\n"
+"X-Y1PS2-Logical-Section-Key: OLD_KAB0010|block=0143|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: parka2_Mnit\n"
+"X-Y1PS2-Actor: w_24\n"
+"X-Y1PS2-Pose: Wait01\n"
+"X-Y1PS2-Reference-JP-PO: OLD_KAB0010/reference/jp/t00__TALK_ST_KAB0010__jp__sec-0142__block-0143__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: OLD_KAB0010/reference/en/t00__OLD_KAB0010__en__sec-0138__block-0143__type-01.po\n"
+
+#. y1ps2.full_id: 138_0_0
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_0_0"
+msgid "Oh, {PA:10}ies Kazuma-san de la Familia Dojima!||Umm... ¿Qué podemos hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 138_0_1
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_0_1"
+msgid "Nada."
+msgstr ""
+
+#. y1ps2.full_id: 138_0_2
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_0_2"
+msgid "Ok. {PA:20}Justo lo que pensaba.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 138_0_3
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_0_3"
+msgid "No quieres tener nada||que ver con nosotros."
+msgstr ""
+
+#. y1ps2.full_id: 138_0_4
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_0_4"
+msgid "De acuerdo, entonces."
+msgstr ""
+
+#. y1ps2.full_id: 138_0_5
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_0_5"
+msgid "Lárgate."
+msgstr ""
+
+#. y1ps2.full_id: 138_0_6
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_0_6"
+msgid "Lo siento.{PA:10}||iNo volveremos a molestarte!"
+msgstr ""
+
+#. y1ps2.full_id: 138_0_7
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_0_7"
+msgid "... {PA:10}iPerdón!"
+msgstr ""
+
+#. y1ps2.full_id: 138_1_0
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_1_0"
+msgid "iHey nena!||¿Quieres que vayamos a tomar algo? ¿Eh? ¿Eh?"
+msgstr ""
+
+#. y1ps2.full_id: 138_2_0
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0143|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Mnit
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait01
+msgctxt "138_2_0"
+msgid "iPerdónanos,{PA:10}||por favor...!"
+msgstr ""

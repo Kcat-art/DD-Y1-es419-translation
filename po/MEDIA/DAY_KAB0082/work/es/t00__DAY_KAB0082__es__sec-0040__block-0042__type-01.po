@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0082\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0082.BIN\n"
+"X-Y1PS2-Source-SHA256: c295bcc444f13a556e29a9556648500eae2e434d02d81bec451c9bc2083cd6f6\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0082.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0082.BIN\n"
+"X-Y1PS2-Talk-SHA256: c295bcc444f13a556e29a9556648500eae2e434d02d81bec451c9bc2083cd6f6\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 40\n"
+"X-Y1PS2-Raw-Block-ID: 42\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x002A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 2a00010474310000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0082|block=0042|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0082/reference/jp/t00__TALK_ST_KAB0082__jp__sec-0041__block-0042__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0082/reference/en/t00__DAY_KAB0082__en__sec-0040__block-0042__type-01.po\n"
+
+#. y1ps2.full_id: 40_1_0
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_1_0"
+msgid "... Ten cuidado, {PA:10}Kazuma."
+msgstr ""
+
+#. y1ps2.full_id: 40_2_0
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_2_0"
+msgid "Así que, {PA:10}Fuma-san está vivo.{PA:20}||Qué alivio."
+msgstr ""
+
+#. y1ps2.full_id: 40_3_0
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_0"
+msgid "Bienvenido de nuevo, {PA:10}Kazuma...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 40_3_1
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_1"
+msgid "¿Eh?{PA:10}||¿Dónde están el Detective Date y Haruka?"
+msgstr ""
+
+#. y1ps2.full_id: 40_3_2
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_2"
+msgid "A Haruka la ha raptado Majima{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 40_3_3
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_3"
+msgid "y al Detective Date le ha dado||una paliza Majima."
+msgstr ""
+
+#. y1ps2.full_id: 40_3_4
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_4"
+msgid "i¿Qué?! {PA:10}¿Lo dices en serio?"
+msgstr ""
+
+#. y1ps2.full_id: 40_3_5
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_5"
+msgid "Sí.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 40_3_6
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_6"
+msgid "Le dije al Detective Date que||viniera más tarde."
+msgstr ""
+
+#. y1ps2.full_id: 40_3_7
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_7"
+msgid "Le he dado unos primeros auxilios,{PA:10}||pero si lo necesita, échale una mano."
+msgstr ""
+
+#. y1ps2.full_id: 40_3_8
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_8"
+msgid "De acuerdo.{PA:20}||Vas a salvar a Haruka, ¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 40_3_9
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_9"
+msgid "Por supuesto."
+msgstr ""
+
+#. y1ps2.full_id: 40_3_10
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0042|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "40_3_10"
+msgid "Buena suerte {PA:20}y ten cuidado."
+msgstr ""

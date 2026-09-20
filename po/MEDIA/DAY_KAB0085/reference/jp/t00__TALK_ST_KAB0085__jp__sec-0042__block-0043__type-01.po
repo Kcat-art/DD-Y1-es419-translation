@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0085\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0085.ARC\n"
+"X-Y1PS2-Source-SHA256: 522e9694f95facad9d57640fbbd3ae13bec92db62d59426af3efeb53127b4d18\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0085.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0085.ARC/0/8___TALK_ST_KAB0085.BIN\n"
+"X-Y1PS2-Talk-SHA256: ff23585e12132b731d9dd9928a9af387e5f498e005bf45a2b8fa31fefeb5d743\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 42\n"
+"X-Y1PS2-Raw-Block-ID: 43\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x002B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 2b00010308830100\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0085|block=0043|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: ojisan_a\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 42_0_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0043|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ojisan_a
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "42_0_0"
+msgid "どうだい？{PA:10}お兄さん。{PA:15}||気分晴らしにバッティングして行きなよ。"
+msgstr ""
+
+#. y1ps2.full_id: 42_0_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0043|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ojisan_a
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "42_0_1"
+msgid "１０球以上ホームランにすると||素敵な賞品をあげるぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 42_0_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0043|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ojisan_a
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "42_0_2"
+msgid "１回３００円で２０球だ。{PA:10}||バッターボックスで金を入れてくれよ。"
+msgstr ""
+
+#. y1ps2.full_id: 42_0_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0043|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ojisan_a
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "42_0_3"
+msgid "||{MS:0}バッティングやってくかい？||一回５００円だよ。"
+msgstr ""
+
+#. y1ps2.full_id: 42_0_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0043|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ojisan_a
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "42_0_5"
+msgid "{CU:ffffff}にいちゃん、がんばってな。"
+msgstr ""
+
+#. y1ps2.full_id: 42_0_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0043|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ojisan_a
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "42_0_7"
+msgid "{CU:ffffff}金がねぇのかい⋯⋯。||ひやかしならごめんだよ。"
+msgstr ""
+
+#. y1ps2.full_id: 42_0_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0043|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ojisan_a
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "42_0_8"
+msgid "{CU:ffffff}ひやかしかい⋯⋯。"
+msgstr ""

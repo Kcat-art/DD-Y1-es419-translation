@@ -1,0 +1,899 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0028\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0028.BIN\n"
+"X-Y1PS2-Source-SHA256: 499dfb0bc94135d24fb0d303776690375ede7d144b642f9efdf658b5c01abe3a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0028.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0028.BIN\n"
+"X-Y1PS2-Talk-SHA256: 499dfb0bc94135d24fb0d303776690375ede7d144b642f9efdf658b5c01abe3a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 81\n"
+"X-Y1PS2-Raw-Block-ID: 82\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0052\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5200010460310000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0028|block=0082|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_11\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NIN_TRG_CHILD_PARK\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 81_0_0
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_0"
+msgid "Hey,{PA:10} you!"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_1
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_1"
+msgid "What?"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_2
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_2"
+msgid "Hey,{PA:10} you!{PA:10} Didn't you just drop a lighter?"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_3
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_3"
+msgid "Really. My mistake then.||Sorry to bother you."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_4
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_4"
+msgid "I thought so.{PA:20}||So,{PA:10} your lighter..."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_5
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_5"
+msgid "Is it this golden lighter? {PA:10}Or...{PA:10}||Is it this 100 yen plastic lighter?"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_6
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_6"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_7
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_7"
+msgid "Humph...{PA:10} I see."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_8
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_8"
+msgid "But I picked up what you dropped.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_9
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_9"
+msgid "You should pay me 10% of the value||as a gratuity."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_10
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_10"
+msgid "...Gimme 200,000 yen,{PA:20}||and this golden lighter is yours."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_11
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_11"
+msgid "Really?"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_13
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_13"
+msgid "If that's the case, I'll give it to you."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_14
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_14"
+msgid "You received the \"{CC:ffc8c8}Golden Lighter{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_16
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_16"
+msgid "Later..."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_17
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_17"
+msgid "Whoa! You don't have 200,000 yen.{PA:20}||I'm sorry, but I can't give this to you."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_18
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_18"
+msgid "I see.{PA:20}||Then I won't give this back to you."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_19
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_19"
+msgid "Hehe...{PA:10} You're not greedy enough to live||in this city. {PA:20}➿I like that."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_20
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_20"
+msgid "Lemme exchange this 100 yen lighter||with a coin locker key I found."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_21
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_21"
+msgid "You received \"{CC:ffc8c8}Coin Locker Key No.28{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_22
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_22"
+msgid "Bless you, kind sir.||Later..."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_23
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_23"
+msgid "You gained 500 exp."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_0
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_0"
+msgid "Aren't you the one who dropped this lighter?"
+msgstr ""
+
+#. y1ps2.full_id: 81_1_1
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_1"
+msgid "Really.{PA:10} My mistake then.{PA:10}||Sorry to bother you."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_2
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_2"
+msgid "I thought so.{PA:20}||So,{PA:10} your lighter..."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_3
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_3"
+msgid "Is it this golden lighter? {PA:10}Or...{PA:10}||Is it this 100 yen plastic lighter?"
+msgstr ""
+
+#. y1ps2.full_id: 81_1_4
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_4"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 81_1_5
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_5"
+msgid "Humph...{PA:10} I see."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_6
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_6"
+msgid "But I picked up what you dropped.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 81_1_7
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_7"
+msgid "You should pay me 10% of the value||as a gratuity."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_8
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_8"
+msgid "...Gimme 200,000 yen,{PA:20}||and this golden lighter is yours."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_9
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_9"
+msgid "Really?"
+msgstr ""
+
+#. y1ps2.full_id: 81_1_11
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_11"
+msgid "If that's the case, I'll give it to you."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_12
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_12"
+msgid "You received the \"{CC:ffc8c8}Golden Lighter{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_14
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_14"
+msgid "Later..."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_15
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_15"
+msgid "Whoa!{PA:20} You don't have 200,000 yen.{PA:20}||I'm sorry, but I can't give this to you."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_16
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_16"
+msgid "I see.{PA:20}||Then I won't give this back to you."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_17
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_17"
+msgid "Hehe...{PA:10} You're not greedy enough to live||in this city. {PA:20}➿I like that."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_18
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_18"
+msgid "Lemme exchange this 100 yen lighter||with a coin locker key I found."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_19
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_19"
+msgid "You received \"{CC:ffc8c8}Coin Locker Key No.28{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_20
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_20"
+msgid "Bless you, kind sir.||Later..."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_21
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_21"
+msgid "You gained 500 exp."
+msgstr ""
+
+#. y1ps2.full_id: 81_2_0
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_0"
+msgid "So, what's up?"
+msgstr ""
+
+#. y1ps2.full_id: 81_2_1
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_1"
+msgid "I'll give this golden lighter||for 200,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 81_2_2
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_2"
+msgid "Will you pay it?"
+msgstr ""
+
+#. y1ps2.full_id: 81_2_4
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_4"
+msgid "If that's the case, I'll give it to you."
+msgstr ""
+
+#. y1ps2.full_id: 81_2_5
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_5"
+msgid "You received the \"{CC:ffc8c8}Golden Lighter{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 81_2_7
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_7"
+msgid "See you..."
+msgstr ""
+
+#. y1ps2.full_id: 81_2_8
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_8"
+msgid "You gained 500 exp."
+msgstr ""
+
+#. y1ps2.full_id: 81_2_10
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_10"
+msgid "Whoa!{PA:20} You don't have 200,000 yen. I'm sorry,{PA:20}||but I can't give this to you."
+msgstr ""
+
+#. y1ps2.full_id: 81_2_11
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0082|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_11"
+msgid "Really.{PA:20}||Then I won't give this back to you."
+msgstr ""

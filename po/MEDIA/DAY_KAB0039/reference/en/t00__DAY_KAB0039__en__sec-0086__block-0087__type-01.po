@@ -1,0 +1,752 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0039\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0039.BIN\n"
+"X-Y1PS2-Source-SHA256: befa77c573aff2bf6a43df28570b862d3f00e7aa4625a9aaa25fbe5f343e848a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0039.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0039.BIN\n"
+"X-Y1PS2-Talk-SHA256: befa77c573aff2bf6a43df28570b862d3f00e7aa4625a9aaa25fbe5f343e848a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 86\n"
+"X-Y1PS2-Raw-Block-ID: 87\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0057\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5700010838340000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0039|block=0087|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_5\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 86_1_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_1_0"
+msgid "...Yo.{PA:20}||What are you doing here?"
+msgstr ""
+
+#. y1ps2.full_id: 86_1_1
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_1_1"
+msgid "What? {PA:20}Kazuma-san?{PA:20}||How did you know I was here???"
+msgstr ""
+
+#. y1ps2.full_id: 86_1_2
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_1_2"
+msgid "Ah, {PA:10}you're with your friend...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 86_1_3
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_1_3"
+msgid "Umm,{PA:10} I'm sorry I have to go to the bar...{PA:20}||Bye."
+msgstr ""
+
+#. y1ps2.full_id: 86_2_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_2_0"
+msgid "...Yo.{PA:20}||Sorry to have kept you waiting."
+msgstr ""
+
+#. y1ps2.full_id: 86_2_1
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_2_1"
+msgid "Kazuma-san, {PA:10}I'm glad you came."
+msgstr ""
+
+#. y1ps2.full_id: 86_2_2
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_2_2"
+msgid "Ah, {PA:10}you're with your friend..."
+msgstr ""
+
+#. y1ps2.full_id: 86_2_3
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_2_3"
+msgid "Umm, {PA:10}I'm sorry I have to go to the bar...{PA:20}||Bye."
+msgstr ""
+
+#. y1ps2.full_id: 86_3_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_0"
+msgid "...Yo.{PA:20}||What are you doing here?"
+msgstr ""
+
+#. y1ps2.full_id: 86_3_1
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_1"
+msgid "What? {PA:20}Kazuma-san?{PA:20}||How did you know I was here???"
+msgstr ""
+
+#. y1ps2.full_id: 86_3_2
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_2"
+msgid "I'm sorry that I didn't come.{PA:20}||...But I had no choice."
+msgstr ""
+
+#. y1ps2.full_id: 86_3_3
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_3"
+msgid "...Why don't you tell me what happened?"
+msgstr ""
+
+#. y1ps2.full_id: 86_3_4
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_4"
+msgid "...Thank you, Kazuma-san. {PA:20}...Okay."
+msgstr ""
+
+#. y1ps2.full_id: 86_3_5
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_5"
+msgid "...I may have told you this before,{PA:10}||but there's this customer at the bar,"
+msgstr ""
+
+#. y1ps2.full_id: 86_3_6
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_6"
+msgid "who always spends a lot of money on me."
+msgstr ""
+
+#. y1ps2.full_id: 86_3_7
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_7"
+msgid "He's the president of the office||where I used to work as a race queen..."
+msgstr ""
+
+#. y1ps2.full_id: 86_3_8
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_8"
+msgid "He likes me very much||and has taken care of me in many ways."
+msgstr ""
+
+#. y1ps2.full_id: 86_3_9
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_9"
+msgid "Not only my living expenses...{PA:20}||but also my housing, cars, {PA:10}tuition..."
+msgstr ""
+
+#. y1ps2.full_id: 86_3_10
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_10"
+msgid "So... {PA:20}It's become more and more||difficult..."
+msgstr ""
+
+#. y1ps2.full_id: 86_3_11
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=11
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_11"
+msgid "to refuse what the president requests..."
+msgstr ""
+
+#. y1ps2.full_id: 86_3_12
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=12
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_12"
+msgid "...Do you think that's a good thing?"
+msgstr ""
+
+#. y1ps2.full_id: 86_3_13
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=13
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_13"
+msgid "Of course not!{PA:20}||But I can't say no to him!"
+msgstr ""
+
+#. y1ps2.full_id: 86_3_14
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=3|sg=14
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_3_14"
+msgid "Arrghh!!"
+msgstr ""
+
+#. y1ps2.full_id: 86_4_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_0"
+msgid "...Yo.{PA:20}||Sorry to have kept you waiting."
+msgstr ""
+
+#. y1ps2.full_id: 86_4_1
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_1"
+msgid "Kazuma-san, {PA:10}I'm glad you came."
+msgstr ""
+
+#. y1ps2.full_id: 86_4_2
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_2"
+msgid "Actually... {PA:20}I have something||I want to talk to you about..."
+msgstr ""
+
+#. y1ps2.full_id: 86_4_3
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_3"
+msgid "...I may have told you this before,{PA:10}||but there's this customer at the bar,"
+msgstr ""
+
+#. y1ps2.full_id: 86_4_4
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_4"
+msgid "who always spends a lot of money on me."
+msgstr ""
+
+#. y1ps2.full_id: 86_4_5
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_5"
+msgid "He's the president of the office||where I used to work as a race queen..."
+msgstr ""
+
+#. y1ps2.full_id: 86_4_6
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_6"
+msgid "He likes me very much||and has taken care of me in many ways."
+msgstr ""
+
+#. y1ps2.full_id: 86_4_7
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_7"
+msgid "Not only my living expenses...{PA:20}||but also my housing, cars, {PA:10}tuition..."
+msgstr ""
+
+#. y1ps2.full_id: 86_4_8
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_8"
+msgid "So... {PA:20}It's become more and more||Difficult...{PA:20} to refuse"
+msgstr ""
+
+#. y1ps2.full_id: 86_4_9
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_9"
+msgid "what the president requests..."
+msgstr ""
+
+#. y1ps2.full_id: 86_4_10
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_10"
+msgid "...Do you think that's a good thing?"
+msgstr ""
+
+#. y1ps2.full_id: 86_4_11
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_11"
+msgid "Of course not!{PA:20}||But I can't say no to him!"
+msgstr ""
+
+#. y1ps2.full_id: 86_4_12
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=4|sg=12
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_4_12"
+msgid "Arrghh!!"
+msgstr ""
+
+#. y1ps2.full_id: 86_5_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_5_0"
+msgid "...Yo.{PA:20}||What are you doing here?"
+msgstr ""
+
+#. y1ps2.full_id: 86_5_1
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_5_1"
+msgid "What? {PA:20}Kazuma-san?{PA:20}||How did you know I was here???"
+msgstr ""
+
+#. y1ps2.full_id: 86_5_2
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_5_2"
+msgid "Oh,{PA:10}||what are you doing with that little girl?"
+msgstr ""
+
+#. y1ps2.full_id: 86_5_3
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_5_3"
+msgid "...Since you're obviously busy,{PA:10}||let's meet some other time... {PA:20}Adios."
+msgstr ""
+
+#. y1ps2.full_id: 86_6_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_6_0"
+msgid "...Yo.{PA:20}||Sorry to have kept you waiting."
+msgstr ""
+
+#. y1ps2.full_id: 86_6_1
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_6_1"
+msgid "Kazuma-san,{PA:10} I'm glad you made it."
+msgstr ""
+
+#. y1ps2.full_id: 86_6_2
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_6_2"
+msgid "Oh,{PA:10}||what are you doing with that little girl?"
+msgstr ""
+
+#. y1ps2.full_id: 86_6_3
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_6_3"
+msgid "...Since you're obviously busy,{PA:10}||let's meet some other time... {PA:20}Adios."
+msgstr ""
+
+#. y1ps2.full_id: 86_7_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0087|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "86_7_0"
+msgid "I'm fed up with this..."
+msgstr ""

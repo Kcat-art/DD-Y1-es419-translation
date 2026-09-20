@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0014\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0014.BIN\n"
+"X-Y1PS2-Source-SHA256: 25c9f07c7405956465a1804b36e163800059615a4b557afd13d93c3228f84fa1\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0014.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0014.BIN\n"
+"X-Y1PS2-Talk-SHA256: 25c9f07c7405956465a1804b36e163800059615a4b557afd13d93c3228f84fa1\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 75\n"
+"X-Y1PS2-Raw-Block-ID: 76\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4c000104bc370000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0014|block=0076|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER16\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C16_TRG_M_TOWER\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0014/reference/jp/t00__TALK_ST_KAB0014__jp__sec-0075__block-0076__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0014/reference/en/t00__RAIN_KAB0014__en__sec-0075__block-0076__type-01.po\n"
+
+#. y1ps2.full_id: 75_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0014|block=0076|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_0"
+msgid "Desde que estos Yakuza empezaron||a merodear en frente de mi tienda,"
+msgstr ""
+
+#. y1ps2.full_id: 75_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0014|block=0076|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_1"
+msgid "no he obtenido ningún beneficio."
+msgstr ""
+
+#. y1ps2.full_id: 75_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0014|block=0076|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_0"
+msgid "Jaaa..."
+msgstr ""
+
+#. y1ps2.full_id: 75_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0014|block=0076|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_0"
+msgid "iGracias!"
+msgstr ""
+
+#. y1ps2.full_id: 75_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0014|block=0076|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_1"
+msgid "Por favor, toma esto como una muestra||de agradecimiento..."
+msgstr ""
+
+#. y1ps2.full_id: 75_2_2
+#. y1ps2.logical_line_key: RAIN_KAB0014|block=0076|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_2"
+msgid "Has recibido 10,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 75_2_4
+#. y1ps2.logical_line_key: RAIN_KAB0014|block=0076|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_4"
+msgid "Muchas gracias."
+msgstr ""
+
+#. y1ps2.full_id: 75_2_5
+#. y1ps2.logical_line_key: RAIN_KAB0014|block=0076|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_5"
+msgid "Has obtenido 200 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 75_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0014|block=0076|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_3_0"
+msgid "Muchas gracias..."
+msgstr ""

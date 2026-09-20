@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0002\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0002.BIN\n"
+"X-Y1PS2-Source-SHA256: 402f978ffb4bd5c5878523835f691d3f2aaa49719529e1d69e2265ed1d72dd0a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0002.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0002.BIN\n"
+"X-Y1PS2-Talk-SHA256: 402f978ffb4bd5c5878523835f691d3f2aaa49719529e1d69e2265ed1d72dd0a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 150\n"
+"X-Y1PS2-Raw-Block-ID: 201\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00C9\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: c9000104a8470000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0002|block=0201|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: harukaPOP_ST_KAB0007\n"
+"X-Y1PS2-Pose: Freeze\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0002/reference/jp/t00__TALK_ST_KAB0002__jp__sec-0151__block-0201__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0002/reference/en/t00__ST_KAB0002__en__sec-0150__block-0201__type-01.po\n"
+
+#. y1ps2.full_id: 150_0_0
+#. y1ps2.logical_line_key: ST_KAB0002|block=0201|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: harukaPOP_ST_KAB0007
+#. y1ps2.pose: Freeze
+msgctxt "150_0_0"
+msgid "... Quieto ahí.{PA:20}||¿No sois amigos de Shinji Aniki?"
+msgstr ""
+
+#. y1ps2.full_id: 150_0_1
+#. y1ps2.logical_line_key: ST_KAB0002|block=0201|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: harukaPOP_ST_KAB0007
+#. y1ps2.pose: Freeze
+msgctxt "150_0_1"
+msgid "Hoy no es tu día de suerte...{PA:10}||iNo puedo dejar que sigas adelante!"
+msgstr ""
+
+#. y1ps2.full_id: 150_1_0
+#. y1ps2.logical_line_key: ST_KAB0002|block=0201|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: harukaPOP_ST_KAB0007
+#. y1ps2.pose: Freeze
+msgctxt "150_1_0"
+msgid "iOye tú!"
+msgstr ""
+
+#. y1ps2.full_id: 150_2_0
+#. y1ps2.logical_line_key: ST_KAB0002|block=0201|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: harukaPOP_ST_KAB0007
+#. y1ps2.pose: Freeze
+msgctxt "150_2_0"
+msgid "iHey!{PA:10} ¿Adónde ha ido Shinji?"
+msgstr ""
+
+#. y1ps2.full_id: 150_2_1
+#. y1ps2.logical_line_key: ST_KAB0002|block=0201|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: harukaPOP_ST_KAB0007
+#. y1ps2.pose: Freeze
+msgctxt "150_2_1"
+msgid "{SP:2}Shinji Aniki se llevó a la chica y||fueron hacia el teatro..."
+msgstr ""
+
+#. y1ps2.full_id: 150_2_2
+#. y1ps2.logical_line_key: ST_KAB0002|block=0201|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: harukaPOP_ST_KAB0007
+#. y1ps2.pose: Freeze
+msgctxt "150_2_2"
+msgid "{SP:2}Por supuesto,{PA:10} no creo que puedan quitarse||de encima a tanta gente.{MR:00}{SP:0}{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 150_3_0
+#. y1ps2.logical_line_key: ST_KAB0002|block=0201|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: harukaPOP_ST_KAB0007
+#. y1ps2.pose: Freeze
+msgctxt "150_3_0"
+msgid "Shinji Aniki se dirigía al norte.{PA:20}||Hacia el teatro...{PA:20} Eso es lo que sé."
+msgstr ""

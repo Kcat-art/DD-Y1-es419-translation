@@ -1,0 +1,577 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0021\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0021.BIN\n"
+"X-Y1PS2-Source-SHA256: e3338d9781690ef50228ad55c082cc767fbc2def5ed4932e2c905be8b05b6325\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0021.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0021.BIN\n"
+"X-Y1PS2-Talk-SHA256: e3338d9781690ef50228ad55c082cc767fbc2def5ed4932e2c905be8b05b6325\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 101\n"
+"X-Y1PS2-Raw-Block-ID: 128\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0080\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8000010e903f0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0021|block=0128|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: parka2_Msh_b\n"
+"X-Y1PS2-Actor: pink_Flg\n"
+"X-Y1PS2-Pose: Smoking01\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0021/reference/en/t00__DAY_KAB0021__en__sec-0101__block-0128__type-01.po\n"
+
+#. y1ps2.full_id: 101_0_0
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_0_0"
+msgid "(No puedo permitírmelo...)"
+msgstr ""
+
+#. y1ps2.full_id: 101_4_1
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_4_1"
+msgid "(Haruka está conmigo...||¿Qué debería hacer...?)"
+msgstr ""
+
+#. y1ps2.full_id: 101_4_2
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_4_2"
+msgid "Señor,{PA:10} ¿vas a dejarme aquí?"
+msgstr ""
+
+#. y1ps2.full_id: 101_4_3
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_4_3"
+msgid "Lo siento,{PA:10}||pero espérame aquí un rato.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 101_4_4
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_4_4"
+msgid "Volveré pronto."
+msgstr ""
+
+#. y1ps2.full_id: 101_4_5
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_4_5"
+msgid "¿De verdad?{PA:20} Supongo..."
+msgstr ""
+
+#. y1ps2.full_id: 101_4_7
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_4_7"
+msgid "No debería dejarte aquí sola."
+msgstr ""
+
+#. y1ps2.full_id: 101_4_8
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_4_8"
+msgid "...Okay."
+msgstr ""
+
+#. y1ps2.full_id: 101_4_9
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_4_9"
+msgid "（No puedo permitírmelo...)"
+msgstr ""
+
+#. y1ps2.full_id: 101_4_10
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_4_10"
+msgid "（Haruka está conmigo...||así que tal vez la próxima.)"
+msgstr ""
+
+#. y1ps2.full_id: 101_5_1
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_5_1"
+msgid "(El Detective Date está conmigo...||¿Qué debería hacer...?)"
+msgstr ""
+
+#. y1ps2.full_id: 101_5_2
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_5_2"
+msgid "¿Qué estás haciendo?"
+msgstr ""
+
+#. y1ps2.full_id: 101_5_3
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_5_3"
+msgid "Lo siento,{PA:10} pero espérame aquí||un rato. {PA:20}Volveré pronto."
+msgstr ""
+
+#. y1ps2.full_id: 101_5_4
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=5|sg=4
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_5_4"
+msgid "iHey! iKazuma!{PA:20}||iQue te den,{PA:10} capullo!"
+msgstr ""
+
+#. y1ps2.full_id: 101_5_6
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=5|sg=6
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_5_6"
+msgid "Umm...{PA:10} Sólo estaba echando un vistazo..."
+msgstr ""
+
+#. y1ps2.full_id: 101_5_7
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=5|sg=7
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_5_7"
+msgid "...Ve en otro momento.{PA:20}||Vamos, Kazuma."
+msgstr ""
+
+#. y1ps2.full_id: 101_5_8
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=5|sg=8
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_5_8"
+msgid "（No puedo permitírmelo...)"
+msgstr ""
+
+#. y1ps2.full_id: 101_5_9
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=5|sg=9
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_5_9"
+msgid "（El Detective Date está conmigo...||así que tal vez la próxima.)"
+msgstr ""
+
+#. y1ps2.full_id: 101_6_1
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_6_1"
+msgid "（Saya está conmigo...||¿Qué debería hacer...?)"
+msgstr ""
+
+#. y1ps2.full_id: 101_6_2
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_6_2"
+msgid "iHey! ¿Vas a entrar?"
+msgstr ""
+
+#. y1ps2.full_id: 101_6_3
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_6_3"
+msgid "Lo siento,{PA:10} pero espérame aquí un rato.{PA:20}||Volveré pronto."
+msgstr ""
+
+#. y1ps2.full_id: 101_6_4
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=6|sg=4
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_6_4"
+msgid "... No puedo creérmelo.{PA:20} Ugh, ijoder!"
+msgstr ""
+
+#. y1ps2.full_id: 101_6_6
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=6|sg=6
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_6_6"
+msgid "...Oh, sólo bromeaba."
+msgstr ""
+
+#. y1ps2.full_id: 101_6_7
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=6|sg=7
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_6_7"
+msgid "... Sí, bueno.{PA:20} Lo que digas."
+msgstr ""
+
+#. y1ps2.full_id: 101_6_8
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=6|sg=8
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_6_8"
+msgid "（No puedo permitírmelo...)"
+msgstr ""
+
+#. y1ps2.full_id: 101_6_9
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=6|sg=9
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_6_9"
+msgid "（Saya está conmigo...||así que tal vez la próxima.)"
+msgstr ""
+
+#. y1ps2.full_id: 101_7_0
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_7_0"
+msgid "(Éste no es momento para||pararse en el bar...)"
+msgstr ""
+
+#. y1ps2.full_id: 101_8_0
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_8_0"
+msgid "(Creo que debería seguir a||Haruka por ahora...)"
+msgstr ""
+
+#. y1ps2.full_id: 101_9_0
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_9_0"
+msgid "(Tengo que llevar a esta niño al médico...)"
+msgstr ""
+
+#. y1ps2.full_id: 101_10_0
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_10_0"
+msgid "... Señor,{PA:20} llegas tarde."
+msgstr ""
+
+#. y1ps2.full_id: 101_10_1
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_10_1"
+msgid "... Lo siento."
+msgstr ""
+
+#. y1ps2.full_id: 101_11_0
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_11_0"
+msgid "Umf...{PA:10} Pareces más joven de lo que pensé.||iVamos!"
+msgstr ""
+
+#. y1ps2.full_id: 101_12_0
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=12|sg=0
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_12_0"
+msgid "iLlegas tarde!{PA:10} Todavía no entiendo||por qué has tenido que ir justo ahora."
+msgstr ""
+
+#. y1ps2.full_id: 101_13_0
+#. y1ps2.logical_line_key: DAY_KAB0021|block=0128|type=01|mg=13|sg=0
+#. y1ps2.main_group: 13
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: pink_Flg
+#. y1ps2.pose: Smoking01
+msgctxt "101_13_0"
+msgid "(No está abierto todavía...)"
+msgstr ""

@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0082\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0082.BIN\n"
+"X-Y1PS2-Source-SHA256: 3e9cee3b68663d4dc26e6eb87e4730db64a27fe572be5207726e5b20f78c42fa\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0082.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0082.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3e9cee3b68663d4dc26e6eb87e4730db64a27fe572be5207726e5b20f78c42fa\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 23\n"
+"X-Y1PS2-Raw-Block-ID: 24\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0018\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 1800010378260000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0082|block=0024|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: STALKER_SHINJI\n"
+"X-Y1PS2-Pose: Freeze\n"
+
+#. y1ps2.full_id: 23_1_0
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_0"
+msgid "\"Kage of Purgatory\"...{PA:20}||The informant that supposedly knows all."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_1
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_1"
+msgid "He's somewhere in \"{CC:ffc8c8}West Park{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_2
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_2"
+msgid "That place is dangerous.{PA:20}||Cops won't even set foot inside. Be careful."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_0
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_0"
+msgid "Kazuma,{PA:10} do you have any leads?"
+msgstr ""
+
+#. y1ps2.full_id: 23_2_1
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_1"
+msgid "No.{PA:10} Nothing.{PA:20}||I'll go out and gather some info."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_2
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_2"
+msgid "That doesn't sound too efficient.{PA:10} Okay.{PA:20}||We better go talk to the famous \"informant\"."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_3
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_3"
+msgid "You mean...{PA:10}||the \"Legendary Informant\"?"
+msgstr ""
+
+#. y1ps2.full_id: 23_2_4
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_4"
+msgid "Yeah.{PA:20} So, you know about him."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_5
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_5"
+msgid "\"Kage of Purgatory\"...{PA:20}||The informant that supposedly knows all."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_6
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_6"
+msgid "Well,{PA:10} he's inside a park."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_7
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_7"
+msgid "You mean {MS:0}\"{CC:ffc8c8}West Park{CR:00}\"..."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_8
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_8"
+msgid "Yeah.{PA:20} But the nickname is \"Purgatory\"...||The place is home to thousands of tramps."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_9
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_9"
+msgid "He's somewhere inside Purgatory."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_10
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_10"
+msgid "But be careful.{PA:20}||That place is dangerous, even for cops."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_11
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_11"
+msgid "Once you go in,{PA:10}||you might never be able to get out."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_12
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_12"
+msgid "I have no other choice but to go.{PA:20}||I have no time to lose."
+msgstr ""
+
+#. y1ps2.full_id: 23_2_13
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_13"
+msgid "Detective Date,{PA:10}||can you take care of Haruka?"
+msgstr ""
+
+#. y1ps2.full_id: 23_2_14
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0024|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_2_14"
+msgid "Yeah.{PA:20} This isn't exactly the safest place,||but I'll take care of her."
+msgstr ""

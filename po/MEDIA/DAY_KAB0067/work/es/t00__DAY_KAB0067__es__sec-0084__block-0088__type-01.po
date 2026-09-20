@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0067\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0067.BIN\n"
+"X-Y1PS2-Source-SHA256: b49fcbf98552abe032fcad9d34765c86ea6e0841b57f118020a7272e143ead6b\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0067.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0067.BIN\n"
+"X-Y1PS2-Talk-SHA256: b49fcbf98552abe032fcad9d34765c86ea6e0841b57f118020a7272e143ead6b\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 84\n"
+"X-Y1PS2-Raw-Block-ID: 88\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0058\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 58000105b0380000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0067|block=0088|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: CELLULAR\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: cellular\n"
+"X-Y1PS2-Actor: date_keitai_10\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0067/reference/jp/t00__TALK_ST_KAB0067__jp__sec-0087__block-0088__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0067/reference/en/t00__DAY_KAB0067__en__sec-0084__block-0088__type-01.po\n"
+
+#. y1ps2.full_id: 84_0_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_0"
+msgid "¿Qué pasa?"
+msgstr ""
+
+#. y1ps2.full_id: 84_0_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_1"
+msgid "¿Quién coño eres tú?"
+msgstr ""
+
+#. y1ps2.full_id: 84_0_2
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_2"
+msgid "Esto...{PA:10} Sólo pasaba por aquí."
+msgstr ""
+
+#. y1ps2.full_id: 84_0_3
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_3"
+msgid "Umf..."
+msgstr ""
+
+#. y1ps2.full_id: 84_0_4
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_4"
+msgid "Oh,{PA:10} ¿por casualidad||se te dan bien los UFO Catcher?"
+msgstr ""
+
+#. y1ps2.full_id: 84_0_5
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_5"
+msgid "Pues que te jodan."
+msgstr ""
+
+#. y1ps2.full_id: 84_0_6
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_6"
+msgid "Guay."
+msgstr ""
+
+#. y1ps2.full_id: 84_0_7
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_7"
+msgid "Bueno,{PA:10} hay un||\"Dora-yan\" negro en esta máquina."
+msgstr ""
+
+#. y1ps2.full_id: 84_0_8
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_8"
+msgid "¿Puedes conseguírmelo?"
+msgstr ""
+
+#. y1ps2.full_id: 84_0_9
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_0_9"
+msgid "Te pagaré 100.000...{PA:10} No,{PA:10} 200.000.{PA:20}||iSé que puedes hacerlo!"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_1_0"
+msgid "¿Por casualidad se te||dan bien los UFO Catcher?"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_1_1"
+msgid "Pues que te jodan."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_2
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_1_2"
+msgid "Guay."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_3
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_1_3"
+msgid "Bueno,{PA:10} hay un \"Dora-yan\"||negro en esta máquina."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_4
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_1_4"
+msgid "¿Puedes conseguírmelo?"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_5
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_1_5"
+msgid "Te pagaré 100.000...{PA:10}||No,{PA:10} 200.000.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_6
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_1_6"
+msgid "iSé que puedes hacerlo!"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_2_0"
+msgid "iMaldita sea! i¿Por qué?!||¿Oh, por qué?"
+msgstr ""
+
+#. y1ps2.full_id: 84_3_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_3_0"
+msgid "Ahh.{PA:10} Bien hecho."
+msgstr ""
+
+#. y1ps2.full_id: 84_3_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_3_1"
+msgid "Dámelo.{PA:20}||Te pagaré 200.000."
+msgstr ""
+
+#. y1ps2.full_id: 84_3_2
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_3_2"
+msgid "Ok.{PA:10} Toma."
+msgstr ""
+
+#. y1ps2.full_id: 84_3_3
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_3_3"
+msgid "Jeje...{PA:10} iEste es mi chico!"
+msgstr ""
+
+#. y1ps2.full_id: 84_3_4
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_3_4"
+msgid "Aquí tienes los 200 de los||grandes que te dije.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 84_3_5
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_3_5"
+msgid "Gracias."
+msgstr ""
+
+#. y1ps2.full_id: 84_3_6
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_3_6"
+msgid "Has recibido 200.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 84_3_8
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_3_8"
+msgid "¿Eh...?{PA:20} ¿Quién te has creído que soy?||Bueno..."
+msgstr ""
+
+#. y1ps2.full_id: 84_3_9
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_3_9"
+msgid "iSupongo que tendré||que cogértelos a la fuerza!"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_1"
+msgid "Lo siento...{PA:10} No me pegues más...{PA:10}||iPor favor!"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_2
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_2"
+msgid "iTe lo contaré todo!"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_3
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_3"
+msgid "¿De qué me hablas?"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_4
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_4"
+msgid "El \"Dora-yan\" negro tiene dentro la llave||de una taquilla de monedas."
+msgstr ""
+
+#. y1ps2.full_id: 84_4_5
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_5"
+msgid "Hay algo en la taquilla.{PA:20}||Sólo quería ese objeto..."
+msgstr ""
+
+#. y1ps2.full_id: 84_4_6
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_6"
+msgid "¿Qué es ese objeto?"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_7
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_7"
+msgid "iYa no te lo puedo decir!"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_8
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_8"
+msgid "Te devolveré este \"Dora-yan\".{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_9
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_9"
+msgid "iPor favor, deja que me vaya!"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_11
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_11"
+msgid "Has recibido \"{CC:ffc8c8}Llave de Taquilla de Monedas N.16{CR:00}\"||del \"Dora-yan Negro\"."
+msgstr ""
+
+#. y1ps2.full_id: 84_4_12
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0088|type=01|mg=4|sg=12
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: date_keitai_10
+#. y1ps2.pose: Idle
+msgctxt "84_4_12"
+msgid "Has obtenido 1,500 puntos de exp."
+msgstr ""

@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0042\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0042.ARC\n"
+"X-Y1PS2-Source-SHA256: 791cd70db6802534e05d2e1dc9ebd568e9f617ad9353b4c76bfca1fd42f0db48\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0042.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0042.ARC/0/8___TALK_ST_KAB0042.BIN\n"
+"X-Y1PS2-Talk-SHA256: ae0666fd769b38a93b7b95e25b6e70bbe657dd314ad18ae79b16d5e15b9a8721\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 103\n"
+"X-Y1PS2-Raw-Block-ID: 104\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0068\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 68000103d0870200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0042|block=0104|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mus_suit3_E\n"
+"X-Y1PS2-Actor: w_6\n"
+"X-Y1PS2-Pose: Stand01\n"
+
+#. y1ps2.full_id: 103_0_0
+#. y1ps2.logical_line_key: ST_KAB0042|block=0104|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "103_0_0"
+msgid "ごめんね、桐生さん⋯。||不愉快な思いさせちゃて⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_1
+#. y1ps2.logical_line_key: ST_KAB0042|block=0104|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "103_0_1"
+msgid "他の女、指名しろっていったろが。||さっさとうせろや！"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_2
+#. y1ps2.logical_line_key: ST_KAB0042|block=0104|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "103_0_2"
+msgid "{CU:ffffff}桐生さん⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_3
+#. y1ps2.logical_line_key: ST_KAB0042|block=0104|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "103_0_3"
+msgid "女の前でかっこつけてえのは分かるがな。||相手選ばねえと怪我することになる。"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_4
+#. y1ps2.logical_line_key: ST_KAB0042|block=0104|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 1e
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "103_0_4"
+msgid "そいつを今日の教訓にするんだな！"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_5
+#. y1ps2.logical_line_key: ST_KAB0042|block=0104|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "103_0_5"
+msgid "{CU:ffffff}ごめんね、桐生さん⋯。||不愉快な思いさせちゃて⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_6
+#. y1ps2.logical_line_key: ST_KAB0042|block=0104|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "103_0_6"
+msgid "へへ。ちさちゃんのことは俺たちに任せとけ。||悪りーようにゃしねえからよ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 103_1_0
+#. y1ps2.logical_line_key: ST_KAB0042|block=0104|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "103_1_0"
+msgid "く、くそ⋯！➿なんて野郎だ。⋯逃げろ！"
+msgstr ""

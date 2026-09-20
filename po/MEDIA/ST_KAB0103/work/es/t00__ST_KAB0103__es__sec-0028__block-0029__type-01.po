@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0103\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Source-SHA256: caf67c0f9e280fdc9891ac47150dc0465ddb08d916ff19676b253b1c7edfa5a9\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-SHA256: caf67c0f9e280fdc9891ac47150dc0465ddb08d916ff19676b253b1c7edfa5a9\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 28\n"
+"X-Y1PS2-Raw-Block-ID: 29\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x001D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 1d00010524330000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0103|block=0029|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: Navi_ha_06_K82_01\n"
+"X-Y1PS2-Pose: Freeze\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0103/reference/jp/t00__TALK_ST_KAB0103__jp__sec-0028__block-0029__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0103/reference/en/t00__ST_KAB0103__en__sec-0028__block-0029__type-01.po\n"
+
+#. y1ps2.full_id: 28_2_0
+#. y1ps2.logical_line_key: ST_KAB0103|block=0029|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_ha_06_K82_01
+#. y1ps2.pose: Freeze
+msgctxt "28_2_0"
+msgid "iMierda!||Se pasan por aquí cada semana."
+msgstr ""

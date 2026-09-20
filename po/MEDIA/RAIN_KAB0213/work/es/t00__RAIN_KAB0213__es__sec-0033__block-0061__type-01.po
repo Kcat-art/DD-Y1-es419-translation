@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0213\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Source-SHA256: dcd075e987e510c984072e65fe0d6bd210c532a741a237e1731816fac2be9530\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-SHA256: dcd075e987e510c984072e65fe0d6bd210c532a741a237e1731816fac2be9530\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 33\n"
+"X-Y1PS2-Raw-Block-ID: 61\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x003D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 3d000101d8380000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0213|block=0061|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: sai_home_b_Mhl_c\n"
+"X-Y1PS2-Actor: w_100\n"
+"X-Y1PS2-Pose: Crouch\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0213/reference/en/t00__RAIN_KAB0213__en__sec-0033__block-0061__type-01.po\n"
+
+#. y1ps2.full_id: 33_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0061|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sai_home_b_Mhl_c
+#. y1ps2.actor: w_100
+#. y1ps2.pose: Crouch
+msgctxt "33_0_0"
+msgid "Incluso con la ayuda de Kage,||pasará un tiempo"
+msgstr ""
+
+#. y1ps2.full_id: 33_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0061|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sai_home_b_Mhl_c
+#. y1ps2.actor: w_100
+#. y1ps2.pose: Crouch
+msgctxt "33_0_1"
+msgid "hasta que todo vuelva a la normalidad."
+msgstr ""

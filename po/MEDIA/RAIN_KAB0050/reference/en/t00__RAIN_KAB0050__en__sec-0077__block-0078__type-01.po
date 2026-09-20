@@ -1,0 +1,678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0050\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0050.BIN\n"
+"X-Y1PS2-Source-SHA256: c539230fab94727871fe2e41eb99effda1166552ee70f057568703d050a455f6\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0050.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0050.BIN\n"
+"X-Y1PS2-Talk-SHA256: c539230fab94727871fe2e41eb99effda1166552ee70f057568703d050a455f6\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 77\n"
+"X-Y1PS2-Raw-Block-ID: 78\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4e00010438320000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0050|block=0078|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER03\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C3_TRG_STARDUST\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 77_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_0"
+msgid "Take a look,{PA:10} please."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_1"
+msgid "Check out the paintings?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_3"
+msgid "Ah, {PA:10}if you are interested in something,||let me know."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_4
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_4"
+msgid "Thank you very much!{PA:20}||Come by anytime."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_5
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_5"
+msgid "Check out the other paintings?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_8
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_8"
+msgid "A raging bull is being drawn."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_10
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_10"
+msgid "The bull always appears in my dreams.{PA:20}||I'll sell it to you for 20,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_11
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_11"
+msgid "Buy the \"{CC:ffc8c8}Painting of Bull{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_13
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_13"
+msgid "I'll take it."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_14
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_14"
+msgid "You bought the \"{CC:ffc8c8}Painting of Bull{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_15
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_15"
+msgid "Thank you very much!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_18
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_18"
+msgid "It's a painting of a man shouting||desperately from a boat on the lake."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_20
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_20"
+msgid "It depicts the screaming in my heart.{PA:20}||{MS:0}It's neither anger nor sorrow."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_21
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_21"
+msgid "How about 30,000 yen?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_22
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_22"
+msgid "Buy the \"{CC:ffc8c8}Painting of Lake & Man{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_24
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_24"
+msgid "I'll take it."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_25
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_25"
+msgid "You bought||the \"{CC:ffc8c8}Painting of Lake & Man{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_26
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_26"
+msgid "Thank you very much!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_29
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_29"
+msgid "A painting of a pumpkin atop of an egg.{PA:10}||What is this painting?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_31
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_31"
+msgid "Oh, that's my masterpiece. I'm really||reluctant to sell it.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_32
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=32
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_32"
+msgid "But if you want,{PA:10}||I'll sell it to you for 50,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_33
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=33
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_33"
+msgid "Buy the \"{CC:ffc8c8}Painting of Egg & Pumpkin{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_35
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=35
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_35"
+msgid "I'll take it."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_36
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=36
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_36"
+msgid "You bought the \"{CC:ffc8c8}Painting of Egg & Pumpkin{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_37
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=37
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_37"
+msgid "Thank you very much!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_40
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=40
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_40"
+msgid "Is she reciting a poem or something||while holding an onion in her right hand?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_42
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=42
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_42"
+msgid "Oh, that...{PA:10} That's not that good.{PA:20}||I'll sell it to you for 5,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_43
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=43
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_43"
+msgid "Buy the \"{CC:ffc8c8}Painting of Lady with Onion{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_45
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=45
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_45"
+msgid "I'll take it."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_46
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=46
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_46"
+msgid "You bought||the \"{CC:ffc8c8}Painting of Lady with Onion{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_47
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=47
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_47"
+msgid "Thank you very much!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_50
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=50
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_50"
+msgid "You've already purchased that painting.{PA:20}||Take a look at the other ones too."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_51
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=51
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_51"
+msgid "You can't afford it...{PA:10}||Come back some other time.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_52
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=52
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_52"
+msgid "I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_0"
+msgid "Thank you very much!||Okay, time to paint some more!"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_1"
+msgid "You gained 500 exp."
+msgstr ""
+
+#. y1ps2.full_id: 77_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_0"
+msgid "Thank you very much!!"
+msgstr ""
+
+#. y1ps2.full_id: 77_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_3_0"
+msgid "Are you interested in paintings?"
+msgstr ""

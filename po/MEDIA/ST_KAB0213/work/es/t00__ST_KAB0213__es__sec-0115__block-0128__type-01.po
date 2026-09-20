@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0213\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0213.BIN\n"
+"X-Y1PS2-Source-SHA256: 511854a03ab4d616726f1d40f22021b132934756f715434e7db756a2b4ce6a1d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0213.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0213.BIN\n"
+"X-Y1PS2-Talk-SHA256: 511854a03ab4d616726f1d40f22021b132934756f715434e7db756a2b4ce6a1d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 115\n"
+"X-Y1PS2-Raw-Block-ID: 128\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0080\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8000010378460000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0213|block=0128|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: rat\n"
+"X-Y1PS2-Actor: w_129\n"
+"X-Y1PS2-Pose: Rat\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0213/reference/en/t00__ST_KAB0213__en__sec-0115__block-0128__type-01.po\n"
+
+#. y1ps2.full_id: 115_0_0
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_0_0"
+msgid "Hola,{PA:20} Kazuma-san...||He visto como secuestraban"
+msgstr ""
+
+#. y1ps2.full_id: 115_0_1
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_0_1"
+msgid "a la pequeña."
+msgstr ""
+
+#. y1ps2.full_id: 115_0_2
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_0_2"
+msgid "Dime qué ha pasado."
+msgstr ""
+
+#. y1ps2.full_id: 115_0_3
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_0_3"
+msgid "Después de golpear al Detective Date,||fueron por la niña."
+msgstr ""
+
+#. y1ps2.full_id: 115_0_4
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_0_4"
+msgid "Debían ir por ella."
+msgstr ""
+
+#. y1ps2.full_id: 115_0_5
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_0_5"
+msgid "Destruyeron||el Purgatorio mientras tanto."
+msgstr ""
+
+#. y1ps2.full_id: 115_0_6
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_0_6"
+msgid "Este es el resultado."
+msgstr ""
+
+#. y1ps2.full_id: 115_0_8
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_0_8"
+msgid "Ya lo sé."
+msgstr ""
+
+#. y1ps2.full_id: 115_0_9
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_0_9"
+msgid "... Ya veo.||Siento lo que ha pasado."
+msgstr ""
+
+#. y1ps2.full_id: 115_1_0
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_1_0"
+msgid "¿Qué le ha pasado a esa chica?"
+msgstr ""
+
+#. y1ps2.full_id: 115_2_0
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_2_0"
+msgid "Los tíos de la banda vinieron aquí||por la niña."
+msgstr ""
+
+#. y1ps2.full_id: 115_2_1
+#. y1ps2.logical_line_key: ST_KAB0213|block=0128|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: rat
+#. y1ps2.actor: w_129
+#. y1ps2.pose: Rat
+msgctxt "115_2_1"
+msgid "Lo vi con mis propios ojos.||Estoy seguro."
+msgstr ""

@@ -1,0 +1,4148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0069\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0069.BIN\n"
+"X-Y1PS2-Source-SHA256: 724bfda6aa8bd230e04e52c5b56cfd39e4a22d1b95dd70ce13480dd7d5b2b906\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0069.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0069.BIN\n"
+"X-Y1PS2-Talk-SHA256: 724bfda6aa8bd230e04e52c5b56cfd39e4a22d1b95dd70ce13480dd7d5b2b906\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 79\n"
+"X-Y1PS2-Raw-Block-ID: 80\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0050\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 50000104f0350000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0069|block=0080|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_05\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_ISHA_TRG_SHINRYOJO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0069/reference/jp/t00__TALK_ST_KAB0069__jp__sec-0079__block-0080__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0069/reference/en/t00__RAIN_KAB0069__en__sec-0079__block-0080__type-01.po\n"
+
+#. y1ps2.full_id: 79_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_1"
+msgid "¿Uhmm? {PA:10}Esa pistola que tienes||ahí es muy sospechosa...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_2"
+msgid "¿Dónde la conseguiste?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_3"
+msgid "¿Cómo has conseguido eso?{PA:10}||Es una pistola defectuosa que ha"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_4
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_4"
+msgid "estado circulando {PA:10}en el mercado negro.{PA:20}||A menudo, se dispara accidentalmente."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_5
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_5"
+msgid "¿Qué? {PA:10}¿¿Has comprado esta mierda??{PA:10}||Oh no. Añadan otro mamón a la lista."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_6
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_6"
+msgid "Esta pistola ha sido disparada,{PA:10}||casi seguro que la persona que la disparó{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_7
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_7"
+msgid "acabó en el hospital o algo peor."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_8
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_8"
+msgid "Bien. {PA:10}¿Qué puedo hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_9
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_9"
+msgid "Tú. {PA:10}¿Qué puedo hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_10
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_10"
+msgid "¿Qué quieres comprar?{PA:10}||Puedes encontrar lo que"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_11
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_11"
+msgid "sea en nuestra tienda."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_13
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_13"
+msgid "No sé lo que vas a hacer con esto...{PA:10}||Pero utilízalo con cuidado."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_14
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_14"
+msgid "Bueno, {PA:10}vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_15
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_15"
+msgid "¿Qué quieres vender?{PA:10}||Sólo compro armas y ropa protectora."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_17
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_17"
+msgid "El número de armas que puedes||llevar es limitado.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_18
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_18"
+msgid "Ténlo en cuenta para el futuro."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_19
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_19"
+msgid "¿Uhmm? {PA:10}¿Qué quieres saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_20
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_20"
+msgid "Bueno, {PA:10}tengo un gran||conocimiento de las armas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_21
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_21"
+msgid "He visto armas de todo el mundo."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_22
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_22"
+msgid "Ok, {PA:10}¿qué quieres saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_23
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_23"
+msgid "¿Hay algo más que quieras saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_24
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_24"
+msgid "¿Qué es un arma?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_25
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_25"
+msgid "¿Es algún tipo de pregunta filosófica?{PA:20}||De acuerdo."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_26
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_26"
+msgid "Un \"arma\" puede incluso ser algo{PA:10}||que cojas del suelo."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_27
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=27
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_27"
+msgid "Aunque esto ya lo sabrás, {PA:20}¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_28
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=28
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_28"
+msgid "Generalmente clasifico las armas||en 15 categorías,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_29
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_29"
+msgid "incluyendo las cosas que cojes del suelo."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_30
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=30
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_30"
+msgid "Incluso si te hablase sobre todas,||no serías capaz de acordarte,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_31
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_31"
+msgid "así que te enseñaré algunas||armas interesantes."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_32
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=32
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_32"
+msgid "¿Qué armas recomiendas?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_33
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=33
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_33"
+msgid "Tengo que recomendar algo pesado,||como un escaparate."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_34
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=34
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_34"
+msgid "También hay una variedad extensa.{PA:10}||Hay muchas armas pesadas."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_35
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=35
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_35"
+msgid "Cuando golpeas con algo tan pesado,||puedes tirar al enemigo al suelo{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_36
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=36
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_36"
+msgid "de un solo golpe."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_37
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=37
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_37"
+msgid "Un inconveniente es que es pesada,||{PA:10}lo que hace complicado"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_38
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=38
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_38"
+msgid "poder golpear rápido,||pero es muy efectiva si"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_39
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=39
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_39"
+msgid "estás rodeado de enemigos."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_40
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=40
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_40"
+msgid "Este tipo de armas pueden causar daños||graves cuando las lanzas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_41
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=41
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_41"
+msgid "Acuérdate cuando te enfrentes||con varios enemigos a la vez."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_42
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=42
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_42"
+msgid "¿Hay armas que no se pueden llevar?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_43
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=43
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_43"
+msgid "Oh, {PA:10}parece que sólo sepas||una o dos cosas sobre las armas."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_44
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=44
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_44"
+msgid "Tienes razón.{PA:10}||No puedes llevar armas pesadas,"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_45
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=45
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_45"
+msgid "a menos que seas una especie de musculitos."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_46
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=46
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_46"
+msgid "Los bidones de combustible{PA:10}||y los sofás los puedes empujar,"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_47
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=47
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_47"
+msgid "pero no puedes llevarlos."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_48
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=48
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_48"
+msgid "Cuando te encuentres estos objetos,{PA:10}||golpéalos con todas tus"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_49
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=49
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_49"
+msgid "fuerzas y hazlos volar."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_50
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=50
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_50"
+msgid "Con tus fuertes piernas,{PA:10}||imagino que puedes lanzarlos bien lejos."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_51
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=51
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_51"
+msgid "¿Hay {PA:10}armas especiales?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_52
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=52
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_52"
+msgid "Armas especiales, {PA:10}¿eh?"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_53
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=53
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_53"
+msgid "Parece que ésa{PA:10}||es mi especialidad."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_54
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=54
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 54
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_54"
+msgid "Un objeto muy útil que puedes encontrar||es una plancha de acero."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_55
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=55
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_55"
+msgid "Con ella puedes protegerte||de los disparos."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_56
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=56
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_56"
+msgid "También está... {PA:10}la cuerda.{PA:20}||Alguien que sepa utilizarla"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_57
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=57
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 57
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_57"
+msgid "puede estrangular a una persona fácilmente."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_58
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=58
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 58
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_58"
+msgid "Oh sí, {PA:10}las armas del tipo de las||granadas son muy útiles.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_0_59
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=59
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 59
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_59"
+msgid "Seguro que no tengo que decirte la clase||de daños que puedes infligir."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_60
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=60
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 60
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_60"
+msgid "No, {PA:10}gracias."
+msgstr ""
+
+#. y1ps2.full_id: 79_0_61
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=0|sg=61
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 61
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_61"
+msgid "¿Seguro? {PA:10}Vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_0"
+msgid "No {PA:10}me suenas.{PA:20}||Toma esto."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_1"
+msgid "Tienes una"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_2"
+msgid "\"{CC:ffc8c8}Libreta de Traficante Ilegal de Armas{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_4"
+msgid "¿Uhmm? {PA:10}Esa pistola que||tienes ahí es muy sospechosa...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_5"
+msgid "¿Dónde la conseguiste?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_6
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_6"
+msgid "¿Cómo has conseguido eso?||{PA:10}Es una pistola defectuosa que ha"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_7
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_7"
+msgid "estado circulando {PA:10}en el mercado negro.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_8
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_8"
+msgid "A menudo, se dispara accidentalmente."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_9
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_9"
+msgid "¿Qué?{PA:10}||¿¿Has comprado esta mierda??{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_10
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_10"
+msgid "Oh no. Añadan otro mamón a la lista."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_11
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_11"
+msgid "Esta pistola ha sido disparada,{PA:10}||casi seguro que la persona que la disparó{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_12
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_12"
+msgid "acabó en el hospital o algo peor."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_13
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_13"
+msgid "Bien. {PA:10}¿Qué puedo hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_14
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_14"
+msgid "Tú. {PA:10}¿Qué puedo hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_15
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_15"
+msgid "¿Qué quieres comprar?{PA:10}||Puedes encontrar lo que"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_16
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_16"
+msgid "sea en nuestra tienda."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_18
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_18"
+msgid "No sé lo que vas a hacer con esto...{PA:10}||Pero utilízalo con cuidado."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_19
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_19"
+msgid "Bueno, {PA:10}vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_20
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_20"
+msgid "¿Qué quieres vender?{PA:10}||Sólo compro armas y ropa protectora."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_22
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_22"
+msgid "El número de armas que puedes||llevar es limitado.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_23
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=23
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_23"
+msgid "Ténlo en cuenta para el futuro."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_24
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=24
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_24"
+msgid "¿Uhmm? {PA:10}¿Qué quieres saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_25
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=25
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_25"
+msgid "Bueno, {PA:10}tengo un gran||conocimiento de las armas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_26
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=26
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_26"
+msgid "He visto armas de todo el mundo."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_27
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=27
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_27"
+msgid "Ok, {PA:10}¿qué quieres saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_28
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=28
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_28"
+msgid "¿Hay algo más que quieras saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_29
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=29
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_29"
+msgid "¿Qué es un arma?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_30
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=30
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_30"
+msgid "¿Es algún tipo de pregunta filosófica?{PA:20}||De acuerdo.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_31
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=31
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_31"
+msgid "Un \"arma\" puede incluso ser algo{PA:10}||que cojas del suelo."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_32
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=32
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_32"
+msgid "Aunque esto ya lo sabrás, {PA:10}¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_33
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=33
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_33"
+msgid "Generalmente clasifico las armas en||15 categorías,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_34
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=34
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_34"
+msgid "incluyendo las cosas que cojes del suelo."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_35
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=35
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_35"
+msgid "Incluso si te hablase sobre todas,||no serías capaz de acordarte,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_36
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=36
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_36"
+msgid "así que te enseñaré||algunas armas interesantes."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_37
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=37
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_37"
+msgid "¿Qué armas recomiendas?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_38
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=38
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_38"
+msgid "Tengo que recomendar algo pesado,||como un escaparate."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_39
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=39
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_39"
+msgid "También hay una variedad extensa.{PA:10}||Hay muchas armas pesadas."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_40
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=40
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_40"
+msgid "Cuando golpeas con algo tan pesado,||puedes tirar al enemigo al suelo{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_41
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=41
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_41"
+msgid "de un solo golpe."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_42
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=42
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_42"
+msgid "Un inconveniente es que es pesada,||{PA:10}lo que hace complicado"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_43
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=43
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_43"
+msgid "poder golpear rápido,||pero es muy efectiva si estás"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_44
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=44
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_44"
+msgid "rodeado de enemigos."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_45
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=45
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_45"
+msgid "Este tipo de armas pueden causar||daños graves cuando las lanzas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_46
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=46
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_46"
+msgid "Acuérdate cuando te enfrentes||con varios enemigos a la vez."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_47
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=47
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_47"
+msgid "¿Hay armas que no se pueden llevar?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_48
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=48
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_48"
+msgid "Oh, {PA:10}parece que sólo sepas||una o dos cosas sobre las armas."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_49
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=49
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_49"
+msgid "Tienes razón.{PA:10}||No puedes llevar armas pesadas,"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_50
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=50
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_50"
+msgid "a menos que seas una especie de musculitos."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_51
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=51
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_51"
+msgid "Los bidones de combustible{PA:10}||y los sofás los puedes empujar,"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_52
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=52
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_52"
+msgid "pero no puedes llevarlos."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_53
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=53
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_53"
+msgid "Cuando te encuentres estos objetos,{PA:10}||golpéalos con todas tus"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_54
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=54
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 54
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_54"
+msgid "fuerzas y hazlos volar."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_55
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=55
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_55"
+msgid "Con tus fuertes piernas,{PA:10}||imagino que puedes lanzarlos bien lejos."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_56
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=56
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_56"
+msgid "¿Hay {PA:10}armas especiales?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_57
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=57
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 57
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_57"
+msgid "Armas especiales, {PA:10}¿eh?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_58
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=58
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 58
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_58"
+msgid "Parece que ésa{PA:10}||es mi especialidad."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_59
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=59
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 59
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_59"
+msgid "Un objeto muy útil que puedes encontrar||es una plancha de acero."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_60
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=60
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 60
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_60"
+msgid "Con ella puedes protegerte||de los disparos."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_61
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=61
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 61
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_61"
+msgid "También está...{PA:10}||la cuerda.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_62
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=62
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 62
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_62"
+msgid "Alguien que sepa utilizarla puede||estrangular a una persona fácilmente."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_63
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=63
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 63
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_63"
+msgid "Oh sí, {PA:10}las armas del tipo||de las granadas son muy útiles.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_64
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=64
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 64
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_64"
+msgid "Seguro que no tengo que decirte||la clase de daños que puedes infligir."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_65
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=65
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 65
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_65"
+msgid "No, {PA:10}gracias."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_66
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=1|sg=66
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 66
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_66"
+msgid "¿Seguro? {PA:10}Vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_1"
+msgid "¿Uhmm? {PA:10}Esa pistola que||tienes ahí es muy sospechosa...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_2
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_2"
+msgid "¿Dónde la conseguiste?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_3
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_3"
+msgid "¿Cómo has conseguido eso?{PA:10}||Es una pistola defectuosa que ha"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_4
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_4"
+msgid "estado circulando {PA:10}en el mercado negro.{PA:20}||A menudo, se dispara accidentalmente."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_5
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_5"
+msgid "¿Qué?{PA:10}||¿¿Has comprado esta mierda??{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_6
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_6"
+msgid "Oh no. Añadan otro mamón a la lista."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_7
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_7"
+msgid "Esta pistola ha sido disparada,{PA:10}||casi seguro que la persona"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_8
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_8"
+msgid "que la disparó {PA:10}acabó en el||hospital o algo peor."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_9
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_9"
+msgid "Bien. {PA:10}¿Qué puedo hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_10
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_10"
+msgid "Tú. {PA:10}¿Qué puedo hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_11
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_11"
+msgid "¿Qué quieres comprar?{PA:10}||Puedes encontrar lo que sea en nuestra tienda."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_13
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_13"
+msgid "No sé lo que vas a hacer con esto...{PA:10}||Pero utilízalo con cuidado."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_14
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_14"
+msgid "Bueno, {PA:10}vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_15
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=15
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_15"
+msgid "¿Qué quieres vender?{PA:10}||Sólo compro armas y ropa protectora."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_17
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=17
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_17"
+msgid "El número de armas que||puedes llevar es limitado.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_18
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=18
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_18"
+msgid "Ténlo en cuenta para el futuro."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_19
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=19
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_19"
+msgid "¿Uhmm? {PA:10}¿Qué quieres saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_20
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=20
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_20"
+msgid "Bueno, {PA:10}tengo un gran||conocimiento de las armas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_21
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=21
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_21"
+msgid "He visto armas de todo el mundo."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_22
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=22
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_22"
+msgid "Ok, {PA:10}¿qué quieres saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_23
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=23
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_23"
+msgid "¿Hay algo más que quieras saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_24
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=24
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_24"
+msgid "¿Qué es un arma?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_25
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=25
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_25"
+msgid "¿Es algún tipo de pregunta filosófica?{PA:20}||De acuerdo."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_26
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=26
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_26"
+msgid "Un \"arma\" puede incluso ser algo{PA:10}||que cojas del suelo."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_27
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=27
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_27"
+msgid "Aunque esto ya lo sabrás, {PA:20}¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_28
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=28
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_28"
+msgid "Generalmente clasifico las||armas en 15 categorías,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_29
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=29
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_29"
+msgid "incluyendo las cosas que cojes del suelo."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_30
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=30
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_30"
+msgid "Incluso si te hablase sobre todas,||no serías capaz de acordarte,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_31
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=31
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_31"
+msgid "así que te enseñaré||algunas armas interesantes."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_32
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=32
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_32"
+msgid "¿Qué armas recomiendas?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_33
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=33
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_33"
+msgid "Tengo que recomendar algo pesado,||como un escaparate."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_34
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=34
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_34"
+msgid "También hay una variedad extensa.{PA:10}||Hay muchas armas pesadas."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_35
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=35
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_35"
+msgid "Cuando golpeas con algo tan pesado,||puedes tirar al enemigo al suelo{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_36
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=36
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_36"
+msgid "de un solo golpe."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_37
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=37
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_37"
+msgid "Un inconveniente es que es pesada,||{PA:10}lo que hace complicado"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_38
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=38
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_38"
+msgid "poder golpear rápido,||pero es muy efectiva si estás"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_39
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=39
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_39"
+msgid "rodeado de enemigos."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_40
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=40
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_40"
+msgid "Este tipo de armas pueden causar||daños graves cuando las lanzas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_41
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=41
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_41"
+msgid "Acuérdate cuando te enfrentes con||varios enemigos a la vez."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_42
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=42
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_42"
+msgid "¿Hay armas que no se pueden llevar?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_43
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=43
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_43"
+msgid "Oh, {PA:10}parece que sólo sepas||una o dos cosas sobre las armas."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_44
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=44
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_44"
+msgid "Tienes razón. {PA:10}No puedes llevar armas pesadas,||a menos que seas una especie de musculitos."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_45
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=45
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_45"
+msgid "Los bidones de combustible{PA:10}||y los sofás los puedes empujar,"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_46
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=46
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_46"
+msgid "pero no puedes llevarlos."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_47
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=47
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_47"
+msgid "Cuando te encuentres estos objetos,{PA:10}||golpéalos con todas tus"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_48
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=48
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_48"
+msgid "fuerzas y hazlos volar."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_49
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=49
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_49"
+msgid "Con tus fuertes piernas,{PA:10}||Imagino que puedes lanzarlos bien lejos."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_50
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=50
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_50"
+msgid "¿Hay {PA:10}armas especiales?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_51
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=51
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_51"
+msgid "Armas especiales, {PA:10}¿eh?"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_52
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=52
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_52"
+msgid "Parece que ésa||es mi especialidad."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_53
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=53
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_53"
+msgid "Un objeto muy útil que puedes encontrar||es una plancha de acero."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_54
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=54
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 54
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_54"
+msgid "Con ella puedes protegerte||de los disparos."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_55
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=55
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_55"
+msgid "También está... {PA:10}la cuerda.{PA:20}||Alguien que sepa utilizarla puede"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_56
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=56
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_56"
+msgid "estrangular a una persona fácilmente."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_57
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=57
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 57
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_57"
+msgid "Oh sí, {PA:10}las armas del tipo||de las granadas son muy útiles.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_58
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=58
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 58
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_58"
+msgid "Seguro que no tengo que decirte la clase||de daños que puedes infligir."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_59
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=59
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 59
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_59"
+msgid "No, {PA:10}gracias."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_60
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=2|sg=60
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 60
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_60"
+msgid "¿Seguro? {PA:10}Vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_0"
+msgid "No {PA:10}me suenas.{PA:20}||Toma esto."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_1
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_1"
+msgid "Tienes una||\"{CC:ffc8c8}Libreta de Traficante Ilegal de Armas{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_3
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_3"
+msgid "¿Uhmm? {PA:10}Esa pistola que||tienes ahí es muy sospechosa...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_4
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_4"
+msgid "¿Dónde la conseguiste?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_5
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_5"
+msgid "¿Cómo has conseguido eso?{PA:10}||Es una pistola defectuosa que ha"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_6
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_6"
+msgid "estado circulando {PA:10}en el mercado negro.{PA:20}||A menudo, se dispara accidentalmente."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_7
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_7"
+msgid "¿Qué? {PA:10}¿¿Has comprado esta mierda??{PA:10}||Oh no. Añadan otro mamón a la lista."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_8
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_8"
+msgid "Esta pistola ha sido disparada,{PA:10}||casi seguro que la persona que la disparó {PA:10}q"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_9
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_9"
+msgid "der sie benutzt hat"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_10
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_10"
+msgid "Bien. {PA:10}¿Qué puedo hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_11
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=11
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_11"
+msgid "Bien. {PA:10}¿Qué puedo hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_12
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=12
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_12"
+msgid "¿Qué quieres comprar?{PA:10}||Puedes encontrar lo que"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_13
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=13
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_13"
+msgid "sea en nuestra tienda."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_15
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=15
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_15"
+msgid "No sé lo que vas a hacer con esto...{PA:10}||Pero utilízalo con cuidado."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_16
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=16
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_16"
+msgid "Bueno, {PA:10}vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_17
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=17
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_17"
+msgid "¿Qué quieres vender?{PA:10}||Sólo compro armas y ropa protectora."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_19
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=19
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_19"
+msgid "El número de armas que||puedes llevar es limitado.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_20
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=20
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_20"
+msgid "Ténlo en cuenta para el futuro."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_21
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=21
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_21"
+msgid "¿Uhmm? {PA:10}¿Qué quieres saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_22
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=22
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_22"
+msgid "Bueno, {PA:10}tengo un gran||conocimiento de las armas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_23
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=23
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_23"
+msgid "He visto armas de todo el mundo."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_24
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=24
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_24"
+msgid "Ok, {PA:10}¿qué quieres saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_25
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=25
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_25"
+msgid "¿Hay algo más que quieras saber?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_26
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=26
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_26"
+msgid "¿Qué es un arma?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_27
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=27
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_27"
+msgid "¿Es algún tipo de pregunta filosófica?{PA:20}||De acuerdo."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_28
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=28
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_28"
+msgid "Un \"arma\" puede incluso ser algo{PA:10}||que cojas del suelo."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_29
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=29
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_29"
+msgid "Aunque esto ya lo sabrás, {PA:20}¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_30
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=30
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_30"
+msgid "Generalmente clasifico las armas||en 15 categorías,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_31
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=31
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_31"
+msgid "incluyendo las cosas que cojes del suelo."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_32
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=32
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_32"
+msgid "Incluso si te hablase sobre todas,||no serías capaz de acordarte,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_33
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=33
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_33"
+msgid "así que te enseñaré||algunas armas interesantes."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_34
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=34
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_34"
+msgid "¿Qué armas recomiendas?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_35
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=35
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_35"
+msgid "Tengo que recomendar algo pesado,||como un escaparate."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_36
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=36
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_36"
+msgid "También hay una variedad extensa.{PA:10}||Hay muchas armas pesadas."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_37
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=37
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_37"
+msgid "Cuando golpeas con algo tan pesado,||puedes tirar al enemigo al suelo{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_38
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=38
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_38"
+msgid "de un solo golpe."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_39
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=39
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_39"
+msgid "Un inconveniente es que es pesada,||lo que hace complicado poder"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_40
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=40
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_40"
+msgid "golpear rápido,{PA:10}||pero es muy efectiva"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_41
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=41
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_41"
+msgid "si estás rodeado de enemigos."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_42
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=42
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_42"
+msgid "Este tipo de armas pueden causar daños||graves cuando las lanzas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_43
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=43
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_43"
+msgid "Acuérdate cuando te enfrentes||con varios enemigos a la vez."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_44
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=44
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_44"
+msgid "¿Hay armas que no se pueden llevar?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_45
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=45
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_45"
+msgid "Oh, {PA:10}parece que sólo sepas||una o dos cosas sobre las armas."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_46
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=46
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_46"
+msgid "Tienes razón. {PA:10}No puedes||llevar armas pesadas,"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_47
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=47
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_47"
+msgid "a menos que seas una especie de musculitos."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_48
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=48
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_48"
+msgid "Los bidones de combustible{PA:10}||y los sofás los puedes empujar,"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_49
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=49
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_49"
+msgid "pero no puedes llevarlos."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_50
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=50
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_50"
+msgid "Cuando te encuentres estos objetos,{PA:10}||golpéalos con todas tus"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_51
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=51
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_51"
+msgid "fuerzas y hazlos volar."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_52
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=52
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_52"
+msgid "Con tus fuertes piernas,{PA:10}||Imagino que puedes lanzarlos bien lejos."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_53
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=53
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_53"
+msgid "¿Hay armas especiales?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_54
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=54
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 54
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_54"
+msgid "Armas especiales, {PA:10}¿eh?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_55
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=55
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_55"
+msgid "Parece que ésa {PA:10}es mi especialidad."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_56
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=56
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_56"
+msgid "Un objeto muy útil que puedes encontrar||es una plancha de acero."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_57
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=57
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 57
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_57"
+msgid "Con ella puedes protegerte||de los disparos."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_58
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=58
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 58
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_58"
+msgid "También está... {PA:10}la cuerda.{PA:20}||Alguien que sepa utilizarla puede"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_59
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=59
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 59
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_59"
+msgid "estrangular a una persona fácilmente."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_60
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=60
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 60
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_60"
+msgid "Oh sí, las armas del tipo de las||granadas son muy útiles.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_61
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=61
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 61
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_61"
+msgid "Seguro que no tengo que decirte||la clase de daños que puedes infligir."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_62
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=62
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 62
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_62"
+msgid "No, {PA:10}gracias."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_63
+#. y1ps2.logical_line_key: RAIN_KAB0069|block=0080|type=01|mg=3|sg=63
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 63
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_63"
+msgid "¿Seguro? {PA:10}Vuelve cuando quieras."
+msgstr ""

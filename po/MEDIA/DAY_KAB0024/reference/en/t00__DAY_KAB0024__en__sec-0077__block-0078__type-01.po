@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0024\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0024.BIN\n"
+"X-Y1PS2-Source-SHA256: 6c90ed1d011eea03c5d653bef7b1ac65968d992d6762881a8d4e59c15f532e22\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0024.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0024.BIN\n"
+"X-Y1PS2-Talk-SHA256: 6c90ed1d011eea03c5d653bef7b1ac65968d992d6762881a8d4e59c15f532e22\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 77\n"
+"X-Y1PS2-Raw-Block-ID: 78\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4e00010510300000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0024|block=0078|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER03\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C3_TRG_STARDUST\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 77_0_0
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_0"
+msgid "Haa...{PA:10} haa...{PA:10}||Alright alright... {PA:20}You won!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_1
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_1"
+msgid "Hold your horses."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_0
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_0"
+msgid "Oh no!"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_1
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_1"
+msgid "Hey bro,{PA:10}||I'm sorry but she's gonna come with us.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_2
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_2"
+msgid "She's behind on her payments,{PA:10}||over 6 months now..."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_3
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_3"
+msgid "Do you think you can beat us?||You're outnumbered."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_4
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_4"
+msgid "Why don't you just piss off?"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_5
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_5"
+msgid "Okay, I'll leave."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_6
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_6"
+msgid "That's the smart move."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_7
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_7"
+msgid "How about I piss on you instead?"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_8
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_8"
+msgid "Too bad you feel that way.{PA:20}||You should consider being"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_9
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_9"
+msgid "more polite when talking to others!"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_0
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_0"
+msgid "Huh?{PA:20} Are you still alive?"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_1
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_1"
+msgid "Do you think you can beat us?||You're outnumbered.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_2
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_2"
+msgid "Why don't you just piss off?"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_3
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_3"
+msgid "Okay, I'll leave."
+msgstr ""
+
+#. y1ps2.full_id: 77_2_4
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_4"
+msgid "That's the smart move."
+msgstr ""
+
+#. y1ps2.full_id: 77_2_5
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_5"
+msgid "How about I piss on you instead?"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_6
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_6"
+msgid "Too bad you feel that way.||You should consider being"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_7
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_7"
+msgid "more polite when talking to others!"
+msgstr ""
+
+#. y1ps2.full_id: 77_4_0
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_4_0"
+msgid "Hey!{MS:0}||You're so cool!"
+msgstr ""
+
+#. y1ps2.full_id: 77_4_1
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_4_1"
+msgid "Okay,{PA:10} okay.{PA:20}||I lost ❤ {PA:10}But..."
+msgstr ""
+
+#. y1ps2.full_id: 77_4_2
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_4_2"
+msgid "since there's no doubt that I'll borrow||money again..."
+msgstr ""
+
+#. y1ps2.full_id: 77_4_3
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_4_3"
+msgid "When the time comes for someone||to collect my payments, I hope it's you♪"
+msgstr ""
+
+#. y1ps2.full_id: 77_4_4
+#. y1ps2.logical_line_key: DAY_KAB0024|block=0078|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_4_4"
+msgid "You collected the money from the woman||in red."
+msgstr ""

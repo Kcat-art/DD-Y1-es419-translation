@@ -1,0 +1,656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0047\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0047.BIN\n"
+"X-Y1PS2-Source-SHA256: 644d611ec17dd5131c3f175dce06e301d3c11f7cb1e1fa683f113db7854066fd\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0047.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0047.BIN\n"
+"X-Y1PS2-Talk-SHA256: 644d611ec17dd5131c3f175dce06e301d3c11f7cb1e1fa683f113db7854066fd\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 90\n"
+"X-Y1PS2-Raw-Block-ID: 91\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5b00010438320000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0047|block=0091|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: MAIL\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: mail\n"
+"X-Y1PS2-Actor: w_57\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 90_0_0
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_0"
+msgid "You gotta pay a toll if you wanna go any||further! {PA:20}➿So you gonna pass through?"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_1
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_1"
+msgid "The toll's 5,000 yen...{PA:10}||{MS:0}but since it's Christmas, it's 10,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 90_0_2
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_2"
+msgid "Pay me 10,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 90_0_3
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_3"
+msgid "If you don't wanna pay it,||that's fine by me."
+msgstr ""
+
+#. y1ps2.full_id: 90_0_4
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_4"
+msgid "Everyone pays without arguing,||and I'm getting pretty damn bored...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_5
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_5"
+msgid "What do you say?{PA:10} Pay or not?{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_6
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_6"
+msgid "Okay,{PA:10} I'll pay."
+msgstr ""
+
+#. y1ps2.full_id: 90_0_7
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_7"
+msgid "Thanks!{PA:20}||{MS:0}Looking forward to seeing you again!"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_8
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_8"
+msgid "Get the fucking money!!"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_10
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_10"
+msgid "Fuck you."
+msgstr ""
+
+#. y1ps2.full_id: 90_0_11
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_11"
+msgid "What do you know...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_12
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_12"
+msgid "I haven't seen a hardheaded guy like you||for a long time."
+msgstr ""
+
+#. y1ps2.full_id: 90_0_13
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_13"
+msgid "Don't let me down!"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_15
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_15"
+msgid "Really.{PA:20}||Then you should turn around and go home.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_16
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_16"
+msgid "You can't pass,||if you don't have money or strength."
+msgstr ""
+
+#. y1ps2.full_id: 90_1_0
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_0"
+msgid "You gotta pay a toll if you wanna go any||further! {PA:20}➿So you gonna pass through?"
+msgstr ""
+
+#. y1ps2.full_id: 90_1_1
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_1"
+msgid "The toll's 5,000 yen...{PA:10}||{MS:0}but since it's Christmas, it's 10,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 90_1_2
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_2"
+msgid "Pay me 10,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 90_1_3
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_3"
+msgid "If you don't wanna pay it,||that's fine by me."
+msgstr ""
+
+#. y1ps2.full_id: 90_1_4
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_4"
+msgid "Everyone pays without arguing,||and I'm getting pretty damn bored...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 90_1_5
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_5"
+msgid "What do you say?{PA:20} Pay or not?{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 90_1_6
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_6"
+msgid "Okay,{PA:10} I'll pay."
+msgstr ""
+
+#. y1ps2.full_id: 90_1_7
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_7"
+msgid "Thanks!{MS:0}{PA:20}||Looking forward to seeing you again!{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 90_1_9
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_9"
+msgid "Fuck you."
+msgstr ""
+
+#. y1ps2.full_id: 90_1_10
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_10"
+msgid "What do you know...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 90_1_11
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_11"
+msgid "I haven't seen a hardheaded guy like you||for a long time."
+msgstr ""
+
+#. y1ps2.full_id: 90_1_12
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_12"
+msgid "Don't let me down!"
+msgstr ""
+
+#. y1ps2.full_id: 90_1_14
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_14"
+msgid "Really.{PA:20}||Then you should turn around and go home.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 90_1_15
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_15"
+msgid "You can't pass, if you don't have money or||strength."
+msgstr ""
+
+#. y1ps2.full_id: 90_2_0
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_2_0"
+msgid "Wait right there!"
+msgstr ""
+
+#. y1ps2.full_id: 90_3_0
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_3_0"
+msgid "{SP:1}You're fucking tough!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 90_3_1
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_3_1"
+msgid "Shit...{PA:10} I thought everyone in this city||was a fucking pussy!"
+msgstr ""
+
+#. y1ps2.full_id: 90_3_2
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_3_2"
+msgid "You seem to be a real man."
+msgstr ""
+
+#. y1ps2.full_id: 90_3_3
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_3_3"
+msgid "Here, take this for all the trouble||I caused you."
+msgstr ""
+
+#. y1ps2.full_id: 90_3_4
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_3_4"
+msgid "You received 10,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 90_3_5
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_3_5"
+msgid "I better start working out again.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 90_3_6
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_3_6"
+msgid "I'll be back, once I become confident that||I can beat you."
+msgstr ""
+
+#. y1ps2.full_id: 90_3_7
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_3_7"
+msgid "Farewell, until next time."
+msgstr ""
+
+#. y1ps2.full_id: 90_3_8
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0091|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_3_8"
+msgid "You gained 500 exp."
+msgstr ""

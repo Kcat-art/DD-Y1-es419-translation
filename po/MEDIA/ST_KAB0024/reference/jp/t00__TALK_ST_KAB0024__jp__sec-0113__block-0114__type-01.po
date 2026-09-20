@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0024\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0024.ARC\n"
+"X-Y1PS2-Source-SHA256: b61a60feba0f9ad9f46e07b25416943c34c6beb3af4c2bc24a5a7912392886ac\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0024.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0024.ARC/0/8___TALK_ST_KAB0024.BIN\n"
+"X-Y1PS2-Talk-SHA256: c4424d218fed8ae95f02c1032f98329e86c14be11a829ac699c86b2c171fa025\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 113\n"
+"X-Y1PS2-Raw-Block-ID: 114\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0072\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7200010340a70200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0024|block=0114|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_kanou\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: stand_ykz\n"
+
+#. y1ps2.full_id: 113_0_0
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_0_0"
+msgid "よお！➿{PA:10}兄貴！{PA:20}||俺です！➿{PA:10}加納っス！"
+msgstr ""
+
+#. y1ps2.full_id: 113_0_1
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_0_1"
+msgid "シノギのクチ見つけてきたんスよ。{PA:20}||もち、{PA:10}兄貴も一枚、{PA:10}かみますよね？"
+msgstr ""
+
+#. y1ps2.full_id: 113_0_2
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_0_2"
+msgid "{CU:c8c8ff}話を聞かせてみろ。"
+msgstr ""
+
+#. y1ps2.full_id: 113_0_3
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_0_3"
+msgid "{CU:ffffff}この先に、{PA:10}こじゃれた飲み屋が||あるんですけど⋯"
+msgstr ""
+
+#. y1ps2.full_id: 113_0_4
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_0_4"
+msgid "その店、{PA:10}まだどこにもみかじめ払って||ないみたいなんですよ。"
+msgstr ""
+
+#. y1ps2.full_id: 113_0_5
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_0_5"
+msgid "だから、{PA:10}そこ行って一発かましてやりゃ||毎月用心棒代とれるって寸法です。"
+msgstr ""
+
+#. y1ps2.full_id: 113_0_6
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_0_6"
+msgid "こういうのは早いもん勝ちっすから。{PA:20}||さ、{PA:10}行きましょう！"
+msgstr ""
+
+#. y1ps2.full_id: 113_0_8
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_0_8"
+msgid "{CU:c8c8ff}いや、{PA:10}断る。"
+msgstr ""
+
+#. y1ps2.full_id: 113_0_9
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_0_9"
+msgid "{CU:ffffff}え？➿{PA:10}ちょっと兄貴！{PA:10}||そんなつれねえじゃねえかよぉ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 113_1_0
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_1_0"
+msgid "あ、{PA:10}やる気になりました？{PA:20}||ぼろい話なんですよ、{PA:10}マジで。"
+msgstr ""
+
+#. y1ps2.full_id: 113_1_1
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_1_1"
+msgid "{CU:c8c8ff}話を聞かせてみろ。"
+msgstr ""
+
+#. y1ps2.full_id: 113_1_2
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_1_2"
+msgid "{CU:ffffff}この先に、{PA:10}こじゃれた飲み屋が||あるんですけど⋯"
+msgstr ""
+
+#. y1ps2.full_id: 113_1_3
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_1_3"
+msgid "その店、{PA:10}まだどこにもみかじめ払って||ないみたいなんですよ。"
+msgstr ""
+
+#. y1ps2.full_id: 113_1_4
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_1_4"
+msgid "だから、{PA:10}そこ行って一発かましてやりゃ||毎月用心棒代とれるって寸法です。"
+msgstr ""
+
+#. y1ps2.full_id: 113_1_5
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_1_5"
+msgid "こういうのは早いもん勝ちっすから。{PA:20}||さ、{PA:10}行きましょう！"
+msgstr ""
+
+#. y1ps2.full_id: 113_1_7
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_1_7"
+msgid "{CU:c8c8ff}いや、{PA:10}断る。"
+msgstr ""
+
+#. y1ps2.full_id: 113_1_8
+#. y1ps2.logical_line_key: ST_KAB0024|block=0114|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "113_1_8"
+msgid "{CU:ffffff}え？➿{PA:10}ちょっと兄貴！{PA:10}||そんなつれねえじゃねえかよぉ⋯。"
+msgstr ""

@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0053\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0053.BIN\n"
+"X-Y1PS2-Source-SHA256: 69104af3222f418660808c306d691ffc3c6effaceae55c890205a3664b782ed5\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0053.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0053.BIN\n"
+"X-Y1PS2-Talk-SHA256: 69104af3222f418660808c306d691ffc3c6effaceae55c890205a3664b782ed5\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 95\n"
+"X-Y1PS2-Raw-Block-ID: 96\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0060\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 60000103143d0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0053|block=0096|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_yakuza_imoto\n"
+"X-Y1PS2-Actor: w_8\n"
+"X-Y1PS2-Pose: lp_damaage\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0053/reference/jp/t00__TALK_ST_KAB0053__jp__sec-0095__block-0096__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0053/reference/en/t00__DAY_KAB0053__en__sec-0095__block-0096__type-01.po\n"
+
+#. y1ps2.full_id: 95_0_0
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_0"
+msgid "¿Eres tú el que está controlando||a los Cazadores de Bandas?"
+msgstr ""
+
+#. y1ps2.full_id: 95_0_1
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_1"
+msgid "Tú eres un Yakuza, ¿no?{PA:20}||¿Por qué estás haciendo esto?"
+msgstr ""
+
+#. y1ps2.full_id: 95_0_2
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_2"
+msgid "Tío,{PA:10} icállate!{PA:10}||iNo tengo nada que ver con ellos!"
+msgstr ""
+
+#. y1ps2.full_id: 95_0_3
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_3"
+msgid "El jefe me dijo tu nombre."
+msgstr ""
+
+#. y1ps2.full_id: 95_0_4
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_4"
+msgid "¿Por qué has estado haciendo esto?"
+msgstr ""
+
+#. y1ps2.full_id: 95_0_5
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_5"
+msgid "iCállate!{PA:10}||iAhora tendré que matarte!"
+msgstr ""
+
+#. y1ps2.full_id: 95_1_0
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_1_0"
+msgid "i¿Qué?!||¿El líder está abajo?"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_0
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_0"
+msgid "iUaaaa!"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_1
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_1"
+msgid "Entonces,{PA:10} ¿vas a decirme||por qué has estado haciendo esto?"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_2
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_2"
+msgid "S...{PA:10} Sí.{PA:10} La verdad es que...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_3
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_3"
+msgid "muchas organizaciones||han conformado esta ciudad."
+msgstr ""
+
+#. y1ps2.full_id: 95_2_4
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_4"
+msgid "Así que pensé que sería||bueno para el negocio"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_5
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_5"
+msgid "si eliminaba a algunas||de las otras familias."
+msgstr ""
+
+#. y1ps2.full_id: 95_2_6
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_6"
+msgid "¿Eso es todo?"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_7
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_7"
+msgid "Bueno,{PA:10} últimamente hemos||andado escasos de fondos."
+msgstr ""
+
+#. y1ps2.full_id: 95_2_8
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_8"
+msgid "Pensé que no me sentiría culpable si||le robaba dinero"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_9
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_9"
+msgid "a otros Yakuza.{PA:10} Jeje."
+msgstr ""
+
+#. y1ps2.full_id: 95_2_10
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_10"
+msgid "Mierda.{PA:20}||Eres la deshonra del Clan Tojo."
+msgstr ""
+
+#. y1ps2.full_id: 95_2_11
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_11"
+msgid "¿Qué?{PA:10} ¿Estás relacionado con el Clan Tojo?"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_12
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_12"
+msgid "Lo siento de veras.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_13
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_13"
+msgid "Toma, toma esto por||los problemas que te he causado."
+msgstr ""
+
+#. y1ps2.full_id: 95_2_14
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_14"
+msgid "Has recibido 150.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 95_2_15
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=15
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_15"
+msgid "Has ganado 1.000 exp."
+msgstr ""
+
+#. y1ps2.full_id: 95_2_16
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0096|type=01|mg=2|sg=16
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_yakuza_imoto
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_16"
+msgid "Por favor,{PA:10} que no||se entere la familia de esto."
+msgstr ""

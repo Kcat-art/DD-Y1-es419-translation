@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Source-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 45\n"
+"X-Y1PS2-Raw-Block-ID: 84\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0054\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 540001038c550000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0084|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: tamura\n"
+"X-Y1PS2-Actor: w_9\n"
+"X-Y1PS2-Pose: Stand01\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0200/reference/jp/t00__TALK_ST_KAB0200__jp__sec-0045__block-0084__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0200/reference/en/t00__DAY_KAB0200__en__sec-0045__block-0084__type-01.po\n"
+
+#. y1ps2.full_id: 45_0_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_0"
+msgid "¿Qué pasa?"
+msgstr ""
+
+#. y1ps2.full_id: 45_0_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_1"
+msgid "Bueno, ya ves. {PA:10}Soy un escritor.{PA:20}||Mi primer libro fue muy bien,"
+msgstr ""
+
+#. y1ps2.full_id: 45_0_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_2"
+msgid "pero han pasado 10 años...||Y desde entonces no he"
+msgstr ""
+
+#. y1ps2.full_id: 45_0_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_3"
+msgid "escrito ni una sola historia.{PA:10}||Por eso acabé viviendo aquí."
+msgstr ""
+
+#. y1ps2.full_id: 45_0_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_4"
+msgid "Ojalá tuviera algo||que me inspirase..."
+msgstr ""
+
+#. y1ps2.full_id: 45_0_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_5"
+msgid "¿Darle algo?"
+msgstr ""
+
+#. y1ps2.full_id: 45_0_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_7"
+msgid "Ummm. {PA:10}No está mal,||pero no me inspira nada..."
+msgstr ""
+
+#. y1ps2.full_id: 45_0_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_8"
+msgid "(No tengo nada que darle...)"
+msgstr ""
+
+#. y1ps2.full_id: 45_0_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_9"
+msgid "Ojalá tuviera algo que me inspirase..."
+msgstr ""
+
+#. y1ps2.full_id: 45_0_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_10"
+msgid "Le has dado el {CU:ffc8c8}\"Cuadro de una||mujer sosteniendo una cebolla\"{MR:00}."
+msgstr ""
+
+#. y1ps2.full_id: 45_0_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_11"
+msgid "iiiMira esto!!!{MS:0}{PA:20}||Umm... iLas ideas vienen a mi cabeza!"
+msgstr ""
+
+#. y1ps2.full_id: 45_0_12
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_12"
+msgid "iSí, esto es bueno!{PA:10} Toma.||Toma esto como muestra de mi aprecio."
+msgstr ""
+
+#. y1ps2.full_id: 45_0_13
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_13"
+msgid "Has conseguido el {CU:ffc8c8}\"Libro de un Escritor que||no Puede Escribir (Autografiado)\"{MR:00}."
+msgstr ""
+
+#. y1ps2.full_id: 45_0_14
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_14"
+msgid "iGracias!{PA:10} iTe debo una!{PA:10}||¿Le darías este libro"
+msgstr ""
+
+#. y1ps2.full_id: 45_0_15
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_15"
+msgid "al artista que ha pintado esto, por favor?"
+msgstr ""
+
+#. y1ps2.full_id: 45_0_16
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_16"
+msgid "Has obtenido 500 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 45_0_18
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_0_18"
+msgid "2 años más tarde el tipo escribió||un bestseller llamado \"Mujer de cebolla\"."
+msgstr ""
+
+#. y1ps2.full_id: 45_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_0"
+msgid "Ojalá tuviera algo||que me inspirase..."
+msgstr ""
+
+#. y1ps2.full_id: 45_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_1"
+msgid "¿Darle algo?"
+msgstr ""
+
+#. y1ps2.full_id: 45_1_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_3"
+msgid "Ummm. {PA:10}No está mal,||pero no me inspira nada..."
+msgstr ""
+
+#. y1ps2.full_id: 45_1_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_4"
+msgid "(No tengo nada que darle...)"
+msgstr ""
+
+#. y1ps2.full_id: 45_1_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_5"
+msgid "Ojalá tuviera algo que me inspirase..."
+msgstr ""
+
+#. y1ps2.full_id: 45_1_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_6"
+msgid "iiiMira esto!!!{MS:0}{PA:20}||Umm... iLas ideas vienen"
+msgstr ""
+
+#. y1ps2.full_id: 45_1_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_7"
+msgid "a mi cabeza!"
+msgstr ""
+
+#. y1ps2.full_id: 45_1_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_8"
+msgid "Le has dado el||\"{CC:ffc8c8}Cuadro de mujer con cebolla{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 45_1_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_9"
+msgid "iSí, esto es bueno! Toma.{PA:10}||Toma esto como muestra de mi aprecio."
+msgstr ""
+
+#. y1ps2.full_id: 45_1_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_10"
+msgid "Has conseguido el {CU:ffc8c8}\"Libro de un Escritor que||no Puede Escribir (Autografiado)\"{MR:00}."
+msgstr ""
+
+#. y1ps2.full_id: 45_1_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_11"
+msgid "iGracias!{PA:10} iTe debo una!{PA:10}||¿Le darías este libro"
+msgstr ""
+
+#. y1ps2.full_id: 45_1_12
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_12"
+msgid "al artista que ha pintado esto, por favor?"
+msgstr ""
+
+#. y1ps2.full_id: 45_1_13
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_13"
+msgid "Has obtenido 500 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 45_1_15
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_1_15"
+msgid "2 años más tarde el tipo escribió||un bestseller llamado \"Mujer de cebolla\"."
+msgstr ""
+
+#. y1ps2.full_id: 45_2_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0084|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand01
+msgctxt "45_2_0"
+msgid "Haaaa..."
+msgstr ""

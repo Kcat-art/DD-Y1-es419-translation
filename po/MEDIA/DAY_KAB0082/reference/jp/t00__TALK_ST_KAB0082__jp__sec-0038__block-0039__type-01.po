@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0082\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0082.ARC\n"
+"X-Y1PS2-Source-SHA256: d57140a519ebb803b053e944a9d0eaf72cc8f15427b6d6459c6c9cd6b00e948a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0082.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0082.ARC/0/8___TALK_ST_KAB0082.BIN\n"
+"X-Y1PS2-Talk-SHA256: ae40299f0c4fc073e4665dc245f3bcbb9045c8f592e713642086f1ec8ac17f89\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 38\n"
+"X-Y1PS2-Raw-Block-ID: 39\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0027\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 27000103285b0100\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0082|block=0039|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: date\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Stand05\n"
+
+#. y1ps2.full_id: 38_1_0
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_1_0"
+msgid "“サイの花屋”⋯➿{PA:20}この街の事は||なんでも知ってるって噂の情報屋だ。"
+msgstr ""
+
+#. y1ps2.full_id: 38_1_1
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_1_1"
+msgid "だが、{PA:10}そいつがいるのは||「{CC:ffc8c8}西公園{CR:00}」の中だ。"
+msgstr ""
+
+#. y1ps2.full_id: 38_1_2
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_1_2"
+msgid "あそこは警察も不介入の危険地帯だ。{PA:20}||気をつけろよ。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_0
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_0"
+msgid "桐生、{PA:10}何かあてはあるのか？"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_1
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_1"
+msgid "{CU:c8c8ff}いや、{PA:10}まだ思い当たらない。{PA:20}||足を使って情報を集めてみるさ。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_2
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_2"
+msgid "{CU:ffffff}効率的じゃねぇな。{PA:20}仕方ねぇ、{PA:10}||例の“情報屋”の所に行くしかねぇか。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_3
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_3"
+msgid "{CU:c8c8ff}⋯ひょっとして、{PA:10}||“伝説の情報屋”の話か？"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_4
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_4"
+msgid "{CU:ffffff}そうだ。➿{PA:20}知ってたか。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_5
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_5"
+msgid "“サイの花屋”⋯➿{PA:20}この街の事は||なんでも知ってるって噂の情報屋だ。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_6
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_6"
+msgid "だが、{PA:10}そいつがいるのは例の公園の中だ。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_7
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_7"
+msgid "{CU:c8c8ff}「{CC:ffc8c8}西公園{CR:00}」か。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_8
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_8"
+msgid "{CU:ffffff}ああ。{PA:20}通称“さいのかわら”⋯||ホームレスが住み着いた公園だ。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_9
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_9"
+msgid "奴は、{PA:10}その賽の河原の中にいるらしい。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_10
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_10"
+msgid "だが気をつけろよ。{PA:20}||あそこは警察も不介入の危険地帯だ。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_11
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_11"
+msgid "一度中に入ると、{PA:10}出て来れないかもしれない。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_12
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_12"
+msgid "{CU:c8c8ff}だが、{PA:10}行くしかないな。{PA:20}||今の俺には時間が無い。"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_13
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_13"
+msgid "伊達さん||遥のこと、{PA:10}頼めるか？"
+msgstr ""
+
+#. y1ps2.full_id: 38_2_14
+#. y1ps2.logical_line_key: DAY_KAB0082|block=0039|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand05
+msgctxt "38_2_14"
+msgid "{CU:ffffff}ああ。{PA:20}ここも安全とは言えないからな||こっちで保護しよう。"
+msgstr ""

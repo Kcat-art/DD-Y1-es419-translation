@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0213\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0213.BIN\n"
+"X-Y1PS2-Source-SHA256: 511854a03ab4d616726f1d40f22021b132934756f715434e7db756a2b4ce6a1d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0213.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0213.BIN\n"
+"X-Y1PS2-Talk-SHA256: 511854a03ab4d616726f1d40f22021b132934756f715434e7db756a2b4ce6a1d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 141\n"
+"X-Y1PS2-Raw-Block-ID: 184\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00B8\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: b800010168480000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0213|block=0184|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: home_C_Mhl_a\n"
+"X-Y1PS2-Actor: home_C_Mhl_a\n"
+"X-Y1PS2-Pose: TalkGirl01\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0213/reference/jp/t00__TALK_ST_KAB0213__jp__sec-0153__block-0184__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0213/reference/en/t00__ST_KAB0213__en__sec-0141__block-0184__type-01.po\n"
+
+#. y1ps2.full_id: 141_0_0
+#. y1ps2.logical_line_key: ST_KAB0213|block=0184|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: home_C_Mhl_a
+#. y1ps2.actor: home_C_Mhl_a
+#. y1ps2.pose: TalkGirl01
+msgctxt "141_0_0"
+msgid "Me pregunto si podré comenzar||con mi vida de nuevo..."
+msgstr ""

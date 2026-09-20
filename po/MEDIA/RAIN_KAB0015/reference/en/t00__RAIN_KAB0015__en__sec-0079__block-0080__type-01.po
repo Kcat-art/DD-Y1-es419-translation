@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0015\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0015.BIN\n"
+"X-Y1PS2-Source-SHA256: 716582d807e15dbd9f7c10ec677f90747e71d036fc40926225b2f3dcb6e3ab6e\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0015.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0015.BIN\n"
+"X-Y1PS2-Talk-SHA256: 716582d807e15dbd9f7c10ec677f90747e71d036fc40926225b2f3dcb6e3ab6e\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 79\n"
+"X-Y1PS2-Raw-Block-ID: 80\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0050\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 50000106f02f0000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0015|block=0080|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_05\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_ISHA_TRG_SHINRYOJO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 79_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_0_0"
+msgid "Don't think you can get away||with dine and ditching!"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_0"
+msgid "Hey!{PA:20} Wait!"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_1_1"
+msgid "Someone get that guy!"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_0"
+msgid "The ticket vending machine was broken,||so I told him he could pay after he ate."
+msgstr ""
+
+#. y1ps2.full_id: 79_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_1"
+msgid "Then he ordered three extra large beef bowls||and ran away!"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_2
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_2_2"
+msgid "Can you catch him for me?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_0"
+msgid "It looks like he got away...{PA:20}||I guess he's gone for good."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_1
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_3_1"
+msgid "Thanks anyway."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_0
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_4_0"
+msgid "Phew.{PA:20} Thank you very much."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_1
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_4_1"
+msgid "Shit...{PA:20} I thought I could shake him."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_2
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_4_2"
+msgid "I'm gonna take him back into the office...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_4_3
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_4_3"
+msgid "Please take this as a token of||my appreciation."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_4
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_4_4"
+msgid "You received 30,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_5
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_4_5"
+msgid "Thank you on behalf of Akagyu."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_6
+#. y1ps2.logical_line_key: RAIN_KAB0015|block=0080|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_05
+#. y1ps2.story_title: 医者の本分
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_ISHA_TRG_SHINRYOJO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 5
+msgctxt "79_4_6"
+msgid "You gained 500 exp."
+msgstr ""

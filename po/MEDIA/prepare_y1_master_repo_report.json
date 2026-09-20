@@ -1,0 +1,2385 @@
+{
+  "version": 1,
+  "schema": "y1_ps2_master_repo_prepare_report",
+  "source_root": "C:\\Users\\Keiner\\Documents\\GitHub\\DD-Y1-es419-translation\\po\\MEDIA",
+  "duplicates_json": "C:\\Users\\Keiner\\Documents\\GitHub\\DD-Y1-es419-translation\\po\\MEDIA\\y1_duplicates.json",
+  "output_media": "C:\\Users\\Keiner\\Desktop\\Nueva carpeta\\Nueva carpeta",
+  "requested_masters": 2961,
+  "copied_master_es_po": 2961,
+  "copied_reference_jp_po": 2489,
+  "copied_reference_en_po": 2961,
+  "missing_master_count": 0,
+  "missing_reference_count": 472,
+  "missing_masters": [],
+  "missing_references": [
+    {
+      "master": "DAY_KAB0000/work/es/t00__DAY_KAB0000__es__sec-0101__block-0113__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0000/work/es/t00__DAY_KAB0000__es__sec-0104__block-0117__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0000/work/es/t00__DAY_KAB0000__es__sec-0108__block-0121__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0000/work/es/t00__DAY_KAB0000__es__sec-0196__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0000/work/es/t00__DAY_KAB0000__es__sec-0197__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0001/work/es/t00__DAY_KAB0001__es__sec-0113__block-0129__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0001/work/es/t00__DAY_KAB0001__es__sec-0114__block-0134__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0001/work/es/t00__DAY_KAB0001__es__sec-0121__block-0152__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0001/work/es/t00__DAY_KAB0001__es__sec-0124__block-0155__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0001/work/es/t00__DAY_KAB0001__es__sec-0125__block-0156__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0001/work/es/t00__DAY_KAB0001__es__sec-0126__block-0157__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0001/work/es/t00__DAY_KAB0001__es__sec-0213__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0001/work/es/t00__DAY_KAB0001__es__sec-0214__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0002/work/es/t00__DAY_KAB0002__es__sec-0107__block-0128__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0002/work/es/t00__DAY_KAB0002__es__sec-0113__block-0134__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0002/work/es/t00__DAY_KAB0002__es__sec-0114__block-0135__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0002/work/es/t00__DAY_KAB0002__es__sec-0116__block-0137__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0002/work/es/t00__DAY_KAB0002__es__sec-0204__block-0007__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0003/work/es/t00__DAY_KAB0003__es__sec-0118__block-0134__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0003/work/es/t00__DAY_KAB0003__es__sec-0119__block-0147__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0003/work/es/t00__DAY_KAB0003__es__sec-0120__block-0164__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0003/work/es/t00__DAY_KAB0003__es__sec-0124__block-0168__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0003/work/es/t00__DAY_KAB0003__es__sec-0127__block-0171__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0003/work/es/t00__DAY_KAB0003__es__sec-0129__block-0173__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0003/work/es/t00__DAY_KAB0003__es__sec-0131__block-0175__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0003/work/es/t00__DAY_KAB0003__es__sec-0220__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0004/work/es/t00__DAY_KAB0004__es__sec-0105__block-0131__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0004/work/es/t00__DAY_KAB0004__es__sec-0114__block-0163__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0004/work/es/t00__DAY_KAB0004__es__sec-0115__block-0164__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0004/work/es/t00__DAY_KAB0004__es__sec-0117__block-0166__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0004/work/es/t00__DAY_KAB0004__es__sec-0118__block-0167__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0005/work/es/t00__DAY_KAB0005__es__sec-0114__block-0131__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0005/work/es/t00__DAY_KAB0005__es__sec-0116__block-0154__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0005/work/es/t00__DAY_KAB0005__es__sec-0120__block-0166__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0005/work/es/t00__DAY_KAB0005__es__sec-0122__block-0168__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0005/work/es/t00__DAY_KAB0005__es__sec-0204__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0005/work/es/t00__DAY_KAB0005__es__sec-0205__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0006/work/es/t00__DAY_KAB0006__es__sec-0117__block-0140__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0006/work/es/t00__DAY_KAB0006__es__sec-0124__block-0147__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0006/work/es/t00__DAY_KAB0006__es__sec-0127__block-0150__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0006/work/es/t00__DAY_KAB0006__es__sec-0129__block-0152__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0006/work/es/t00__DAY_KAB0006__es__sec-0212__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0006/work/es/t00__DAY_KAB0006__es__sec-0213__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0007/work/es/t00__DAY_KAB0007__es__sec-0099__block-0117__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0007/work/es/t00__DAY_KAB0007__es__sec-0100__block-0118__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0009/work/es/t00__DAY_KAB0009__es__sec-0092__block-0129__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0009/work/es/t00__DAY_KAB0009__es__sec-0093__block-0130__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0009/work/es/t00__DAY_KAB0009__es__sec-0094__block-0131__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0010/work/es/t00__DAY_KAB0010__es__sec-0111__block-0134__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0010/work/es/t00__DAY_KAB0010__es__sec-0112__block-0135__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0010/work/es/t00__DAY_KAB0010__es__sec-0113__block-0148__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0010/work/es/t00__DAY_KAB0010__es__sec-0122__block-0170__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0010/work/es/t00__DAY_KAB0010__es__sec-0125__block-0173__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0011/work/es/t00__DAY_KAB0011__es__sec-0098__block-0127__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0011/work/es/t00__DAY_KAB0011__es__sec-0103__block-0137__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0013/work/es/t00__DAY_KAB0013__es__sec-0105__block-0151__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0013/work/es/t00__DAY_KAB0013__es__sec-0106__block-0152__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0013/work/es/t00__DAY_KAB0013__es__sec-0107__block-0153__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0014/work/es/t00__DAY_KAB0014__es__sec-0104__block-0125__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0014/work/es/t00__DAY_KAB0014__es__sec-0107__block-0146__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0014/work/es/t00__DAY_KAB0014__es__sec-0108__block-0154__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0014/work/es/t00__DAY_KAB0014__es__sec-0111__block-0157__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0015/work/es/t00__DAY_KAB0015__es__sec-0118__block-0154__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0015/work/es/t00__DAY_KAB0015__es__sec-0119__block-0155__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0015/work/es/t00__DAY_KAB0015__es__sec-0120__block-0156__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0015/work/es/t00__DAY_KAB0015__es__sec-0121__block-0157__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0015/work/es/t00__DAY_KAB0015__es__sec-0206__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0016/work/es/t00__DAY_KAB0016__es__sec-0101__block-0120__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0017/work/es/t00__DAY_KAB0017__es__sec-0095__block-0114__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0017/work/es/t00__DAY_KAB0017__es__sec-0178__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0019/work/es/t00__DAY_KAB0019__es__sec-0098__block-0115__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0019/work/es/t00__DAY_KAB0019__es__sec-0180__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0020/work/es/t00__DAY_KAB0020__es__sec-0099__block-0121__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0021/work/es/t00__DAY_KAB0021__es__sec-0096__block-0118__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0021/work/es/t00__DAY_KAB0021__es__sec-0097__block-0122__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0021/work/es/t00__DAY_KAB0021__es__sec-0101__block-0128__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0021/work/es/t00__DAY_KAB0021__es__sec-0103__block-0130__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0022/work/es/t00__DAY_KAB0022__es__sec-0118__block-0136__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0022/work/es/t00__DAY_KAB0022__es__sec-0119__block-0141__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0022/work/es/t00__DAY_KAB0022__es__sec-0120__block-0142__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0022/work/es/t00__DAY_KAB0022__es__sec-0121__block-0143__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0022/work/es/t00__DAY_KAB0022__es__sec-0122__block-0144__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0022/work/es/t00__DAY_KAB0022__es__sec-0125__block-0147__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0022/work/es/t00__DAY_KAB0022__es__sec-0126__block-0148__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0023/work/es/t00__DAY_KAB0023__es__sec-0097__block-0127__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0023/work/es/t00__DAY_KAB0023__es__sec-0098__block-0128__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0023/work/es/t00__DAY_KAB0023__es__sec-0099__block-0129__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0023/work/es/t00__DAY_KAB0023__es__sec-0100__block-0130__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0023/work/es/t00__DAY_KAB0023__es__sec-0101__block-0131__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0023/work/es/t00__DAY_KAB0023__es__sec-0102__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0023/work/es/t00__DAY_KAB0023__es__sec-0103__block-0133__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0024/work/es/t00__DAY_KAB0024__es__sec-0104__block-0118__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0025/work/es/t00__DAY_KAB0025__es__sec-0111__block-0131__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0025/work/es/t00__DAY_KAB0025__es__sec-0112__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0025/work/es/t00__DAY_KAB0025__es__sec-0196__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0026/work/es/t00__DAY_KAB0026__es__sec-0107__block-0122__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0026/work/es/t00__DAY_KAB0026__es__sec-0190__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0028/work/es/t00__DAY_KAB0028__es__sec-0104__block-0117__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0028/work/es/t00__DAY_KAB0028__es__sec-0105__block-0118__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0028/work/es/t00__DAY_KAB0028__es__sec-0106__block-0119__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0028/work/es/t00__DAY_KAB0028__es__sec-0107__block-0120__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0028/work/es/t00__DAY_KAB0028__es__sec-0189__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0028/work/es/t00__DAY_KAB0028__es__sec-0190__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0030/work/es/t00__DAY_KAB0030__es__sec-0181__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0030/work/es/t00__DAY_KAB0030__es__sec-0182__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0031/work/es/t00__DAY_KAB0031__es__sec-0103__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0031/work/es/t00__DAY_KAB0031__es__sec-0104__block-0133__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0032/work/es/t00__DAY_KAB0032__es__sec-0104__block-0145__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0032/work/es/t00__DAY_KAB0032__es__sec-0111__block-0163__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0033/work/es/t00__DAY_KAB0033__es__sec-0176__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0033/work/es/t00__DAY_KAB0033__es__sec-0177__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0034/work/es/t00__DAY_KAB0034__es__sec-0099__block-0114__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0035/work/es/t00__DAY_KAB0035__es__sec-0093__block-0125__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0035/work/es/t00__DAY_KAB0035__es__sec-0094__block-0131__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0035/work/es/t00__DAY_KAB0035__es__sec-0098__block-0138__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0036/work/es/t00__DAY_KAB0036__es__sec-0105__block-0119__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0036/work/es/t00__DAY_KAB0036__es__sec-0114__block-0128__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0036/work/es/t00__DAY_KAB0036__es__sec-0198__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0039/work/es/t00__DAY_KAB0039__es__sec-0098__block-0154__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0039/work/es/t00__DAY_KAB0039__es__sec-0099__block-0155__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0039/work/es/t00__DAY_KAB0039__es__sec-0100__block-0156__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0039/work/es/t00__DAY_KAB0039__es__sec-0182__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0039/work/es/t00__DAY_KAB0039__es__sec-0183__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0040/work/es/t00__DAY_KAB0040__es__sec-0099__block-0146__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0040/work/es/t00__DAY_KAB0040__es__sec-0100__block-0147__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0040/work/es/t00__DAY_KAB0040__es__sec-0101__block-0191__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0041/work/es/t00__DAY_KAB0041__es__sec-0096__block-0129__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0041/work/es/t00__DAY_KAB0041__es__sec-0102__block-0181__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0041/work/es/t00__DAY_KAB0041__es__sec-0103__block-0182__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0041/work/es/t00__DAY_KAB0041__es__sec-0104__block-0183__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0041/work/es/t00__DAY_KAB0041__es__sec-0105__block-0184__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0041/work/es/t00__DAY_KAB0041__es__sec-0106__block-0185__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0042/work/es/t00__DAY_KAB0042__es__sec-0111__block-0145__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0042/work/es/t00__DAY_KAB0042__es__sec-0116__block-0150__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0042/work/es/t00__DAY_KAB0042__es__sec-0199__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0042/work/es/t00__DAY_KAB0042__es__sec-0200__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0043/work/es/t00__DAY_KAB0043__es__sec-0107__block-0137__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0044/work/es/t00__DAY_KAB0044__es__sec-0120__block-0160__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0046/work/es/t00__DAY_KAB0046__es__sec-0106__block-0130__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0047/work/es/t00__DAY_KAB0047__es__sec-0118__block-0135__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0047/work/es/t00__DAY_KAB0047__es__sec-0200__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0047/work/es/t00__DAY_KAB0047__es__sec-0201__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0048/work/es/t00__DAY_KAB0048__es__sec-0180__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0048/work/es/t00__DAY_KAB0048__es__sec-0181__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0051/work/es/t00__DAY_KAB0051__es__sec-0094__block-0133__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0051/work/es/t00__DAY_KAB0051__es__sec-0095__block-0134__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0052/work/es/t00__DAY_KAB0052__es__sec-0175__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0053/work/es/t00__DAY_KAB0053__es__sec-0114__block-0134__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0053/work/es/t00__DAY_KAB0053__es__sec-0116__block-0136__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0053/work/es/t00__DAY_KAB0053__es__sec-0117__block-0137__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0054/work/es/t00__DAY_KAB0054__es__sec-0116__block-0145__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0054/work/es/t00__DAY_KAB0054__es__sec-0222__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0054/work/es/t00__DAY_KAB0054__es__sec-0223__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0106__block-0118__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0107__block-0122__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0113__block-0141__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0114__block-0142__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0119__block-0152__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0120__block-0160__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0122__block-0167__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0124__block-0169__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0127__block-0174__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0056/work/es/t00__DAY_KAB0056__es__sec-0128__block-0175__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0058/work/es/t00__DAY_KAB0058__es__sec-0158__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0060/work/es/t00__DAY_KAB0060__es__sec-0161__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0063/work/es/t00__DAY_KAB0063__es__names.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "DAY_KAB0065/work/es/t00__DAY_KAB0065__es__sec-0176__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0069/work/es/t00__DAY_KAB0069__es__sec-0161__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0069/work/es/t00__DAY_KAB0069__es__sec-0162__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0070/work/es/t00__DAY_KAB0070__es__sec-0164__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0070/work/es/t00__DAY_KAB0070__es__sec-0165__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0072/work/es/t00__DAY_KAB0072__es__sec-0180__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0073/work/es/t00__DAY_KAB0073__es__sec-0107__block-0119__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0074/work/es/t00__DAY_KAB0074__es__sec-0119__block-0142__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0074/work/es/t00__DAY_KAB0074__es__sec-0120__block-0143__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0074/work/es/t00__DAY_KAB0074__es__sec-0127__block-0150__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0074/work/es/t00__DAY_KAB0074__es__sec-0132__block-0155__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0075/work/es/t00__DAY_KAB0075__es__sec-0113__block-0122__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0075/work/es/t00__DAY_KAB0075__es__sec-0195__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0077/work/es/t00__DAY_KAB0077__es__sec-0104__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0077/work/es/t00__DAY_KAB0077__es__sec-0105__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0079/work/es/t00__DAY_KAB0079__es__sec-0106__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0080/work/es/t00__DAY_KAB0080__es__sec-0179__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0080/work/es/t00__DAY_KAB0080__es__sec-0180__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0082/work/es/t00__DAY_KAB0082__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0082/work/es/t00__DAY_KAB0082__es__sec-0042__block-0044__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0083/work/es/t00__DAY_KAB0083__es__sec-0102__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0083/work/es/t00__DAY_KAB0083__es__sec-0103__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0084/work/es/t00__DAY_KAB0084__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0084/work/es/t00__DAY_KAB0084__es__sec-0120__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0084/work/es/t00__DAY_KAB0084__es__sec-0121__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0085/work/es/t00__DAY_KAB0085__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0086/work/es/t00__DAY_KAB0086__es__sec-0083__block-0094__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0086/work/es/t00__DAY_KAB0086__es__sec-0088__block-0100__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0086/work/es/t00__DAY_KAB0086__es__sec-0170__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0087/work/es/t00__DAY_KAB0087__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0087/work/es/t00__DAY_KAB0087__es__sec-0105__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0087/work/es/t00__DAY_KAB0087__es__sec-0106__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0088/work/es/t00__DAY_KAB0088__es__sec-0101__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0090/work/es/t00__DAY_KAB0090__es__sec-0155__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0090/work/es/t00__DAY_KAB0090__es__sec-0156__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0092/work/es/t00__DAY_KAB0092__es__sec-0101__block-0138__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0092/work/es/t00__DAY_KAB0092__es__sec-0102__block-0145__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0092/work/es/t00__DAY_KAB0092__es__sec-0103__block-0146__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0092/work/es/t00__DAY_KAB0092__es__sec-0104__block-0147__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0022__block-0061__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0025__block-0064__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0026__block-0065__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0028__block-0067__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0029__block-0068__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0030__block-0069__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0031__block-0070__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0032__block-0071__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0033__block-0072__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0034__block-0073__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0035__block-0074__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0036__block-0075__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0984__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0200/work/es/t00__DAY_KAB0200__es__sec-0985__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0201/work/es/t00__DAY_KAB0201__es__sec-0033__block-0049__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0201/work/es/t00__DAY_KAB0201__es__sec-0071__block-0100__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0201/work/es/t00__DAY_KAB0201__es__sec-0072__block-0101__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0201/work/es/t00__DAY_KAB0201__es__sec-0073__block-0102__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0204/work/es/t00__DAY_KAB0204__es__sec-1122__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0204/work/es/t00__DAY_KAB0204__es__sec-1123__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0205/work/es/t00__DAY_KAB0205__es__sec-1060__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0209/work/es/t00__DAY_KAB0209__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0227/work/es/t00__DAY_KAB0227__es__sec-0103__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0228/work/es/t00__DAY_KAB0228__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0229/work/es/t00__DAY_KAB0229__es__sec-0927__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "DAY_KAB0229/work/es/t00__DAY_KAB0229__es__sec-0928__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "OLD_KAB0001/work/es/t00__OLD_KAB0001__es__sec-0312__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "OLD_KAB0010/work/es/t00__OLD_KAB0010__es__sec-0232__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "OLD_KAB0012/work/es/t00__OLD_KAB0012__es__sec-0219__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "OLD_KAB0082/work/es/t00__OLD_KAB0082__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "OLD_KAB0225/work/es/t00__OLD_KAB0225__es__sec-0021__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0001/work/es/t00__RAIN_KAB0001__es__sec-0103__block-0148__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0001/work/es/t00__RAIN_KAB0001__es__sec-0104__block-0167__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0002/work/es/t00__RAIN_KAB0002__es__sec-0103__block-0137__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0004/work/es/t00__RAIN_KAB0004__es__sec-0097__block-0146__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0004/work/es/t00__RAIN_KAB0004__es__sec-0098__block-0147__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0005/work/es/t00__RAIN_KAB0005__es__sec-0112__block-0140__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0006/work/es/t00__RAIN_KAB0006__es__sec-0107__block-0122__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0007/work/es/t00__RAIN_KAB0007__es__sec-0090__block-0111__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0007/work/es/t00__RAIN_KAB0007__es__sec-0091__block-0116__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0007/work/es/t00__RAIN_KAB0007__es__sec-0092__block-0120__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0007/work/es/t00__RAIN_KAB0007__es__sec-0093__block-0123__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0012/work/es/t00__RAIN_KAB0012__es__sec-0108__block-0126__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0012/work/es/t00__RAIN_KAB0012__es__sec-0109__block-0129__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0031/work/es/t00__RAIN_KAB0031__es__sec-0024__block-0029__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0037/work/es/t00__RAIN_KAB0037__es__sec-0104__block-0119__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0071/work/es/t00__RAIN_KAB0071__es__sec-0112__block-0138__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0084/work/es/t00__RAIN_KAB0084__es__sec-0083__block-0086__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0084/work/es/t00__RAIN_KAB0084__es__sec-0171__block-0010__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0084/work/es/t00__RAIN_KAB0084__es__sec-0172__block-0011__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0084/work/es/t00__RAIN_KAB0084__es__sec-0173__block-0012__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0089/work/es/t00__RAIN_KAB0089__es__sec-0195__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0089/work/es/t00__RAIN_KAB0089__es__sec-0196__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0208/work/es/t00__RAIN_KAB0208__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0022__block-0050__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0023__block-0051__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0024__block-0052__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0025__block-0053__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0026__block-0054__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0027__block-0055__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0028__block-0056__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0029__block-0057__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0030__block-0058__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0031__block-0059__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0032__block-0060__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0033__block-0061__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0034__block-0062__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0035__block-0063__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "RAIN_KAB0213/work/es/t00__RAIN_KAB0213__es__sec-0036__block-0064__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_FUTOU3/work/es/t00__ST_FUTOU3__es__sec-0001__block-0388__type-03.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO1/work/es/t00__ST_HAIKYO1__es__sec-0075__block-0001__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO1/work/es/t00__ST_HAIKYO1__es__sec-0076__block-0002__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO1/work/es/t00__ST_HAIKYO1__es__sec-0077__block-0003__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO1/work/es/t00__ST_HAIKYO1__es__sec-0078__block-0004__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO2/work/es/t00__ST_HAIKYO2__es__sec-0082__block-0009__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO2/work/es/t00__ST_HAIKYO2__es__sec-0083__block-0010__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO2/work/es/t00__ST_HAIKYO2__es__sec-0084__block-0011__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO2/work/es/t00__ST_HAIKYO2__es__sec-0085__block-0012__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO2/work/es/t00__ST_HAIKYO2__es__sec-0086__block-0013__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO2/work/es/t00__ST_HAIKYO2__es__sec-0087__block-0014__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO2/work/es/t00__ST_HAIKYO2__es__sec-0088__block-0015__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO2/work/es/t00__ST_HAIKYO2__es__sec-0089__block-0016__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO3/work/es/t00__ST_HAIKYO3__es__sec-0078__block-0005__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO3/work/es/t00__ST_HAIKYO3__es__sec-0079__block-0006__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO3/work/es/t00__ST_HAIKYO3__es__sec-0080__block-0007__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO3/work/es/t00__ST_HAIKYO3__es__sec-0082__block-0009__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO3/work/es/t00__ST_HAIKYO3__es__sec-0083__block-0010__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO3/work/es/t00__ST_HAIKYO3__es__sec-0084__block-0011__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO3/work/es/t00__ST_HAIKYO3__es__sec-0085__block-0012__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO3/work/es/t00__ST_HAIKYO3__es__sec-0087__block-0014__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO3/work/es/t00__ST_HAIKYO3__es__sec-0088__block-0015__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO4/work/es/t00__ST_HAIKYO4__es__sec-0075__block-0002__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO4/work/es/t00__ST_HAIKYO4__es__sec-0076__block-0003__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO4/work/es/t00__ST_HAIKYO4__es__sec-0079__block-0006__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO4/work/es/t00__ST_HAIKYO4__es__sec-0081__block-0008__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO4/work/es/t00__ST_HAIKYO4__es__sec-0082__block-0009__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO4/work/es/t00__ST_HAIKYO4__es__sec-0084__block-0011__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO4/work/es/t00__ST_HAIKYO4__es__sec-0086__block-0013__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO4/work/es/t00__ST_HAIKYO4__es__sec-0087__block-0014__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO4/work/es/t00__ST_HAIKYO4__es__sec-0088__block-0015__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0077__block-0004__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0078__block-0005__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0079__block-0006__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0081__block-0008__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0082__block-0009__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0083__block-0010__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0085__block-0012__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0086__block-0013__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0087__block-0014__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0088__block-0015__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_HAIKYO5/work/es/t00__ST_HAIKYO5__es__sec-0090__block-0017__type-05.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    },
+    {
+      "master": "ST_KAB0001/work/es/t00__ST_KAB0001__es__sec-0129__block-0170__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0002/work/es/t00__ST_KAB0002__es__sec-0128__block-0157__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0002/work/es/t00__ST_KAB0002__es__sec-0129__block-0158__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0002/work/es/t00__ST_KAB0002__es__sec-0131__block-0180__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0002/work/es/t00__ST_KAB0002__es__sec-0138__block-0188__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0003/work/es/t00__ST_KAB0003__es__sec-0124__block-0131__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0003/work/es/t00__ST_KAB0003__es__sec-0125__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0003/work/es/t00__ST_KAB0003__es__sec-0148__block-0181__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0003/work/es/t00__ST_KAB0003__es__sec-0149__block-0182__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0004/work/es/t00__ST_KAB0004__es__sec-0106__block-0139__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0004/work/es/t00__ST_KAB0004__es__sec-0115__block-0163__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0005/work/es/t00__ST_KAB0005__es__sec-0118__block-0137__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0005/work/es/t00__ST_KAB0005__es__sec-0119__block-0138__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0005/work/es/t00__ST_KAB0005__es__sec-0121__block-0140__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0005/work/es/t00__ST_KAB0005__es__sec-0122__block-0160__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0005/work/es/t00__ST_KAB0005__es__sec-0123__block-0174__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0005/work/es/t00__ST_KAB0005__es__sec-0124__block-0184__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0005/work/es/t00__ST_KAB0005__es__sec-0125__block-0195__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0007/work/es/t00__ST_KAB0007__es__sec-0100__block-0130__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0007/work/es/t00__ST_KAB0007__es__sec-0101__block-0135__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0009/work/es/t00__ST_KAB0009__es__sec-0098__block-0129__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0009/work/es/t00__ST_KAB0009__es__sec-0099__block-0135__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0009/work/es/t00__ST_KAB0009__es__sec-0101__block-0161__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0009/work/es/t00__ST_KAB0009__es__sec-0103__block-0163__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0009/work/es/t00__ST_KAB0009__es__sec-0104__block-0164__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0010/work/es/t00__ST_KAB0010__es__sec-0114__block-0150__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0010/work/es/t00__ST_KAB0010__es__sec-0115__block-0151__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0010/work/es/t00__ST_KAB0010__es__sec-0116__block-0152__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0010/work/es/t00__ST_KAB0010__es__sec-0134__block-0192__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0010/work/es/t00__ST_KAB0010__es__sec-0135__block-0195__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0011/work/es/t00__ST_KAB0011__es__sec-0117__block-0122__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0013/work/es/t00__ST_KAB0013__es__sec-0106__block-0144__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0013/work/es/t00__ST_KAB0013__es__sec-0107__block-0150__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0014/work/es/t00__ST_KAB0014__es__sec-0125__block-0159__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0014/work/es/t00__ST_KAB0014__es__sec-0134__block-0187__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0015/work/es/t00__ST_KAB0015__es__sec-0164__block-0212__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0016/work/es/t00__ST_KAB0016__es__sec-0100__block-0122__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0016/work/es/t00__ST_KAB0016__es__sec-0101__block-0123__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0018/work/es/t00__ST_KAB0018__es__sec-0098__block-0120__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0018/work/es/t00__ST_KAB0018__es__sec-0099__block-0129__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0018/work/es/t00__ST_KAB0018__es__sec-0100__block-0130__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0020/work/es/t00__ST_KAB0020__es__sec-0100__block-0126__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0020/work/es/t00__ST_KAB0020__es__sec-0104__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0020/work/es/t00__ST_KAB0020__es__sec-0105__block-0135__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0020/work/es/t00__ST_KAB0020__es__sec-0106__block-0136__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0020/work/es/t00__ST_KAB0020__es__sec-0107__block-0137__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0021/work/es/t00__ST_KAB0021__es__sec-0102__block-0122__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0021/work/es/t00__ST_KAB0021__es__sec-0108__block-0139__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0021/work/es/t00__ST_KAB0021__es__sec-0109__block-0143__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0021/work/es/t00__ST_KAB0021__es__sec-0110__block-0150__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0021/work/es/t00__ST_KAB0021__es__sec-0111__block-0151__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0021/work/es/t00__ST_KAB0021__es__sec-0112__block-0153__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0022/work/es/t00__ST_KAB0022__es__sec-0124__block-0154__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0022/work/es/t00__ST_KAB0022__es__sec-0126__block-0172__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0022/work/es/t00__ST_KAB0022__es__sec-0127__block-0173__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0022/work/es/t00__ST_KAB0022__es__sec-0132__block-0178__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0022/work/es/t00__ST_KAB0022__es__sec-0139__block-0185__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0022/work/es/t00__ST_KAB0022__es__sec-0140__block-0186__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0022/work/es/t00__ST_KAB0022__es__sec-0141__block-0187__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0023/work/es/t00__ST_KAB0023__es__sec-0102__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0023/work/es/t00__ST_KAB0023__es__sec-0103__block-0140__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0023/work/es/t00__ST_KAB0023__es__sec-0109__block-0146__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0023/work/es/t00__ST_KAB0023__es__sec-0110__block-0147__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0024/work/es/t00__ST_KAB0024__es__sec-0119__block-0141__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0024/work/es/t00__ST_KAB0024__es__sec-0120__block-0147__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0024/work/es/t00__ST_KAB0024__es__sec-0121__block-0148__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0024/work/es/t00__ST_KAB0024__es__sec-0122__block-0149__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0024/work/es/t00__ST_KAB0024__es__sec-0135__block-0179__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0025/work/es/t00__ST_KAB0025__es__sec-0113__block-0133__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0026/work/es/t00__ST_KAB0026__es__sec-0108__block-0124__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0028/work/es/t00__ST_KAB0028__es__sec-0102__block-0126__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0028/work/es/t00__ST_KAB0028__es__sec-0103__block-0129__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0032/work/es/t00__ST_KAB0032__es__sec-0098__block-0124__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0032/work/es/t00__ST_KAB0032__es__sec-0099__block-0125__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0035/work/es/t00__ST_KAB0035__es__sec-0092__block-0116__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0035/work/es/t00__ST_KAB0035__es__sec-0099__block-0141__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0035/work/es/t00__ST_KAB0035__es__sec-0100__block-0142__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0035/work/es/t00__ST_KAB0035__es__sec-0101__block-0143__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0035/work/es/t00__ST_KAB0035__es__sec-0102__block-0144__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0039/work/es/t00__ST_KAB0039__es__sec-0107__block-0122__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0039/work/es/t00__ST_KAB0039__es__sec-0108__block-0153__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0039/work/es/t00__ST_KAB0039__es__sec-0112__block-0157__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0039/work/es/t00__ST_KAB0039__es__sec-0113__block-0158__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0040/work/es/t00__ST_KAB0040__es__sec-0126__block-0168__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0041/work/es/t00__ST_KAB0041__es__sec-0113__block-0126__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0041/work/es/t00__ST_KAB0041__es__sec-0114__block-0127__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0041/work/es/t00__ST_KAB0041__es__sec-0115__block-0157__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0041/work/es/t00__ST_KAB0041__es__sec-0116__block-0158__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0041/work/es/t00__ST_KAB0041__es__sec-0117__block-0159__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0041/work/es/t00__ST_KAB0041__es__sec-0121__block-0174__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0042/work/es/t00__ST_KAB0042__es__sec-0105__block-0126__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0042/work/es/t00__ST_KAB0042__es__sec-0123__block-0165__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0043/work/es/t00__ST_KAB0043__es__sec-0106__block-0120__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0043/work/es/t00__ST_KAB0043__es__sec-0120__block-0168__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0044/work/es/t00__ST_KAB0044__es__sec-0142__block-0193__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0044/work/es/t00__ST_KAB0044__es__sec-0143__block-0194__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0045/work/es/t00__ST_KAB0045__es__sec-0103__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0045/work/es/t00__ST_KAB0045__es__sec-0104__block-0133__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0045/work/es/t00__ST_KAB0045__es__sec-0105__block-0134__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0045/work/es/t00__ST_KAB0045__es__sec-0109__block-0162__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0045/work/es/t00__ST_KAB0045__es__sec-0126__block-0182__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0047/work/es/t00__ST_KAB0047__es__sec-0118__block-0135__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0047/work/es/t00__ST_KAB0047__es__sec-0119__block-0136__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0047/work/es/t00__ST_KAB0047__es__sec-0121__block-0138__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0047/work/es/t00__ST_KAB0047__es__sec-0122__block-0139__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0047/work/es/t00__ST_KAB0047__es__sec-0123__block-0140__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0047/work/es/t00__ST_KAB0047__es__sec-0124__block-0141__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0047/work/es/t00__ST_KAB0047__es__sec-0125__block-0142__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0047/work/es/t00__ST_KAB0047__es__sec-0126__block-0151__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0048/work/es/t00__ST_KAB0048__es__sec-0102__block-0117__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0049/work/es/t00__ST_KAB0049__es__sec-0100__block-0116__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0049/work/es/t00__ST_KAB0049__es__sec-0101__block-0118__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0049/work/es/t00__ST_KAB0049__es__sec-0102__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0049/work/es/t00__ST_KAB0049__es__sec-0103__block-0135__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0050/work/es/t00__ST_KAB0050__es__sec-0113__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0050/work/es/t00__ST_KAB0050__es__sec-0116__block-0142__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0050/work/es/t00__ST_KAB0050__es__sec-0117__block-0143__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0051/work/es/t00__ST_KAB0051__es__sec-0096__block-0125__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0051/work/es/t00__ST_KAB0051__es__sec-0097__block-0126__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0051/work/es/t00__ST_KAB0051__es__sec-0098__block-0127__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0051/work/es/t00__ST_KAB0051__es__sec-0099__block-0159__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0051/work/es/t00__ST_KAB0051__es__sec-0100__block-0160__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0053/work/es/t00__ST_KAB0053__es__sec-0130__block-0155__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0053/work/es/t00__ST_KAB0053__es__sec-0131__block-0161__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0053/work/es/t00__ST_KAB0053__es__sec-0133__block-0180__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0086/work/es/t00__ST_KAB0086__es__sec-0043__block-0055__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0086/work/es/t00__ST_KAB0086__es__sec-0044__block-0056__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0086/work/es/t00__ST_KAB0086__es__sec-0045__block-0057__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0086/work/es/t00__ST_KAB0086__es__sec-0128__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0103/work/es/t00__ST_KAB0103__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0200/work/es/t00__ST_KAB0200__es__sec-0026__block-0121__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0200/work/es/t00__ST_KAB0200__es__sec-0028__block-0123__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0114__block-0127__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0115__block-0128__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0116__block-0129__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0117__block-0130__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0118__block-0131__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0119__block-0132__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0120__block-0133__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0121__block-0134__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0122__block-0135__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0124__block-0137__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0125__block-0138__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0136__block-0173__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0138__block-0178__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0142__block-0189__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0144__block-0193__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0145__block-0195__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0148__block-0204__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0150__block-0216__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0213/work/es/t00__ST_KAB0213__es__sec-0151__block-0217__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0217/work/es/t00__ST_KAB0217__es__sec-0023__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0227/work/es/t00__ST_KAB0227__es__sec-0020__block-0024__type-01.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0229/work/es/t00__ST_KAB0229__es__sec-0908__block-0004__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAB0229/work/es/t00__ST_KAB0229__es__sec-0909__block-0005__type-255.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; no structural match"
+    },
+    {
+      "master": "ST_KAWARA2/work/es/t00__ST_KAWARA2__es__sec-0073__block-0295__type-03.po",
+      "language": "jp",
+      "reason": "header X-Y1PS2-Reference-JP-PO absent; reference directory does not exist"
+    }
+  ],
+  "reference_resolution": {
+    "structural filename fallback": 487,
+    "PO header X-Y1PS2-Reference-JP-PO": 2246,
+    "PO header X-Y1PS2-Reference-EN-PO": 2717
+  },
+  "story_outputs": {
+    "main_story": "main_story_y1.json",
+    "substories": "substories_ps2.json"
+  }
+}

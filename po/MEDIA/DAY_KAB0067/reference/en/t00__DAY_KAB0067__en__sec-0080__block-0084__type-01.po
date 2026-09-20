@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0067\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0067.BIN\n"
+"X-Y1PS2-Source-SHA256: f9db3831cd2bc7f41c796bc68862d952efeab2177eff8c0c35c2439c31a2b07a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0067.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0067.BIN\n"
+"X-Y1PS2-Talk-SHA256: f9db3831cd2bc7f41c796bc68862d952efeab2177eff8c0c35c2439c31a2b07a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 80\n"
+"X-Y1PS2-Raw-Block-ID: 84\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0054\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 54000109842e0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0067|block=0084|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_11\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NIN_TRG_JEWEL\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 80_0_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_0_0"
+msgid "{CU:ffc8c8}Mister, let's take some||pictures together!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_0_1"
+msgid "{CU:ffc8c8}Let's take some pictures in the Purikura!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_1_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_1_0"
+msgid "{CU:ffc8c8}Mister, please get||Piyo-chan for me!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_1_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_1_1"
+msgid "{CU:ffc8c8}Please get it from the UFO Catcher!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_0"
+msgid "{CU:ffc8c8}Mister, please get that||bandaged bear!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_2_1"
+msgid "{CU:ffc8c8}Mister, please get it||from the UFO Catcher!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_3_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_3_0"
+msgid "{CU:ffc8c8}I wanna take some||pictures together...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_4_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_4_0"
+msgid "{CU:ffc8c8}I want... Piyo-chan...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_5_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_5_0"
+msgid "{CU:ffc8c8}I want that... bandaged bear...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_6_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_6_0"
+msgid "{CU:ffc8c8}Yay! I'm so happy!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_6_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_6_1"
+msgid "{CU:ffc8c8}It's my treasure now!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_7_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_7_0"
+msgid "{CU:ffc8c8}Yay! You're so awesome!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_7_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_7_1"
+msgid "{CU:ffc8c8}I love you, mister!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_8_0
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_8_0"
+msgid "{CU:ffc8c8}You're so awesome, mister!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_8_1
+#. y1ps2.logical_line_key: DAY_KAB0067|block=0084|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_JEWEL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "80_8_1"
+msgid "{CU:ffc8c8}Mister, thanks!{MR:00}"
+msgstr ""

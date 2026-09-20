@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0101\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0101.BIN\n"
+"X-Y1PS2-Source-SHA256: 3fc4d107a5bb2c9fe082177826dc4b3181c6c647b2efd97a9eec29ac172b256e\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0101.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0101.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3fc4d107a5bb2c9fe082177826dc4b3181c6c647b2efd97a9eec29ac172b256e\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 16\n"
+"X-Y1PS2-Raw-Block-ID: 17\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0011\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 11000101344b0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0101|block=0017|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_37\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0101/reference/jp/t00__TALK_ST_KAB0101__jp__sec-0017__block-0017__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0101/reference/en/t00__ST_KAB0101__en__sec-0016__block-0017__type-01.po\n"
+
+#. y1ps2.full_id: 16_0_0
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_0"
+msgid "Bienvenido,||{PA:10}señor."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_1
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_1"
+msgid "¿Eh? ¿Traes a un niño contigo?{PA:10}||Esto es muy extraño."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_2
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_2"
+msgid "Sí.{PA:10}||Es una gran fan de Chacal."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_3
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_3"
+msgid "iOh, en serio!{PA:10}||Debe tener un buen ojo para los boxeadores."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_4
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_4"
+msgid "El Chacal ganará la pelea||por el título de mañana, seguro."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_5
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_5"
+msgid "¿Cómo están las apuestas?"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_6
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_6"
+msgid "iEl Chacal ha luchado 22 peleas,||con 21 victorias y 20 KOs!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_7
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_7"
+msgid "No hay nadie en Japón que pueda vencerle."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_8
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_8"
+msgid "Es una apuesta segura 3 a 2."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_9
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_9"
+msgid "Su oponente, {PA:10}McGee Yoshimura||ha defendido el título cinco veces,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_10
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_10"
+msgid "pero ganó todas las veces||por decisión técnica."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_11
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_11"
+msgid "Yo digo que no tiene ni una oportunidad.{PA:10}||Así que las apuestas son de 21 a 2."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_12
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_12"
+msgid "... Si defiende el título con empate,{PA:10}||las apuestas son de 27 a 5."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_13
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_13"
+msgid "Emm... {PA:10}¿No es demasiado obvio?"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_14
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_14"
+msgid "Ya sabes, {PA:10}el Chacal es invencible. Aún así,{PA:20}||son unas apuestas muy generosas."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_15
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_15"
+msgid "... ¿Qué dice, señor?"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_16
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_16"
+msgid "...Ok,{PA:10} apostaré por el Chacal.{PA:20}||Siempre y cuando la pelea no esté amañada."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_17
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_17"
+msgid "¿Eh?"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_18
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_18"
+msgid "He oído que algunos de tus hombres fueron||apaleados por Yagisawa, ¿pero chantajear...?"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_19
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_19"
+msgid "¿Qué demonios...?"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_20
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_20"
+msgid "La chica es fan de Yagisawa.{PA:20}||No quiero decepcionarla."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_21
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_21"
+msgid "No es nada personal,{PA:10}||pero tengo que detener tu plan de apuestas"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_22
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_22"
+msgid "y cerrar el chiringuito."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_23
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_23"
+msgid "iEh! {PA:10}Así que no eres un cliente||después de todo.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_24
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_24"
+msgid "iNo creas que me puedes joder,{PA:20}||pedazo de mierda!"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_25
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_25"
+msgid "Serás comida para los peces del fondo de||la bahía de Tokio antes de que"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_26
+#. y1ps2.logical_line_key: ST_KAB0101|block=0017|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_26"
+msgid "empiece la pelea siquiera."
+msgstr ""

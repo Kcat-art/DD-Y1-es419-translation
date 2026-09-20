@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0056\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0056.BIN\n"
+"X-Y1PS2-Source-SHA256: c2bb4071384fb7f6e068f5c3a15c95404c78ab115cbe1361140c79e66e3b8f31\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0056.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0056.BIN\n"
+"X-Y1PS2-Talk-SHA256: c2bb4071384fb7f6e068f5c3a15c95404c78ab115cbe1361140c79e66e3b8f31\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 84\n"
+"X-Y1PS2-Raw-Block-ID: 85\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0055\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5500010304310000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0056|block=0085|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_09\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NISE_PARESU\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 84_0_0
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_0_0"
+msgid "I was eating a hamburger at this shop||and I found a cockroach in it!!"
+msgstr ""
+
+#. y1ps2.full_id: 84_0_1
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_0_1"
+msgid "I've been having||stomach problems ever since..."
+msgstr ""
+
+#. y1ps2.full_id: 84_0_2
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_0_2"
+msgid "Sir,{PA:10} I'm sorry to say this,||but that's impossible..."
+msgstr ""
+
+#. y1ps2.full_id: 84_0_3
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_0_3"
+msgid "Shut the fuck up!!{PA:10}||Pay me 100,000 yen for medical expenses!!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 84_0_4
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_0_4"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_0
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_0"
+msgid "Roach-burgers! They serve hamburgers||with cockroaches in them..."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_1
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_1"
+msgid "They serve cockroaches...||Delicious!"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_2
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_2"
+msgid "Excuse me...||Sir..."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_3
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_3"
+msgid "Roach-burgers! They serve hamburgers||with cockroaches in them..."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_4
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_4"
+msgid "They serve cockroaches...||Delicious!"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_5
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_5"
+msgid "Roach-burgers! They serve hamburgers||with cockroaches in them..."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_6
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_6"
+msgid "They serve cockroaches...||Delicious!"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_0
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_0"
+msgid "Huh?{PA:10}||Who the fuck are you?!"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_1
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_1"
+msgid "You have something to say||to an innocent consumer?"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_3
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_3"
+msgid "I'll pay your expenses for them."
+msgstr ""
+
+#. y1ps2.full_id: 84_2_4
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_4"
+msgid "Huh?{PA:20} Why won't you shut the fuck up?{PA:10}||You don't even have any money!"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_5
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_5"
+msgid "You fucking with me?"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_6
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_6"
+msgid "I'll pay your expenses for them."
+msgstr ""
+
+#. y1ps2.full_id: 84_2_7
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_7"
+msgid "Humph!{PA:10} You're a reasonable man.{PA:20}||{MS:1}{MS:0}I appreciate your good attitude."
+msgstr ""
+
+#. y1ps2.full_id: 84_2_8
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_8"
+msgid "You gave him 100,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 84_2_9
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_9"
+msgid "Humph!{PA:10} Be more careful next time!{PA:10}||Asshole!"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_11
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_11"
+msgid "Stop bothering them!"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_12
+#. y1ps2.logical_line_key: ST_KAB0056|block=0085|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_12"
+msgid "Humph!{PA:10} Mind your own business!{PA:10}||Otherwise, you'll be very sorry!"
+msgstr ""

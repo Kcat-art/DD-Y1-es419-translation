@@ -1,0 +1,833 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0046\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0046.BIN\n"
+"X-Y1PS2-Source-SHA256: 170c1b753f4cd301e33ebfdf9bc029fdebfb6f7b8fe3e94a35e97bfce7fee476\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0046.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0046.BIN\n"
+"X-Y1PS2-Talk-SHA256: 170c1b753f4cd301e33ebfdf9bc029fdebfb6f7b8fe3e94a35e97bfce7fee476\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 77\n"
+"X-Y1PS2-Raw-Block-ID: 78\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4e0001041c3a0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0046|block=0078|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER03\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C3_TRG_STARDUST\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0046/reference/jp/t00__TALK_ST_KAB0046__jp__sec-0077__block-0078__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0046/reference/en/t00__ST_KAB0046__en__sec-0077__block-0078__type-01.po\n"
+
+#. y1ps2.full_id: 77_0_0
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_0"
+msgid "¿Qué pasa?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_1
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_1"
+msgid "Nada...{PA:20}||Déjame solo, por favor."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_2
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_2"
+msgid "No tengo más remedio que ahorcarme..."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_3
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_3"
+msgid "Entonces haz lo que te parezca."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_4
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_4"
+msgid "Nadie es amable ni humano en este mundo...{PA:20}||No me arrepiento de nada."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_5
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_5"
+msgid "No tengo más remedio que ahorcarme,||después de todo..."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_6
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_6"
+msgid "Dime al menos lo que ha pasado."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_7
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_7"
+msgid "Sí... De hecho, he perdido la documentación||confidencial de mi empresa."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_8
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_8"
+msgid "Estaba guardada en un||maletín con candado y llave..."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_9
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_9"
+msgid "Pero estoy tan nervioso que ni||siquiera recuerdo cuándo lo perdí..."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_10
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_10"
+msgid "¿Es tan importante que tienes que ahorcarte?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_11
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_11"
+msgid "Sólo un oficinista podría entender||por qué me quiero ahorcar..."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_12
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_12"
+msgid "No espero que tú lo entiendas..."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_13
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_13"
+msgid "¿Darle algo?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_15
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_15"
+msgid "Jaja...{PA:20}||¿Estás tratando de reasegurarme?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_16
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_16"
+msgid "Lo único que necesito es||la documentación que he perdido.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_17
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_17"
+msgid "No necesito tu compasión."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_18
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_18"
+msgid "Jaja...{PA:20}||No necesito tu compasión."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_19
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_19"
+msgid "(No tengo nada que darle...)"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_20
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_20"
+msgid "i¿E...{PA:10} Ese maletín es...?!{PA:10}||iEs ése! iEse es el maletín que he perdido!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_21
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_21"
+msgid "Hijo de la grandísima puta...{PA:10}||¿por qué me lo robaste?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_22
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_22"
+msgid "¿Qué?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_23
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_23"
+msgid "iCierra tu puta boca!||iiQuieres joderme o qué!!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_24
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_24"
+msgid "iTe mataré!"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_0
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_0"
+msgid "Estoy perdido..."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_1
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_1"
+msgid "A menos que encuentre mi maletín,||ino me queda otra opción que ahorcarme!"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_2
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_2"
+msgid "¿Darle algo?"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_4
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_4"
+msgid "Jaja...{PA:20}||¿Estás tratando de reasegurarme?"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_5
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_5"
+msgid "Lo único que necesito es la documentación||que he perdido. {PA:20}No necesito tu compasión."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_6
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_6"
+msgid "Jaja...{PA:20}||No necesito tu compasión."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_7
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_7"
+msgid "(No tengo nada que darle...)"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_8
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_8"
+msgid "i¿E...{PA:10} Ese maletín es...?!{PA:10}||iEs ése!{PA:10} iEse es el maletín que he perdido!"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_9
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_9"
+msgid "Hijo de la grandísima puta...{PA:10}||¿por qué me lo robaste?"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_10
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_10"
+msgid "¿Qué?"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_11
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_11"
+msgid "iCierra tu puta boca!{PA:10}||iiQuieres joderme o qué!!"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_12
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_12"
+msgid "iTe mataré!"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_0
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_0"
+msgid "Oh...{PA:10} idevuélvemelo!{PA:10}||iDevuélveme ese maletín!"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_1
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_1"
+msgid "iEso es lo que estaba intentando||hacer desde el principio!"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_2
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_2"
+msgid "¿D...{PA:10} De verdad?{PA:10}||Entonces...{PA:10} idámelo ya!"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_3
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_3"
+msgid "Le das el \"{CC:ffc8c8}Maletín Plateado{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 77_2_4
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_4"
+msgid "Gracias a Dios que lo he recuperado...{MS:0}{PA:10}||iQué alivio!"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_5
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_5"
+msgid "iMe has salvado la vida!"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_6
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_6"
+msgid "Oh... Toma.{PA:10} iLlévate esto!"
+msgstr ""
+
+#. y1ps2.full_id: 77_2_7
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_7"
+msgid "Has recibido||un \"Plato de Concha de Tortuga\"."
+msgstr ""
+
+#. y1ps2.full_id: 77_2_9
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_9"
+msgid "Has obtenido 500 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 77_2_10
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_10"
+msgid "Esto es lo único que tengo.||Espero que te sea de utilidad."
+msgstr ""
+
+#. y1ps2.full_id: 77_3_0
+#. y1ps2.logical_line_key: ST_KAB0046|block=0078|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_3_0"
+msgid "Ah... iestoy condenado!"
+msgstr ""

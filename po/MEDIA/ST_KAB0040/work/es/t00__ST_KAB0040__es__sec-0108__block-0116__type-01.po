@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0040\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0040.BIN\n"
+"X-Y1PS2-Source-SHA256: 6cef3fea3683efc6b9d5aef854636ebe7809a28f23b88cdb668c5e2ab05d7c13\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0040.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0040.BIN\n"
+"X-Y1PS2-Talk-SHA256: 6cef3fea3683efc6b9d5aef854636ebe7809a28f23b88cdb668c5e2ab05d7c13\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 108\n"
+"X-Y1PS2-Raw-Block-ID: 116\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0074\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 740001023c3c0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0040|block=0116|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: ol_a_Flg\n"
+"X-Y1PS2-Actor: w_1048580\n"
+"X-Y1PS2-Pose: Stand02\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0040/reference/jp/t00__TALK_ST_KAB0040__jp__sec-0115__block-0116__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0040/reference/en/t00__ST_KAB0040__en__sec-0108__block-0116__type-01.po\n"
+
+#. y1ps2.full_id: 108_0_0
+#. y1ps2.logical_line_key: ST_KAB0040|block=0116|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ol_a_Flg
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand02
+msgctxt "108_0_0"
+msgid "Vi un edificio||del que salía humo."
+msgstr ""
+
+#. y1ps2.full_id: 108_0_1
+#. y1ps2.logical_line_key: ST_KAB0040|block=0116|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ol_a_Flg
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand02
+msgctxt "108_0_1"
+msgid "Era muy extraño,||{MS:1}{MS:0}pero nadie prestaba atención."
+msgstr ""
+
+#. y1ps2.full_id: 108_0_2
+#. y1ps2.logical_line_key: ST_KAB0040|block=0116|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ol_a_Flg
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand02
+msgctxt "108_0_2"
+msgid "Tal vez sea algo de lo||que no deberíamos hablar."
+msgstr ""
+
+#. y1ps2.full_id: 108_1_0
+#. y1ps2.logical_line_key: ST_KAB0040|block=0116|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: ol_a_Flg
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand02
+msgctxt "108_1_0"
+msgid "La ciudad es extraña..."
+msgstr ""

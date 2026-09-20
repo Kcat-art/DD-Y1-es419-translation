@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0003\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0003.BIN\n"
+"X-Y1PS2-Source-SHA256: 904165da6df98d8a40ab59541a5685fb83c7fef38b8d6906b1e3389241500375\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0003.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0003.BIN\n"
+"X-Y1PS2-Talk-SHA256: 904165da6df98d8a40ab59541a5685fb83c7fef38b8d6906b1e3389241500375\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 80\n"
+"X-Y1PS2-Raw-Block-ID: 81\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0051\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 51000104843e0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0003|block=0081|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_08\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_BOX_TRG_JANSO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0003/reference/jp/t00__TALK_ST_KAB0003__jp__sec-0080__block-0081__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0003/reference/en/t00__DAY_KAB0003__en__sec-0080__block-0081__type-01.po\n"
+
+#. y1ps2.full_id: 80_0_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_0"
+msgid "iOye {PA:10}tú!"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_1"
+msgid "No me suenas. {PA:10}¿Qué estás haciendo?"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_2
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_2"
+msgid "No te importa."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_3
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_3"
+msgid "Sí, {PA:10}sí que me importa."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_4
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_4"
+msgid "No pareces un ciudadano común...{PA:20}||¿Qué pasa {PA:10}contigo?"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_5
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_5"
+msgid "Busco a un tipo llamado Tamura."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_6
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_6"
+msgid "¿Eh? {PA:10}¿Tamura? ¿Te refieres al informador?{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_7
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_7"
+msgid "No sé, tal vez lo encuentres si||lo buscas bien."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_8
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_8"
+msgid "De acuerdo, {PA:10}entonces no tengo nada||{PA:20}más que decirte."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_9
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_9"
+msgid "iTú! {PA:10}iEspera!"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_10
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_10"
+msgid "¿Por qué buscas a Tamura?"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_11
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_11"
+msgid "Pareces sospechoso.{PA:20}||Ven conmigo."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_12
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_12"
+msgid "Me ocupo de mis asuntos."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_13
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_13"
+msgid "iTú! {PA:10}iEspera!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_14
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_14"
+msgid "Aún no he acabado contigo."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_15
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_15"
+msgid "Tú, ven conmigo."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_16
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_16"
+msgid "Busco un bar que se llama Stardust."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_17
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_17"
+msgid "¿Stardust?{PA:20}||¿Eso qué es, un bar de alterne o qué?"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_18
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_18"
+msgid "Quién sabe...{PA:20}||{MS:0}Algún informador o alguien puede que lo sepa."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_19
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_19"
+msgid "De acuerdo, {PA:10}no tengo nada más||que decirte.{PA:20} Hasta luego."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_20
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_20"
+msgid "iTú! {PA:10}iEspera!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_21
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_21"
+msgid "¿Por qué estás buscando un bar de alterne?"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_22
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_22"
+msgid "Pareces sospechoso.{PA:20}||Ven conmigo."
+msgstr ""
+
+#. y1ps2.full_id: 80_0_23
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_23"
+msgid "¿Y si no quiero ir contigo?"
+msgstr ""
+
+#. y1ps2.full_id: 80_0_24
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_0_24"
+msgid "No tienes nada que decir al respecto a menos||que quieras salir mal parado."
+msgstr ""
+
+#. y1ps2.full_id: 80_1_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_1_0"
+msgid "iHey!"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_0"
+msgid "iPor favor! iNo más!{PA:20}||¿Quién coño eres?"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_1"
+msgid "No quieras saberlo."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_2
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_2"
+msgid "... Así que, ¿qué diablos haces por aquí?"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_3
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_3"
+msgid "Soy el vigía del Oyabun que controla||la movida de aquí."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_4
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_4"
+msgid "... Hoy mataron a alguien así||que si veo a alguien sospechoso,"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_5
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_5"
+msgid "tengo que pararlo y preguntarle..."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_6
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_6"
+msgid "Ok... {PA:20}Pero conoces a varios||informadores por aquí, ¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_7
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_7"
+msgid "Umm... {PA:10}Sí."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_8
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_8"
+msgid "El tío más famoso de por aquí es{PA:10}||un periodista que se llama Aoki."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_9
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_9"
+msgid "Lo vi en la Plaza {PA:10}del Teatro hoy."
+msgstr ""
+
+#. y1ps2.full_id: 80_2_10
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_10"
+msgid "Ya veo.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_11
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_11"
+msgid "Mejor ten cuidado con quien hablas||de ahora en adelante, ¿lo pillas?"
+msgstr ""
+
+#. y1ps2.full_id: 80_2_12
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_2_12"
+msgid "S... {PA:10}sí."
+msgstr ""
+
+#. y1ps2.full_id: 80_3_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0081|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_3_0"
+msgid "Un periodista llamado Aoki{PA:10}||estuvo en la Plaza del Teatro hoy."
+msgstr ""

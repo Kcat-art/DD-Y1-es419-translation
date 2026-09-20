@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0103\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Source-SHA256: caf67c0f9e280fdc9891ac47150dc0465ddb08d916ff19676b253b1c7edfa5a9\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-SHA256: caf67c0f9e280fdc9891ac47150dc0465ddb08d916ff19676b253b1c7edfa5a9\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 39\n"
+"X-Y1PS2-Raw-Block-ID: 40\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0028\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 2800010694360000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0103|block=0040|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Thost_a\n"
+"X-Y1PS2-Actor: w_1048648\n"
+"X-Y1PS2-Pose: Stand05\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0103/reference/jp/t00__TALK_ST_KAB0103__jp__sec-0039__block-0040__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0103/reference/en/t00__ST_KAB0103__en__sec-0039__block-0040__type-01.po\n"
+
+#. y1ps2.full_id: 39_3_0
+#. y1ps2.logical_line_key: ST_KAB0103|block=0040|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Thost_a
+#. y1ps2.actor: w_1048648
+#. y1ps2.pose: Stand05
+msgctxt "39_3_0"
+msgid "¿Está Kazuki?"
+msgstr ""
+
+#. y1ps2.full_id: 39_3_1
+#. y1ps2.logical_line_key: ST_KAB0103|block=0040|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Thost_a
+#. y1ps2.actor: w_1048648
+#. y1ps2.pose: Stand05
+msgctxt "39_3_1"
+msgid "iHola, {PA:10}Kazuma-san!||Hace tiempo que no te veía."
+msgstr ""
+
+#. y1ps2.full_id: 39_3_2
+#. y1ps2.logical_line_key: ST_KAB0103|block=0040|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Thost_a
+#. y1ps2.actor: w_1048648
+#. y1ps2.pose: Stand05
+msgctxt "39_3_2"
+msgid "Ahora mismo no está.||{SP:10}Volverá en una hora más o menos."
+msgstr ""
+
+#. y1ps2.full_id: 39_4_0
+#. y1ps2.logical_line_key: ST_KAB0103|block=0040|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Thost_a
+#. y1ps2.actor: w_1048648
+#. y1ps2.pose: Stand05
+msgctxt "39_4_0"
+msgid "El padre de Saya||es increíble."
+msgstr ""
+
+#. y1ps2.full_id: 39_4_1
+#. y1ps2.logical_line_key: ST_KAB0103|block=0040|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Thost_a
+#. y1ps2.actor: w_1048648
+#. y1ps2.pose: Stand05
+msgctxt "39_4_1"
+msgid "Sí."
+msgstr ""
+
+#. y1ps2.full_id: 39_4_2
+#. y1ps2.logical_line_key: ST_KAB0103|block=0040|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Thost_a
+#. y1ps2.actor: w_1048648
+#. y1ps2.pose: Stand05
+msgctxt "39_4_2"
+msgid "... Me recordó a mi padre,{PA:10}||en mi casa en el campo."
+msgstr ""
+
+#. y1ps2.full_id: 39_4_3
+#. y1ps2.logical_line_key: ST_KAB0103|block=0040|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Thost_a
+#. y1ps2.actor: w_1048648
+#. y1ps2.pose: Stand05
+msgctxt "39_4_3"
+msgid "Me pregunto qué estará haciendo ahora."
+msgstr ""

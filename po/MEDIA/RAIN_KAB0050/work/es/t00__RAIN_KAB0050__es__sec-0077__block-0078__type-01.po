@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0050\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0050.BIN\n"
+"X-Y1PS2-Source-SHA256: fe0c90c312c8d2774098a794f7abd216d6454bbeb1588da461c29c579742de7a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0050.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0050.BIN\n"
+"X-Y1PS2-Talk-SHA256: fe0c90c312c8d2774098a794f7abd216d6454bbeb1588da461c29c579742de7a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 77\n"
+"X-Y1PS2-Raw-Block-ID: 78\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4e000104f4390000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0050|block=0078|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER03\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C3_TRG_STARDUST\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0050/reference/jp/t00__TALK_ST_KAB0050__jp__sec-0077__block-0078__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0050/reference/en/t00__RAIN_KAB0050__en__sec-0077__block-0078__type-01.po\n"
+
+#. y1ps2.full_id: 77_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_0"
+msgid "Echa un vistazo,{PA:10} por favor."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_1"
+msgid "¿Mirar los cuadros?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_3"
+msgid "Ah, si te interesa algo,||Dímelo."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_4
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_4"
+msgid "iMuchas gracias!{PA:20}||Vuelve cuando quieras."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_5
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_5"
+msgid "¿Ver los demás cuadros?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_8
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_8"
+msgid "Está dibujando un toro bravo."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_10
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_10"
+msgid "El toro siempre aparece en mis sueños.||Te lo vendo por 20.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_11
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_11"
+msgid "¿Comprar el \"{CC:ffc8c8}Cuadro del Toro{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_13
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_13"
+msgid "Me lo llevo."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_14
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_14"
+msgid "Has comprado el \"{CC:ffc8c8}Cuadro del Toro{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_15
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_15"
+msgid "iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_18
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_18"
+msgid "Es el cuadro de un hombre que grita||desesperadamente desde un bote en el lago."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_20
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_20"
+msgid "Muestra los gritos de mi corazón.{PA:20}||{MS:0}No es ni enfado ni pena."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_21
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_21"
+msgid "¿Qué tal por 30.000 yenes?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_22
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_22"
+msgid "¿Comprar el||\"{CC:ffc8c8}Cuadro de hombre y un bote{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_24
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_24"
+msgid "Me lo llevo."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_25
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_25"
+msgid "Has comprado el||\"{CC:ffc8c8}Cuadro de hombre y un bote{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_26
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_26"
+msgid "iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_29
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_29"
+msgid "Un cuadro de una calabaza sobre un huevo.||¿Qué es esta pintura?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_31
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_31"
+msgid "Oh, es mi obra maestra.||Soy reacio a venderla.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_32
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=32
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_32"
+msgid "Pero si quieres,{PA:10}||te la vendo por 50.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_33
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=33
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_33"
+msgid "¿Comprar el||\"{CC:ffc8c8}Cuadro de huevo con calabaza{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_35
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=35
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_35"
+msgid "Me lo llevo."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_36
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=36
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_36"
+msgid "Has comprado el||\"{CC:ffc8c8}Cuadro de huevo con calabaza{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_37
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=37
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_37"
+msgid "iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_40
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=40
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_40"
+msgid "¿Está recitando un poema||o algo mientras sostiene"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_41
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=41
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_41"
+msgid "una cebolla o algo con la mano derecha?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_43
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=43
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_43"
+msgid "Oh, ése...{PA:10} Ése no es tan bueno.{PA:20}||Te lo vendo por 5.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_44
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=44
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_44"
+msgid "¿Comprar el"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_45
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=45
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_45"
+msgid "{CU:ffc8c8}\"Cuadro de una mujer||sosteniendo una cebolla\"{MR:00}?"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_47
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=47
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_47"
+msgid "Me lo llevo."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_48
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=48
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_48"
+msgid "Has comprado el {CU:ffc8c8}\"Cuadro de una||mujer sosteniendo una cebolla\"{MR:00}."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_49
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=49
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_49"
+msgid "iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_52
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=52
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_52"
+msgid "Has comprado ese cuadro.{PA:20}||Échale un vistazo también a los otros."
+msgstr ""
+
+#. y1ps2.full_id: 77_0_53
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=53
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_53"
+msgid "No puedes permitírtelo...{PA:10}||Vuelve en otro momento.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 77_0_54
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=0|sg=54
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 54
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_0_54"
+msgid "Estaré esperándote."
+msgstr ""
+
+#. y1ps2.full_id: 77_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_0"
+msgid "iiMuchísimas gracias!!"
+msgstr ""
+
+#. y1ps2.full_id: 77_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_1_1"
+msgid "Has obtenido 500 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 77_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_2_0"
+msgid "iMuchas gracias!||Ok, ies hora de pintar algunos más!"
+msgstr ""
+
+#. y1ps2.full_id: 77_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0050|block=0078|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER03
+#. y1ps2.story_title: Internal CHAPTER03
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C3_TRG_STARDUST
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 3
+msgctxt "77_3_0"
+msgid "¿Te interesa la pintura?"
+msgstr ""

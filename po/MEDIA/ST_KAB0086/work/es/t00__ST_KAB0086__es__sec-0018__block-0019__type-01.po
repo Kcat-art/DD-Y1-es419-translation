@@ -1,0 +1,1922 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0086\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0086.BIN\n"
+"X-Y1PS2-Source-SHA256: 7369749730da76b37171f0a481043ee20011a5a874fd94c01a710f34304cf2bb\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0086.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0086.BIN\n"
+"X-Y1PS2-Talk-SHA256: 7369749730da76b37171f0a481043ee20011a5a874fd94c01a710f34304cf2bb\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 18\n"
+"X-Y1PS2-Raw-Block-ID: 19\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0013\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 1300010ad8300000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0086|block=0019|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: CELLULAR\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: cellular\n"
+"X-Y1PS2-Actor: w_31\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0086/reference/jp/t00__TALK_ST_KAB0086__jp__sec-0019__block-0019__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0086/reference/en/t00__ST_KAB0086__en__sec-0018__block-0019__type-01.po\n"
+
+#. y1ps2.full_id: 18_0_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_0"
+msgid "Has recibido un \"{CC:ffc8c8}Maletín{CR:00}\" ."
+msgstr ""
+
+#. y1ps2.full_id: 18_0_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_1"
+msgid "Señor,{PA:10} cambiemos el dinero por fichas."
+msgstr ""
+
+#. y1ps2.full_id: 18_0_2
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_2"
+msgid "Sí,{PA:10} ok."
+msgstr ""
+
+#. y1ps2.full_id: 18_1_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_1_0"
+msgid "Estamos arruinados,{PA:10}||señor..."
+msgstr ""
+
+#. y1ps2.full_id: 18_1_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_1_1"
+msgid "Sí..."
+msgstr ""
+
+#. y1ps2.full_id: 18_1_2
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_1_2"
+msgid "Pero...{PA:10} Dijo que no le importaba||que nos puliésemos todo el dinero."
+msgstr ""
+
+#. y1ps2.full_id: 18_1_3
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_1_3"
+msgid "Entonces, {PA:10}no hay ningún problema, ¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 18_1_4
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_1_4"
+msgid "Sí... {PA:20}Me da pena por||el tipo éste, 　{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 18_1_5
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_1_5"
+msgid "Motoki. Bueno, lo hecho, hecho está."
+msgstr ""
+
+#. y1ps2.full_id: 18_1_6
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_1_6"
+msgid "¿Te has divertido bastante,{PA:10} Haruka?"
+msgstr ""
+
+#. y1ps2.full_id: 18_1_7
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_1_7"
+msgid "Uh-huh..."
+msgstr ""
+
+#. y1ps2.full_id: 18_2_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_0"
+msgid "iOye! iTú,{PA:10} el de ahí!{PA:10}||iDame ese maletín!"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_1"
+msgid "¿Quién cojones eres?"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_2
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_2"
+msgid "¿Tienes alguna idea de lo que hay ahí?"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_3
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_3"
+msgid "¿De qué hablas?"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_4
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_4"
+msgid "El maletín está lleno de...{PA:20}||billetes falsos."
+msgstr ""
+
+#. y1ps2.full_id: 18_2_5
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_5"
+msgid "... ¿Billetes falsos?"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_6
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_6"
+msgid "Nuestra familia ha estado perfeccionando||esas muestras de billetes"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_7
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_7"
+msgid "falsos durante años."
+msgstr ""
+
+#. y1ps2.full_id: 18_2_8
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_8"
+msgid "Ese tipo,{PA:10} Motoki,||nos robó esos billetes."
+msgstr ""
+
+#. y1ps2.full_id: 18_2_9
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_9"
+msgid "¿Qué?"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_10
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_10"
+msgid "Así que, si nos puedes||dar el maletín ahora mismo..."
+msgstr ""
+
+#. y1ps2.full_id: 18_2_11
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_11"
+msgid "Lo siento, {PA:20}pero no hay nada en el maletín."
+msgstr ""
+
+#. y1ps2.full_id: 18_2_12
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_12"
+msgid "No me jodas...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_13
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_13"
+msgid "No. {PA:20}Cambié todo||el dinero por fichas.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_14
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_14"
+msgid "Vais a tener que pasar un rato buscando||los billetes falsos aquí."
+msgstr ""
+
+#. y1ps2.full_id: 18_2_15
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=15
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_15"
+msgid "iHijo de puta! iHey! iDate prisa||y encuentra esa mierda!"
+msgstr ""
+
+#. y1ps2.full_id: 18_2_16
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=16
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_16"
+msgid "No me culpes de tu pérdida.{PA:10}||Es algo entre tú y Motoki."
+msgstr ""
+
+#. y1ps2.full_id: 18_2_17
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=17
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_17"
+msgid "Vamos,{PA:10} Haruka, vámonos."
+msgstr ""
+
+#. y1ps2.full_id: 18_2_18
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=2|sg=18
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_2_18"
+msgid "Ok..."
+msgstr ""
+
+#. y1ps2.full_id: 18_3_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_3_0"
+msgid "iSeñor, {PA:10}hemos ganado mucho!"
+msgstr ""
+
+#. y1ps2.full_id: 18_3_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_3_1"
+msgid "Sí..."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_0"
+msgid "iOye! {PA:20}Has visto a un tipo con||un traje amarillo, ¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 18_4_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_1"
+msgid "¿Quiénes son estos tíos...?"
+msgstr ""
+
+#. y1ps2.full_id: 18_4_2
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_2"
+msgid "¿Quién cojones sois?"
+msgstr ""
+
+#. y1ps2.full_id: 18_4_3
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_3"
+msgid "Estamos buscando a alguien.{PA:20}||Nos han dicho que entró aquí..."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_4
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_4"
+msgid "Supongo que no lo has visto."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_5
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_5"
+msgid ".. Tal vez sea ese tío que llegó corriendo,||Motoki o algo así..."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_6
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_6"
+msgid "... {PA:10}i¿Motoki?! Hey,{PA:10} niña, tú sabes algo,{PA:10}||¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 18_4_7
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_7"
+msgid "Um..."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_8
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_8"
+msgid "Mejor que nos digas algo si||no quieres que te hagamos daño."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_9
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_9"
+msgid "..."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_10
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_10"
+msgid "Se fue."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_11
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_11"
+msgid "i¿Qué?!"
+msgstr ""
+
+#. y1ps2.full_id: 18_4_12
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=12
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_12"
+msgid "Estuvo aquí un rato,{PA:10}||pero ya se ha ido."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_13
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=13
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_13"
+msgid "... ¿Llevaba algo...{PA:20}||como un maletín?"
+msgstr ""
+
+#. y1ps2.full_id: 18_4_14
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=14
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_14"
+msgid "...Ni idea."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_15
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=15
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_15"
+msgid "De acuerdo...{PA:20} Siento molestarte."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_16
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=16
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_16"
+msgid "¿Umm?{PA:10} Ese maletín...{PA:10}||Déjame que le eche un vistazo."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_17
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=17
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_17"
+msgid "... Es de Haruka.{PA:10}||No lo cojas como si fuera tuyo."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_18
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=18
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_18"
+msgid "¿Qué? {PA:10}¿Así que no||quieres que mire dentro, eh...?"
+msgstr ""
+
+#. y1ps2.full_id: 18_4_19
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=19
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_19"
+msgid "Tienes que estar escondiendo algo..."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_20
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=20
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_20"
+msgid "Lo que hay dentro no te importa."
+msgstr ""
+
+#. y1ps2.full_id: 18_4_21
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=21
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_21"
+msgid "Te vas a arrepentir si no haces||lo que te ordeno...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 18_4_22
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=4|sg=22
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_4_22"
+msgid "iHey! iCojed a este hijo de puta!"
+msgstr ""
+
+#. y1ps2.full_id: 18_5_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_5_0"
+msgid "iMierda!{PA:20} iVolvamos a la||oficina a decírselo al jefe!"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_0"
+msgid "Y...{PA:10} ¿cómo ha ido?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_1"
+msgid "iHemos ganado un montón!{PA:20}||iA que es genial!"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_2
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_2"
+msgid "iGuau! {PA:20}iExcelente!{PA:20}||Tenía el presentimiento de que lo haríais."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_3
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_3"
+msgid "iHey! {PA:20}¿Quiénes eran esos tipos?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_4
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=4
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_4"
+msgid "¿Eh?{PA:20} ¿Qué ha pasado?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_5
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=5
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_5"
+msgid "... Unos tipos vinieron y trataron||de quitarnos el maletín."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_6
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=6
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_6"
+msgid "(Coño...{PA:20}{PA:20} ¿Ya lo saben?)"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_7
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=7
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_7"
+msgid "Tienes que explicarnos algo."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_8
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=8
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_8"
+msgid "Bueno...{PA:10} Umm...{PA:10} Son...{PA:20}||Son algunos de mis socios,{PA:10} sí."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_9
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=9
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_9"
+msgid "¿Socios?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_10
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=10
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_10"
+msgid "S... {PA:10}sí.{PA:10} Umm...{PA:20}||Estoy en el ayuntamiento."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_11
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=11
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_11"
+msgid "He estado negociando con las familias||para revisar algunas ordenanzas."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_12
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=12
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_12"
+msgid "Si me donas algo de dinero,{PA:10}||iipermitiré todo tipo de negocios"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_13
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=13
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_13"
+msgid "de entretenimiento para adultos!!"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_14
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=14
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_14"
+msgid "Jajajaja."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_15
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=15
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_15"
+msgid "... ¿De verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_16
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=16
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_16"
+msgid "iSí!"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_17
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=17
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_17"
+msgid "De todas formas,{PA:20}||¿puedes darme las fichas que has ganado?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_18
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=18
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_18"
+msgid "Estoy en apuros.{PA:20}||Jajajaja."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_19
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=19
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_19"
+msgid "Espera un segundo.{PA:20}||Haruka y yo hemos ganado este dinero."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_20
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=20
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_20"
+msgid "No sería justo que te quedases con||todo el dinero que hemos ganado, ¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_21
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=21
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_21"
+msgid "Uhh,{PA:10} sí...{PA:10} Es verdad.{PA:20}||Entonces,{PA:10} aquí tienes."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_22
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=22
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_22"
+msgid "Has recibido 10.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_23
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=23
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_23"
+msgid "Hey,{PA:10} ¿qué demonios es esto?{PA:20}||i¿Hemos ganado todo ese dinero"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_24
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=24
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_24"
+msgid "y sólo nos das 10.000 yenes?!"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_25
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=25
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_25"
+msgid "Bueno,{PA:10} lo siento, pero sólo tengo||10.000 yenes ahora mismo..."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_26
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=26
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_26"
+msgid "¿Me dejas que me vaya sin||montar un escándalo, por favor?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_27
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=27
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_27"
+msgid "Oh,{PA:10} y dame esas fichas,{PA:20}||¿lo harás por favor?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_28
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=28
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_28"
+msgid "Voy a estar de||mierda hasta el cuello."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_29
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=29
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_29"
+msgid "Hey,{PA:10} tómatelo con calma.{PA:20}||¿Por qué no nos invitas a una ronda"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_30
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=30
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_30"
+msgid "de cerveza o algo por lo menos?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_31
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=31
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_31"
+msgid "Uhh... Bueno...{PA:20}||Tal vez la próxima vez."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_32
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=32
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_32"
+msgid "De verdad que||tengo que irme."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_33
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=33
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_33"
+msgid "... ¿Por qué tienes tanta prisa?{PA:20}||Esos tipos son tus socios, {PA:10}¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_34
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=34
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_34"
+msgid "Creo que ocultas algo,{PA:10} señor."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_35
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=35
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_35"
+msgid "No, no, no...{PA:20}||Bueno,{PA:20} a decir verdad..."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_36
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=36
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_36"
+msgid "...Ok.{PA:20}||Quédatelo."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_37
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=37
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_37"
+msgid "iiGr... {PA:10}Gracias, de verdad!!"
+msgstr ""
+
+#. y1ps2.full_id: 18_6_38
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=38
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_38"
+msgid "Has dado todas las fichas."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_40
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=40
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_40"
+msgid "Bueno,{PA:20}||tengo que irme."
+msgstr ""
+
+#. y1ps2.full_id: 18_6_41
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=6|sg=41
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_6_41"
+msgid "iVoy a mejorar esta ciudad!{PA:20}||Jajajaja."
+msgstr ""
+
+#. y1ps2.full_id: 18_7_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_7_0"
+msgid "... Se ha ido."
+msgstr ""
+
+#. y1ps2.full_id: 18_7_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_7_1"
+msgid "Sí..."
+msgstr ""
+
+#. y1ps2.full_id: 18_8_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_0"
+msgid "iMierda!{PA:20}||Es demasiado tarde..."
+msgstr ""
+
+#. y1ps2.full_id: 18_8_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_1"
+msgid "... ¿Eh?{PA:20} ¿Tú quien eres?"
+msgstr ""
+
+#. y1ps2.full_id: 18_8_2
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=2
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_2"
+msgid "Os ha utilizado a los dos."
+msgstr ""
+
+#. y1ps2.full_id: 18_8_3
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=3
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_3"
+msgid "¿Qué quieres decir?"
+msgstr ""
+
+#. y1ps2.full_id: 18_8_4
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=4
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_4"
+msgid "El maletín que||Motori os dio..."
+msgstr ""
+
+#. y1ps2.full_id: 18_8_5
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=5
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_5"
+msgid "estaba lleno de billetes falsos."
+msgstr ""
+
+#. y1ps2.full_id: 18_8_6
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=6
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_6"
+msgid "¿Billetes falsos...?"
+msgstr ""
+
+#. y1ps2.full_id: 18_8_7
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=7
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_7"
+msgid "Nuestra familia ha estado||perfeccionando esas"
+msgstr ""
+
+#. y1ps2.full_id: 18_8_8
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=8
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_8"
+msgid "muestras de billetes falsos||durante años."
+msgstr ""
+
+#. y1ps2.full_id: 18_8_9
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=9
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_9"
+msgid "Ese cabrón nos los||robó de la caja fuerte."
+msgstr ""
+
+#. y1ps2.full_id: 18_8_10
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=10
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_10"
+msgid "... ¿No es un miembro del ayuntamiento?"
+msgstr ""
+
+#. y1ps2.full_id: 18_8_11
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=11
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_11"
+msgid "Sí, lo es.{PA:10} Pero es un corrupto."
+msgstr ""
+
+#. y1ps2.full_id: 18_8_12
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=12
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_12"
+msgid "Ha timado a mucha gente,{PA:10}||intenta conseguirlos para"
+msgstr ""
+
+#. y1ps2.full_id: 18_8_13
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=13
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_13"
+msgid "hacer una \"donación\"."
+msgstr ""
+
+#. y1ps2.full_id: 18_8_14
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=14
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_14"
+msgid "Gracias por nada.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 18_8_15
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=8|sg=15
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_8_15"
+msgid "... Tiene que estar por||aquí en algún lugar. iVamos!"
+msgstr ""
+
+#. y1ps2.full_id: 18_9_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_9_0"
+msgid "... Me pregunto si el tal||Motoki estará bien."
+msgstr ""
+
+#. y1ps2.full_id: 18_9_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=9|sg=1
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_9_1"
+msgid "... No lo sé.{PA:20}||Haruka,{PA:10} sigamos."
+msgstr ""
+
+#. y1ps2.full_id: 18_9_2
+#. y1ps2.logical_line_key: ST_KAB0086|block=0019|type=01|mg=9|sg=2
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_9_2"
+msgid "Ok..."
+msgstr ""

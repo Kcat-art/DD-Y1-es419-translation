@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0025\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0025.BIN\n"
+"X-Y1PS2-Source-SHA256: ffda761f702d9845d5af61614e6ca4f32b4c70229ad59b65a1198cba8e1c1215\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0025.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0025.BIN\n"
+"X-Y1PS2-Talk-SHA256: ffda761f702d9845d5af61614e6ca4f32b4c70229ad59b65a1198cba8e1c1215\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 74\n"
+"X-Y1PS2-Raw-Block-ID: 75\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4b00010224380000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0025|block=0075|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER14\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C14_TRG_TOKYO_YUBO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0025/reference/jp/t00__TALK_ST_KAB0025__jp__sec-0074__block-0075__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0025/reference/en/t00__DAY_KAB0025__en__sec-0074__block-0075__type-01.po\n"
+
+#. y1ps2.full_id: 74_0_0
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0075|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_0"
+msgid "iSi lo mato, {PA:10}seguro que me ascienden!"
+msgstr ""
+
+#. y1ps2.full_id: 74_1_0
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0075|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_0"
+msgid "iCogedle!"
+msgstr ""

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: OLD_KAB0008\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: OLD_KAB0008.BIN\n"
+"X-Y1PS2-Source-SHA256: 80c8676ed2e26ec1eea5eb0f445b40b1205e0ec87aa500e20750721e88a1bd0c\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: OLD_KAB0008.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: OLD_KAB0008.BIN\n"
+"X-Y1PS2-Talk-SHA256: 80c8676ed2e26ec1eea5eb0f445b40b1205e0ec87aa500e20750721e88a1bd0c\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 110\n"
+"X-Y1PS2-Raw-Block-ID: 111\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006F\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6f000101d8360000\n"
+"X-Y1PS2-Logical-Section-Key: OLD_KAB0008|block=0111|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: gc_Fhs_a\n"
+"X-Y1PS2-Actor: w_24\n"
+"X-Y1PS2-Pose: Stand04\n"
+"X-Y1PS2-Reference-JP-PO: OLD_KAB0008/reference/jp/t00__TALK_ST_KAB0008__jp__sec-0110__block-0111__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: OLD_KAB0008/reference/en/t00__OLD_KAB0008__en__sec-0110__block-0111__type-01.po\n"
+
+#. y1ps2.full_id: 110_0_0
+#. y1ps2.logical_line_key: OLD_KAB0008|block=0111|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: gc_Fhs_a
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand04
+msgctxt "110_0_0"
+msgid "iEs mi día de suerte!{PA:10}||iEl prestamista al que"
+msgstr ""
+
+#. y1ps2.full_id: 110_0_1
+#. y1ps2.logical_line_key: OLD_KAB0008|block=0111|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: gc_Fhs_a
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Stand04
+msgctxt "110_0_1"
+msgid "le debo dinero ha||palmado!"
+msgstr ""

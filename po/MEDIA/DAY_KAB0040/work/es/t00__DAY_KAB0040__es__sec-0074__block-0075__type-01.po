@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0040\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0040.BIN\n"
+"X-Y1PS2-Source-SHA256: c8c27bdf271c1feaade3460db8494929d1a6ac9cbb697c0a07e27c814a3c3085\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0040.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0040.BIN\n"
+"X-Y1PS2-Talk-SHA256: c8c27bdf271c1feaade3460db8494929d1a6ac9cbb697c0a07e27c814a3c3085\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 74\n"
+"X-Y1PS2-Raw-Block-ID: 75\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4b000102b03b0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0040|block=0075|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER14\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C14_TRG_TOKYO_YUBO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0040/reference/jp/t00__TALK_ST_KAB0040__jp__sec-0074__block-0075__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0040/reference/en/t00__DAY_KAB0040__en__sec-0074__block-0075__type-01.po\n"
+
+#. y1ps2.full_id: 74_0_0
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_0"
+msgid "¿Qué problema tiene?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_1
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_1"
+msgid "Bueno...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_2
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_2"
+msgid "No parece que haya pillado un resfriado...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_3
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_3"
+msgid "Parece que...{PA:20}||Oh,{PA:10}parece que está bien."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_4
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_4"
+msgid "Entonces, ¿cómo está?||¿Está bien?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_5
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_5"
+msgid "Sí, {PA:10}tengo una hija de más o menos||la misma edad. {PA:10}Se pone enferma a menudo."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_6
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_6"
+msgid "... Parece que está agotada."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_7
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_7"
+msgid "Sí, {PA:10}seguramente."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_8
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_8"
+msgid "... ¿Puedo preguntar{PA:10}||si es tu hija?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_9
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_9"
+msgid "No... {PA:20}No lo es."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_10
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_10"
+msgid "En serio."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_11
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_11"
+msgid "Deberías llevarla a algún sitio seguro,||para que pueda descansar."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_12
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_12"
+msgid "Después,{PA:10}||dale algo ligero para comer."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_13
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_13"
+msgid "Debería reponerse pronto."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_14
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_14"
+msgid "Comprendo."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_15
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_15"
+msgid "Ten cuidado, ¿de acuerdo?"
+msgstr ""
+
+#. y1ps2.full_id: 74_1_0
+#. y1ps2.logical_line_key: DAY_KAB0040|block=0075|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_0"
+msgid "iAhh!||¿Cuál es el problema?"
+msgstr ""

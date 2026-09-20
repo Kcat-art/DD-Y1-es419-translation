@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0054\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0054.ARC\n"
+"X-Y1PS2-Source-SHA256: 0e4b19ac7becf96b63050dbb735c1e012a208963dd25a7bc162fe71ce83fed50\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0054.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0054.ARC/0/8___TALK_ST_KAB0054.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3f710647908708cab06fc19f9d8e0fc5af04edf69ea1a757f86d094d3eb2fc5b\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 85\n"
+"X-Y1PS2-Raw-Block-ID: 86\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0056\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5600010328850200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0054|block=0086|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: CELLULAR\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: cellular\n"
+"X-Y1PS2-Actor: w_1\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 85_0_0
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0086|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 01
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "85_0_0"
+msgid "花屋"
+msgstr ""
+
+#. y1ps2.full_id: 85_1_0
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0086|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "85_1_0"
+msgid "{CU:c8c8ff}俺だ⋯{PA:10}どうした？"
+msgstr ""
+
+#. y1ps2.full_id: 85_1_2
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0086|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "85_1_2"
+msgid "怪しい男？"
+msgstr ""
+
+#. y1ps2.full_id: 85_1_4
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0086|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "85_1_4"
+msgid "わかった、{PA:10}すぐに向かう。"
+msgstr ""
+
+#. y1ps2.full_id: 85_2_0
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0086|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "85_2_0"
+msgid "遥に関する情報だ。{PA:20}||{MS:0}第三公園にあやしい男がいるらしい。"
+msgstr ""
+
+#. y1ps2.full_id: 85_2_2
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0086|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "85_2_2"
+msgid "ちょっと前に遥らしい女の子を連れていた。{PA:20}||今そいつが居るのが第三公園だ。"
+msgstr ""

@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0023\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0023.ARC\n"
+"X-Y1PS2-Source-SHA256: 2178860c4fb78ea5aa2f1970af1f5279cd9c6b136ce0a0381e7d41ec0413aa45\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0023.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0023.ARC/0/8___TALK_ST_KAB0023.BIN\n"
+"X-Y1PS2-Talk-SHA256: e38605bf69bf82b84ea38d79df80c6c2263dcecc662815013c7396f7b69773db\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 95\n"
+"X-Y1PS2-Raw-Block-ID: 96\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0060\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6000010104200200\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0023|block=0096|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_warashibe_cold\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Smoking01\n"
+
+#. y1ps2.full_id: 95_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0023|block=0096|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_cold
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "95_0_0"
+msgid "コート、{PA:10}助かったぜ。"
+msgstr ""
+
+#. y1ps2.full_id: 95_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0023|block=0096|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_cold
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "95_0_1"
+msgid "あんたのおかげで、{PA:10}この冬もなんとか||越えられそうだ。➿{PA:10}ありがとな。"
+msgstr ""

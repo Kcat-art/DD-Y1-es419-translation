@@ -1,0 +1,784 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0009\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0009.ARC\n"
+"X-Y1PS2-Source-SHA256: a079a6ee383594259bdf2bd8b7daff63a695d78ac92cebb82f866a06a88b639d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0009.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0009.ARC/0/8___TALK_ST_KAB0009.BIN\n"
+"X-Y1PS2-Talk-SHA256: e5a8dd133784597e1f61cb70a8f937cc260eea4a858cf687cf6de6c43d90a4e4\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 99\n"
+"X-Y1PS2-Raw-Block-ID: 100\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0064\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6400010818290200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0009|block=0100|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: host_shirts_cha0\n"
+"X-Y1PS2-Actor: host_shirts_cha0\n"
+"X-Y1PS2-Pose: cus_wait_kyoro_01\n"
+
+#. y1ps2.full_id: 99_0_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_0_0"
+msgid "おい➿そこのオマエ！"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_1"
+msgid "なんだ？{PA:20}||仕事を請ける気になったか？"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_2
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_2"
+msgid "{CU:ffffff}おい、{PA:10}オマエ、{PA:10}金困ってるだろ？{PA:20}||ちょいと仕事してみないか⋯？"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_4
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_4"
+msgid "{CU:c8c8ff}いや、{PA:10}必要ない。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_5
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_5"
+msgid "{CU:ffffff}そうか、{PA:10}悪かったな。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_6
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_6"
+msgid "{CU:c8c8ff}なんだ、{PA:10}話してみろ"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_7
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_7"
+msgid "{CU:ffffff}なぁに、{PA:10}簡単な仕事よ。{PA:20}||あるものを受け取って持ってくるだけだ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_9
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_9"
+msgid "{CU:c8c8ff}いや、{PA:10}やめておこう。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_10
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_10"
+msgid "{CU:ffffff}そうか、{PA:10}悪かったな。{PA:20}||今言ったことは忘れてくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_11
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_11"
+msgid "{CU:c8c8ff}わかった、{PA:10}説明してくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_12
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_12"
+msgid "{CU:ffffff}いいか、{PA:10}良く聞けよ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_13
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_13"
+msgid "劇場前広場のパチンコ屋の近くに{PA:10}||女が立っている。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_14
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_14"
+msgid "そいつに「君ってセクシーだね」と||話かけてくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_15
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_15"
+msgid "そうすると、{PA:10}向こうもあるモノを渡して||くるから、{PA:10}千円渡してそれを持ってきてくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_16
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_16"
+msgid "以上だ。➿{PA:20}分かったか？"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_18
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_18"
+msgid "{CU:c8c8ff}あぁ、分かった。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_19
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_19"
+msgid "{CU:ffffff}よし。➿{PA:20}じゃあ、{PA:10}頼んだ。{PA:20}これは代金の千円だ。{PA:20}||渡されたものは絶対に開けるなよ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_20
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_20"
+msgid "もし、{PA:10}開けたりしたら⋯⋯⋯⋯{MS:0}{PA:20}||タダじゃ済まないと思え。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_21
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_21"
+msgid "じゃあ、{PA:10}よろしく。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_22
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_1_22"
+msgid "{CU:c8c8ff}もう一度、{PA:10}説明してくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_2_0"
+msgid "よぉ！"
+msgstr ""
+
+#. y1ps2.full_id: 99_3_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_3_0"
+msgid "おう、{PA:10}あんたか！{PA:20}||その節はどうもな。"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_0"
+msgid "ん？{PA:10}||どうした？"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_1"
+msgid "忘れたのか？{PA:10}||じゃあもう一度だけ言うぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_2
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_2"
+msgid "いいか、{PA:10}良く聞けよ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_3
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_3"
+msgid "劇場前広場のパチンコ屋の近くに{PA:10}||女が立っている。"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_4
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_4"
+msgid "そいつに「君ってセクシーだね」と||話かけてくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_5
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_5"
+msgid "そうすると、{PA:10}向こうもあるモノを渡して||くるから、{PA:10}千円渡してそれを持ってきてくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_6
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_6"
+msgid "以上だ。➿{PA:20}分かったか？"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_8
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_8"
+msgid "{CU:c8c8ff}分かった。"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_9
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_9"
+msgid "{CU:ffffff}よし。➿{PA:20}じゃあ、頼んだ。{PA:20}||渡されたものは絶対に開けるなよ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_10
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_10"
+msgid "もし、{PA:10}開けたりしたら⋯⋯⋯⋯{MS:0}{PA:20}||タダじゃ済まないと思え。"
+msgstr ""
+
+#. y1ps2.full_id: 99_4_11
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_4_11"
+msgid "じゃあ、{PA:10}よろしく。"
+msgstr ""
+
+#. y1ps2.full_id: 99_5_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_5_0"
+msgid "おお、{PA:10}来たか。"
+msgstr ""
+
+#. y1ps2.full_id: 99_5_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_5_1"
+msgid "ん？➿{PA:20}お前、{PA:10}約束のもの持ってないじゃんか！{PA:10}||ふざけんな！"
+msgstr ""
+
+#. y1ps2.full_id: 99_5_2
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_5_2"
+msgid "くそう！！{PA:20}||お前なんかに頼んだ俺がバカだったよ！！"
+msgstr ""
+
+#. y1ps2.full_id: 99_6_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_6_0"
+msgid "おお、{PA:10}すまねぇ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_6_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_6_1"
+msgid "➿➿「{CC:ffc8c8}怪しい紙袋{CR:00}」を渡した"
+msgstr ""
+
+#. y1ps2.full_id: 99_6_2
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_6_2"
+msgid "ほら、{PA:10}仕事料だ。{PA:20}||このことはくれぐれも他言するなよ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_6_3
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_6_3"
+msgid "男から３万円を受け取った"
+msgstr ""
+
+#. y1ps2.full_id: 99_6_4
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=6|sg=4
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_6_4"
+msgid "➿➿経験値➿２００➿を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 99_7_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_7_0"
+msgid "おお、{PA:10}すまねぇ⋯⋯"
+msgstr ""
+
+#. y1ps2.full_id: 99_7_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_7_1"
+msgid "➿➿「{CC:ffc8c8}怪しい紙袋{CR:00}」を渡した"
+msgstr ""
+
+#. y1ps2.full_id: 99_7_2
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=7|sg=2
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_7_2"
+msgid "って、{PA:10}おい！！➿{PA:10}オマエ！！"
+msgstr ""
+
+#. y1ps2.full_id: 99_7_3
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=7|sg=3
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_7_3"
+msgid "⋯⋯⋯⋯⋯⋯ありがとう。{PA:10}||このことはくれぐれも他言するなよ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_7_4
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=7|sg=4
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_7_4"
+msgid "男から３万円を受け取った。"
+msgstr ""
+
+#. y1ps2.full_id: 99_7_5
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0100|type=01|mg=7|sg=5
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_shirts_cha0
+#. y1ps2.actor: host_shirts_cha0
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "99_7_5"
+msgid "➿➿経験値➿１００➿を手に入れた"
+msgstr ""

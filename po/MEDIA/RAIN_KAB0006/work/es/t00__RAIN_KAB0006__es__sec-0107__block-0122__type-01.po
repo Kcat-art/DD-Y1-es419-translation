@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0006\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0006.BIN\n"
+"X-Y1PS2-Source-SHA256: 689c1be860e0e9f5f1f43fc0055cc1bf94bc674d34b0db60fd3aaaad8efc35ec\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0006.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0006.BIN\n"
+"X-Y1PS2-Talk-SHA256: 689c1be860e0e9f5f1f43fc0055cc1bf94bc674d34b0db60fd3aaaad8efc35ec\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 107\n"
+"X-Y1PS2-Raw-Block-ID: 122\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x007A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7a00010314410000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0006|block=0122|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: str_b_Msh_b\n"
+"X-Y1PS2-Actor: str_b_Msh_b\n"
+"X-Y1PS2-Pose: cus_take_01\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0006/reference/en/t00__RAIN_KAB0006__en__sec-0107__block-0122__type-01.po\n"
+
+#. y1ps2.full_id: 107_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0006|block=0122|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: cus_take_01
+msgctxt "107_0_0"
+msgid "{CU:ffc8c8}Quiero comerme una Hamburguesa...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 107_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0006|block=0122|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: cus_take_01
+msgctxt "107_0_1"
+msgid "{CU:ffc8c8}Esa hamburguesa... parece deliciosa...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 107_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0006|block=0122|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: cus_take_01
+msgctxt "107_1_0"
+msgid "{CU:ffc8c8}Señor, las Patatas Fritas||tienen buena pinta...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 107_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0006|block=0122|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: cus_take_01
+msgctxt "107_1_1"
+msgid "{CU:ffc8c8}Me apetece tomar Patatas Fritas.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 107_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0006|block=0122|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: cus_take_01
+msgctxt "107_2_0"
+msgid "{CU:ffc8c8}Señor, quiero una||hamburguesa grande.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 107_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0006|block=0122|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: cus_take_01
+msgctxt "107_2_1"
+msgid "{CU:ffc8c8}Quiero probar la||Hamburguesa Especial.{MR:00}"
+msgstr ""

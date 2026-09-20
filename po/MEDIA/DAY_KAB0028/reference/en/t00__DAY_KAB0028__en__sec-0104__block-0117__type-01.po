@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0028\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0028.BIN\n"
+"X-Y1PS2-Source-SHA256: 499dfb0bc94135d24fb0d303776690375ede7d144b642f9efdf658b5c01abe3a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0028.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0028.BIN\n"
+"X-Y1PS2-Talk-SHA256: 499dfb0bc94135d24fb0d303776690375ede7d144b642f9efdf658b5c01abe3a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 104\n"
+"X-Y1PS2-Raw-Block-ID: 117\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0075\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7500010210360000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0028|block=0117|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Yyak_b_zako_b\n"
+"X-Y1PS2-Actor: dj_Mnit\n"
+"X-Y1PS2-Pose: SitYankee\n"
+
+#. y1ps2.full_id: 104_0_0
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0117|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: dj_Mnit
+#. y1ps2.pose: SitYankee
+msgctxt "104_0_0"
+msgid "(There's something on the ground...)"
+msgstr ""
+
+#. y1ps2.full_id: 104_0_1
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0117|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: dj_Mnit
+#. y1ps2.pose: SitYankee
+msgctxt "104_0_1"
+msgid "Pick up the Coin Locker Key?"
+msgstr ""
+
+#. y1ps2.full_id: 104_0_2
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0117|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: dj_Mnit
+#. y1ps2.pose: SitYankee
+msgctxt "104_0_2"
+msgid "You obtained \"{CC:ffc8c8}Coin Locker Key No.25{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 104_0_3
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0117|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: dj_Mnit
+#. y1ps2.pose: SitYankee
+msgctxt "104_0_3"
+msgid "(I'll just leave it there...)"
+msgstr ""
+
+#. y1ps2.full_id: 104_1_0
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0117|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: dj_Mnit
+#. y1ps2.pose: SitYankee
+msgctxt "104_1_0"
+msgid "(There's something on the ground...)"
+msgstr ""
+
+#. y1ps2.full_id: 104_1_1
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0117|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: dj_Mnit
+#. y1ps2.pose: SitYankee
+msgctxt "104_1_1"
+msgid "Pick up the Coin Locker Key?"
+msgstr ""
+
+#. y1ps2.full_id: 104_1_2
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0117|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: dj_Mnit
+#. y1ps2.pose: SitYankee
+msgctxt "104_1_2"
+msgid "You obtained \"{CC:ffc8c8}Coin Locker Key No.25{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 104_1_3
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0117|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: dj_Mnit
+#. y1ps2.pose: SitYankee
+msgctxt "104_1_3"
+msgid "(Theatre S. Lockers is engraved into it.||Maybe I should go check it out sometime.)"
+msgstr ""
+
+#. y1ps2.full_id: 104_1_4
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0117|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yyak_b_zako_b
+#. y1ps2.actor: dj_Mnit
+#. y1ps2.pose: SitYankee
+msgctxt "104_1_4"
+msgid "(I'll just leave it there...)"
+msgstr ""

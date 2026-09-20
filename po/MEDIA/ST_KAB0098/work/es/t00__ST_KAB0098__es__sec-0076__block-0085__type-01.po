@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0098\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0098.BIN\n"
+"X-Y1PS2-Source-SHA256: 5ae2b00fcff588c1ee02402817818f9b0814009203b18b2ea954066c457d1bb4\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0098.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0098.BIN\n"
+"X-Y1PS2-Talk-SHA256: 5ae2b00fcff588c1ee02402817818f9b0814009203b18b2ea954066c457d1bb4\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 76\n"
+"X-Y1PS2-Raw-Block-ID: 85\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0055\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 55000109b4340000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0098|block=0085|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_09\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NISE_PARESU\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0098/reference/jp/t00__TALK_ST_KAB0098__jp__sec-0084__block-0085__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0098/reference/en/t00__ST_KAB0098__en__sec-0076__block-0085__type-01.po\n"
+
+#. y1ps2.full_id: 76_0_0
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_0_0"
+msgid "{CU:ffc8c8}Quiero un Natchan Orange...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_1
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_0_1"
+msgid "{CU:ffc8c8}Señor, ¿puedo comprar un Natchan Orange?{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_0
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_1_0"
+msgid "{CU:ffc8c8}Quiero... Un Perfume Francés...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_1
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_1_1"
+msgid "{CU:ffc8c8}Señor, ¿puedo comprar un Perfume Francés?{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_2_0
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_2_0"
+msgid "{CU:ffc8c8}Quiero una Bufanda Francesa...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_2_1
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_2_1"
+msgid "{CU:ffc8c8}Señor, ipor favor, cómprame||una Bufanda Francesa!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_3_0
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_3_0"
+msgid "{CU:ffc8c8}Quiero que me compres...||Un Natchan Orange...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_4_0
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_4_0"
+msgid "{CU:ffc8c8}Quiero... Perfume Francés...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_5_0
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_5_0"
+msgid "{CU:ffc8c8}Quiero... Una Bufanda Francesa...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_6_0
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_6_0"
+msgid "{CU:ffc8c8}Señor, igracias!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_6_1
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_6_1"
+msgid "{CU:ffc8c8}Está dulce y bueno.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_7_0
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_7_0"
+msgid "{CU:ffc8c8}Señor, igracias!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_7_1
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_7_1"
+msgid "{CU:ffc8c8}iEste Perfume Francés huele muy bien!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_8_0
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_8_0"
+msgid "{CU:ffc8c8}Señor, igracias!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 76_8_1
+#. y1ps2.logical_line_key: ST_KAB0098|block=0085|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "76_8_1"
+msgid "{CU:ffc8c8}iEsta Bufanda Francesa||me mantendrá caliente!{MR:00}"
+msgstr ""

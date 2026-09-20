@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0002\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0002.ARC\n"
+"X-Y1PS2-Source-SHA256: e3be1ce8ec4d1402addd9c34e1ff36e678cb0ed0e0b87d6e6cd24cab89a687aa\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0002.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0002.ARC/0/8___TALK_ST_KAB0002.BIN\n"
+"X-Y1PS2-Talk-SHA256: eaee446054575f95025131677396532bcd80461faa4cac2734baa0e5efb88088\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 119\n"
+"X-Y1PS2-Raw-Block-ID: 140\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x008C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8c000103d0640200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0002|block=0140|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: tamura\n"
+"X-Y1PS2-Actor: w_6\n"
+"X-Y1PS2-Pose: Stand05\n"
+
+#. y1ps2.full_id: 119_0_0
+#. y1ps2.logical_line_key: DAY_KAB0002|block=0140|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "119_0_0"
+msgid "旦那！！{PA:10}||血相変えて何かあったんですか！？"
+msgstr ""
+
+#. y1ps2.full_id: 119_0_1
+#. y1ps2.logical_line_key: DAY_KAB0002|block=0140|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "119_0_1"
+msgid "{CU:c8c8ff}あ、{PA:10}あぁ、{PA:10}田村か。{PA:20}||⋯すまん今、{PA:10}話せる状況じゃないんだ。{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 119_0_2
+#. y1ps2.logical_line_key: DAY_KAB0002|block=0140|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "119_0_2"
+msgid "{CU:ffffff}組の抗争か何かですか？"
+msgstr ""
+
+#. y1ps2.full_id: 119_0_3
+#. y1ps2.logical_line_key: DAY_KAB0002|block=0140|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "119_0_3"
+msgid "コラ、{PA:10}青木！{PA:10}||こういう時は少し控えろ。"
+msgstr ""
+
+#. y1ps2.full_id: 119_0_4
+#. y1ps2.logical_line_key: DAY_KAB0002|block=0140|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "119_0_4"
+msgid "⋯すんません桐生さん邪魔して。"
+msgstr ""
+
+#. y1ps2.full_id: 119_0_5
+#. y1ps2.logical_line_key: DAY_KAB0002|block=0140|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "119_0_5"
+msgid "すいません⋯"
+msgstr ""
+
+#. y1ps2.full_id: 119_0_6
+#. y1ps2.logical_line_key: DAY_KAB0002|block=0140|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "119_0_6"
+msgid "何か力になれることでしたら、{PA:10}いってください。||それじゃ、{PA:10}お気をつけて⋯"
+msgstr ""
+
+#. y1ps2.full_id: 119_1_0
+#. y1ps2.logical_line_key: DAY_KAB0002|block=0140|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "119_1_0"
+msgid "旦那！"
+msgstr ""
+
+#. y1ps2.full_id: 119_2_0
+#. y1ps2.logical_line_key: DAY_KAB0002|block=0140|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: tamura
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "119_2_0"
+msgid "何か力になれることでしたら、{PA:10}いってください。||それじゃ、{PA:10}お気をつけて⋯"
+msgstr ""

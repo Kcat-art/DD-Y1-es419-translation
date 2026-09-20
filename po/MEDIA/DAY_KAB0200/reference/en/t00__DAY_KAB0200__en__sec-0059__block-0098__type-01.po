@@ -1,0 +1,1200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Source-SHA256: 449e0dc63ea345070a8b6852b869d622cef7e761dc4a534278aa78bbaed98bd9\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: 449e0dc63ea345070a8b6852b869d622cef7e761dc4a534278aa78bbaed98bd9\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 59\n"
+"X-Y1PS2-Raw-Block-ID: 98\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0062\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6200010c1c540000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0098|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: CELLULAR\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: cellular\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 59_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_1_0"
+msgid "Yo, {PA:10}old man."
+msgstr ""
+
+#. y1ps2.full_id: 59_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_1_1"
+msgid "Oh! {PA:10}My apprentice! {PA:10}You're alive!{PA:10}||I am very happy!"
+msgstr ""
+
+#. y1ps2.full_id: 59_1_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_1_2"
+msgid "You must be here for the next lesson...||Okay."
+msgstr ""
+
+#. y1ps2.full_id: 59_1_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_1_3"
+msgid "But... {PA:10}You haven't trained enough."
+msgstr ""
+
+#. y1ps2.full_id: 59_1_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_1_4"
+msgid "Before the next lesson,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 59_1_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_1_5"
+msgid "you need to reach a certain level in your||\"SHIN\", \"GI\" and \"TAI\"."
+msgstr ""
+
+#. y1ps2.full_id: 59_1_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_1_6"
+msgid "Go back to the streets and train!"
+msgstr ""
+
+#. y1ps2.full_id: 59_2_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_2_0"
+msgid "Understood?{PA:10}||Train your \"SHIN\", \"GI\" and \"TAI\"!"
+msgstr ""
+
+#. y1ps2.full_id: 59_2_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_2_1"
+msgid "Come back when you're ready!"
+msgstr ""
+
+#. y1ps2.full_id: 59_2_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_2_2"
+msgid "I'll be waiting for you!"
+msgstr ""
+
+#. y1ps2.full_id: 59_3_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_0"
+msgid "Yo, {PA:10}old man."
+msgstr ""
+
+#. y1ps2.full_id: 59_3_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_1"
+msgid "Oh! {PA:10}My apprentice!{PA:10}||You're in excellent shape. {PA:10}As am I."
+msgstr ""
+
+#. y1ps2.full_id: 59_3_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_2"
+msgid "Hmm...{PA:10}{MS:0}||You seem eager to take another lesson.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 59_3_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_3"
+msgid "I can tell, even without you telling me so."
+msgstr ""
+
+#. y1ps2.full_id: 59_3_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_4"
+msgid "Next will be the final lesson.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 59_3_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_5"
+msgid "Unless you are well prepared,{PA:10}||you will never master it."
+msgstr ""
+
+#. y1ps2.full_id: 59_3_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_6"
+msgid "Gwa! {PA:10}I see you have trained enough!{PA:20}||Now, {PA:10}are you ready for the next lesson?"
+msgstr ""
+
+#. y1ps2.full_id: 59_3_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_7"
+msgid "Hmm. {PA:10} If you're busy, so be it.{PA:10}||It's the final lesson.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 59_3_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_8"
+msgid "Come back anytime. {MS:0}{PA:10}I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 59_3_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_3_9"
+msgid "Get ready!"
+msgstr ""
+
+#. y1ps2.full_id: 59_4_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_0"
+msgid "Yo, {PA:10}old man."
+msgstr ""
+
+#. y1ps2.full_id: 59_4_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_1"
+msgid "Oh! {PA:10}My apprentice!{PA:10}||You're in excellent shape. {PA:10}As am I."
+msgstr ""
+
+#. y1ps2.full_id: 59_4_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_2"
+msgid "Hmm...{PA:10}{MS:0}||You seem eager to take another lesson.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 59_4_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_3"
+msgid "I can tell, even without you telling me so."
+msgstr ""
+
+#. y1ps2.full_id: 59_4_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_4"
+msgid "Next will be the final lesson.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 59_4_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_5"
+msgid "Unless you are well prepared,{PA:10}||you will never master it."
+msgstr ""
+
+#. y1ps2.full_id: 59_4_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_6"
+msgid "Gwa! {PA:10}I see you have trained enough!{PA:20}||Now, {PA:10}are you ready for the next lesson?"
+msgstr ""
+
+#. y1ps2.full_id: 59_4_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_7"
+msgid "Hmm. {PA:10}If you're busy, so be it.{PA:10}||It's the final lesson.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 59_4_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_8"
+msgid "Come back anytime. {MS:0}{PA:10}I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 59_4_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_9"
+msgid "Get ready!"
+msgstr ""
+
+#. y1ps2.full_id: 59_4_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_10"
+msgid "Hmm?{PA:20}||You're equipped right now, {PA:10}aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 59_4_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_11"
+msgid "We can't start training under these||conditions...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 59_4_12
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=4|sg=12
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_4_12"
+msgid "Remove all your gear and come back."
+msgstr ""
+
+#. y1ps2.full_id: 59_5_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_5_0"
+msgid "Gwa! {PA:10}I see you have trained enough!{PA:20}||Now, {PA:10}are you ready for the next lesson?"
+msgstr ""
+
+#. y1ps2.full_id: 59_5_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_5_1"
+msgid "Hm,{PA:10}||if you're in a hurry, it can't be helped.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 59_5_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_5_2"
+msgid "This is the last technique.||Don't you want to master it?"
+msgstr ""
+
+#. y1ps2.full_id: 59_5_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_5_3"
+msgid "Come back anytime. {PA:10}I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 59_5_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=5|sg=4
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_5_4"
+msgid "Get ready!"
+msgstr ""
+
+#. y1ps2.full_id: 59_6_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_6_0"
+msgid "Gwa! {PA:10}I see you have trained enough!{PA:20}||Now, {PA:10}are you ready for the next lesson?"
+msgstr ""
+
+#. y1ps2.full_id: 59_6_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_6_1"
+msgid "Hm,{PA:10}||if you're in a hurry, it can't be helped.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 59_6_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_6_2"
+msgid "This is the last technique.{PA:10}||Don't you want to master it?"
+msgstr ""
+
+#. y1ps2.full_id: 59_6_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_6_3"
+msgid "Come back anytime. {PA:10}I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 59_6_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=6|sg=4
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_6_4"
+msgid "Get ready!"
+msgstr ""
+
+#. y1ps2.full_id: 59_6_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=6|sg=5
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_6_5"
+msgid "Hmm?{PA:20}||You're equipped right now, {PA:10}aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 59_6_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=6|sg=6
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_6_6"
+msgid "We can't start training under these||conditions...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 59_6_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=6|sg=7
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_6_7"
+msgid "Remove all your gear and come back."
+msgstr ""
+
+#. y1ps2.full_id: 59_7_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_7_0"
+msgid "Will you take another lesson,{PA:10}||my apprentice?"
+msgstr ""
+
+#. y1ps2.full_id: 59_7_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_7_1"
+msgid "Hm,{PA:10}||if you're in a hurry, it can't be helped.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 59_7_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=7|sg=2
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_7_2"
+msgid "This is the last technique.{PA:10}||Don't you want to master it?"
+msgstr ""
+
+#. y1ps2.full_id: 59_7_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=7|sg=3
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_7_3"
+msgid "Come back anytime. {PA:10}I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 59_7_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=7|sg=4
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_7_4"
+msgid "Get ready!"
+msgstr ""
+
+#. y1ps2.full_id: 59_8_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_8_0"
+msgid "Will you take another lesson,{PA:10}||my apprentice?"
+msgstr ""
+
+#. y1ps2.full_id: 59_8_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_8_1"
+msgid "Hm,{PA:10}||if you're in a hurry, it can't be helped.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 59_8_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=8|sg=2
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_8_2"
+msgid "This is the last technique.{PA:10}||Don't you want to master it?"
+msgstr ""
+
+#. y1ps2.full_id: 59_8_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=8|sg=3
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_8_3"
+msgid "Come back anytime. {PA:10}I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 59_8_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=8|sg=4
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_8_4"
+msgid "Get ready!"
+msgstr ""
+
+#. y1ps2.full_id: 59_8_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=8|sg=5
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_8_5"
+msgid "Hmm?{PA:20}||You're equipped right now, {PA:10}aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 59_8_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=8|sg=6
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_8_6"
+msgid "We can't start training under these||conditions...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 59_8_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=8|sg=7
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_8_7"
+msgid "Remove all your gear and come back."
+msgstr ""
+
+#. y1ps2.full_id: 59_9_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_9_0"
+msgid "Will you take another lesson,{PA:10}||my apprentice?"
+msgstr ""
+
+#. y1ps2.full_id: 59_9_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=9|sg=1
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_9_1"
+msgid "Hm,{PA:10}||if you're in a hurry, it can't be helped.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 59_9_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=9|sg=2
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_9_2"
+msgid "This is the last technique.{PA:10}||Don't you want to master it?"
+msgstr ""
+
+#. y1ps2.full_id: 59_9_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=9|sg=3
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_9_3"
+msgid "Come back anytime. {PA:10}I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 59_9_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=9|sg=4
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_9_4"
+msgid "Get ready!"
+msgstr ""
+
+#. y1ps2.full_id: 59_10_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_10_0"
+msgid "Will you take another lesson,{PA:10}||my apprentice?"
+msgstr ""
+
+#. y1ps2.full_id: 59_10_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_10_1"
+msgid "Hm,{PA:10}||if you're in a hurry, it can't be helped.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 59_10_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=10|sg=2
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_10_2"
+msgid "This is the last technique.{PA:10}||Don't you want to master it?"
+msgstr ""
+
+#. y1ps2.full_id: 59_10_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=10|sg=3
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_10_3"
+msgid "Come back anytime. {PA:10}I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 59_10_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=10|sg=4
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_10_4"
+msgid "Get ready!"
+msgstr ""
+
+#. y1ps2.full_id: 59_10_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=10|sg=5
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_10_5"
+msgid "Hmm?{PA:20}||You're equipped right now,{PA:10} aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 59_10_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=10|sg=6
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_10_6"
+msgid "We can't start training under these||conditions...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 59_10_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=10|sg=7
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_10_7"
+msgid "Remove your gear and come back."
+msgstr ""
+
+#. y1ps2.full_id: 59_11_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0098|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "59_11_0"
+msgid "Ughhhh..."
+msgstr ""

@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0013\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0013.BIN\n"
+"X-Y1PS2-Source-SHA256: 1b7aa972b527443caa213c30d77ac6b79a2445e7c2624757c51de605d5847003\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0013.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0013.BIN\n"
+"X-Y1PS2-Talk-SHA256: 1b7aa972b527443caa213c30d77ac6b79a2445e7c2624757c51de605d5847003\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 97\n"
+"X-Y1PS2-Raw-Block-ID: 99\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0063\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6300010330350000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0013|block=0099|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: N_suit3_B\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: Smoking01\n"
+
+#. y1ps2.full_id: 97_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_0_0"
+msgid "You can enjoy yourself, with no reservation,||for just 5,000 yen.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_0_1"
+msgid "Come have a drink at our bar!"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_0_2"
+msgid "I'm not thirsty.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_0_3"
+msgid "Did you see two people soaked in blood||running around here?"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_4
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_0_4"
+msgid "Blood?!{PA:10} Oh, no.{PA:10}||I don't know anything!"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_5
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_0_5"
+msgid "Anything, I tell you!"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_0"
+msgid "**** PleaseTranslation 英語 ****{PA:10}**** PleaseTranslation 英語 ****{PA:20}||**** PleaseTranslation 英語 ****{PA:10}**** PleaseTranslation 英語 ****"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_1"
+msgid "**** PleaseTranslation 英語 ****{PA:10}**** PleaseTranslation 英語 ****"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_2"
+msgid "**** PleaseTranslation 英語 ****{PA:10}**** PleaseTranslation 英語 ****"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_3"
+msgid "**** PleaseTranslation 英語 ****"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_4"
+msgid "**** PleaseTranslation 英語 ****{PA:10}**** PleaseTranslation 英語 ****||**** PleaseTranslation 英語 ****"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_5"
+msgid "Come by our bar!{PA:20}||I'll have a girl come by your table!!"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_6
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_6"
+msgid "**** PleaseTranslation 英語 ****"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_7
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_7"
+msgid "**** PleaseTranslation 英語 ****||**** PleaseTranslation 英語 ****"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_8
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_8"
+msgid "**** PleaseTranslation 英語 ****"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_9
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_1_9"
+msgid "**** PleaseTranslation 英語 ****||**** PleaseTranslation 英語 ****"
+msgstr ""
+
+#. y1ps2.full_id: 97_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_2_0"
+msgid "Dude! You're so cool!!||So, why don't you come"
+msgstr ""
+
+#. y1ps2.full_id: 97_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_2_1"
+msgid "to our bar for some||drinks?"
+msgstr ""
+
+#. y1ps2.full_id: 97_2_2
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_2_2"
+msgid "There are plenty of pretty girls!"
+msgstr ""
+
+#. y1ps2.full_id: 97_2_3
+#. y1ps2.logical_line_key: RAIN_KAB0013|block=0099|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_suit3_B
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Smoking01
+msgctxt "97_2_3"
+msgid "There's no better bar than ours!||You should come by!"
+msgstr ""

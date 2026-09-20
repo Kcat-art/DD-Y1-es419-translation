@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0072\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0072.BIN\n"
+"X-Y1PS2-Source-SHA256: 704fd05096150065ccf779d89ba61d173c659a2b6fdf37b3762e7ee0afaec4fe\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0072.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0072.BIN\n"
+"X-Y1PS2-Talk-SHA256: 704fd05096150065ccf779d89ba61d173c659a2b6fdf37b3762e7ee0afaec4fe\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 72\n"
+"X-Y1PS2-Raw-Block-ID: 73\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0049\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 49000101d4430000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0072|block=0073|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER13\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C13_TRG_ENC_HAIBILL\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0072/reference/jp/t00__TALK_ST_KAB0072__jp__sec-0072__block-0073__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0072/reference/en/t00__DAY_KAB0072__en__sec-0072__block-0073__type-01.po\n"
+
+#. y1ps2.full_id: 72_0_0
+#. y1ps2.logical_line_key: DAY_KAB0072|block=0073|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_0"
+msgid "Me pregunto si esa chica está perdida..."
+msgstr ""

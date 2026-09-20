@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0103\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Source-SHA256: caf67c0f9e280fdc9891ac47150dc0465ddb08d916ff19676b253b1c7edfa5a9\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0103.BIN\n"
+"X-Y1PS2-Talk-SHA256: caf67c0f9e280fdc9891ac47150dc0465ddb08d916ff19676b253b1c7edfa5a9\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 33\n"
+"X-Y1PS2-Raw-Block-ID: 34\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0022\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 22000107b4340000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0103|block=0034|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: Navi_shi_04_H04_02\n"
+"X-Y1PS2-Pose: Freeze\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0103/reference/jp/t00__TALK_ST_KAB0103__jp__sec-0033__block-0034__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0103/reference/en/t00__ST_KAB0103__en__sec-0033__block-0034__type-01.po\n"
+
+#. y1ps2.full_id: 33_4_0
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_0"
+msgid "Eh, {PA:1}¿eres un chico?"
+msgstr ""
+
+#. y1ps2.full_id: 33_4_1
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_1"
+msgid "¿Eh?"
+msgstr ""
+
+#. y1ps2.full_id: 33_4_2
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_2"
+msgid "¿Qué le pasa a este bar?"
+msgstr ""
+
+#. y1ps2.full_id: 33_4_3
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_3"
+msgid "iShota tiene tantas citas||que ni siquiera viene a verme para charlar!"
+msgstr ""
+
+#. y1ps2.full_id: 33_4_4
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_4"
+msgid "... Lo siento mucho."
+msgstr ""
+
+#. y1ps2.full_id: 33_4_5
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_5"
+msgid "iDebes hacer algo!{PA:10}||iNo hay nadie como Shota!"
+msgstr ""
+
+#. y1ps2.full_id: 33_4_6
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_6"
+msgid "{SP:2}iPuede que me perdáis como clienta!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 33_4_7
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_7"
+msgid "... Sí, señora,{PA:10}||se lo diré al encargado."
+msgstr ""
+
+#. y1ps2.full_id: 33_4_8
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_8"
+msgid "No tengo nada que ver con el bar."
+msgstr ""
+
+#. y1ps2.full_id: 33_4_9
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_9"
+msgid "¿Eh?||{PA:15}i¿Qué estás haciendo {SP:3}{PA:10}aquí entonces?!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 33_4_10
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_10"
+msgid "Es un bar de alterne, ise supone||que tienes que venir con una cita!"
+msgstr ""
+
+#. y1ps2.full_id: 33_4_11
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_11"
+msgid "iQué desagradable!"
+msgstr ""
+
+#. y1ps2.full_id: 33_4_12
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=4|sg=12
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_4_12"
+msgid "..."
+msgstr ""
+
+#. y1ps2.full_id: 33_5_0
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_0"
+msgid "¿Va a cerrar ya el bar?"
+msgstr ""
+
+#. y1ps2.full_id: 33_5_1
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_1"
+msgid "Sí, seguramente."
+msgstr ""
+
+#. y1ps2.full_id: 33_5_2
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_2"
+msgid "iOuch!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 33_5_3
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_3"
+msgid "Stardust es el mejor bar,||pero siempre hay algún problema."
+msgstr ""
+
+#. y1ps2.full_id: 33_5_4
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=4
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_4"
+msgid "No puedo evitar ponerme borde."
+msgstr ""
+
+#. y1ps2.full_id: 33_5_5
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=5
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_5"
+msgid "¿No has bebido suficiente o qué?"
+msgstr ""
+
+#. y1ps2.full_id: 33_5_6
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=6
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_6"
+msgid "No...Da igual."
+msgstr ""
+
+#. y1ps2.full_id: 33_5_7
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=7
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_7"
+msgid "Voy a ir a beber a mi propio||bar después de aquí..."
+msgstr ""
+
+#. y1ps2.full_id: 33_5_8
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=8
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_8"
+msgid "¿Tu bar...?"
+msgstr ""
+
+#. y1ps2.full_id: 33_5_9
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=9
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_9"
+msgid "Sí. {PA:10}Trabajo en un bar||De alterne de por aquí."
+msgstr ""
+
+#. y1ps2.full_id: 33_5_10
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=10
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_10"
+msgid "Acaban de llamarme.||Tendré que ir a cubrir una baja."
+msgstr ""
+
+#. y1ps2.full_id: 33_5_11
+#. y1ps2.logical_line_key: ST_KAB0103|block=0034|type=01|mg=5|sg=11
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_04_H04_02
+#. y1ps2.pose: Freeze
+msgctxt "33_5_11"
+msgid "Supongo que es {PA:10}una buena hora."
+msgstr ""

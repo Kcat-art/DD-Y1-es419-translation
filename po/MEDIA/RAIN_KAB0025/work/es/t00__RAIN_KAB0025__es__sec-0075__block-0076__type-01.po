@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0025\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0025.BIN\n"
+"X-Y1PS2-Source-SHA256: 632b836977014d34044ea6c364c9ed063f2f68b79ce4fb53a24b94b097430020\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0025.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0025.BIN\n"
+"X-Y1PS2-Talk-SHA256: 632b836977014d34044ea6c364c9ed063f2f68b79ce4fb53a24b94b097430020\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 75\n"
+"X-Y1PS2-Raw-Block-ID: 76\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4c000104d8370000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0025|block=0076|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER16\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C16_TRG_M_TOWER\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0025/reference/jp/t00__TALK_ST_KAB0025__jp__sec-0075__block-0076__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0025/reference/en/t00__RAIN_KAB0025__en__sec-0075__block-0076__type-01.po\n"
+
+#. y1ps2.full_id: 75_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_0"
+msgid "iSocorro! iAyuda!||iMi bolso!"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_0"
+msgid "iPerdone!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_1"
+msgid "He perdido un bolso||de gran importancia para mí."
+msgstr ""
+
+#. y1ps2.full_id: 75_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_2"
+msgid "... Si no lo recupero,{PA:10}||imi novio descubrirá mi secreto!"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_3"
+msgid "iPor favor!{PA:10}||¿Podrías ayudarme a encontrar mi bolso?"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_4"
+msgid "De acuerdo, de acuerdo.{PA:10} Lo buscaré."
+msgstr ""
+
+#. y1ps2.full_id: 75_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_5"
+msgid "Oh,{PA:10}||imuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_6
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_6"
+msgid "Creo que lo he perdido{PA:10}||en algún lugar cerca de la Plaza del Cine."
+msgstr ""
+
+#. y1ps2.full_id: 75_1_7
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_7"
+msgid "Es un bolso bandolera blanco.{PA:20}||iPor favor, encuéntralo!"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_8
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_8"
+msgid "Lo siento,{PA:10}||búscate a alguien que lo encuentre."
+msgstr ""
+
+#. y1ps2.full_id: 75_1_9
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_9"
+msgid "... Ok.{PA:20}||Siento haberte hecho perder el tiempo."
+msgstr ""
+
+#. y1ps2.full_id: 75_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_3_0"
+msgid "iGracias!{PA:20}||iAhora parece que llegaré a mi cita!"
+msgstr ""
+
+#. y1ps2.full_id: 75_3_1
+#. y1ps2.logical_line_key: RAIN_KAB0025|block=0076|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_3_1"
+msgid "Le has dado el \"{CC:ffc8c8}Bolso de Mujer{CR:00}\"."
+msgstr ""

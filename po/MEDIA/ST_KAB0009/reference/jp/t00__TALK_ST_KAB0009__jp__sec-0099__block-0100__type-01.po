@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0009\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0009.ARC\n"
+"X-Y1PS2-Source-SHA256: 3909718b0b68da638029a08af10286c93b97ddedd36fe68071ae1e7bfa60b1f8\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0009.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0009.ARC/0/8___TALK_ST_KAB0009.BIN\n"
+"X-Y1PS2-Talk-SHA256: a2e11a2bf1ad1d73bfbf43eae77f81cd469a03972451cf233cb2ccabb2a3d82a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 99\n"
+"X-Y1PS2-Raw-Block-ID: 100\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0064\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 64000104946f0200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0009|block=0100|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: cava_minigameC\n"
+"X-Y1PS2-Actor: w_6\n"
+"X-Y1PS2-Pose: Stand01\n"
+
+#. y1ps2.full_id: 99_0_0
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_0_0"
+msgid "桐生さん⋯||お友達も一緒なんですね⋯"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_1
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_0_1"
+msgid "{CU:c8c8ff}ん？なにかあったのか？"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_2
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_0_2"
+msgid "{CU:ffffff}ん。さっきお店辞めてきちゃった。||明日には実家に帰ろうかと思って⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_3
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_0_3"
+msgid "{CU:c8c8ff}そうなのか⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_4
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_0_4"
+msgid "{CU:ffffff}でもね、ひとつだけ東京に未練があってさ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_5
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_0_5"
+msgid "{CU:c8c8ff}ん？"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_6
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_0_6"
+msgid "{CU:ffffff}桐生さんにちゃんとお礼しなきゃって⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_7
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_0_7"
+msgid "でも今日は無理みたい⋯||ありがとね、桐生さん⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_0_8
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_0_8"
+msgid "ちさ、もう行かないと。||さよなら。⋯桐生さん❤"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_0
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_1_0"
+msgid "{CU:c8c8ff}なにかあったのか？"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_1
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_1_1"
+msgid "{CU:ffffff}ん。さっきお店辞めてきちゃった。||明日には実家に帰ろうかと思って⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_2
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_1_2"
+msgid "{CU:c8c8ff}そうなのか⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_3
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_1_3"
+msgid "{CU:ffffff}でもね、ひとつだけ東京に未練があってさ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_4
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_1_4"
+msgid "{CU:c8c8ff}ん？"
+msgstr ""
+
+#. y1ps2.full_id: 99_1_5
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_1_5"
+msgid "{CU:ffffff}桐生さんにちゃんとお礼しなきゃって⋯。||だから⋯一緒に来て❤"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_0
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_2_0"
+msgid "桐生さん⋯||お友達も一緒なんですね⋯"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_1
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_2_1"
+msgid "{CU:c8c8ff}なにかあったのか？"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_2
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_2_2"
+msgid "{CU:ffffff}ん。さっきお店辞めてきちゃった。||明日には実家に帰ろうかと思って⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_3
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_2_3"
+msgid "{CU:c8c8ff}そうなのか⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_4
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_2_4"
+msgid "{CU:ffffff}でもね、ひとつだけ東京に未練があってさ。"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_5
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_2_5"
+msgid "{CU:c8c8ff}ん？"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_6
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_2_6"
+msgid "{CU:ffffff}桐生さんにちゃんとお礼しなきゃって⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_7
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_2_7"
+msgid "でも今日は無理みたい⋯||ありがとね、桐生さん⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 99_2_8
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_2_8"
+msgid "ちさ、もう行かないと。||さよなら。⋯桐生さん❤"
+msgstr ""
+
+#. y1ps2.full_id: 99_3_0
+#. y1ps2.logical_line_key: ST_KAB0009|block=0100|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameC
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand01
+msgctxt "99_3_0"
+msgid "あー。桐生さーん、こっちこっちー❤"
+msgstr ""

@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0204\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0204.ARC\n"
+"X-Y1PS2-Source-SHA256: 46d1738c39596d56d6c1c374c235147e44337c06268b6113ba8e5b0ba93a429c\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0204.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0204.ARC/0/8___TALK_ST_KAB0204.BIN\n"
+"X-Y1PS2-Talk-SHA256: 5e0ef2d7019b2f25beb7f82eac7d65afd14176357d50dcfa596eacb259fabff6\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 105\n"
+"X-Y1PS2-Raw-Block-ID: 106\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6a00010508d80200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0204|block=0106|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: N_Mosyou_O\n"
+"X-Y1PS2-Actor: w_mimawari_a\n"
+"X-Y1PS2-Pose: WalkOwnPath\n"
+
+#. y1ps2.full_id: 105_1_0
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0106|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_Mosyou_O
+#. y1ps2.actor: w_mimawari_a
+#. y1ps2.pose: WalkOwnPath
+msgctxt "105_1_0"
+msgid "{CU:ffc8c8}おい！➿ちょっと待って！{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 105_2_0
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0106|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_Mosyou_O
+#. y1ps2.actor: w_mimawari_a
+#. y1ps2.pose: WalkOwnPath
+msgctxt "105_2_0"
+msgid "やっぱり幹部の連中はいい車に乗ってるよなぁ？{PA:20}||俺も早くあんな車に乗りてぇよ。"
+msgstr ""
+
+#. y1ps2.full_id: 105_2_1
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0106|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_Mosyou_O
+#. y1ps2.actor: w_mimawari_a
+#. y1ps2.pose: WalkOwnPath
+msgctxt "105_2_1"
+msgid "{CU:c8c8ff}⋯⋯⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 105_2_2
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0106|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_Mosyou_O
+#. y1ps2.actor: w_mimawari_a
+#. y1ps2.pose: WalkOwnPath
+msgctxt "105_2_2"
+msgid "{CU:ffffff}お前もそう思わないか？"
+msgstr ""
+
+#. y1ps2.full_id: 105_2_3
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0106|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_Mosyou_O
+#. y1ps2.actor: w_mimawari_a
+#. y1ps2.pose: WalkOwnPath
+msgctxt "105_2_3"
+msgid "⋯って、{PA:10}さっきから何をコソコソしてんだ？"
+msgstr ""
+
+#. y1ps2.full_id: 105_2_4
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0106|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_Mosyou_O
+#. y1ps2.actor: w_mimawari_a
+#. y1ps2.pose: WalkOwnPath
+msgctxt "105_2_4"
+msgid "おい！{PA:10}➿こいつを叩き出せ！"
+msgstr ""
+
+#. y1ps2.full_id: 105_4_0
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0106|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_Mosyou_O
+#. y1ps2.actor: w_mimawari_a
+#. y1ps2.pose: WalkOwnPath
+msgctxt "105_4_0"
+msgid "{CU:ffc8c8}⋯気のせいか{MR:00}"
+msgstr ""

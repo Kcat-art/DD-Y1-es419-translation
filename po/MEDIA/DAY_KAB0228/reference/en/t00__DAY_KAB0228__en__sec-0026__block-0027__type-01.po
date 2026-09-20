@@ -1,0 +1,1488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0228\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0228.BIN\n"
+"X-Y1PS2-Source-SHA256: c53a829c47e209b642d37506d6740181c0b24a96a74013f582db1f3c3d5ec8f2\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0228.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0228.BIN\n"
+"X-Y1PS2-Talk-SHA256: c53a829c47e209b642d37506d6740181c0b24a96a74013f582db1f3c3d5ec8f2\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 26\n"
+"X-Y1PS2-Raw-Block-ID: 27\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x001B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 1b000101f4260000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0228|block=0027|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: STALKER_SAYA\n"
+"X-Y1PS2-Pose: Freeze\n"
+
+#. y1ps2.full_id: 26_0_1
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_1"
+msgid "Welcome. Would you like me to explain||how to play the games?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_2
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_2"
+msgid "Which game would you like to||know the rules of?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_3
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_3"
+msgid "No, {PA:10}thanks."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_4
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_4"
+msgid "...I see.{PA:20} If there's something you'd like||to know, please feel free to ask me."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_5
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_5"
+msgid "How do I play Blackjack?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_6
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_6"
+msgid "Blackjack is a game where you try||to make your cards total 21."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_7
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_7"
+msgid "Before starting a game,||place your bet."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_8
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_8"
+msgid "Basically it's a competition against the||dealer."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_9
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_9"
+msgid "If your hand gets closer to 21 than the||dealer, you win.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_10
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_10"
+msgid "The payout will be double the amount||you bet."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_11
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_11"
+msgid "If you get the same number as the dealer,"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_12
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_12"
+msgid "the game ends in a draw||and your bet gets returned."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_13
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_13"
+msgid "If your total goes over 21, that's||called a Bust. If you bust, you lose."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_14
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_14"
+msgid "If you get an Ace and a face card, that's||called a Blackjack, the name of the game."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_15
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_15"
+msgid "Unless the dealer's hand is also a||Blackjack,"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_16
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_16"
+msgid "your payout will be 2.5 times the amount||you bet."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_17
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_17"
+msgid "However, if you choose to Split,||you can't get a Blackjack."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_18
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_18"
+msgid "Good luck."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_19
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_19"
+msgid "How do I play Roulette?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_20
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_20"
+msgid "You have to try to guess which||slot the ball will fall into."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_21
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_21"
+msgid "Roulette is so popular it's often called||the \"Queen of the Casino\"."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_22
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_22"
+msgid "According to where you place your bets,{PA:10}||payouts can vary from 2 to 1 and 36 to 1."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_23
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_23"
+msgid "You start betting as soon as the wheel||starts spinning,"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_24
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_24"
+msgid "and you can bet until just a few moments||before the ball is about to be dropped."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_25
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_25"
+msgid "So, {PA:10}you can wait until the last moment||before placing your bets."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_26
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_26"
+msgid "And please remember that you can||only bet up to 32 slots in this casino..."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_27
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=27
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_27"
+msgid "Good luck."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_28
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=28
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_28"
+msgid "What are mystery items?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_29
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_29"
+msgid "Rumour has it that you can obtain||mystery items somewhere."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_30
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=30
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_30"
+msgid "If you use a mystery item before a game,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_31
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_31"
+msgid "supposedly the goddess of fortune will||smile upon you."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_32
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=32
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_32"
+msgid "But once you use it, it will be lost."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_33
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=33
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_33"
+msgid "Also, there's no point in using multiple||items at one time.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_34
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=34
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_34"
+msgid "Only the last one you use takes effect."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_35
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=35
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_35"
+msgid "There are five types of them.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_36
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=36
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_36"
+msgid "The effect of the item can be known by||its name."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_37
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=37
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_37"
+msgid "If you get one, try it out in secret."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_38
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=38
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_38"
+msgid "How do I play Baccarat?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_39
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=39
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_39"
+msgid "The objective of Baccarat is..."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_40
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=40
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_40"
+msgid "to guess which hand, out of the two hands||the dealer deals, is closest to \"9\"."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_41
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=41
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_41"
+msgid "All you have to do is place your bet||on the hand you think will win."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_42
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=42
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_42"
+msgid "At the beginning of the game,"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_43
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=43
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_43"
+msgid "the dealer deals 2 cards to both||the \"PLAYER\" and the \"BANKER\"."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_44
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=44
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_44"
+msgid "The cards are turned up in order||from the \"PLAYER\" to the \"BANKER\""
+msgstr ""
+
+#. y1ps2.full_id: 26_0_45
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=45
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_45"
+msgid "and in some cases, a third card||may be dealt."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_46
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=46
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_46"
+msgid "When the third or final cards are turned||up, the hand closest to 9 wins."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_47
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=47
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_47"
+msgid "10s and face cards equal 0,{PA:10}||and Aces equal 1.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_48
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=48
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_48"
+msgid "If the sum of two or more cards||equal 10 or higher,"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_49
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=49
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_49"
+msgid "10 will be subtracted from the total."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_50
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=50
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_50"
+msgid "When the winner and the loser is decided,||if you had bet on the winner,"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_51
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=51
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_51"
+msgid "the payout will be double the amount."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_52
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=52
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_52"
+msgid "You can also bet on a \"Tie\"."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_53
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=53
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_53"
+msgid "If the \"PLAYER\" and the \"BANKER\" tie, the||payout will be 8 times the amount you bet."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_54
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=54
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 54
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_54"
+msgid "In this case,"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_55
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=55
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_55"
+msgid "the chips placed on either the \"PLAYER\"||or the \"BANKER\" will be returned."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_56
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=56
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_56"
+msgid "The percentage of a tie is very low,||therefore the payout is quite large."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_57
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=57
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 57
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_57"
+msgid "Well, {PA:10}that's the basics."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_58
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=58
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 58
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_58"
+msgid "Baccarat is a pretty difficult game to||grasp at first,"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_59
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=59
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 59
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_59"
+msgid "so would you like a more detailed||explanation?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_60
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=60
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 60
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_60"
+msgid "Yes, please."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_61
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=61
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 61
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_61"
+msgid "Let me explain the rules pertaining to||the third card,"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_62
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=62
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 62
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_62"
+msgid "which happens to be the most complicated||part of Baccarat."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_63
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=63
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 63
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_63"
+msgid "If both the \"PLAYER\" and the \"BANKER\"||have a total other than 8 or 9"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_64
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=64
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 64
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_64"
+msgid "the game will continue."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_65
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=65
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 65
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_65"
+msgid "First off, I'll tell you about what happens"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_66
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=66
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 66
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_66"
+msgid "when the total of the 2 cards of the||\"PLAYER\" equals 6 or 7."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_67
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=67
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 67
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_67"
+msgid "In this case, the player cannot draw||a third card."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_68
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=68
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 68
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_68"
+msgid "Also, the \"BANKER\" can only draw||when their total equals 5 or less."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_69
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=69
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 69
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_69"
+msgid "If this happens, the game is over."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_70
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=70
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 70
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_70"
+msgid "Next, I'll tell you about what happens when||the total of the 2 cards of the \"PLAYER\""
+msgstr ""
+
+#. y1ps2.full_id: 26_0_71
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=71
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 71
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_71"
+msgid "equals 5 or less."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_72
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=72
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 72
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_72"
+msgid "In this case,||the player must draw a third card."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_73
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=73
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 73
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_73"
+msgid "Whether the \"BANKER\" can draw||a third card or not depends on"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_74
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=74
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 74
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_74"
+msgid "the total of the \"BANKER\" and||the third card drawn by the \"PLAYER\"."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_75
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=75
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 75
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_75"
+msgid "Okay,{PA:10} let me explain step-by-step."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_76
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=76
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 76
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_76"
+msgid "If the total of the \"BANKER\" equals 7,||they cannot draw a third card."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_77
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=77
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 77
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_77"
+msgid "If the total of the \"BANKER\" equals 6||and the third card drawn by the \"PLAYER\" is"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_78
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=78
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 78
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_78"
+msgid "6 or 7..."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_79
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=79
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 79
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_79"
+msgid "the \"BANKER\" draws a third card."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_80
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=80
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 80
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_80"
+msgid "If the total of the \"BANKER\" equals 5 and||the third card drawn by the \"PLAYER\" is..."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_81
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=81
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 81
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_81"
+msgid "4, 5, 6 or 7,||the \"BANKER\" draws a third card."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_82
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=82
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 82
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_82"
+msgid "If the total of the \"BANKER\" equals 4 and||the third card drawn by the \"PLAYER\" is..."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_83
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=83
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 83
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_83"
+msgid "2, 3 ,4, 5, 6 or 7,||the \"BANKER\" draws a third card."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_84
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=84
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 84
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_84"
+msgid "If the total of the \"BANKER\" equals 3||and the third card drawn by the \"PLAYER\""
+msgstr ""
+
+#. y1ps2.full_id: 26_0_85
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=85
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 85
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_85"
+msgid "is anything other than 8,||the \"BANKER\" draws a third card."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_86
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=86
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 86
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_86"
+msgid "If the total of the \"BANKER\" equals 1 or 2,||the \"BANKER\" must draw a third card."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_87
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=87
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 87
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_87"
+msgid "At this point, {PA:10}the winner and||the loser will be decided."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_88
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=88
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 88
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_88"
+msgid "Honestly,{PA:10} I don't think you can fully||understand this game"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_89
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=89
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 89
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_89"
+msgid "with just an explanation."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_90
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=90
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 90
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_90"
+msgid "Try a few games, {PA:10}and if you still don't||understand, come back and ask me again."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_91
+#. y1ps2.logical_line_key: DAY_KAB0228|block=0027|type=01|mg=0|sg=91
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 91
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_91"
+msgid "Good luck."
+msgstr ""

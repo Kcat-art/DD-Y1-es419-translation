@@ -1,0 +1,704 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0049\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0049.BIN\n"
+"X-Y1PS2-Source-SHA256: 120b155d90f132c82fbd33891f01fa123160b713981099146cdfdfdb3d13c3bc\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0049.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0049.BIN\n"
+"X-Y1PS2-Talk-SHA256: 120b155d90f132c82fbd33891f01fa123160b713981099146cdfdfdb3d13c3bc\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 93\n"
+"X-Y1PS2-Raw-Block-ID: 94\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5e000102f0300000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0049|block=0094|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: cava_suits_03\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: stand_sexy_01\n"
+
+#. y1ps2.full_id: 93_0_0
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_0"
+msgid "Hey, {PA:10}Kano!||I told you to come alone."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_1
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_1"
+msgid "What the fuck are you thinking,||fucking with my girl...?"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_2
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_2"
+msgid "You better apologize like you mean it!"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_3
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_3"
+msgid "You're a shitty actor!{PA:20}||This has been a setup all along, hasn't it?"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_4
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_4"
+msgid "What? {PA:20}You better watch what you say to me!"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_5
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_5"
+msgid "I'm the one who wants to talk it out."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_6
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_6"
+msgid "But if you prefer a different way||to settle this shit, bring it on!"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_7
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_7"
+msgid "Ugh...!"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_8
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_8"
+msgid "Listen, {PA:10}Kano-san. {PA:20}4,000,000 yen||for all the troubles you caused."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_9
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_9"
+msgid "You proposed this yourself now..."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_10
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_10"
+msgid "I can't afford 4,000,000 yen!{PA:20}||Aniki, {PA:10}say something to him!"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_11
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_11"
+msgid "It's none of my business. {PA:10}See you."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_12
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_12"
+msgid "Aniki, I'm in deep shit!"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_13
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_13"
+msgid "Please, Aniki!{PA:10}||Say something to him!"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_14
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_14"
+msgid "It's none of my business. {PA:10}See you."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_15
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_15"
+msgid "Hehe. {PA:20}He is very understanding."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_16
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_16"
+msgid "Aniki...{PA:10}||I thought we were in this together..."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_17
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_17"
+msgid "I like you, Dragon of the Dojima Family.{PA:20}||Listen."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_18
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_18"
+msgid "There's the noodle shop in this city."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_19
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_19"
+msgid "Ask the owner for||a \"Half Order, Extra Soup\"."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_20
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_20"
+msgid "They'll let you in to an underground casino||first-timers are rejected."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_21
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_21"
+msgid "Keep this to yourself though."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_22
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_22"
+msgid "...Well, {PA:10}I gotta talk to Kano-san||for a little bit longer.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 93_0_23
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_23"
+msgid "It's best if you get lost now."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_25
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_25"
+msgid "Why don't you let it slide this time?||{PA:10}He's still young."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_26
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_26"
+msgid "Yeah, he is. He's a fucking idiot,{PA:20}||walked right into a trap..."
+msgstr ""
+
+#. y1ps2.full_id: 93_0_27
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=0|sg=27
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_0_27"
+msgid "I'm gonna warn you,{PA:20}||we're known to not show any mercy."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_0
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_0"
+msgid "Aniki, I'm in deep shit!"
+msgstr ""
+
+#. y1ps2.full_id: 93_1_1
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_1"
+msgid "Please, Aniki!{PA:20}||Say something to him!"
+msgstr ""
+
+#. y1ps2.full_id: 93_1_2
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_2"
+msgid "It's none of my business. {PA:10}See you."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_3
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_3"
+msgid "Hehe. {PA:20}He is very understanding."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_4
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_4"
+msgid "Aniki...{PA:10}||I thought we were in this together..."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_5
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_5"
+msgid "I like you, {PA:10}Dragon of the Dojima Family.{PA:20}||Listen."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_6
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_6"
+msgid "There's the noodle shop in this city."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_7
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_7"
+msgid "Ask the owner for||a \"Half Order, Extra Soup\"."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_8
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_8"
+msgid "They'll let you in to an underground casino||first-timers are rejected."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_9
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_9"
+msgid "Keep this to yourself though."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_10
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_10"
+msgid "...Well, {PA:10}I gotta talk to Kano-san||for a little bit longer.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 93_1_11
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_11"
+msgid "It's best if you get lost now."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_13
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_13"
+msgid "Why don't you let it slide this time?||He's still young."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_14
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_14"
+msgid "Yeah, he is. He's a fucking idiot,{PA:20}||walked right into a trap..."
+msgstr ""
+
+#. y1ps2.full_id: 93_1_15
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0094|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_suits_03
+#. y1ps2.actor: w_0
+#. y1ps2.pose: stand_sexy_01
+msgctxt "93_1_15"
+msgid "I'm gonna warn you,{PA:20}||we're known to not show any mercy."
+msgstr ""

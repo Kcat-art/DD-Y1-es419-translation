@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0017\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0017.BIN\n"
+"X-Y1PS2-Source-SHA256: d50375ff477b2ca2edd9bab7c5721be4850b80b3c1703a6ca707c37def3e291f\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0017.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0017.BIN\n"
+"X-Y1PS2-Talk-SHA256: d50375ff477b2ca2edd9bab7c5721be4850b80b3c1703a6ca707c37def3e291f\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 105\n"
+"X-Y1PS2-Raw-Block-ID: 122\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x007A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7a000103c03c0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0017|block=0122|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: dj_Fmid\n"
+"X-Y1PS2-Actor: gc_Fmid\n"
+"X-Y1PS2-Pose: Wait02\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0017/reference/jp/t00__TALK_ST_KAB0017__jp__sec-0119__block-0122__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0017/reference/en/t00__ST_KAB0017__en__sec-0105__block-0122__type-01.po\n"
+
+#. y1ps2.full_id: 105_0_0
+#. y1ps2.logical_line_key: ST_KAB0017|block=0122|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Fmid
+#. y1ps2.actor: gc_Fmid
+#. y1ps2.pose: Wait02
+msgctxt "105_0_0"
+msgid "Señor, {PA:10}¿no quiere divertirse en un||bar de alterne?{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 105_0_1
+#. y1ps2.logical_line_key: ST_KAB0017|block=0122|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Fmid
+#. y1ps2.actor: gc_Fmid
+#. y1ps2.pose: Wait02
+msgctxt "105_0_1"
+msgid "iLe proporcionaré una chica guapa!"
+msgstr ""
+
+#. y1ps2.full_id: 105_1_0
+#. y1ps2.logical_line_key: ST_KAB0017|block=0122|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Fmid
+#. y1ps2.actor: gc_Fmid
+#. y1ps2.pose: Wait02
+msgctxt "105_1_0"
+msgid "Señor, {PA:10}¿conoces el nuevo bar de alterne||Llamado Shine que acaba de abrir por allí?"
+msgstr ""
+
+#. y1ps2.full_id: 105_1_1
+#. y1ps2.logical_line_key: ST_KAB0017|block=0122|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Fmid
+#. y1ps2.actor: gc_Fmid
+#. y1ps2.pose: Wait02
+msgctxt "105_1_1"
+msgid "¿Por qué no vienes a divertirte un poco?||Deberías venir para variar."
+msgstr ""
+
+#. y1ps2.full_id: 105_2_0
+#. y1ps2.logical_line_key: ST_KAB0017|block=0122|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Fmid
+#. y1ps2.actor: gc_Fmid
+#. y1ps2.pose: Wait02
+msgctxt "105_2_0"
+msgid "iVen a Shine!||iExperimenta la sensación"
+msgstr ""
+
+#. y1ps2.full_id: 105_2_1
+#. y1ps2.logical_line_key: ST_KAB0017|block=0122|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Fmid
+#. y1ps2.actor: gc_Fmid
+#. y1ps2.pose: Wait02
+msgctxt "105_2_1"
+msgid "de los bares de alterne!"
+msgstr ""

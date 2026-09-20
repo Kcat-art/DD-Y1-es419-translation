@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0022\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0022.BIN\n"
+"X-Y1PS2-Source-SHA256: fa5dd8a232e32e72dff09e2a1b7b12b31521493c4d4daf57765bcfba209907eb\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0022.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0022.BIN\n"
+"X-Y1PS2-Talk-SHA256: fa5dd8a232e32e72dff09e2a1b7b12b31521493c4d4daf57765bcfba209907eb\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 114\n"
+"X-Y1PS2-Raw-Block-ID: 115\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0073\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 73000102a0330000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0022|block=0115|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: bitch_40_Fdown\n"
+"X-Y1PS2-Actor: w_15\n"
+"X-Y1PS2-Pose: cus_wait_kyoro_01\n"
+
+#. y1ps2.full_id: 114_0_0
+#. y1ps2.logical_line_key: DAY_KAB0022|block=0115|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: bitch_40_Fdown
+#. y1ps2.actor: w_15
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "114_0_0"
+msgid "I saw Reina shopping||around the town."
+msgstr ""
+
+#. y1ps2.full_id: 114_0_1
+#. y1ps2.logical_line_key: DAY_KAB0022|block=0115|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: bitch_40_Fdown
+#. y1ps2.actor: w_15
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "114_0_1"
+msgid "But she looked very depressed...{PA:20}||I wonder if something was bothering her..."
+msgstr ""
+
+#. y1ps2.full_id: 114_1_0
+#. y1ps2.logical_line_key: DAY_KAB0022|block=0115|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: bitch_40_Fdown
+#. y1ps2.actor: w_15
+#. y1ps2.pose: cus_wait_kyoro_01
+msgctxt "114_1_0"
+msgid "Serena... Come to think of it, I saw||the mama-san of that bar the other day."
+msgstr ""

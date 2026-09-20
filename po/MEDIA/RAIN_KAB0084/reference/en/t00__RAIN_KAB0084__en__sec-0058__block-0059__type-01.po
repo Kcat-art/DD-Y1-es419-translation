@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0084\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0084.BIN\n"
+"X-Y1PS2-Source-SHA256: fa522cb8ca274abb31d4935ed070a87aff334da1bb647b8c9c04602cf25b1f59\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0084.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0084.BIN\n"
+"X-Y1PS2-Talk-SHA256: fa522cb8ca274abb31d4935ed070a87aff334da1bb647b8c9c04602cf25b1f59\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 58\n"
+"X-Y1PS2-Raw-Block-ID: 59\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x003B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 3b0001053c300000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0084|block=0059|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: SavePoint\n"
+"X-Y1PS2-Actor: w_8\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 58_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_0"
+msgid "Can I come in?"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 01
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_1"
+msgid "Hey! Are you alone?||No companion?"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_2"
+msgid "Who do you think I am?"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_3
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_3"
+msgid "Huh? {PA:10}You're obviously not a woman..."
+msgstr ""
+
+#. y1ps2.full_id: 58_3_4
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_4"
+msgid "This is a host bar. Only ladies are allowed.||You have to have a lady with you to come in."
+msgstr ""
+
+#. y1ps2.full_id: 58_3_5
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_5"
+msgid "{CU:c8c8c8}Hey! What are you doing?!{CU:ffffff}"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_6
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_6"
+msgid "Huh?"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_7
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_7"
+msgid "{CU:c8c8c8}He's a friend of Kazuki-san."
+msgstr ""
+
+#. y1ps2.full_id: 58_3_8
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_8"
+msgid "If you're new here,{PA:10} just go inside and||wait till someone needs your help!{CU:ffffff}"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_9
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_9"
+msgid "I'm sorry...||{PA:10}I didn't know."
+msgstr ""
+
+#. y1ps2.full_id: 58_3_10
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_10"
+msgid "Don't worry about it."
+msgstr ""
+
+#. y1ps2.full_id: 58_3_11
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=11
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_11"
+msgid "...{PA:10}Do you mind if I'm alone?{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_12
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=12
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_12"
+msgid "Yeah, I do. This is a host bar.||Only ladies are allowed."
+msgstr ""
+
+#. y1ps2.full_id: 58_3_13
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=13
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_13"
+msgid "You have to have a lady with you to come in."
+msgstr ""
+
+#. y1ps2.full_id: 58_3_14
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=14
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_14"
+msgid "It's common sense.||{PA:10}You should know better.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_15
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=15
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_15"
+msgid "{CU:c8c8c8}You idiot! {PA:10}Who the hell||do you think you are talking to?!{CU:ffffff}"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_16
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=16
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_16"
+msgid "Huh?||{PA:10}What's the problem?"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_17
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=17
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_17"
+msgid "{CU:c8c8c8}He's a friend of Kazuki-san."
+msgstr ""
+
+#. y1ps2.full_id: 58_3_18
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=18
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_18"
+msgid "If you're new here, {PA:10}just go inside and||wait till someone needs your help!{CU:ffffff}"
+msgstr ""
+
+#. y1ps2.full_id: 58_3_19
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=19
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_19"
+msgid "I'm sorry...!||{PA:10}I didn't know."
+msgstr ""
+
+#. y1ps2.full_id: 58_3_20
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=3|sg=20
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_3_20"
+msgid "Don't worry about it."
+msgstr ""
+
+#. y1ps2.full_id: 58_4_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_4_0"
+msgid "I got a bad feeling about this."
+msgstr ""
+
+#. y1ps2.full_id: 58_4_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_4_1"
+msgid "You mean about Shota?"
+msgstr ""
+
+#. y1ps2.full_id: 58_4_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_4_2"
+msgid "Yeah..."
+msgstr ""
+
+#. y1ps2.full_id: 58_4_3
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_4_3"
+msgid "Hosts these days||tend not to take their jobs seriously."
+msgstr ""
+
+#. y1ps2.full_id: 58_4_4
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0059|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: SavePoint
+#. y1ps2.actor: w_8
+#. y1ps2.pose: Idle
+msgctxt "58_4_4"
+msgid "Customers aren't made of money. They don't||consider how much the customer can afford."
+msgstr ""

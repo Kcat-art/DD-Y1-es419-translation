@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0213\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0213.BIN\n"
+"X-Y1PS2-Source-SHA256: 511854a03ab4d616726f1d40f22021b132934756f715434e7db756a2b4ce6a1d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0213.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0213.BIN\n"
+"X-Y1PS2-Talk-SHA256: 511854a03ab4d616726f1d40f22021b132934756f715434e7db756a2b4ce6a1d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 112\n"
+"X-Y1PS2-Raw-Block-ID: 125\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x007D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7d00010318460000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0213|block=0125|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER14\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C14_TRG_DATE\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0213/reference/jp/t00__TALK_ST_KAB0213__jp__sec-0124__block-0125__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0213/reference/en/t00__ST_KAB0213__en__sec-0112__block-0125__type-01.po\n"
+
+#. y1ps2.full_id: 112_0_0
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_0_0"
+msgid "Hay un centro||de información de entretenimiento"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_1
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_0_1"
+msgid "para adultos en la Calle Shinchifuki."
+msgstr ""
+
+#. y1ps2.full_id: 112_0_2
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_0_2"
+msgid "Deberías hablar con un tío||que se llama Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_0
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_0"
+msgid "He oído las noticias.{PA:20}||Vas a Shangri-la, ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_1
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_1"
+msgid "Entrar en el sitio||es muy complicado."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_2
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_2"
+msgid "¿Sábes dónde está el centro de información||de entretenimiento para adultos?"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_3
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_3"
+msgid "Sé dónde está."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_4
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_4"
+msgid "Oh,{PA:10} supongo que hacía mucho ruido.{PA:20}||{MS:1}{MS:0}Jeejee. {PA:10}Lo siento."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_5
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_5"
+msgid "No lo sé."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_6
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_6"
+msgid "Hay un centro de información||de entretenimiento"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_7
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_7"
+msgid "para adultos en la Calle Shichifuku."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_8
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_8"
+msgid "Si vas allí, te podrán dar toda||clase de información."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_9
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_9"
+msgid "Allí hay un tío{MS:1}{MS:0}||que se llama Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_10
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_1_10"
+msgid "Deberías hablar con él."
+msgstr ""
+
+#. y1ps2.full_id: 112_2_0
+#. y1ps2.logical_line_key: ST_KAB0213|block=0125|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_DATE
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "112_2_0"
+msgid "iHey! iKazuma-san!"
+msgstr ""

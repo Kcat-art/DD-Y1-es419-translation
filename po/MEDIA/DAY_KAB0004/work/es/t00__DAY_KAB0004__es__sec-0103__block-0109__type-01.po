@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0004\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0004.BIN\n"
+"X-Y1PS2-Source-SHA256: f7bc7eb1ed913640c8371e32af004944b6f6d378dce65b0c4e7fa4fb8c6b2822\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0004.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0004.BIN\n"
+"X-Y1PS2-Talk-SHA256: f7bc7eb1ed913640c8371e32af004944b6f6d378dce65b0c4e7fa4fb8c6b2822\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 103\n"
+"X-Y1PS2-Raw-Block-ID: 109\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6d00010524410000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0004|block=0109|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: cava_minigameF\n"
+"X-Y1PS2-Actor: w_7\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0004/reference/jp/t00__TALK_ST_KAB0004__jp__sec-0108__block-0109__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0004/reference/en/t00__DAY_KAB0004__en__sec-0103__block-0109__type-01.po\n"
+
+#. y1ps2.full_id: 103_0_0
+#. y1ps2.logical_line_key: DAY_KAB0004|block=0109|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "103_0_0"
+msgid "i¿Quién demonios eres?!{PA:10}||i¿Por qué demonios me estás mirando?!"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_1
+#. y1ps2.logical_line_key: DAY_KAB0004|block=0109|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "103_0_1"
+msgid "¿Tratas de liarla o qué?"
+msgstr ""
+
+#. y1ps2.full_id: 103_0_2
+#. y1ps2.logical_line_key: DAY_KAB0004|block=0109|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "103_0_2"
+msgid "Ah-ha. Eres amigo de Shinji Tanaka...{PA:10}||iiNo esperes piedad!!"
+msgstr ""
+
+#. y1ps2.full_id: 103_1_0
+#. y1ps2.logical_line_key: DAY_KAB0004|block=0109|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "103_1_0"
+msgid "iHey! iEspera!"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_0
+#. y1ps2.logical_line_key: DAY_KAB0004|block=0109|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "103_3_0"
+msgid "Sabes dónde está Shinji,{PA:5} i¿verdad?!{PA:10}||iiRespóndeme cuando te hable!!"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_1
+#. y1ps2.logical_line_key: DAY_KAB0004|block=0109|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "103_3_1"
+msgid "{SP:2}Umm...{PA:10}||Ya no está aquí.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 103_3_2
+#. y1ps2.logical_line_key: DAY_KAB0004|block=0109|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "103_3_2"
+msgid "{SP:2}De...{PA:10} debe haberse ido||al Distrito Champion..."
+msgstr ""
+
+#. y1ps2.full_id: 103_3_3
+#. y1ps2.logical_line_key: DAY_KAB0004|block=0109|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "103_3_3"
+msgid "iPor favor,{PA:10} no me pegues más...!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 103_4_0
+#. y1ps2.logical_line_key: DAY_KAB0004|block=0109|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: cava_minigameF
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "103_4_0"
+msgid "{SP:2}Mira en el Distrito Champion...{MR:00}"
+msgstr ""

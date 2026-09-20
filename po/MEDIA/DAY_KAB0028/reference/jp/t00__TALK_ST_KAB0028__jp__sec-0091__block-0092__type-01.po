@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0028\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0028.ARC\n"
+"X-Y1PS2-Source-SHA256: 307aac4be5d33778c55c5ed8d1dd2eb40927c5acff72d2f7c002e42291e70862\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0028.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0028.ARC/0/8___TALK_ST_KAB0028.BIN\n"
+"X-Y1PS2-Talk-SHA256: ca457534af7353451876aee0c953999bbaf9c75abf01e7b219db3f1c193270ad\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 91\n"
+"X-Y1PS2-Raw-Block-ID: 92\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5c000102c8310200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0028|block=0092|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_chima01\n"
+"X-Y1PS2-Actor: w_4\n"
+"X-Y1PS2-Pose: Stand01\n"
+
+#. y1ps2.full_id: 91_0_0
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 1e
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_0_0"
+msgid "⋯ちっ➿これっぽっちかよ"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_0
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_0"
+msgid "{CU:c8c8ff}おい。{PA:20}||白いカバンはどこにやった？"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_1
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_1"
+msgid "{CU:ffffff}ひっ➿{PA:10}なんでぇ➿{PA:10}あんた？||カバンなんて知らねぇよ。"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_2
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_2"
+msgid "{CU:c8c8ff}正直に話した方が身のためだ。"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_3
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_3"
+msgid "{CU:ffffff}な、{PA:10}なんのことだか➿{PA:10}さっぱり⋯"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_4
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_4"
+msgid "{CU:c8c8ff}じゃぁ➿{PA:10}病院のベッドで||ゆっくり思い出してみるか？"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_5
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_5"
+msgid "{CU:ffffff}わ、{PA:10}わかった。{PA:20}俺は頼まれて||カバン盜っただけだよ。{PA:20}信じてくれ！"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_6
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_6"
+msgid "あ、{PA:10}あいつら第三公園にたむろってる。||い、{PA:10}今行けばたぶん取り返せるよ。"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_7
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_7"
+msgid "だから、{PA:10}見逃してくれ！"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_8
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_8"
+msgid "{CU:c8c8ff}そうか、{PA:10}邪魔したな。"
+msgstr ""
+
+#. y1ps2.full_id: 91_1_9
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0092|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_chima01
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "91_1_9"
+msgid "{CU:ffffff}へっ、{PA:10}単なる脅しかよ。"
+msgstr ""

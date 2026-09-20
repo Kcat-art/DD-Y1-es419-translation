@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0054\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0054.BIN\n"
+"X-Y1PS2-Source-SHA256: 7d806e4e85b72bd534d8ba902527679df1c7ef983954cb716e4404778a55f13b\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0054.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0054.BIN\n"
+"X-Y1PS2-Talk-SHA256: 7d806e4e85b72bd534d8ba902527679df1c7ef983954cb716e4404778a55f13b\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 91\n"
+"X-Y1PS2-Raw-Block-ID: 92\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5c0001022c330000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0054|block=0092|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: date_damage\n"
+"X-Y1PS2-Actor: w_125\n"
+"X-Y1PS2-Pose: lp_damaage\n"
+
+#. y1ps2.full_id: 91_0_0
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_0"
+msgid "Ah, {PA:10}Kazuma-san. {PA:10}Thank you for coming."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_1
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_1"
+msgid "What's wrong?"
+msgstr ""
+
+#. y1ps2.full_id: 91_0_2
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_2"
+msgid "Um... {PA:20}I saw a familiar face,||so I was just trying to catch up to him."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_3
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_3"
+msgid "But I lost him around here."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_4
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_4"
+msgid "A familiar face? Who?"
+msgstr ""
+
+#. y1ps2.full_id: 91_0_5
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_5"
+msgid "...My father."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_6
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_6"
+msgid "You came this far just to follow him?"
+msgstr ""
+
+#. y1ps2.full_id: 91_0_7
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_7"
+msgid "Yup. {PA:20}...Because 5 years ago...{PA:10}||he disappeared..."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_8
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_8"
+msgid "I didn't know that..."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_9
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_9"
+msgid "When he saw my face, {PA:10}he just took off."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_10
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_10"
+msgid "He looked like a tramp,{PA:20}||wearing dirty clothes."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_11
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_11"
+msgid "He used to be a man||who paid attention to his appearance."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_12
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_12"
+msgid "Did he go into that restroom?"
+msgstr ""
+
+#. y1ps2.full_id: 91_0_13
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_0_13"
+msgid "Probably.{PA:20}||...'Cause I lost him somewhere around here."
+msgstr ""
+
+#. y1ps2.full_id: 91_1_0
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_1_0"
+msgid "I wonder||if my father entered this restroom..."
+msgstr ""
+
+#. y1ps2.full_id: 91_1_1
+#. y1ps2.logical_line_key: DAY_KAB0054|block=0092|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: date_damage
+#. y1ps2.actor: w_125
+#. y1ps2.pose: lp_damaage
+msgctxt "91_1_1"
+msgid "He was wearing such dirty clothes..."
+msgstr ""

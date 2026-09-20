@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0226\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0226.BIN\n"
+"X-Y1PS2-Source-SHA256: 28ca6cc7e6a2f7e26fceeee8e9b514255152cbb29f6bfe3312b251d33d24c687\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0226.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0226.BIN\n"
+"X-Y1PS2-Talk-SHA256: 28ca6cc7e6a2f7e26fceeee8e9b514255152cbb29f6bfe3312b251d33d24c687\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 16\n"
+"X-Y1PS2-Raw-Block-ID: 17\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0011\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 11000102144c0000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0226|block=0017|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_37\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0226/reference/jp/t00__TALK_ST_KAB0226__jp__sec-0017__block-0017__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0226/reference/en/t00__RAIN_KAB0226__en__sec-0016__block-0017__type-01.po\n"
+
+#. y1ps2.full_id: 16_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0226|block=0017|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_0"
+msgid "Hace 10 años que||murió mi marido..."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0226|block=0017|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_1"
+msgid "Yayoi-san,{PA:10} eso fue hace mucho tiempo."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0226|block=0017|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_2"
+msgid "... Creía en ti.{PA:10} Pensaba que un día te||alzarías con el poder en la Familia Dojima."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0226|block=0017|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_0"
+msgid "Ahora...{PA:10} debes pagar||por lo que has hecho."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0226|block=0017|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_4"
+msgid "iiiEres un puto hombre muerto,{PA:10}||Kazuma!!!"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0226|block=0017|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_5"
+msgid "iiQuiero verte sufrir!!"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_6
+#. y1ps2.logical_line_key: RAIN_KAB0226|block=0017|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_6"
+msgid "iiTe voy a cortar los cojones!!"
+msgstr ""

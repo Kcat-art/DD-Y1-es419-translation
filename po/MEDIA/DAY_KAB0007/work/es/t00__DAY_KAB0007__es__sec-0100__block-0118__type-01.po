@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0007\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0007.BIN\n"
+"X-Y1PS2-Source-SHA256: 1fa6a498e4e1413ac0e64ace13230e34ac3d66a67017c3826bb9ac4b15265fdc\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0007.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0007.BIN\n"
+"X-Y1PS2-Talk-SHA256: 1fa6a498e4e1413ac0e64ace13230e34ac3d66a67017c3826bb9ac4b15265fdc\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 100\n"
+"X-Y1PS2-Raw-Block-ID: 118\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0076\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 76000104dc3b0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0007|block=0118|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: parka2_Msh_b\n"
+"X-Y1PS2-Actor: parka2_Msh_b\n"
+"X-Y1PS2-Pose: Stand03\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0007/reference/en/t00__DAY_KAB0007__en__sec-0100__block-0118__type-01.po\n"
+
+#. y1ps2.full_id: 100_0_0
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_0_0"
+msgid "Soy el líder de los Cazadores de Bandas.||Mejor que te rindas, iahora!"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_0
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_1_0"
+msgid "iOye! iTú! iAlto donde estás!"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_0
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_0"
+msgid "Hey,{PA:10} hay alguien que mueve||los hilos en la sombra,"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_1
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_1"
+msgid "¿me equivoco? ¿Quién es?"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_2
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_2"
+msgid "No...{PA:10}||No puedo decírtelo..."
+msgstr ""
+
+#. y1ps2.full_id: 100_2_3
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_3"
+msgid "iNo me jodas!||iQuién os está ordenando que hagáis esto!"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_4
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_4"
+msgid "Bueno...{PA:10} ok.{PA:10}||Hay un tipo,{PA:10} Asano, del Clan Tojo."
+msgstr ""
+
+#. y1ps2.full_id: 100_2_5
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_5"
+msgid "¿Dónde puedo encontrarlo?"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_6
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_6"
+msgid "S...{PA:10} Sí, {PA:10}siempre hemos quedado||en el Distrito Hotelero."
+msgstr ""
+
+#. y1ps2.full_id: 100_2_7
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_7"
+msgid "Estoy seguro de que podrás encontrarlo allí."
+msgstr ""
+
+#. y1ps2.full_id: 100_2_8
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_8"
+msgid "Has ganado 1.000 exp."
+msgstr ""
+
+#. y1ps2.full_id: 100_2_9
+#. y1ps2.logical_line_key: DAY_KAB0007|block=0118|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: parka2_Msh_b
+#. y1ps2.pose: Stand03
+msgctxt "100_2_9"
+msgid "Distrito Hotelero, eh."
+msgstr ""

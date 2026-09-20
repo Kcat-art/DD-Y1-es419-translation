@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0022\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0022.BIN\n"
+"X-Y1PS2-Source-SHA256: 0e3c9f1f7a7afa5d0fd03f439bafaf1d641bf6f448cbe1392a56e047d324ba83\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0022.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0022.BIN\n"
+"X-Y1PS2-Talk-SHA256: 0e3c9f1f7a7afa5d0fd03f439bafaf1d641bf6f448cbe1392a56e047d324ba83\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 117\n"
+"X-Y1PS2-Raw-Block-ID: 118\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0076\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7600010364360000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0022|block=0118|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_warashibe_cold\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: lp_damaage\n"
+
+#. y1ps2.full_id: 117_0_0
+#. y1ps2.logical_line_key: ST_KAB0022|block=0118|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 01
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_cold
+#. y1ps2.actor: w_0
+#. y1ps2.pose: lp_damaage
+msgctxt "117_0_0"
+msgid "Yuya"
+msgstr ""
+
+#. y1ps2.full_id: 117_2_0
+#. y1ps2.logical_line_key: ST_KAB0022|block=0118|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_cold
+#. y1ps2.actor: w_0
+#. y1ps2.pose: lp_damaage
+msgctxt "117_2_0"
+msgid "It's Yuya.{PA:10}||I'm with Miyu right now."
+msgstr ""
+
+#. y1ps2.full_id: 117_2_1
+#. y1ps2.logical_line_key: ST_KAB0022|block=0118|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_cold
+#. y1ps2.actor: w_0
+#. y1ps2.pose: lp_damaage
+msgctxt "117_2_1"
+msgid "When I told them you wouldn't show up,||they let us go..."
+msgstr ""
+
+#. y1ps2.full_id: 117_2_2
+#. y1ps2.logical_line_key: ST_KAB0022|block=0118|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_cold
+#. y1ps2.actor: w_0
+#. y1ps2.pose: lp_damaage
+msgctxt "117_2_2"
+msgid "I wasn't able to find out anything.{PA:20}||...I hope that's okay with you?"
+msgstr ""
+
+#. y1ps2.full_id: 117_2_3
+#. y1ps2.logical_line_key: ST_KAB0022|block=0118|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_cold
+#. y1ps2.actor: w_0
+#. y1ps2.pose: lp_damaage
+msgctxt "117_2_3"
+msgid "Well,{PA:10} I'm gonna go take Miyu||to a doctor. {PA:10}Take care."
+msgstr ""
+
+#. y1ps2.full_id: 117_2_4
+#. y1ps2.logical_line_key: ST_KAB0022|block=0118|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_cold
+#. y1ps2.actor: w_0
+#. y1ps2.pose: lp_damaage
+msgctxt "117_2_4"
+msgid "...tu-tu-tu-..."
+msgstr ""

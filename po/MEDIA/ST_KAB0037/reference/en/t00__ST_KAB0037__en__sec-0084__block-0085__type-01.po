@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0037\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0037.BIN\n"
+"X-Y1PS2-Source-SHA256: 45fd96cfbd6f2ca240788e6d2a110dd09ce7536b99277b9583e5c3993315f87a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0037.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0037.BIN\n"
+"X-Y1PS2-Talk-SHA256: 45fd96cfbd6f2ca240788e6d2a110dd09ce7536b99277b9583e5c3993315f87a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 84\n"
+"X-Y1PS2-Raw-Block-ID: 85\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0055\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5500010524300000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0037|block=0085|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_09\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NISE_PARESU\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 84_0_0
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_0_0"
+msgid "Hey! You!!"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_0
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_0"
+msgid "That's a nice suit you're wearing there!"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_1
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_1"
+msgid "You're getting more attention around here||than me,"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_2
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_2"
+msgid "the number one host around these parts."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_3
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_3"
+msgid "You're putting me out of business."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_4
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_4"
+msgid "Why don't you take off||all your clothes?"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_5
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_5"
+msgid "You gave him your clothes."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_6
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_6"
+msgid "That's my boy! {PA:20}Why don't you||give me 10,000 yen to show you're sorry?"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_8
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_8"
+msgid "You paid him 10,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_9
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_9"
+msgid "Hmmm. {PA:20}You're a good guy.{PA:20}||I'll give this to you."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_10
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_10"
+msgid "You received a Charisma Ring."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_12
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_12"
+msgid "When you wear it,{PA:10}||any woman will fall for you."
+msgstr ""
+
+#. y1ps2.full_id: 84_1_13
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_13"
+msgid "Huh?{PA:10} You don't have enough money?!||Don't fuck with me!"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_14
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_14"
+msgid "Don't fuck with me!"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_15
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_1_15"
+msgid "Huh?{PA:10} Don't fuck with me!"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_0
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_0"
+msgid "Eeeeeek!"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_1
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_1"
+msgid "Even though you may be strong,||that doesn't mean you'll get all the girls!!"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_2
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_2"
+msgid "You gained 300 exp."
+msgstr ""
+
+#. y1ps2.full_id: 84_2_4
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_4"
+msgid "I'll give this back to you..."
+msgstr ""
+
+#. y1ps2.full_id: 84_2_5
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_2_5"
+msgid "You got all your clothes back."
+msgstr ""
+
+#. y1ps2.full_id: 84_3_0
+#. y1ps2.logical_line_key: ST_KAB0037|block=0085|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_09
+#. y1ps2.story_title: 偽美月の真相
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NISE_PARESU
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 9
+msgctxt "84_3_0"
+msgid "Even though you may be strong,||that doesn't mean you'll get all the girls!!"
+msgstr ""

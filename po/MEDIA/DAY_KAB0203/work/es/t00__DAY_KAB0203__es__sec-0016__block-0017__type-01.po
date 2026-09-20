@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0203\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0203.BIN\n"
+"X-Y1PS2-Source-SHA256: 6c7eda950a7d2864bb31b760a24edb271555312d9a66fa2e4f884f82abd7dd60\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0203.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0203.BIN\n"
+"X-Y1PS2-Talk-SHA256: 6c7eda950a7d2864bb31b760a24edb271555312d9a66fa2e4f884f82abd7dd60\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 16\n"
+"X-Y1PS2-Raw-Block-ID: 17\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0011\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 110001036c2d0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0203|block=0017|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_37\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0203/reference/jp/t00__TALK_ST_KAB0203__jp__sec-0017__block-0017__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0203/reference/en/t00__DAY_KAB0203__en__sec-0016__block-0017__type-01.po\n"
+
+#. y1ps2.full_id: 16_0_0
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_0"
+msgid "iDate prisa y ve!"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_0
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_0"
+msgid "¿Quieres saber información sobre los||10 billones del Clan Tojo y sobre esas"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_1
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_1"
+msgid "dos mujeres, Mizuki y Yumi?"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_2
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_2"
+msgid "El tercer presidente del Clan Tojo ocultaba||que el dinero fue robado."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_3
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_3"
+msgid "Pero un capitán afiliado llamado Nishiki||reveló esta información en una reunión"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_4
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_4"
+msgid "de emergencia."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_5
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_5"
+msgid "Creo que el que mató al tercero...{PA:20}||fue Nishiki."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_6
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_6"
+msgid "A juzgar por sus estratagemas,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_7
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_7"
+msgid "no tengo ninguna duda de que está tratando||de convertirse en el cuarto presidente."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_8
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_8"
+msgid "Ése sería el motivo..."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_9
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_9"
+msgid "El Clan Tojo tiene las manos llenas||de jefes rivales. El tercero está muerto"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_10
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_10"
+msgid "y aún no han decidido su sucesor."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_11
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_11"
+msgid "Lo que significa que...{PA:20} El que tenga||los 10 billones será el cuarto presidente."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_12
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_12"
+msgid "Nishiki creó un monstruo||al revelar al presidente."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_13
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_13"
+msgid "No obstante, ¿dónde quedaron||la humanidad y la justicia?"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_14
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_14"
+msgid "Hubo un chivatazo anónimo que decía||que quien tenía los 10 billones era"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_15
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_15"
+msgid "una chica llamada Yumi."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_16
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_16"
+msgid "¿Qué?"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_17
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_17"
+msgid "Mientras buscaba alguna||prueba sobre el chivatazo,"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_18
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_18"
+msgid "descubrí que su hermana, Mizuki,"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_19
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_19"
+msgid "cerró el bar, Ares, y desapareció||justo antes del incidente."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_20
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_20"
+msgid "Parece que están detrás de todo,{PA:10}||{MS:0}pero nadie las ha podido encontrar..."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_21
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_21"
+msgid "Y..."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_22
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_22"
+msgid "la hija de Mizuki,{PA:10}||Haruka..."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_23
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=23
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_23"
+msgid "¿Qué acabas de decir?"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_24
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=24
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_24"
+msgid "El Clan Tojo Clan está buscando a la hija||de Mizuki. {PA:20}Haruka está ahora conmigo."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_25
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=25
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_25"
+msgid "Haruka... {PA:20}Entiendo..."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_26
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=26
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_26"
+msgid "Antes de ayer vino aquí una mujer||extraña con la cara tapada."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_27
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=27
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_27"
+msgid "Me pidió que cuidara de Haruka."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_28
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=28
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_28"
+msgid "¿Puede que esa mujer||fuera Yumi, o Mizuki?"
+msgstr ""
+
+#. y1ps2.full_id: 16_1_29
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=29
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_29"
+msgid "No lo sé."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_30
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=30
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_30"
+msgid "Le vi la cara,{PA:10}||{MS:0}pero no sé si era Yumi o Mizuki."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_31
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=31
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_31"
+msgid "... No quiero trabajar para nadie sobre||el que no sepa nada."
+msgstr ""
+
+#. y1ps2.full_id: 16_1_32
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=1|sg=32
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_1_32"
+msgid "Así que le dije que se marchara."
+msgstr ""
+
+#. y1ps2.full_id: 16_2_0
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_2_0"
+msgid "¿Eh?{PA:10}||¿Qué demonios haces en un lugar como éste?"
+msgstr ""
+
+#. y1ps2.full_id: 16_2_1
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_2_1"
+msgid "Has ganado un punto."
+msgstr ""
+
+#. y1ps2.full_id: 16_2_2
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_2_2"
+msgid "Realmente te importa esa niña, ¿verdad?{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 16_2_3
+#. y1ps2.logical_line_key: DAY_KAB0203|block=0017|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_2_3"
+msgid "Mejor que llegues a la Jaula de Bateo||tan pronto como te sea posible."
+msgstr ""

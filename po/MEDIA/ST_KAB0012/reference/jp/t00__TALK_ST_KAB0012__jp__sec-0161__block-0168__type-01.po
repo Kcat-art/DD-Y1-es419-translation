@@ -1,0 +1,592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0012\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0012.ARC\n"
+"X-Y1PS2-Source-SHA256: 05c69ea18dc712bdb14cde4402947ba7460b3beeddcf1691002597105a26ef72\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0012.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0012.ARC/0/8___TALK_ST_KAB0012.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3fa073f3ab28ee2e95d6fcfe4c854e9f22d1ad36106cfff0a8fb96558bb29d20\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 161\n"
+"X-Y1PS2-Raw-Block-ID: 168\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00A8\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: a800011d947b0200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0012|block=0168|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: RandomEncount_03\n"
+"X-Y1PS2-Actor: double_B_M64\n"
+"X-Y1PS2-Pose: TalkBluff\n"
+
+#. y1ps2.full_id: 161_0_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_0_0"
+msgid "チョット待てよ！{PA:10}人が声かけてんのに||シカトすんなや！➿{PA:10}ぶっ殺したるわ！"
+msgstr ""
+
+#. y1ps2.full_id: 161_1_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_1_0"
+msgid "なぁ⋯ニイチャン"
+msgstr ""
+
+#. y1ps2.full_id: 161_2_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_2_0"
+msgid "すいません⋯{PA:20}これ、{PA:10}どうぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 161_2_1
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_2_1"
+msgid "「高級傘」を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 161_3_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_3_0"
+msgid "すいません⋯{PA:20}||もう、{PA:10}行ってください⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 161_4_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_4_0"
+msgid "舐めたツラ下げて何歩いとんのやコラ！{PA:10}||いっぺん死んどけやワレ！"
+msgstr ""
+
+#. y1ps2.full_id: 161_5_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_5_0"
+msgid "オイコラ！テメェ！"
+msgstr ""
+
+#. y1ps2.full_id: 161_6_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_6_0"
+msgid "ひぃ！{PA:10}噓です、{PA:10}すいませんっ！||よかったらコレどうぞ。"
+msgstr ""
+
+#. y1ps2.full_id: 161_6_1
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_6_1"
+msgid "「金貨１０𝐆」を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 161_7_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_7_0"
+msgid "じょ、{PA:10}冗談やで⋯{PA:20}➿勘弁してぇ⋯"
+msgstr ""
+
+#. y1ps2.full_id: 161_8_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_8_0"
+msgid "お前、{PA:10}舐めたマネしくさってるって噂の奴やな！{PA:10}||今日はキッチリ落とし前つけてもらおうか！！"
+msgstr ""
+
+#. y1ps2.full_id: 161_9_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_9_0"
+msgid "見つけたぞ！"
+msgstr ""
+
+#. y1ps2.full_id: 161_10_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_10_0"
+msgid "ひ、{PA:10}人違い！？{PA:10}||⋯スマン、{PA:10}ワビ代わりに受け取ってくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 161_10_1
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_10_1"
+msgid "「５千円」を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 161_11_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_11_0"
+msgid "すまなかった⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 161_12_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=12|sg=0
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_12_0"
+msgid "目立ち過ぎなんだよコラ！||あんま調子にのるんじゃねぇよ！"
+msgstr ""
+
+#. y1ps2.full_id: 161_13_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=13|sg=0
+#. y1ps2.main_group: 13
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_13_0"
+msgid "おい！アンタ！"
+msgstr ""
+
+#. y1ps2.full_id: 161_14_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=14|sg=0
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_14_0"
+msgid "ゆ、{PA:10}許してください⋯。{PA:20}||これ、{PA:10}ほんの気持ちです。"
+msgstr ""
+
+#. y1ps2.full_id: 161_14_1
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=14|sg=1
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_14_1"
+msgid "「８千円」を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 161_15_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=15|sg=0
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_15_0"
+msgid "ゆ、{PA:10}許してください〜"
+msgstr ""
+
+#. y1ps2.full_id: 161_16_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=16|sg=0
+#. y1ps2.main_group: 16
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_16_0"
+msgid "最近派手に暴れてるヤツってのはお前かぁ！？{PA:10}||あんまチョーシこいてんじゃねぇぞ！！"
+msgstr ""
+
+#. y1ps2.full_id: 161_17_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=17|sg=0
+#. y1ps2.main_group: 17
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_17_0"
+msgid "オイ！コラ！"
+msgstr ""
+
+#. y1ps2.full_id: 161_18_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=18|sg=0
+#. y1ps2.main_group: 18
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_18_0"
+msgid "あ、{PA:10}どうもボクの勘違いだったみたいです⋯{PA:20}||これ、{PA:10}ほんのお詫びです。"
+msgstr ""
+
+#. y1ps2.full_id: 161_18_1
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=18|sg=1
+#. y1ps2.main_group: 18
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_18_1"
+msgid "「１万円」を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 161_19_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=19|sg=0
+#. y1ps2.main_group: 19
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_19_0"
+msgid "はは⋯。➿{PA:20}最近疲れ気味で⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 161_20_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=20|sg=0
+#. y1ps2.main_group: 20
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_20_0"
+msgid "ちょっと態度でけぇんじゃねぇか？{PA:10}||あぁ！？{PA:10}➿ちょっと反省してもらおうか！！"
+msgstr ""
+
+#. y1ps2.full_id: 161_21_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=21|sg=0
+#. y1ps2.main_group: 21
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_21_0"
+msgid "おい！そこの野郎！"
+msgstr ""
+
+#. y1ps2.full_id: 161_22_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=22|sg=0
+#. y1ps2.main_group: 22
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_22_0"
+msgid "自分の態度を改めます⋯。{PA:20}||すいませんでした。"
+msgstr ""
+
+#. y1ps2.full_id: 161_22_1
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=22|sg=1
+#. y1ps2.main_group: 22
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_22_1"
+msgid "「２万円」を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 161_23_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=23|sg=0
+#. y1ps2.main_group: 23
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_23_0"
+msgid "出直してきます⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 161_24_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=24|sg=0
+#. y1ps2.main_group: 24
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_24_0"
+msgid "何エラそうにこの辺歩いてんだぁ！？{PA:10}||オマエのようなヤツ見るとイライラするんじゃ！"
+msgstr ""
+
+#. y1ps2.full_id: 161_25_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=25|sg=0
+#. y1ps2.main_group: 25
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_25_0"
+msgid "てめぇ！"
+msgstr ""
+
+#. y1ps2.full_id: 161_26_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=26|sg=0
+#. y1ps2.main_group: 26
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_26_0"
+msgid "八つ当たりしてすいませんでした⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 161_26_1
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=26|sg=1
+#. y1ps2.main_group: 26
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_26_1"
+msgid "「５千円」を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 161_27_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0168|type=01|mg=27|sg=0
+#. y1ps2.main_group: 27
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: RandomEncount_03
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: TalkBluff
+msgctxt "161_27_0"
+msgid "むぅ⋯{PA:20}クソッ！"
+msgstr ""

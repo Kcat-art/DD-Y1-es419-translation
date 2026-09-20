@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0201\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0201.BIN\n"
+"X-Y1PS2-Source-SHA256: 3ef12e61d90f561a3633706772e9c19c625d7bacd44050c31f7530134e480fde\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0201.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0201.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3ef12e61d90f561a3633706772e9c19c625d7bacd44050c31f7530134e480fde\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 83\n"
+"X-Y1PS2-Raw-Block-ID: 112\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0070\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7000010518360000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0201|block=0112|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: U_oiran_a_oiran_b\n"
+"X-Y1PS2-Actor: w_1048577\n"
+"X-Y1PS2-Pose: o_sai_yuujo_stand\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0201/reference/jp/t00__TALK_ST_KAB0201__jp__sec-0083__block-0112__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0201/reference/en/t00__DAY_KAB0201__en__sec-0083__block-0112__type-01.po\n"
+
+#. y1ps2.full_id: 83_0_0
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_0_0"
+msgid "iTú, {PA:10}campeón!{PA:10}||Estamos preparando las"
+msgstr ""
+
+#. y1ps2.full_id: 83_0_1
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_0_1"
+msgid "instalaciones en este momento."
+msgstr ""
+
+#. y1ps2.full_id: 83_0_2
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_0_2"
+msgid "¿Por qué no te inscribes en||el torneo más adelante?"
+msgstr ""
+
+#. y1ps2.full_id: 83_1_0
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_1_0"
+msgid "Tú, {PA:10}iCampeón!{PA:10}||Todo el mundo espera tu regreso."
+msgstr ""
+
+#. y1ps2.full_id: 83_1_1
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_1_1"
+msgid "¿Sabes?||Eres el primer tío que vence a"
+msgstr ""
+
+#. y1ps2.full_id: 83_1_2
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_1_2"
+msgid "Holmes en 3 años."
+msgstr ""
+
+#. y1ps2.full_id: 83_1_3
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_1_3"
+msgid "Así que, ¿qué me dices?{PA:10}||¿Qué te parece una revancha?"
+msgstr ""
+
+#. y1ps2.full_id: 83_1_4
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_1_4"
+msgid "¿En serio?{PA:10}||iUna revancha!"
+msgstr ""
+
+#. y1ps2.full_id: 83_1_5
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_1_5"
+msgid "Estoy deseando volver a verte luchar.{PA:20}||Buena suerte."
+msgstr ""
+
+#. y1ps2.full_id: 83_1_7
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_1_7"
+msgid "... Qué mal."
+msgstr ""
+
+#. y1ps2.full_id: 83_1_8
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_1_8"
+msgid "Vuelve si cambias de opinión.{PA:20}||Todo el mundo te espera."
+msgstr ""
+
+#. y1ps2.full_id: 83_2_0
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_2_0"
+msgid "iHola, {PA:10}Kazuma-san!{PA:10}||¿Has vuelto por más?"
+msgstr ""
+
+#. y1ps2.full_id: 83_2_1
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_2_1"
+msgid "Entonces, {PA:10}¿qué me dices?||¿Te inscribes de nuevo en el torneo?"
+msgstr ""
+
+#. y1ps2.full_id: 83_2_2
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_2_2"
+msgid "De acuerdo, {PA:10}buena suerte."
+msgstr ""
+
+#. y1ps2.full_id: 83_2_4
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_2_4"
+msgid "... Qué pena."
+msgstr ""
+
+#. y1ps2.full_id: 83_2_5
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_2_5"
+msgid "Vuelve si cambias de opinión.{PA:20}||Todo el mundo te está esperando."
+msgstr ""
+
+#. y1ps2.full_id: 83_3_0
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_3_0"
+msgid "iTú, {PA:10}campeón!"
+msgstr ""
+
+#. y1ps2.full_id: 83_3_1
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_3_1"
+msgid "Todo el mundo quiere saber||cuántas victorias consecutivas"
+msgstr ""
+
+#. y1ps2.full_id: 83_3_2
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_3_2"
+msgid "puedes lograr."
+msgstr ""
+
+#. y1ps2.full_id: 83_3_3
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_3_3"
+msgid "Entonces, ya que estás aquí,||¿quieres volver a pelear o algo?"
+msgstr ""
+
+#. y1ps2.full_id: 83_3_4
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_3_4"
+msgid "iÉse es el espíritu, {PA:10}campeón!{PA:20}||Buena suerte."
+msgstr ""
+
+#. y1ps2.full_id: 83_3_6
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_3_6"
+msgid "...Ouuu. Qué mal."
+msgstr ""
+
+#. y1ps2.full_id: 83_3_7
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_3_7"
+msgid "Vuelve si cambias de opinión.{PA:20}||Todo el mundo te está esperando."
+msgstr ""
+
+#. y1ps2.full_id: 83_4_0
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_4_0"
+msgid "Escucha, {PA:10}Kazuma-san.{PA:20}||Eres muy popular, así que todo el mundo"
+msgstr ""
+
+#. y1ps2.full_id: 83_4_1
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_4_1"
+msgid "está esperando a que vuelvas a entrar."
+msgstr ""
+
+#. y1ps2.full_id: 83_4_2
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_4_2"
+msgid "Si participas en el torneo,||mucha gente hará apuestas.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 83_4_3
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_4_3"
+msgid "Kage, que es el corredor, estará encantado."
+msgstr ""
+
+#. y1ps2.full_id: 83_4_4
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_4_4"
+msgid "Y bien, ¿qué dices?{PA:10}||Tienes que participar."
+msgstr ""
+
+#. y1ps2.full_id: 83_4_5
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_4_5"
+msgid "De acuerdo, {PA:10}buena suerte.{PA:20}||El público está esperando tu pelea."
+msgstr ""
+
+#. y1ps2.full_id: 83_4_7
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_4_7"
+msgid "... Muy mal."
+msgstr ""
+
+#. y1ps2.full_id: 83_4_8
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0112|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: U_oiran_a_oiran_b
+#. y1ps2.actor: w_1048577
+#. y1ps2.pose: o_sai_yuujo_stand
+msgctxt "83_4_8"
+msgid "Vuelve si cambias de opinión.{PA:20}||Todo el mundo te está esperando."
+msgstr ""

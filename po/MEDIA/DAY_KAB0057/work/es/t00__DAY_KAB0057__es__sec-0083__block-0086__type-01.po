@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0057\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0057.BIN\n"
+"X-Y1PS2-Source-SHA256: 9eddb53f68b851c65d4795f034bb95ca4c9067d60671308c44f4baf80ce09150\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0057.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0057.BIN\n"
+"X-Y1PS2-Talk-SHA256: 9eddb53f68b851c65d4795f034bb95ca4c9067d60671308c44f4baf80ce09150\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 83\n"
+"X-Y1PS2-Raw-Block-ID: 86\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0056\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 560001025c360000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0057|block=0086|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: CELLULAR\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: cellular\n"
+"X-Y1PS2-Actor: w_1\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0057/reference/jp/t00__TALK_ST_KAB0057__jp__sec-0085__block-0086__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0057/reference/en/t00__DAY_KAB0057__en__sec-0083__block-0086__type-01.po\n"
+
+#. y1ps2.full_id: 83_0_0
+#. y1ps2.logical_line_key: DAY_KAB0057|block=0086|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "83_0_0"
+msgid "Has obtenido 3000 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 83_0_1
+#. y1ps2.logical_line_key: DAY_KAB0057|block=0086|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "83_0_1"
+msgid "Has recibido 100.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 83_1_0
+#. y1ps2.logical_line_key: DAY_KAB0057|block=0086|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "83_1_0"
+msgid "Has obtenido 3000 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 83_1_1
+#. y1ps2.logical_line_key: DAY_KAB0057|block=0086|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+msgctxt "83_1_1"
+msgid "Has recibido 100.000 yenes."
+msgstr ""

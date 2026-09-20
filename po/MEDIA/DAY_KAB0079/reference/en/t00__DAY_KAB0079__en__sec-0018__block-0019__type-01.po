@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0079\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0079.BIN\n"
+"X-Y1PS2-Source-SHA256: 13f4e24eca93a8cd5a8e6cb50b006bf6893fcd731b616931a48ee606269ff737\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0079.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0079.BIN\n"
+"X-Y1PS2-Talk-SHA256: 13f4e24eca93a8cd5a8e6cb50b006bf6893fcd731b616931a48ee606269ff737\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 18\n"
+"X-Y1PS2-Raw-Block-ID: 19\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0013\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 130001030c250000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0079|block=0019|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: CELLULAR\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: cellular\n"
+"X-Y1PS2-Actor: w_31\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 18_0_0
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_0"
+msgid "Sir, {PA:10}would you like me||to explain how to play?"
+msgstr ""
+
+#. y1ps2.full_id: 18_0_1
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_1"
+msgid "...Alright.{PA:10}||Enjoy."
+msgstr ""
+
+#. y1ps2.full_id: 18_0_2
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_2"
+msgid "Okay. Allow me to explain."
+msgstr ""
+
+#. y1ps2.full_id: 18_0_3
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_3"
+msgid "The game starts when the dealer||rolls a pair of dice.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 18_0_4
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_4"
+msgid "All you have to do is||guess if it'll be odd or even."
+msgstr ""
+
+#. y1ps2.full_id: 18_0_5
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_5"
+msgid "When the dealer's rolling the dice,{PA:10}||try to guess the outcome of the total."
+msgstr ""
+
+#. y1ps2.full_id: 18_0_6
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_6"
+msgid "If you think it'll be odd, bet Odd,{PA:10}||if you think it'll be even, bet Even."
+msgstr ""
+
+#. y1ps2.full_id: 18_0_7
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_7"
+msgid "After choosing Odd or Even,{PA:10}||place your bet."
+msgstr ""
+
+#. y1ps2.full_id: 18_0_8
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_8"
+msgid "Other gamblers will be guessing||at the same time,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 18_0_9
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_9"
+msgid "so you can see what they chose||before you make your decision."
+msgstr ""
+
+#. y1ps2.full_id: 18_0_10
+#. y1ps2.logical_line_key: DAY_KAB0079|block=0019|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_31
+#. y1ps2.pose: Idle
+msgctxt "18_0_10"
+msgid "Enjoy."
+msgstr ""

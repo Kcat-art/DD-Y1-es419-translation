@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0015\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0015.BIN\n"
+"X-Y1PS2-Source-SHA256: 8fc5e9c5e317bb01cfd81f2b0853f4c3a74d194737c393bfbb1759eaac84d51c\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0015.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0015.BIN\n"
+"X-Y1PS2-Talk-SHA256: 8fc5e9c5e317bb01cfd81f2b0853f4c3a74d194737c393bfbb1759eaac84d51c\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 119\n"
+"X-Y1PS2-Raw-Block-ID: 155\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x009B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 9b00010744380000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0015|block=0155|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: pink_Fhs_a\n"
+"X-Y1PS2-Actor: pink_Fhs_a\n"
+"X-Y1PS2-Pose: TalkPC02\n"
+
+#. y1ps2.full_id: 119_1_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0155|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: pink_Fhs_a
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: TalkPC02
+msgctxt "119_1_0"
+msgid "(I don't have time to||open lockers right now...)"
+msgstr ""
+
+#. y1ps2.full_id: 119_2_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0155|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: pink_Fhs_a
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: TalkPC02
+msgctxt "119_2_0"
+msgid "(I think I should follow Haruka for now...)"
+msgstr ""
+
+#. y1ps2.full_id: 119_4_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0155|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: pink_Fhs_a
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: TalkPC02
+msgctxt "119_4_0"
+msgid "\"How To Use Coin Lockers\""
+msgstr ""
+
+#. y1ps2.full_id: 119_4_1
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0155|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: pink_Fhs_a
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: TalkPC02
+msgctxt "119_4_1"
+msgid "You can open a locker and obtain||its contents with a {CU:ffffc8}coin locker key{MR:00}."
+msgstr ""
+
+#. y1ps2.full_id: 119_4_2
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0155|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: pink_Fhs_a
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: TalkPC02
+msgctxt "119_4_2"
+msgid "Coin locker keys can be found in random||places and are sometimes given to you."
+msgstr ""
+
+#. y1ps2.full_id: 119_5_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0155|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: pink_Fhs_a
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: TalkPC02
+msgctxt "119_5_0"
+msgid "In the locker..."
+msgstr ""
+
+#. y1ps2.full_id: 119_6_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0155|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: pink_Fhs_a
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: TalkPC02
+msgctxt "119_6_0"
+msgid "(I don't have time to||open lockers right now...)"
+msgstr ""

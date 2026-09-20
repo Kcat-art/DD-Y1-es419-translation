@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0014\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0014.ARC\n"
+"X-Y1PS2-Source-SHA256: 409a4edfb66333b4d22d4807c6dca97bcabbd6269dd86711f2195efed8ce3ab3\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0014.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0014.ARC/0/8___TALK_ST_KAB0014.BIN\n"
+"X-Y1PS2-Talk-SHA256: afeac2a9dd950ade80ea37843e8d1c025e0904142591efdf34632a2047324966\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 94\n"
+"X-Y1PS2-Raw-Block-ID: 95\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005F\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5f000102b4710200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0014|block=0095|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Tyoung_a\n"
+"X-Y1PS2-Actor: w_1048696\n"
+"X-Y1PS2-Pose: Stand03\n"
+
+#. y1ps2.full_id: 94_0_0
+#. y1ps2.logical_line_key: DAY_KAB0014|block=0095|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_a
+#. y1ps2.actor: w_1048696
+#. y1ps2.pose: Stand03
+msgctxt "94_0_0"
+msgid "お兄さん。{PA:20}||いいキャバクラ知らない？"
+msgstr ""
+
+#. y1ps2.full_id: 94_0_1
+#. y1ps2.logical_line_key: DAY_KAB0014|block=0095|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_a
+#. y1ps2.actor: w_1048696
+#. y1ps2.pose: Stand03
+msgctxt "94_0_1"
+msgid "{CU:c8c8ff}あいにく知らないな。"
+msgstr ""
+
+#. y1ps2.full_id: 94_0_2
+#. y1ps2.logical_line_key: DAY_KAB0014|block=0095|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_a
+#. y1ps2.actor: w_1048696
+#. y1ps2.pose: Stand03
+msgctxt "94_0_2"
+msgid "{CU:ffffff}なんだ、{PA:10}そうかよ。{PA:20}||仕方ネェなぁ。"
+msgstr ""
+
+#. y1ps2.full_id: 94_0_3
+#. y1ps2.logical_line_key: DAY_KAB0014|block=0095|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_a
+#. y1ps2.actor: w_1048696
+#. y1ps2.pose: Stand03
+msgctxt "94_0_3"
+msgid "じゃぁ情報館にいくしかねぇなぁ。"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_0
+#. y1ps2.logical_line_key: DAY_KAB0014|block=0095|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_a
+#. y1ps2.actor: w_1048696
+#. y1ps2.pose: Stand03
+msgctxt "94_1_0"
+msgid "何か裏の方で||妙な音が聞こえたんだけどなぁ。"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_1
+#. y1ps2.logical_line_key: DAY_KAB0014|block=0095|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_a
+#. y1ps2.actor: w_1048696
+#. y1ps2.pose: Stand03
+msgctxt "94_1_1"
+msgid "{CU:c8c8ff}妙な音？"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_2
+#. y1ps2.logical_line_key: DAY_KAB0014|block=0095|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_a
+#. y1ps2.actor: w_1048696
+#. y1ps2.pose: Stand03
+msgctxt "94_1_2"
+msgid "{CU:ffffff}あぁ、{PA:10}銃声のような乾いた音がな。"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_3
+#. y1ps2.logical_line_key: DAY_KAB0014|block=0095|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_a
+#. y1ps2.actor: w_1048696
+#. y1ps2.pose: Stand03
+msgctxt "94_1_3"
+msgid "⋯まぁでもこの辺じゃ良くある事かもな。{PA:20}||ハッハッハ！"
+msgstr ""

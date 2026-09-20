@@ -1,0 +1,1234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Source-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 57\n"
+"X-Y1PS2-Raw-Block-ID: 96\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0060\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 600001053c5a0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0096|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: spa\n"
+"X-Y1PS2-Actor: w_6\n"
+"X-Y1PS2-Pose: Stand05\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0200/reference/jp/t00__TALK_ST_KAB0200__jp__sec-0057__block-0096__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0200/reference/en/t00__DAY_KAB0200__en__sec-0057__block-0096__type-01.po\n"
+
+#. y1ps2.full_id: 57_0_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_0"
+msgid "iAhh! {PA:10}¿Estás motivado||para convertirte en mi aprendiz?"
+msgstr ""
+
+#. y1ps2.full_id: 57_0_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_1"
+msgid "Te he dicho que no quiero."
+msgstr ""
+
+#. y1ps2.full_id: 57_0_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_2"
+msgid "Oh,{PA:10} qué pena."
+msgstr ""
+
+#. y1ps2.full_id: 57_0_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_3"
+msgid "Pásate cuando creas que has alcanzado||el límite de tu nivel de lucha."
+msgstr ""
+
+#. y1ps2.full_id: 57_0_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_4"
+msgid "Suena bien."
+msgstr ""
+
+#. y1ps2.full_id: 57_0_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_5"
+msgid "iOh!{PA:10} iSerás mi aprendiz!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 57_0_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_6"
+msgid "iA partir de ahora puedes||llamarte \"Aprendiz de Komaki\"!"
+msgstr ""
+
+#. y1ps2.full_id: 57_0_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_7"
+msgid "No obstante...{PA:10} No he tenido un aprendiz||en los últimos 30 años.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 57_0_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_8"
+msgid "Creo que he olvidado cómo se enseña..."
+msgstr ""
+
+#. y1ps2.full_id: 57_0_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_9"
+msgid "Espera un segundo..."
+msgstr ""
+
+#. y1ps2.full_id: 57_0_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_0_10"
+msgid "Ummm... {MS:0}iSí!{PA:10} iTe diré una cosa!{PA:10}||Para principiantes, te enseñaré lo básico."
+msgstr ""
+
+#. y1ps2.full_id: 57_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_0"
+msgid "iAhh!{PA:10} ¿Estás motivado para convertirte en mi aprendiz?"
+msgstr ""
+
+#. y1ps2.full_id: 57_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_1"
+msgid "Te he dicho que no quiero."
+msgstr ""
+
+#. y1ps2.full_id: 57_1_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_2"
+msgid "Oh,{PA:10} qué pena."
+msgstr ""
+
+#. y1ps2.full_id: 57_1_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_3"
+msgid "Pásate cuando creas que has||alcanzado el límite de tu nivel de lucha."
+msgstr ""
+
+#. y1ps2.full_id: 57_1_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_4"
+msgid "Suena bien."
+msgstr ""
+
+#. y1ps2.full_id: 57_1_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_5"
+msgid "iOh!{PA:10} iSerás mi aprendiz!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 57_1_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_6"
+msgid "iA partir de ahora puedes||llamarte \"Aprendiz de Komaki\"!"
+msgstr ""
+
+#. y1ps2.full_id: 57_1_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_7"
+msgid "No obstante...{PA:10} No he tenido un aprendiz||en los últimos 30 años.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 57_1_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_8"
+msgid "Creo que he olvidado cómo se enseña..."
+msgstr ""
+
+#. y1ps2.full_id: 57_1_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_9"
+msgid "Espera un segundo..."
+msgstr ""
+
+#. y1ps2.full_id: 57_1_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_10"
+msgid "Ummm... {MS:0}iSí!{PA:10} iTe diré una cosa!{PA:10}||Para principiantes, te enseñaré lo básico."
+msgstr ""
+
+#. y1ps2.full_id: 57_1_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_11"
+msgid "¿Umm?{PA:20}||Ahora estás equipado,{PA:10} ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 57_1_12
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_12"
+msgid "No podemos empezar el entrenamiento||en estas condiciones...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 57_1_13
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_1_13"
+msgid "Quítate el equipo y vuelve."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_0"
+msgid "¿Qué pasa, {MS:0}{PA:10}viejo?"
+msgstr ""
+
+#. y1ps2.full_id: 57_2_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_1"
+msgid "iOh!{PA:10} iEres tú!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 57_2_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_2"
+msgid "Presencié tu espléndida||victoria en el Coliseo."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_3"
+msgid "Dijeron que \"has demostrado ser||un auténtico gánster\","
+msgstr ""
+
+#. y1ps2.full_id: 57_2_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_4"
+msgid "pero tu estilo de lucha está||en línea con las artes marciales."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_5"
+msgid "Pero eres un diamante en bruto.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 57_2_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_6"
+msgid "No comprendes del todo||el camino del guerrero."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_7"
+msgid "Es una pena,{PA:10}||desde luego."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_8"
+msgid "... ¿Qué dices?{PA:10} ¿Por qué no||te conviertes en mi aprendiz?{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 57_2_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_9"
+msgid "Podrías volverte 100 veces||más fuerte de lo que eres."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_10"
+msgid "Tengo prisa.{PA:20} Nos vemos."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_11"
+msgid "No es que te quiera forzar a que vivas||conmigo y entrenes durante 3 años ni nada."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_12
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_12"
+msgid "Lo único que tienes que hacer es venir||cuando te apetezca. ¿Qué dices?"
+msgstr ""
+
+#. y1ps2.full_id: 57_2_13
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_13"
+msgid "Te he dicho que no me interesa."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_14
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_14"
+msgid "Oh,{PA:10} qué pena."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_15
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=15
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_15"
+msgid "Pásate cuando creas que has alcanzado||el límite de tu nivel de lucha."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_16
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=16
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_16"
+msgid "Suena bien."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_17
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=17
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_17"
+msgid "iOh!{PA:10} iSerás mi aprendiz!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 57_2_18
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=18
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_18"
+msgid "iA partir de ahora puedes llamarte||\"Aprendiz de Komaki\"!"
+msgstr ""
+
+#. y1ps2.full_id: 57_2_19
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=19
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_19"
+msgid "No obstante...{PA:10} No he tenido un aprendiz||en los últimos 30 años.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 57_2_20
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=20
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_20"
+msgid "Creo que he olvidado cómo se enseña..."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_21
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=21
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_21"
+msgid "Espera un segundo..."
+msgstr ""
+
+#. y1ps2.full_id: 57_2_22
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=2|sg=22
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_2_22"
+msgid "Ummm... iOk!{PA:10} iTe diré una cosa!{PA:10}||Para principiantes, te enseñaré lo básico."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_0"
+msgid "¿Qué pasa, {MS:0}{PA:10}viejo?"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_1"
+msgid "iOh!{PA:10} iEres tú!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_2"
+msgid "Presencié tu espléndida||victoria en el Coliseo."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_3"
+msgid "Dijeron que \"has demostrado ser||un auténtico gánster\","
+msgstr ""
+
+#. y1ps2.full_id: 57_3_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_4"
+msgid "pero tu estilo de lucha está||en línea con las artes marciales."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_5"
+msgid "Pero eres un diamante en bruto.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_6"
+msgid "No comprendes del todo||el camino del guerrero."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_7"
+msgid "Es una pena,{PA:10}||desde luego."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_8"
+msgid "... ¿Qué dices? {PA:10}¿Por qué no||te conviertes en mi aprendiz?{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_9"
+msgid "Podrías volverte 100 veces más||fuerte de lo que eres."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_10"
+msgid "Tengo prisa.{PA:20} Nos vemos."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=11
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_11"
+msgid "No es que te quiera forzar a que vivas||conmigo y entrenes durante 3 años ni nada."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_12
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=12
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_12"
+msgid "Lo único que tienes que hacer es venir||cuando te apetezca. {PA:20}¿Qué dices?"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_13
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=13
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_13"
+msgid "Te he dicho que no me interesa."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_14
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=14
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_14"
+msgid "Oh,{PA:10} qué pena."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_15
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=15
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_15"
+msgid "Pásate cuando creas que has alcanzado||el límite de tu nivel de lucha."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_16
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=16
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_16"
+msgid "Suena bien."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_17
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=17
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_17"
+msgid "iOh!{PA:10} iSerás mi aprendiz!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_18
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=18
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_18"
+msgid "iA partir de ahora puedes||llamarte \"Aprendiz de Komaki\"!"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_19
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=19
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_19"
+msgid "No obstante... {PA:10}no he tenido||un aprendiz en los últimos 30 años.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_20
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=20
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_20"
+msgid "Creo que he olvidado cómo se enseña..."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_21
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=21
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_21"
+msgid "Espera un segundo..."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_22
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=22
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_22"
+msgid "Ummm... iOk! {PA:10}iTe diré una cosa!{PA:10}||Para principiantes, te enseñaré lo básico."
+msgstr ""
+
+#. y1ps2.full_id: 57_3_23
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=23
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_23"
+msgid "¿Umm?{PA:20}||Ahora estás equipado,{PA:10} ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_24
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=24
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_24"
+msgid "No podemos empezar el entrenamiento||en estas condiciones...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 57_3_25
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=3|sg=25
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_3_25"
+msgid "Quítate el equipo y vuelve."
+msgstr ""
+
+#. y1ps2.full_id: 57_4_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0096|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: spa
+#. y1ps2.actor: w_6
+#. y1ps2.pose: Stand05
+msgctxt "57_4_0"
+msgid "Ugggghhhh..."
+msgstr ""

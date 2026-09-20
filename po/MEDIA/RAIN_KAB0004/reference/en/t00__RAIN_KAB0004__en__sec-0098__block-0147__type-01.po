@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0004\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Source-SHA256: eb0603c4a310f37da6960814da8108bf853114947c67fc08871edf635ce4d7cd\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Talk-SHA256: eb0603c4a310f37da6960814da8108bf853114947c67fc08871edf635ce4d7cd\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 98\n"
+"X-Y1PS2-Raw-Block-ID: 147\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0093\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 9300010364350000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0004|block=0147|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: double_B_M64\n"
+"X-Y1PS2-Actor: double_B_M64\n"
+"X-Y1PS2-Pose: stand_kasa_01\n"
+
+#. y1ps2.full_id: 98_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0147|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: stand_kasa_01
+msgctxt "98_0_0"
+msgid "I heard that the street gangs||were wiped out one after another."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0147|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: stand_kasa_01
+msgctxt "98_0_1"
+msgid "Rumour says the gangs were the ones||that attacked Purgatory."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0147|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: stand_kasa_01
+msgctxt "98_0_2"
+msgid "I bet the bums from Purgatory||went to get revenge."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0147|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: stand_kasa_01
+msgctxt "98_0_3"
+msgid "This city is as dangerous as it ever was..."
+msgstr ""
+
+#. y1ps2.full_id: 98_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0147|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: stand_kasa_01
+msgctxt "98_1_0"
+msgid "Did they take revenge on Purgatory?"
+msgstr ""
+
+#. y1ps2.full_id: 98_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0147|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: stand_kasa_01
+msgctxt "98_2_0"
+msgid "I heard that the street gangs were||wiped out by somebody from Purgatory."
+msgstr ""
+
+#. y1ps2.full_id: 98_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0147|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: double_B_M64
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: stand_kasa_01
+msgctxt "98_2_1"
+msgid "This city is as dangerous as it ever was."
+msgstr ""

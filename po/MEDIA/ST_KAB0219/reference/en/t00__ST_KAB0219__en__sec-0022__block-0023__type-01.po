@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0219\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0219.BIN\n"
+"X-Y1PS2-Source-SHA256: b921c9a326f1fcaeb812785d428c60557c22bca9c5b05c14046380b94870c3e0\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0219.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0219.BIN\n"
+"X-Y1PS2-Talk-SHA256: b921c9a326f1fcaeb812785d428c60557c22bca9c5b05c14046380b94870c3e0\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 22\n"
+"X-Y1PS2-Raw-Block-ID: 23\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0017\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 1700010334250000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0219|block=0023|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: Navi_shi_01_K00_03\n"
+"X-Y1PS2-Pose: Freeze\n"
+
+#. y1ps2.full_id: 22_0_0
+#. y1ps2.logical_line_key: ST_KAB0219|block=0023|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_0"
+msgid "Current game will be saved.||Are you sure?"
+msgstr ""
+
+#. y1ps2.full_id: 22_1_0
+#. y1ps2.logical_line_key: ST_KAB0219|block=0023|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_1_0"
+msgid "If you overwrite Normal Mode data||with Premium Mode data..."
+msgstr ""
+
+#. y1ps2.full_id: 22_1_1
+#. y1ps2.logical_line_key: ST_KAB0219|block=0023|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_1_1"
+msgid "you will not be able to return to||the Normal Mode game from that save data."
+msgstr ""
+
+#. y1ps2.full_id: 22_1_2
+#. y1ps2.logical_line_key: ST_KAB0219|block=0023|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_1_2"
+msgid "Current game will be saved.||Are you sure?"
+msgstr ""
+
+#. y1ps2.full_id: 22_2_0
+#. y1ps2.logical_line_key: ST_KAB0219|block=0023|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 1e
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_2_0"
+msgid "\"Save Point\""
+msgstr ""
+
+#. y1ps2.full_id: 22_2_1
+#. y1ps2.logical_line_key: ST_KAB0219|block=0023|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_2_1"
+msgid "You can save your game||at any telephone in the game."
+msgstr ""
+
+#. y1ps2.full_id: 22_2_2
+#. y1ps2.logical_line_key: ST_KAB0219|block=0023|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_2_2"
+msgid "Current game will be saved.||Are you sure?"
+msgstr ""

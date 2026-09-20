@@ -1,0 +1,833 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0017\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0017.BIN\n"
+"X-Y1PS2-Source-SHA256: a180c9c12a07a68e61e5f4fe34f205f37ba5ae85a15f346b8cc5676b055d7aa4\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0017.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0017.BIN\n"
+"X-Y1PS2-Talk-SHA256: a180c9c12a07a68e61e5f4fe34f205f37ba5ae85a15f346b8cc5676b055d7aa4\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 76\n"
+"X-Y1PS2-Raw-Block-ID: 77\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4d000103a4380000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0017|block=0077|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER16\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C16_TRG_ICHIBAN_GATE\n"
+"X-Y1PS2-Actor: w_1\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0017/reference/jp/t00__TALK_ST_KAB0017__jp__sec-0076__block-0077__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0017/reference/en/t00__DAY_KAB0017__en__sec-0076__block-0077__type-01.po\n"
+
+#. y1ps2.full_id: 76_0_0
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_0"
+msgid "¿Qué pasa?"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_1
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_1"
+msgid "¿Eh?{PA:10} Umm..."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_2
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_2"
+msgid "Hace tiempo que quería||ir al club de striptease,"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_3
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_3"
+msgid "pero he olvidado mis malditas gafas."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_4
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_4"
+msgid "Mierda...||También he salido de la oficina antes..."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_5
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_5"
+msgid "¿Darle algo?"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_7
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_7"
+msgid "¿Me das esto a mí...?{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_8
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_8"
+msgid "Pero, no puedo aceptarlo de una||persona a la que no conozco..."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_9
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_9"
+msgid "Umm... Significa mucho para mí que me lo||hayas ofrecido. Gracias de todas formas."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_10
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_10"
+msgid "(No tengo nada que darle...)"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_11
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_11"
+msgid "Me pone en un compromiso...{PA:20}||¿Tiene unas gafas por casualidad?"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_12
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_12"
+msgid "¿Eh? ¿Me das estas gafas?{MS:0}{PA:10}||.........!"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_13
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_13"
+msgid "iOh,{PA:20} Dios!{PA:20}||iPuedo ver perfectamente bien con ellas!"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_14
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_14"
+msgid "iGracias!{PA:10}||iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_15
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_15"
+msgid "No es mucho,{PA:10} pero acepta esto como||una muestra de agradecimiento."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_16
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_16"
+msgid "Has conseguido la||\"{CC:ffc8c8}Cinta Adhesiva Super Fuerte{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_17
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_17"
+msgid "¿Cinta Adhesiva?{PA:10}||No creo que sea de utilidad..."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_18
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_18"
+msgid "De hecho, soy vendedor de||productos de papelería.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_19
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_19"
+msgid "Esta cinta adhesiva no es una cinta común."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_20
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_20"
+msgid "Es una cinta adhesiva de próxima generación||que hemos desarrollado en nuestra empresa."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_21
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_21"
+msgid "Sus propiedades adherentes y su||durabilidad son incomparables."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_22
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_22"
+msgid "Por desgracia,||no tengo nada que darte aparte de esto..."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_23
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_23"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_24
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_24"
+msgid "Has obtenido 500 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_0
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_0"
+msgid "No sé qué debería hacer.||Ahora que he olvidado mis gafas,"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_1
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_1"
+msgid "no puedo ver el show..."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_2
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_2"
+msgid "¿Darle algo?"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_4
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_4"
+msgid "¿Me das esto a mí...?{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_5
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_5"
+msgid "Pero,{PA:10} no puedo aceptarlo de una||persona a la que no conozco..."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_6
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_6"
+msgid "Umm...{PA:10} Significa mucho para mí que me lo||hayas ofrecido. {PA:20}Gracias de todas formas."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_7
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_7"
+msgid "(No tengo nada que darle...)"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_8
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_8"
+msgid "Me pone en un compromiso...{PA:20}||¿Tiene unas gafas por casualidad?"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_9
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_9"
+msgid "¿Eh?{PA:10} ¿Me das estas gafas?{MS:0}{PA:10}||.........!"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_10
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_10"
+msgid "iOh, Dios!{PA:20} iPuedo ver||perfectamente bien con ellas!{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_11
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_11"
+msgid "iGuau!{PA:10} iCon estas gafas||incluso podría verles los poros!"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_12
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_12"
+msgid "iGracias!{PA:10}||iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_13
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_13"
+msgid "No es mucho,{PA:10} pero acepta esto||como una muestra de agradecimiento."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_14
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_14"
+msgid "Has conseguido la||\"{CC:ffc8c8}Cinta Adhesiva Super Fuerte{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_15
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_15"
+msgid "¿Cinta Adhesiva?{PA:10} No creo||que sea de utilidad..."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_16
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_16"
+msgid "De hecho,{PA:10} soy vendedor de||productos de papelería.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_17
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_17"
+msgid "Esta cinta adhesiva no es una cinta común."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_18
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_18"
+msgid "Es una cinta adhesiva de próxima generación||que hemos desarrollado en nuestra empresa."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_19
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_19"
+msgid "Sus propiedades adherentes y su||durabilidad son incomparables."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_20
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_20"
+msgid "Por desgracia,||no tengo nada que darte aparte de esto..."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_21
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_21"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_22
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_22"
+msgid "Has obtenido 500 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 76_2_0
+#. y1ps2.logical_line_key: DAY_KAB0017|block=0077|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_2_0"
+msgid "Mierda. iPor qué en||un momento como éste...!"
+msgstr ""

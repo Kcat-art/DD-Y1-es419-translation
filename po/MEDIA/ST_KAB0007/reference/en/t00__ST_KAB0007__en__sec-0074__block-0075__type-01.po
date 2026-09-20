@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0007\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0007.BIN\n"
+"X-Y1PS2-Source-SHA256: 95ad7755154fdc6efdfbafd4c5945102961d0177b539f5ece279408e928a6045\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0007.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0007.BIN\n"
+"X-Y1PS2-Talk-SHA256: 95ad7755154fdc6efdfbafd4c5945102961d0177b539f5ece279408e928a6045\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 74\n"
+"X-Y1PS2-Raw-Block-ID: 75\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4b000101b02e0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0007|block=0075|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER14\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C14_TRG_TOKYO_YUBO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 74_0_0
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_0"
+msgid "Hey! {PA:10}Hear me out for a sec."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_1
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_1"
+msgid "What?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_2
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_2"
+msgid "About that bar over there, Stardust...{PA:10}||My friend got shafted there."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_3
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_3"
+msgid "Shafted? {PA:20}What happened?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_4
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_4"
+msgid "Well,{PA:10} a young host forced her to||get some drinks,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_5
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_5"
+msgid "then stuck her with the bill."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_6
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_6"
+msgid "I've heard similar stories."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_7
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_7"
+msgid "I know,{PA:20}||but don't you feel sorry for her?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_8
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_8"
+msgid "If you let your guard down||for one second in this city,{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_9
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_9"
+msgid "it'll eat you up alive.||You should watch out, too."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_10
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_10"
+msgid "Why do you think I would even care?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_11
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_11"
+msgid "Huh?{PA:20}||Aren't you a man that understands fairness?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_12
+#. y1ps2.logical_line_key: ST_KAB0007|block=0075|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_12"
+msgid "You misjudged me...{PA:20}||Sorry to have wasted your time."
+msgstr ""

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0039\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0039.BIN\n"
+"X-Y1PS2-Source-SHA256: c9d9ca9a7f6b10fcbb905a080bf808a227d3fc9eceb85a29d199906b3a091ba6\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0039.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0039.BIN\n"
+"X-Y1PS2-Talk-SHA256: c9d9ca9a7f6b10fcbb905a080bf808a227d3fc9eceb85a29d199906b3a091ba6\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 194\n"
+"X-Y1PS2-Raw-Block-ID: 16\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0010\n"
+"X-Y1PS2-Section-Type: 255\n"
+"X-Y1PS2-Section-Raw-Bytes: 1000ff0374470000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0039|block=0016|type=255\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: \n"
+"X-Y1PS2-Actor: \n"
+"X-Y1PS2-Pose: \n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0039/reference/jp/t00__TALK_ST_KAB0039__jp__sec-0210__block-0016__type-255.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0039/reference/en/t00__DAY_KAB0039__en__sec-0194__block-0016__type-255.po\n"
+
+#. y1ps2.full_id: 194_0_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0016|type=255|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "194_0_0"
+msgid "Calle Nakamichi S."
+msgstr ""
+
+#. y1ps2.full_id: 194_1_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0016|type=255|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "194_1_0"
+msgid "Bulevar del parque."
+msgstr ""
+
+#. y1ps2.full_id: 194_2_0
+#. y1ps2.logical_line_key: DAY_KAB0039|block=0016|type=255|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "194_2_0"
+msgid "Cancelar"
+msgstr ""

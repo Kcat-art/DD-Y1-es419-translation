@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0035\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0035.ARC\n"
+"X-Y1PS2-Source-SHA256: ab722c255905274a2fd42ad77855364d467d7f958d69fbba088543fc7290a613\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0035.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0035.ARC/0/9___TALK_ST_KAB0035.BIN\n"
+"X-Y1PS2-Talk-SHA256: 627fad77264cc4a4336bcc2123e2c534bbc6da9800e5a573906c67a2155de53c\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 207\n"
+"X-Y1PS2-Raw-Block-ID: 12\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x000C\n"
+"X-Y1PS2-Section-Type: 255\n"
+"X-Y1PS2-Section-Raw-Bytes: 0c00ff03984a0200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0035|block=0012|type=255\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: \n"
+"X-Y1PS2-Actor: \n"
+"X-Y1PS2-Pose: \n"
+
+#. y1ps2.full_id: 207_0_0
+#. y1ps2.logical_line_key: ST_KAB0035|block=0012|type=255|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "207_0_0"
+msgid "公園前通り東へ"
+msgstr ""
+
+#. y1ps2.full_id: 207_1_0
+#. y1ps2.logical_line_key: ST_KAB0035|block=0012|type=255|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "207_1_0"
+msgid "七福通り西へ"
+msgstr ""
+
+#. y1ps2.full_id: 207_2_0
+#. y1ps2.logical_line_key: ST_KAB0035|block=0012|type=255|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "207_2_0"
+msgid "やめる"
+msgstr ""

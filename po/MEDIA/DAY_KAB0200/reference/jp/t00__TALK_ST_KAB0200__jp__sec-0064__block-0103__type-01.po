@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.ARC\n"
+"X-Y1PS2-Source-SHA256: 6ea7c8d7d86a5978c7793c256fec6d21e26a03cb715e0e09fb3d37c0157f2963\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.ARC/0/8___TALK_ST_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: b184badc669a3dcc2f9a492348010790596ab528067990b877aaf1b9d5fd1259\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 64\n"
+"X-Y1PS2-Raw-Block-ID: 103\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0067\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6700010350ce0200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0103|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: KojikiCoat2_E\n"
+"X-Y1PS2-Actor: w_13\n"
+"X-Y1PS2-Pose: SitGround02\n"
+
+#. y1ps2.full_id: 64_0_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_0"
+msgid "{CU:c8c8ff}どうした？"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_1"
+msgid "{CU:ffffff}いやあ、{PA:10}オレ作家なんだけどね。{PA:20}||１冊目の本はそこそこヒットしたんだけど⋯"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_2"
+msgid "それ以来さっぱり本が書けなくて⋯早１０年。{PA:20}||で、{PA:10}こんなところに居るわけさ。"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_3"
+msgid "なんかヒントになるものが||あればいいんだがなぁ⋯"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_4"
+msgid "➿➿➿➿➿何か渡しますか？"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_6"
+msgid "う〜ん、{PA:10}悪いけど特に何もひらめかないな⋯"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_7"
+msgid "{CU:c8c8ff}（何も持っていない⋯）"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_8"
+msgid "{CU:ffffff}なんかヒントになるものがあればなぁ⋯"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_9"
+msgid "{CU:ffffff}➿➿「{CC:ffc8c8}葱を持つ女の絵{CR:00}」を渡した"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_10"
+msgid "こっ、{PA:10}{MS:0}これは！！！{MS:1}{PA:20}||ふむ⋯⋯浮かんできたぞぉ！！"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_11"
+msgid "よしよし！！{PA:10}||お礼にこれをやろう。"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_12
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_12"
+msgid "「{CC:ffc8c8}作家の本（直筆サイン入り）{CR:00}」を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_13
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_13"
+msgid "ありがとう！➿{PA:10}恩に着るよ！{PA:10}||この本は絵描いたやつにやってくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_14
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_14"
+msgid "➿➿経験値➿５００➿を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 64_0_16
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_0_16"
+msgid "２年後⋯{PA:10}その男は「葱の女」という本で||有名作家となるのだった。"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_0"
+msgid "なんかヒントになるものが||あればいいんだがなぁ⋯"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_1"
+msgid "➿➿➿➿➿何か渡しますか？"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_3"
+msgid "う〜ん、{PA:10}悪いけど特に何もひらめかないな⋯"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_4"
+msgid "{CU:c8c8ff}（何も持っていない⋯）"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_5"
+msgid "{CU:ffffff}なんかヒントになるものがあればなぁ⋯"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_6"
+msgid "{CU:ffffff}こっ、{PA:10}{MS:0}これは！！！{MS:1}{PA:20}||ふむ⋯⋯浮かんできたぞぉ！！"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_7"
+msgid "➿➿「{CC:ffc8c8}葱を持つ女の絵{CR:00}」を渡した"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_8"
+msgid "よしよし！！{PA:10}||お礼にこれをやろう。"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_9"
+msgid "「{CC:ffc8c8}作家の本（直筆サイン入り）{CR:00}」を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_10"
+msgid "ありがとう！➿{PA:10}恩に着るよ！{PA:10}||この本は絵描いたやつにやってくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_11"
+msgid "➿➿経験値➿５００➿を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 64_1_13
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_1_13"
+msgid "２年後⋯{PA:10}その男は「葱の女」という本で||有名作家となるのだった。"
+msgstr ""
+
+#. y1ps2.full_id: 64_2_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0103|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiCoat2_E
+#. y1ps2.actor: w_13
+#. y1ps2.pose: SitGround02
+msgctxt "64_2_0"
+msgid "はぁ⋯"
+msgstr ""

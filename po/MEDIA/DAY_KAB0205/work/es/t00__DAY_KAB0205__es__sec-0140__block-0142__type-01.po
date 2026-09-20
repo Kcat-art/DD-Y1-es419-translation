@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0205\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0205.BIN\n"
+"X-Y1PS2-Source-SHA256: cf6dff38f0a38ad4289492ceeba66917a193ff62120be581e6a9d799f49be8e8\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0205.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0205.BIN\n"
+"X-Y1PS2-Talk-SHA256: cf6dff38f0a38ad4289492ceeba66917a193ff62120be581e6a9d799f49be8e8\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 140\n"
+"X-Y1PS2-Raw-Block-ID: 142\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x008E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8e000102485d0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0205|block=0142|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: mofuku_zako_a\n"
+"X-Y1PS2-Actor: w_5\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0205/reference/jp/t00__TALK_ST_KAB0205__jp__sec-0140__block-0142__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0205/reference/en/t00__DAY_KAB0205__en__sec-0140__block-0142__type-01.po\n"
+
+#. y1ps2.full_id: 140_0_0
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_0"
+msgid "Ah... Perdone.||¿Conocía al Presidente Sera personalmente?"
+msgstr ""
+
+#. y1ps2.full_id: 140_0_1
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_1"
+msgid "Sí."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_2
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_2"
+msgid "Dirijo una familia en el área de Nagoya,||pero lo siento mucho..."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_3
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_3"
+msgid "El Clan Tojo ha perdido a un gran hombre..."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_4
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_4"
+msgid "Me pregunto si hay alguien capaz||de llenar su vacío."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_5
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_5"
+msgid "... ¿Quién crees que sería el mejor?"
+msgstr ""
+
+#. y1ps2.full_id: 140_0_6
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_6"
+msgid "Sí...||No podría estar más de acuerdo."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_7
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_7"
+msgid "De todas formas, no creo||Que Fuma Oyabun lo aceptase así de fácil..."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_8
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_8"
+msgid "iFuma!"
+msgstr ""
+
+#. y1ps2.full_id: 140_0_9
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_9"
+msgid "... Ummm. ¿Fuma Oyabun, eh?{PA:4}"
+msgstr ""
+
+#. y1ps2.full_id: 140_0_10
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_10"
+msgid "Bueno, supongo que el poder es||importante en el mundo Yakuza..."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_11
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_11"
+msgid "En estos tiempos que corren,||el poder debería ser una cualidad."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_12
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_12"
+msgid "iNishiki!{PA:4}||Ese Nishiki..."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_13
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_13"
+msgid "Entre nosotros,||no creo que me llevase muy bien con él."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_14
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_14"
+msgid "Si Nishiki-san llegase al poder en el clan,"
+msgstr ""
+
+#. y1ps2.full_id: 140_0_15
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_15"
+msgid "arrasaría con las familias||antiguas como la nuestra..."
+msgstr ""
+
+#. y1ps2.full_id: 140_0_16
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_0_16"
+msgid "Ummm, {PA:4}imenudo aprieto!"
+msgstr ""
+
+#. y1ps2.full_id: 140_1_0
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0142|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "140_1_0"
+msgid "Estamos jodidos a base de bien."
+msgstr ""

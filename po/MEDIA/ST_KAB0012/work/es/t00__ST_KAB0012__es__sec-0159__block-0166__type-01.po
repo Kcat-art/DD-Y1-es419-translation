@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0012\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0012.BIN\n"
+"X-Y1PS2-Source-SHA256: b2717f6a89e2ae7569e47fc9acf07b3f66e100183579ff62a4b6840775f5c400\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0012.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0012.BIN\n"
+"X-Y1PS2-Talk-SHA256: b2717f6a89e2ae7569e47fc9acf07b3f66e100183579ff62a4b6840775f5c400\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 159\n"
+"X-Y1PS2-Raw-Block-ID: 166\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00A6\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: a600010234430000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0012|block=0166|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_5\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0012/reference/jp/t00__TALK_ST_KAB0012__jp__sec-0159__block-0166__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0012/reference/en/t00__ST_KAB0012__en__sec-0159__block-0166__type-01.po\n"
+
+#. y1ps2.full_id: 159_0_0
+#. y1ps2.logical_line_key: ST_KAB0012|block=0166|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "159_0_0"
+msgid "Oh, ibuenas noches!"
+msgstr ""
+
+#. y1ps2.full_id: 159_0_1
+#. y1ps2.logical_line_key: ST_KAB0012|block=0166|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "159_0_1"
+msgid "Como puedes ver, nos gusta pasear."
+msgstr ""
+
+#. y1ps2.full_id: 159_0_2
+#. y1ps2.logical_line_key: ST_KAB0012|block=0166|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "159_0_2"
+msgid "Es un buen ejercicio, jajaja,||iy es muy divertido!"
+msgstr ""
+
+#. y1ps2.full_id: 159_0_3
+#. y1ps2.logical_line_key: ST_KAB0012|block=0166|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "159_0_3"
+msgid "Oh... Mira la hora."
+msgstr ""
+
+#. y1ps2.full_id: 159_0_4
+#. y1ps2.logical_line_key: ST_KAB0012|block=0166|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "159_0_4"
+msgid "Bueno...||Supongo que continuaremos..."
+msgstr ""
+
+#. y1ps2.full_id: 159_0_5
+#. y1ps2.logical_line_key: ST_KAB0012|block=0166|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "159_0_5"
+msgid "Jajaja... Jaja..."
+msgstr ""
+
+#. y1ps2.full_id: 159_0_6
+#. y1ps2.logical_line_key: ST_KAB0012|block=0166|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "159_0_6"
+msgid "Has obtenido 1,000 puntos de exp."
+msgstr ""

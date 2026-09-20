@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: OLD_KAB0005\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: OLD_KAB0005.BIN\n"
+"X-Y1PS2-Source-SHA256: 4f500920ded96a1117b4a7a5c74887beeb8ed68a764d382f62cd99082392fe72\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: OLD_KAB0005.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: OLD_KAB0005.BIN\n"
+"X-Y1PS2-Talk-SHA256: 4f500920ded96a1117b4a7a5c74887beeb8ed68a764d382f62cd99082392fe72\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 123\n"
+"X-Y1PS2-Raw-Block-ID: 124\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x007C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7c00010374330000\n"
+"X-Y1PS2-Logical-Section-Key: OLD_KAB0005|block=0124|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: parka2_Msh_b\n"
+"X-Y1PS2-Actor: w_24\n"
+"X-Y1PS2-Pose: Smoking01\n"
+
+#. y1ps2.full_id: 123_0_0
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_0_0"
+msgid "Are you busy today again?{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 123_0_1
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_0_1"
+msgid "Kazuma-san,||you haven't come see me at all lately."
+msgstr ""
+
+#. y1ps2.full_id: 123_0_2
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_0_2"
+msgid "I'm sorry.{PA:20}||I'm in the middle of something right now."
+msgstr ""
+
+#. y1ps2.full_id: 123_0_3
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_0_3"
+msgid "Too bad, {PA:20}but business is business."
+msgstr ""
+
+#. y1ps2.full_id: 123_0_4
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_0_4"
+msgid "I heard you're going to||start your own family."
+msgstr ""
+
+#. y1ps2.full_id: 123_0_5
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_0_5"
+msgid "I bet you're pretty busy,||setting everything up and all."
+msgstr ""
+
+#. y1ps2.full_id: 123_0_6
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_0_6"
+msgid "It's not 100% just yet."
+msgstr ""
+
+#. y1ps2.full_id: 123_1_0
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_1_0"
+msgid "Hello ❤ Kazuma-san. Over here!"
+msgstr ""
+
+#. y1ps2.full_id: 123_2_0
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_2_0"
+msgid "Since it's you,||there shouldn't be a problem."
+msgstr ""
+
+#. y1ps2.full_id: 123_2_1
+#. y1ps2.logical_line_key: OLD_KAB0005|block=0124|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Smoking01
+msgctxt "123_2_1"
+msgid "I'm sure everything will go well!"
+msgstr ""

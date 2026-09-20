@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: OLD_KAB0001\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: OLD_KAB0001.BIN\n"
+"X-Y1PS2-Source-SHA256: f6c5bbd7ee2ec36b9dbb618f4fc926ce688214cb8ee59a5b831a54d8f26cf6e6\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: OLD_KAB0001.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: OLD_KAB0001.BIN\n"
+"X-Y1PS2-Talk-SHA256: f6c5bbd7ee2ec36b9dbb618f4fc926ce688214cb8ee59a5b831a54d8f26cf6e6\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 81\n"
+"X-Y1PS2-Raw-Block-ID: 82\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0052\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 52000103c4320000\n"
+"X-Y1PS2-Logical-Section-Key: OLD_KAB0001|block=0082|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_11\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NIN_TRG_CHILD_PARK\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 81_0_0
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0082|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_0"
+msgid "I wanted to drink at Serena,||but it's closed."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_1
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0082|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_1"
+msgid "Well, {PA:10}there is a narrow alley||next to the bar, right?"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_2
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0082|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_2"
+msgid "There's another door to Serena in the back."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_3
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0082|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_3"
+msgid "I think if you're a regular, you can get||in from back there."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_4
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0082|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_4"
+msgid "I wanna hurry up and become a regular."
+msgstr ""
+
+#. y1ps2.full_id: 81_1_0
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0082|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_1_0"
+msgid "I have no choice. I guess I'll go home...||I guess I'll go home..."
+msgstr ""
+
+#. y1ps2.full_id: 81_2_0
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0082|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_0"
+msgid "You know about the alley||that's next to Serena?"
+msgstr ""
+
+#. y1ps2.full_id: 81_2_1
+#. y1ps2.logical_line_key: OLD_KAB0001|block=0082|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_2_1"
+msgid "If you're a regular, you're allowed||to go in through the backdoor."
+msgstr ""

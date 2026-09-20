@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0085\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0085.BIN\n"
+"X-Y1PS2-Source-SHA256: c61b43025a1e49e4033133dd2403d0712781dbb5368131bd9a29eaaf1e41bf9d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0085.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0085.BIN\n"
+"X-Y1PS2-Talk-SHA256: c61b43025a1e49e4033133dd2403d0712781dbb5368131bd9a29eaaf1e41bf9d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 44\n"
+"X-Y1PS2-Raw-Block-ID: 45\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x002D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 2d000102802c0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0085|block=0045|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 44_0_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_0_0"
+msgid "You... {PA:10}You're...{PA:10} Kazuma?!{PA:20}||{MS:0}Why are you still alive?!"
+msgstr ""
+
+#. y1ps2.full_id: 44_0_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_0_1"
+msgid "I got a phone call from the cell phone||I picked up.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 44_0_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_0_2"
+msgid "Then, I was told to kill me||with a long dagger."
+msgstr ""
+
+#. y1ps2.full_id: 44_0_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_0_3"
+msgid "Shit...||{MS:0}How could this happen...?"
+msgstr ""
+
+#. y1ps2.full_id: 44_0_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_0_4"
+msgid "Okay then...{PA:20}||{MS:0}I'll kill you myself!"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_0"
+msgid "Are you some kind of monster..."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_1"
+msgid "Tell me now!{PA:20}||Who ordered the hit!"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_2"
+msgid "You expect me to talk?"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_3"
+msgid "You have no choice unless you wanna die."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_4"
+msgid "Ughhh... {PA:10}Okay...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_5"
+msgid "I don't have the details anyways."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_6"
+msgid "I don't care who the client is||{MS:0}as long as I get paid..."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_7"
+msgid "I'm not interested in your business."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_8"
+msgid "It was a captain from the Tojo Clan."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_9
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_9"
+msgid "He didn't state his name,{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_10
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_10"
+msgid "but... he seemed to be a||very important person in the family."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_11
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_11"
+msgid "Doesn't that ring a bell for you?"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_12
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_12"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_13
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_13"
+msgid "...Tell me one thing.{PA:20}||{MS:0}Where did you get my cell phone?"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_14
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_14"
+msgid "I found it on the body of a guy||who got killed by some robbers."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_15
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_15"
+msgid "I guess he was down on his luck.."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_16
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_16"
+msgid "...So am I.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_17
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_17"
+msgid "If you blow it once in this world,||you're finished."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_18
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_18"
+msgid "The client will rub you out||in no time."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_19
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_19"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_20
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_20"
+msgid "You should take this."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_21
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_21"
+msgid "You received a bulletproof vest."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_23
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=23
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_23"
+msgid "I hope you can forgive me with this.{PA:20}||{MS:0}Besides..."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_24
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=24
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_24"
+msgid "Yeah?"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_25
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=25
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_25"
+msgid "If you got killed by someone else,||I'd feel like shit."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_26
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=26
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_26"
+msgid "Heh.{PA:20}||What are you gonna do?"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_27
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=27
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_27"
+msgid "I'll try to stay alive as long as I can.{PA:20}||I don't think I'll make it though..."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_28
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=28
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_28"
+msgid "I don't have any information"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_29
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=29
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_29"
+msgid "So I'm gonna go."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_30
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=30
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_30"
+msgid "You gave the cell phone back to him."
+msgstr ""
+
+#. y1ps2.full_id: 44_1_31
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0045|type=01|mg=1|sg=31
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "44_1_31"
+msgid "You gained 500 exp."
+msgstr ""

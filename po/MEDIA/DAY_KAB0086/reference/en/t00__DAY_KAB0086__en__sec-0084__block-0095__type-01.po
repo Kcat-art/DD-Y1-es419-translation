@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0086\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0086.BIN\n"
+"X-Y1PS2-Source-SHA256: 76808a20eba765282ce5a311a74d7dc34cc7a50c3b058df431ac111f5d803bff\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0086.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0086.BIN\n"
+"X-Y1PS2-Talk-SHA256: 76808a20eba765282ce5a311a74d7dc34cc7a50c3b058df431ac111f5d803bff\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 84\n"
+"X-Y1PS2-Raw-Block-ID: 95\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005F\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5f00010a142f0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0086|block=0095|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: baten\n"
+"X-Y1PS2-Actor: w_1\n"
+"X-Y1PS2-Pose: sp_BJ\n"
+
+#. y1ps2.full_id: 84_0_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_0_0"
+msgid "{CU:ffc8c8}Baccarat! Baccarat!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_0_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_0_1"
+msgid "{CU:ffc8c8}Mister, please win at Baccarat.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_1_0"
+msgid "{CU:ffc8c8}Oh...! Blackjack!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_1_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_1_1"
+msgid "{CU:ffc8c8}Mister, please win at Blackjack.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_2_0"
+msgid "{CU:ffc8c8}Roulette! Roulette!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_2_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_2_1"
+msgid "{CU:ffc8c8}Mister, please win at Roulette.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_3_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_3_0"
+msgid "{CU:ffc8c8}Mister, you were so close...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_3_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_3_1"
+msgid "{CU:ffc8c8}Let's try again later.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_4_0"
+msgid "{CU:ffc8c8}Mister, you were so close...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_4_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_4_1"
+msgid "{CU:ffc8c8}Let's try again later.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_5_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_5_0"
+msgid "{CU:ffc8c8}Mister, we weren't lucky enough...{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_5_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_5_1"
+msgid "{CU:ffc8c8}But we can win next time for sure!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_6_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_6_0"
+msgid "{CU:ffc8c8}Yay! You did it, mister!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_6_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_6_1"
+msgid "{CU:ffc8c8}Mister, you're very lucky!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_7_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_7_0"
+msgid "{CU:ffc8c8}Yay! You did it, mister!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_7_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_7_1"
+msgid "{CU:ffc8c8}Let's make a lot of money!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_8_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_8_0"
+msgid "{CU:ffc8c8}Mister, you're amazing!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 84_8_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0095|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: baten
+#. y1ps2.actor: w_1
+#. y1ps2.pose: sp_BJ
+msgctxt "84_8_1"
+msgid "{CU:ffc8c8}I knew you could do it, mister!{MR:00}"
+msgstr ""

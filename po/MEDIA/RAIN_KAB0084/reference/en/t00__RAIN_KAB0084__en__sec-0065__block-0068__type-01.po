@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0084\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0084.BIN\n"
+"X-Y1PS2-Source-SHA256: fa522cb8ca274abb31d4935ed070a87aff334da1bb647b8c9c04602cf25b1f59\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0084.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0084.BIN\n"
+"X-Y1PS2-Talk-SHA256: fa522cb8ca274abb31d4935ed070a87aff334da1bb647b8c9c04602cf25b1f59\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 65\n"
+"X-Y1PS2-Raw-Block-ID: 68\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0044\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 440001014c310000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0084|block=0068|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: host_suit_long0\n"
+"X-Y1PS2-Actor: w_1048653\n"
+"X-Y1PS2-Pose: cus_kaiwa_l_01\n"
+
+#. y1ps2.full_id: 65_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0068|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048653
+#. y1ps2.pose: cus_kaiwa_l_01
+msgctxt "65_0_0"
+msgid "Something isn't right..."
+msgstr ""
+
+#. y1ps2.full_id: 65_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0068|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048653
+#. y1ps2.pose: cus_kaiwa_l_01
+msgctxt "65_0_1"
+msgid "What's that?"
+msgstr ""
+
+#. y1ps2.full_id: 65_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0068|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048653
+#. y1ps2.pose: cus_kaiwa_l_01
+msgctxt "65_0_2"
+msgid "About Shota."
+msgstr ""
+
+#. y1ps2.full_id: 65_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0068|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048653
+#. y1ps2.pose: cus_kaiwa_l_01
+msgctxt "65_0_3"
+msgid "...He always brings in big profits to||the bar, and is very polite.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 65_0_4
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0068|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048653
+#. y1ps2.pose: cus_kaiwa_l_01
+msgctxt "65_0_4"
+msgid "But he seems to be||running around with a bad crowd."
+msgstr ""
+
+#. y1ps2.full_id: 65_0_5
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0068|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048653
+#. y1ps2.pose: cus_kaiwa_l_01
+msgctxt "65_0_5"
+msgid "I hope Saya didn't get involved."
+msgstr ""

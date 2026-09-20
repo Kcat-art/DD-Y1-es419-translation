@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Source-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 35\n"
+"X-Y1PS2-Raw-Block-ID: 74\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4a0001047c540000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0074|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: KojikiJamper_C\n"
+"X-Y1PS2-Actor: sai_home_ca\n"
+"X-Y1PS2-Pose: StandSecurity\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0200/reference/en/t00__DAY_KAB0200__en__sec-0035__block-0074__type-01.po\n"
+
+#. y1ps2.full_id: 35_0_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_0_0"
+msgid "¿Vas a venir, Detective Date?"
+msgstr ""
+
+#. y1ps2.full_id: 35_0_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_0_1"
+msgid "No.{PA:10} Tengo que informar||al cuartel general."
+msgstr ""
+
+#. y1ps2.full_id: 35_0_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_0_2"
+msgid "Ya sabes. {PA:10}Están deseosos de echarme."
+msgstr ""
+
+#. y1ps2.full_id: 35_0_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_0_3"
+msgid "¿Estarás bien?"
+msgstr ""
+
+#. y1ps2.full_id: 35_0_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_0_4"
+msgid "No te preocupes por mí.{PA:20}||En realidad ya no me importa una mierda."
+msgstr ""
+
+#. y1ps2.full_id: 35_0_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_0_5"
+msgid "Hasta que consigas esa||\"{CC:ffc8c8}Tarjeta de Socio de Shangri-la{CR:00}\","
+msgstr ""
+
+#. y1ps2.full_id: 35_0_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_0_6"
+msgid "estaré por aquí y cuidaré de Haruka."
+msgstr ""
+
+#. y1ps2.full_id: 35_0_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_0_7"
+msgid "Vuelve cuando la tengas."
+msgstr ""
+
+#. y1ps2.full_id: 35_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_1_0"
+msgid "¿Qué? ¿Todavía no la tienes? Lo siento,{PA:20}||pero tendré que informar al cuartel general."
+msgstr ""
+
+#. y1ps2.full_id: 35_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_1_1"
+msgid "Uhh, {PA:10}no parece una buena idea eso de||llevar a una niña a un lugar"
+msgstr ""
+
+#. y1ps2.full_id: 35_1_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_1_2"
+msgid "como Shangri-la..."
+msgstr ""
+
+#. y1ps2.full_id: 35_1_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_1_3"
+msgid "Pero si no tienes otra opción,||llévatela contigo, supongo..."
+msgstr ""
+
+#. y1ps2.full_id: 35_2_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_2_0"
+msgid "Al final te las apañaste para conseguirla,||¿eh?{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 35_2_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_2_1"
+msgid "Lo siento, pero se supone||que debo informar a la central."
+msgstr ""
+
+#. y1ps2.full_id: 35_2_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_2_2"
+msgid "Bueno,{PA:10} es muy extraño llevar a||una niña de 9 años a Shangri-la..."
+msgstr ""
+
+#. y1ps2.full_id: 35_2_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_2_3"
+msgid "Ve a {PA:10}\"{CC:ffc8c8}Shangri-la{CR:00}\"{MS:0} con Haruka."
+msgstr ""
+
+#. y1ps2.full_id: 35_2_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_2_4"
+msgid "Señor,{PA:10} ivamos a Shangri-la!"
+msgstr ""
+
+#. y1ps2.full_id: 35_3_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_0"
+msgid "Al final te las apañaste||para conseguirla, ¿eh?{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 35_3_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_1"
+msgid "Lo siento, pero se supone que||debo informar a la central."
+msgstr ""
+
+#. y1ps2.full_id: 35_3_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_2"
+msgid "Bueno,{PA:10} es muy extraño llevar a||una niña de 9 años a Shangri-la..."
+msgstr ""
+
+#. y1ps2.full_id: 35_3_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_3"
+msgid "Ve a {PA:10}\"{CC:ffc8c8}Shangri-la{CR:00}\"{MS:0} con Haruka."
+msgstr ""
+
+#. y1ps2.full_id: 35_3_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_4"
+msgid "(\"{CC:ffc8c8}Pares{CR:00}\", el bar que me dijo Kage,||tiene algo raro. ¿Qué debería hacer?)"
+msgstr ""
+
+#. y1ps2.full_id: 35_3_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_5"
+msgid "Ok,{PA:20}||Haruka.{PA:10} Vamos."
+msgstr ""
+
+#. y1ps2.full_id: 35_3_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_6"
+msgid "Señor,{PA:10} ivamos a Shangri-la juntos!"
+msgstr ""
+
+#. y1ps2.full_id: 35_3_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_7"
+msgid "Quiero ir a otro sitio antes||de ir a Shangri-la..."
+msgstr ""
+
+#. y1ps2.full_id: 35_3_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_8"
+msgid "¿Puedes esperar un poco?"
+msgstr ""
+
+#. y1ps2.full_id: 35_3_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0074|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: KojikiJamper_C
+#. y1ps2.actor: sai_home_ca
+#. y1ps2.pose: StandSecurity
+msgctxt "35_3_9"
+msgid "... Ok.{PA:20}||Pero no tardes demasiado."
+msgstr ""

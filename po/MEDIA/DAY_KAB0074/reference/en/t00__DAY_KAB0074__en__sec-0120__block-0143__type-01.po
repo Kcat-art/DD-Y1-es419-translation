@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0074\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0074.BIN\n"
+"X-Y1PS2-Source-SHA256: f9c261b9ff88e8bbf5a24f5d28bcf11ace3966960c2e03ff3013b828a07eab2b\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0074.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0074.BIN\n"
+"X-Y1PS2-Talk-SHA256: f9c261b9ff88e8bbf5a24f5d28bcf11ace3966960c2e03ff3013b828a07eab2b\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 120\n"
+"X-Y1PS2-Raw-Block-ID: 143\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x008F\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8f000102f4380000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0074|block=0143|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: salap_a_Mlg_ht\n"
+"X-Y1PS2-Actor: salap_a_Mlg_ht\n"
+"X-Y1PS2-Pose: Wait01\n"
+
+#. y1ps2.full_id: 120_0_0
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_0"
+msgid "Oh, {PA:10}Tamura.{PA:20}||What are you doing here?"
+msgstr ""
+
+#. y1ps2.full_id: 120_0_1
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_1"
+msgid "Actually,{PA:10} I want to introduce you||to someone, Kazuma-san."
+msgstr ""
+
+#. y1ps2.full_id: 120_0_2
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_2"
+msgid "My name is Aoki."
+msgstr ""
+
+#. y1ps2.full_id: 120_0_3
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_3"
+msgid "Hehe... {PA:20}This guy's a junior reporter for||a magazine I sell information to."
+msgstr ""
+
+#. y1ps2.full_id: 120_0_4
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_4"
+msgid "Magazine?"
+msgstr ""
+
+#. y1ps2.full_id: 120_0_5
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_5"
+msgid "Yeah. It's called \"{CC:ffc8c8}SPA!{CR:00}\"||You read it before?"
+msgstr ""
+
+#. y1ps2.full_id: 120_0_6
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_6"
+msgid "They pay pretty well for the info||I gather for them."
+msgstr ""
+
+#. y1ps2.full_id: 120_0_7
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_7"
+msgid "One time, they asked me who the wildest guy||in this town was,{PA:10} I told them about you..."
+msgstr ""
+
+#. y1ps2.full_id: 120_0_8
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_8"
+msgid "Keep my name outta your mouth."
+msgstr ""
+
+#. y1ps2.full_id: 120_0_9
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_9"
+msgid "Alright, {PA:20}alright."
+msgstr ""
+
+#. y1ps2.full_id: 120_0_10
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_10"
+msgid "See you again, {PA:10}Kazuma-san!!"
+msgstr ""
+
+#. y1ps2.full_id: 120_0_11
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_0_11"
+msgid "Yeah, {PA:10}see you later."
+msgstr ""
+
+#. y1ps2.full_id: 120_1_0
+#. y1ps2.logical_line_key: DAY_KAB0074|block=0143|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: salap_a_Mlg_ht
+#. y1ps2.pose: Wait01
+msgctxt "120_1_0"
+msgid "Kazuma-san! Kazuma-san!"
+msgstr ""

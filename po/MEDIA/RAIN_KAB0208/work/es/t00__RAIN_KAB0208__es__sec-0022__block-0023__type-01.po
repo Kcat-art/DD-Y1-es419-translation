@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0208\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0208.BIN\n"
+"X-Y1PS2-Source-SHA256: 9a8aad931993855050f13ba36654054d2b1dd86bdb380e38361db51aaf0b33c7\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0208.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0208.BIN\n"
+"X-Y1PS2-Talk-SHA256: 9a8aad931993855050f13ba36654054d2b1dd86bdb380e38361db51aaf0b33c7\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 22\n"
+"X-Y1PS2-Raw-Block-ID: 23\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0017\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 17000106dc2d0000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0208|block=0023|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: Navi_shi_01_K00_03\n"
+"X-Y1PS2-Pose: Freeze\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0208/reference/jp/t00__TALK_ST_KAB0208__jp__sec-0023__block-0023__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0208/reference/en/t00__RAIN_KAB0208__en__sec-0022__block-0023__type-01.po\n"
+
+#. y1ps2.full_id: 22_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0208|block=0023|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_1_0"
+msgid "Has recibido||una \"{CC:ffc8c8}Carta de Yayoi Dojima{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 22_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0208|block=0023|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_3_0"
+msgid "Parece que la oficina privada de los||Dojima está como hace 10 años."
+msgstr ""
+
+#. y1ps2.full_id: 22_3_1
+#. y1ps2.logical_line_key: RAIN_KAB0208|block=0023|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_3_1"
+msgid "La oficina está en el \"{CC:ffc8c8}Edificio Todo{CR:00}\",||al norte del teatro."
+msgstr ""
+
+#. y1ps2.full_id: 22_3_2
+#. y1ps2.logical_line_key: RAIN_KAB0208|block=0023|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_3_2"
+msgid "Ve bajo tu responsabilidad..."
+msgstr ""
+
+#. y1ps2.full_id: 22_5_0
+#. y1ps2.logical_line_key: RAIN_KAB0208|block=0023|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_5_0"
+msgid "Parece que la oficina privada de los||Dojima está como hace 10 años."
+msgstr ""
+
+#. y1ps2.full_id: 22_5_1
+#. y1ps2.logical_line_key: RAIN_KAB0208|block=0023|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_5_1"
+msgid "La oficina está en el \"{CC:ffc8c8}Edificio Todo{CR:00}\",||al norte del teatro."
+msgstr ""
+
+#. y1ps2.full_id: 22_5_2
+#. y1ps2.logical_line_key: RAIN_KAB0208|block=0023|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_5_2"
+msgid "Ve bajo tu responsabilidad..."
+msgstr ""

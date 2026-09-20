@@ -1,0 +1,1071 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0065\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0065.BIN\n"
+"X-Y1PS2-Source-SHA256: 7f6b48fef46e148a4f61e490cb1b5f3e1c7a332aa7f42b75256a5a9059e0a1ca\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0065.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0065.BIN\n"
+"X-Y1PS2-Talk-SHA256: 7f6b48fef46e148a4f61e490cb1b5f3e1c7a332aa7f42b75256a5a9059e0a1ca\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 72\n"
+"X-Y1PS2-Raw-Block-ID: 73\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0049\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 490001034c370000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0065|block=0073|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER13\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C13_TRG_ENC_HAIBILL\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0065/reference/jp/t00__TALK_ST_KAB0065__jp__sec-0072__block-0073__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0065/reference/en/t00__DAY_KAB0065__en__sec-0072__block-0073__type-01.po\n"
+
+#. y1ps2.full_id: 72_0_1
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_1"
+msgid "Mi nombre es Nakaya,||de la Asociación Saint Transfer."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_2
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_2"
+msgid "Y éste es Iwata,||líder de la asociación."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_3
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_3"
+msgid "Iwata-san es una persona muy noble."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_4
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_4"
+msgid "Llámame Iwata. {PA:10}Encantado de conocerte."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_5
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_5"
+msgid "Ahora, {PA:10}iré directo al grano.||Te digo esto en confianza..."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_6
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_6"
+msgid "Tenemos una información||muy buena que mejorará tu vida."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_7
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_7"
+msgid "Si llevas este colgante llamado||la Piedra de la Vida..."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_8
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_8"
+msgid "iTendrás buena suerte!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_9
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_9"
+msgid "iMuchos atletas de élite{PA:10}||y actores famosos lo llevan!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_10
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_10"
+msgid "Mira a Iwata-san, por ejemplo.{PA:10}||Gracias a la Piedra de la Vida..."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_11
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_11"
+msgid "Ganó 10 millones de yenes,||ien sólo un mes!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_12
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_12"
+msgid "Pero hay más."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_13
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_13"
+msgid "iHace poco empezó a salir con una||joven modelo llamada Momoka!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_14
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_14"
+msgid "Jajajaja, {PA:10}me estás avergonzando."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_15
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_15"
+msgid "Así que.{PA:10}||Ya ves, debes comprar este colgante."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_16
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_16"
+msgid "Su precio normal es de 500.000 yenes pero,{SP:1}{PA:10}||por ser para ti, ahora mismo,"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_17
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_17"
+msgid "isólo te costará 99.000 yenes!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_18
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_18"
+msgid "iNo se encuentra una oferta así fácilmente!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_19
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_19"
+msgid "¿Qué me dices?"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_20
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_20"
+msgid "No, gracias."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_21
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_21"
+msgid "Piénsalo."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_22
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_22"
+msgid "Por la irrisoria cantidad de 99.000 yenes,||itu vida puede ser maravillosa!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_23
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_23"
+msgid "iVamos! {PA:10}No encontrarás una ganga||como esta en ningún sitio."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_24
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_24"
+msgid "Bueno,{PA:10}||no te voy a obligar a que la compres."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_25
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_25"
+msgid "Pero no encontrarás||una oportunidad así tan fácilmente."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_26
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_26"
+msgid "No, {PA:10}gracias."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_27
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=27
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_27"
+msgid "iOye, {PA:10}tú!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_28
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=28
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_28"
+msgid "iiNo vas a comprar nada después{PA:10}||de todo lo que te he contado!!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_29
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_29"
+msgid "iiCapullo cabezota!!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_30
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=30
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_30"
+msgid "Como dice Iwata,{PA:10}||¿por qué no..."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_31
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_31"
+msgid "confías en nosotros{PA:10}||{MS:0}y nos compras uno...?"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_32
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=32
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_32"
+msgid "Te he dicho que no lo necesito."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_33
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=33
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_33"
+msgid "iMejor que reces lo que sepas!{PA:10}||iiHaré que te arrepientas de no comprarlo!!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_36
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=36
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_36"
+msgid "Oh, {PA:10}no parece que te lo puedas permitir...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_37
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=37
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_37"
+msgid "Te esperaremos aquí, así que por favor,{PA:10}||vuelve con dinero cuanto antes."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_39
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=39
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_39"
+msgid "Compraré uno."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_40
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=40
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_40"
+msgid "iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_41
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=41
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_41"
+msgid "iÉste colgante ahora es tuyo!{PA:10}||Espero que te sonría la buena suerte."
+msgstr ""
+
+#. y1ps2.full_id: 72_0_43
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=43
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_43"
+msgid "Has hecho una buena compra.{PA:20}||iQué afortunado eres!"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_44
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=0|sg=44
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_0_44"
+msgid "Bueno, {PA:10}perdónanos entonces.{PA:20}||iOh! {PA:10}Gracias por el café."
+msgstr ""
+
+#. y1ps2.full_id: 72_2_0
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_0"
+msgid "Bueno, {PA:10}¿qué tal?||¿Has traído el dinero?"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_1
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_1"
+msgid "He cambiado de opinión. No lo quiero."
+msgstr ""
+
+#. y1ps2.full_id: 72_2_2
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_2"
+msgid "Por la irrisoria cantidad de 99.000 yenes,||itu vida puede ser maravillosa!"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_3
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_3"
+msgid "iNo es normal encontrar||una oferta como ésta!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_4
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_4"
+msgid "iVamos!"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_5
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_5"
+msgid "Bueno, {PA:10}no te voy a obligar a||que la compres.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_6
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_6"
+msgid "Pero no encontrarás||una oportunidad así tan fácilmente."
+msgstr ""
+
+#. y1ps2.full_id: 72_2_7
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_7"
+msgid "No, {PA:10}gracias."
+msgstr ""
+
+#. y1ps2.full_id: 72_2_8
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_8"
+msgid "iOye, {PA:10}tú!"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_9
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_9"
+msgid "iiNo vas a comprar nada después{PA:10}||de todo lo que te he contado!!"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_10
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_10"
+msgid "iCapullo cabezota!"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_11
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_11"
+msgid "Como dice Iwata,{PA:10}||¿por qué no..."
+msgstr ""
+
+#. y1ps2.full_id: 72_2_12
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_12"
+msgid "confías en nosotros{PA:10}||y nos compras uno...?"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_13
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_13"
+msgid "Te he dicho que no lo necesito."
+msgstr ""
+
+#. y1ps2.full_id: 72_2_14
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_14"
+msgid "iMejor que reces lo que sepas!{PA:10}||iiHaré que te arrepientas de no comprarlo!!"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_17
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=17
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_17"
+msgid "De nuevo, no tienes dinero suficiente...{PA:20}||iVuelve con el dinero ya!"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_18
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=18
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_18"
+msgid "Sí, {PA:10}dámelo."
+msgstr ""
+
+#. y1ps2.full_id: 72_2_19
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=19
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_19"
+msgid "iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_20
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=20
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_20"
+msgid "iÉste colgante ahora es tuyo!{PA:10}||Espero que te sonría la buena suerte."
+msgstr ""
+
+#. y1ps2.full_id: 72_2_22
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=22
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_22"
+msgid "Has hecho una buena compra.{PA:20}||iEres muy afortunado!"
+msgstr ""
+
+#. y1ps2.full_id: 72_2_23
+#. y1ps2.logical_line_key: DAY_KAB0065|block=0073|type=01|mg=2|sg=23
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_ENC_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "72_2_23"
+msgid "Bueno, {PA:10}perdónanos entonces.{PA:20}||iOh! {PA:10}Gracias por el café."
+msgstr ""

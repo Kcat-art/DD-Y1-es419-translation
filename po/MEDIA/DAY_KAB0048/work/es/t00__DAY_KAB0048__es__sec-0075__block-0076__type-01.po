@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0048\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0048.BIN\n"
+"X-Y1PS2-Source-SHA256: a233a5b40b9da0f22064e63753a97cc9a4466b5e22e4a1062c89654d262f230e\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0048.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0048.BIN\n"
+"X-Y1PS2-Talk-SHA256: a233a5b40b9da0f22064e63753a97cc9a4466b5e22e4a1062c89654d262f230e\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 75\n"
+"X-Y1PS2-Raw-Block-ID: 76\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4c000101c4370000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0048|block=0076|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER16\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C16_TRG_M_TOWER\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0048/reference/jp/t00__TALK_ST_KAB0048__jp__sec-0075__block-0076__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0048/reference/en/t00__DAY_KAB0048__en__sec-0075__block-0076__type-01.po\n"
+
+#. y1ps2.full_id: 75_0_0
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_0"
+msgid "Disculpa... {PA:10}¿Por casualidad{PA:20}||no te dirigirás al parque?"
+msgstr ""
+
+#. y1ps2.full_id: 75_0_1
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_1"
+msgid "Sí.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 75_0_2
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_2"
+msgid "Yo en {PA:10}tu lugar no iría...{PA:20}||Ese sitio es el Purgatorio."
+msgstr ""
+
+#. y1ps2.full_id: 75_0_3
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_3"
+msgid "Una vez que entras es posible||que no puedas salir."
+msgstr ""
+
+#. y1ps2.full_id: 75_0_4
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_4"
+msgid "¿Qué quieres decir?"
+msgstr ""
+
+#. y1ps2.full_id: 75_0_5
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_5"
+msgid "Está maldito."
+msgstr ""
+
+#. y1ps2.full_id: 75_0_6
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_6"
+msgid "... Una vez que te absorbe,{PA:10}||no puedes resistirte a sus placeres."
+msgstr ""
+
+#. y1ps2.full_id: 75_0_7
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_7"
+msgid "Una vez que lo pruebas,||todo se convierte en problemas."
+msgstr ""
+
+#. y1ps2.full_id: 75_0_8
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_8"
+msgid "... Sigue mi consejo.{PA:20}||No vayas."
+msgstr ""
+
+#. y1ps2.full_id: 75_0_9
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_9"
+msgid "No voy {PA:10}por placer.{PA:20}||Necesito encontrarme con alguien."
+msgstr ""
+
+#. y1ps2.full_id: 75_0_10
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_10"
+msgid "Entiendo...{PA:20}||En ese caso, {PA:10}ten mucho cuidado."
+msgstr ""
+
+#. y1ps2.full_id: 75_0_11
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_11"
+msgid "No.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 75_0_12
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_12"
+msgid "Ya veo. {PA:10}Qué alivio.{PA:20}||No deberías ir allí o acabarás como yo."
+msgstr ""
+
+#. y1ps2.full_id: 75_0_13
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_13"
+msgid "¿A qué te refieres?"
+msgstr ""
+
+#. y1ps2.full_id: 75_0_14
+#. y1ps2.logical_line_key: DAY_KAB0048|block=0076|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_14"
+msgid "Una vez que entres,{PA:10}||te harás viejo como yo cuando salgas."
+msgstr ""

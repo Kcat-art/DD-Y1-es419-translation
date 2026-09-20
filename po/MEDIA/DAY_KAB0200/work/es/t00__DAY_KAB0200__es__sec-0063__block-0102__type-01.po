@@ -1,0 +1,867 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Source-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3cc16067c2b7aa68c090f1f470e03ae43b1e59d7cdd3085061965e9ef15b1aef\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 63\n"
+"X-Y1PS2-Raw-Block-ID: 102\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0066\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 66000103bc5b0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0102|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER10\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C10_TRG_SAI_AGITO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0200/reference/jp/t00__TALK_ST_KAB0200__jp__sec-0063__block-0102__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0200/reference/en/t00__DAY_KAB0200__en__sec-0063__block-0102__type-01.po\n"
+
+#. y1ps2.full_id: 63_0_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_0"
+msgid "¿Qué pasa?"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_1"
+msgid "Oh, {PA:10}he reconstruido esta choza."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_2"
+msgid "Pero debo haber hecho mal los cálculos,||{MS:0}porque se tambalea..."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_3
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_3"
+msgid "Se romperá en cualquier momento."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_4"
+msgid "¿Darle algo?"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_6"
+msgid "¿Qué? {PA:10}¿Dices que debería usar esto?"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_7"
+msgid "Gracias por el consejo,||pero no creo que funcione."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_8"
+msgid "Tengo que reforzar mi casa ahora,||o se caerá en cualquier momento."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_9"
+msgid "Qué debería hacer..."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_10"
+msgid "(No tengo nada que darle...)"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_11"
+msgid "iiOhh!!{PA:20}||¿Dónde lo has conseguido?"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_12
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_12"
+msgid "Esta es la cinta adhesiva que la compañía"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_13
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_13"
+msgid "en la que trabajaba ha estado intentando||desarrollar durante años..."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_14
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_14"
+msgid "Ahora es una vieja historia..."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_15
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_15"
+msgid "Se puede construir||una casa sólo con esta cinta adhesiva...."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_16
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_16"
+msgid "Nos dejábamos la vida entera desarrollando||la cinta adhesiva de próxima generación..."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_17
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_17"
+msgid "Así que...{PA:10} ila han desarrollado!"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_18
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_18"
+msgid "Gracias.{PA:10}||iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_19
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_19"
+msgid "Me gustaría devolverte el favor...||¿Qué te parece éste?"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_20
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_20"
+msgid "Has conseguido el \"{CC:ffc8c8}Maletín Plateado{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_21
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_21"
+msgid "¿Eh?{PA:10} ¿Qué es esto?"
+msgstr ""
+
+#. y1ps2.full_id: 63_0_22
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_22"
+msgid "Lo encontré por ahí.||{MS:0}Aunque no sé qué hay dentro..."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_23
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_23"
+msgid "Este es el único objeto que||{MS:0}tengo para devolverte el favor."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_24
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_24"
+msgid "Por favor, tómalo."
+msgstr ""
+
+#. y1ps2.full_id: 63_0_25
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_0_25"
+msgid "Has obtenido 500 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_0"
+msgid "Tengo que reforzar mi casa ahora, o se||caerá en cualquier momento.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_1"
+msgid "Qué debería hacer..."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_2"
+msgid "¿Darle algo?"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_4
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_4"
+msgid "¿Qué?{PA:10} ¿Dices que debería usar esto?{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_5
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_5"
+msgid "Gracias por el consejo,||pero no creo que funcione."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_6
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_6"
+msgid "(No tengo nada que darle...)"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_7
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_7"
+msgid "Tengo que reforzar mi casa ahora, o se||caerá en cualquier momento.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_8
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_8"
+msgid "Qué debería hacer..."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_9
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_9"
+msgid "iiOhh!!{PA:20}||¿Dónde lo has conseguido?"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_10
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_10"
+msgid "Esta es la cinta adhesiva||que la compañía en la"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_11
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_11"
+msgid "que trabajaba ha estado||intentando desarrollar durante años..."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_12
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_12"
+msgid "Ahora es una vieja historia...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_13
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_13"
+msgid "Se puede construir una casa||sólo con esta cinta adhesiva...."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_14
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_14"
+msgid "Nos dejábamos la vida entera desarrollando||la cinta adhesiva de próxima generación..."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_15
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_15"
+msgid "Así que...{PA:10} ila han desarrollado!"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_16
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_16"
+msgid "Gracias.{PA:10}||iMuchas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_17
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_17"
+msgid "Me gustaría devolverte el favor...||¿Qué te parece éste?"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_18
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_18"
+msgid "Has conseguido el \"{CC:ffc8c8}Maletín Plateado{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_19
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_19"
+msgid "¿Eh? ¿Qué es esto?"
+msgstr ""
+
+#. y1ps2.full_id: 63_1_20
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_20"
+msgid "Lo encontré por ahí.||{MS:0}Aunque no sé qué hay dentro..."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_21
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_21"
+msgid "Este es el único objeto que tengo||{MS:0}para devolverte el favor."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_22
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_22"
+msgid "Por favor, tómalo."
+msgstr ""
+
+#. y1ps2.full_id: 63_1_23
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=1|sg=23
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_1_23"
+msgid "Has obtenido 500 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 63_2_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0102|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER10
+#. y1ps2.story_title: Internal CHAPTER10
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C10_TRG_SAI_AGITO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 10
+msgctxt "63_2_0"
+msgid "Se caerá...||Ah, se romperá..."
+msgstr ""

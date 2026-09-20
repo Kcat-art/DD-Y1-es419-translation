@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0086\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0086.BIN\n"
+"X-Y1PS2-Source-SHA256: 76808a20eba765282ce5a311a74d7dc34cc7a50c3b058df431ac111f5d803bff\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0086.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0086.BIN\n"
+"X-Y1PS2-Talk-SHA256: 76808a20eba765282ce5a311a74d7dc34cc7a50c3b058df431ac111f5d803bff\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 88\n"
+"X-Y1PS2-Raw-Block-ID: 100\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0064\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 64000103e42f0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0086|block=0100|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: jack_B_M64\n"
+"X-Y1PS2-Actor: w_11\n"
+"X-Y1PS2-Pose: cus_wait_table_01\n"
+
+#. y1ps2.full_id: 88_1_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_1_0"
+msgid "Mister, we haven't changed any money||into chips.{PA:20} We gotta get chips first."
+msgstr ""
+
+#. y1ps2.full_id: 88_1_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_1_1"
+msgid "Oh yeah.{PA:20}||Let's get some chips first."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_0
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_0"
+msgid "Mister, we haven't won that much.{PA:20}||Let's play some more."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_1
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_1"
+msgid "Okay.{PA:20} Let's play a little more."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_2
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_2"
+msgid "Yay!"
+msgstr ""
+
+#. y1ps2.full_id: 88_2_3
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_3"
+msgid "Waste of time. {PA:20}We're leaving."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_4
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_4"
+msgid "Awwww, we're quitting already?||What are you gonna do with the chips?"
+msgstr ""
+
+#. y1ps2.full_id: 88_2_5
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_5"
+msgid "I'll tell the clerk to give them to Motoki."
+msgstr ""
+
+#. y1ps2.full_id: 88_2_6
+#. y1ps2.logical_line_key: DAY_KAB0086|block=0100|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "88_2_6"
+msgid "...Okay."
+msgstr ""

@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0213\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Source-SHA256: f625c084a4744f8878b0def04d9cd4f43919e1b98c01b2b4cec357719f51d65c\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-SHA256: f625c084a4744f8878b0def04d9cd4f43919e1b98c01b2b4cec357719f51d65c\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 82\n"
+"X-Y1PS2-Raw-Block-ID: 110\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6e000102d0360000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0213|block=0110|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER07\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C7_TRG_OUT_OF_SAI\n"
+"X-Y1PS2-Actor: w_14\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 82_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0110|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "82_0_0"
+msgid "Hmm. {PA:10}Not good enough.{PA:20}||Do you want to try again?"
+msgstr ""
+
+#. y1ps2.full_id: 82_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0110|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "82_0_2"
+msgid "Hmm. {PA:10}You need to rest sometimes to improve||your skills.{PA:20} Come back when you're ready."
+msgstr ""
+
+#. y1ps2.full_id: 82_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0110|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "82_1_0"
+msgid "Hm. {PA:10}{MS:0}Well done! {PA:20}{MS:1}Excellent!{PA:20}||You've mastered this technique!"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0110|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "82_1_1"
+msgid "The battle will never get anywhere||if you just keep evading.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 82_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0110|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER07
+#. y1ps2.story_title: Internal CHAPTER07
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C7_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_14
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 7
+msgctxt "82_1_2"
+msgid "Deal your opponent a heavy blow with this||technique!"
+msgstr ""

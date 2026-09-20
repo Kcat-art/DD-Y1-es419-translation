@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: OLD_KAB0082\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: OLD_KAB0082.ARC\n"
+"X-Y1PS2-Source-SHA256: 364751698b0c6cd15349b93a6f3e45b2d3dba15ffd5ce2c93425c94d0f2d834a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0082.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: OLD_KAB0082.ARC/0/8___TALK_ST_KAB0082.BIN\n"
+"X-Y1PS2-Talk-SHA256: e3b4d3dc241b6d375b7d78b50dab76f672087a2a287ce3f1115c6374f37f7b80\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 30\n"
+"X-Y1PS2-Raw-Block-ID: 31\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x001F\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 1f000101184b0100\n"
+"X-Y1PS2-Logical-Section-Key: OLD_KAB0082|block=0031|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: Navi_ha_06_K00_03\n"
+"X-Y1PS2-Pose: Freeze\n"
+
+#. y1ps2.full_id: 30_0_0
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0031|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_ha_06_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "30_0_0"
+msgid "アレス、{PA:10}もう少しだから。{PA:20}||しっかりついてきてね。"
+msgstr ""

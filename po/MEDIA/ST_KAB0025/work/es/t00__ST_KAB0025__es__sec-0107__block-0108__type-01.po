@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0025\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0025.BIN\n"
+"X-Y1PS2-Source-SHA256: 4af2fece91e26f3f2118dccae895e4829525dbf370b73d30d6297e8c27a7e534\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0025.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0025.BIN\n"
+"X-Y1PS2-Talk-SHA256: 4af2fece91e26f3f2118dccae895e4829525dbf370b73d30d6297e8c27a7e534\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 107\n"
+"X-Y1PS2-Raw-Block-ID: 108\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6c000102bc3b0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0025|block=0108|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_11\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0025/reference/jp/t00__TALK_ST_KAB0025__jp__sec-0107__block-0108__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0025/reference/en/t00__ST_KAB0025__en__sec-0107__block-0108__type-01.po\n"
+
+#. y1ps2.full_id: 107_0_0
+#. y1ps2.logical_line_key: ST_KAB0025|block=0108|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_11
+#. y1ps2.pose: Idle
+msgctxt "107_0_0"
+msgid "Me voy a preparar||para mi primera visita a un bar de alterne."
+msgstr ""
+
+#. y1ps2.full_id: 107_0_1
+#. y1ps2.logical_line_key: ST_KAB0025|block=0108|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_11
+#. y1ps2.pose: Idle
+msgctxt "107_0_1"
+msgid "He aprendido mucho sobre ellos en||el centro de información"
+msgstr ""
+
+#. y1ps2.full_id: 107_0_2
+#. y1ps2.logical_line_key: ST_KAB0025|block=0108|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_11
+#. y1ps2.pose: Idle
+msgctxt "107_0_2"
+msgid "de entretenimiento para adultos||de la Calle Shichifuku."
+msgstr ""
+
+#. y1ps2.full_id: 107_0_3
+#. y1ps2.logical_line_key: ST_KAB0025|block=0108|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_11
+#. y1ps2.pose: Idle
+msgctxt "107_0_3"
+msgid "He elegido Shine como destino||de mi primera visita a un bar de alterne."
+msgstr ""
+
+#. y1ps2.full_id: 107_0_4
+#. y1ps2.logical_line_key: ST_KAB0025|block=0108|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_11
+#. y1ps2.pose: Idle
+msgctxt "107_0_4"
+msgid "iUmmm!{PA:20} Estoy tan nervioso."
+msgstr ""
+
+#. y1ps2.full_id: 107_1_0
+#. y1ps2.logical_line_key: ST_KAB0025|block=0108|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_11
+#. y1ps2.pose: Idle
+msgctxt "107_1_0"
+msgid "iiSí!! Estoy listo.||iHora de irse a un bar de alterne!"
+msgstr ""

@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0000\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0000.BIN\n"
+"X-Y1PS2-Source-SHA256: 58757a9668fe1f6241a995570c686a2b4fcc62b5da8d12c1590e0b220c388af2\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0000.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0000.BIN\n"
+"X-Y1PS2-Talk-SHA256: 58757a9668fe1f6241a995570c686a2b4fcc62b5da8d12c1590e0b220c388af2\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 109\n"
+"X-Y1PS2-Raw-Block-ID: 122\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x007A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7a000103bc310000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0000|block=0122|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: parka2_Msh_b\n"
+"X-Y1PS2-Actor: w_1048580\n"
+"X-Y1PS2-Pose: Stand05\n"
+
+#. y1ps2.full_id: 109_0_0
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 01
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_0_0"
+msgid "Date"
+msgstr ""
+
+#. y1ps2.full_id: 109_1_0
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_1_0"
+msgid "Detective Date."
+msgstr ""
+
+#. y1ps2.full_id: 109_1_2
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_1_2"
+msgid "Yeah."
+msgstr ""
+
+#. y1ps2.full_id: 109_1_4
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_1_4"
+msgid "I'm gonna head toward Ares.{PA:20}||I might be able to find Yumi there."
+msgstr ""
+
+#. y1ps2.full_id: 109_1_6
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_1_6"
+msgid "Why? {PA:10}What do you mean?"
+msgstr ""
+
+#. y1ps2.full_id: 109_1_8
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_1_8"
+msgid "I see... {PA:10}Thank you,{PA:20}||Detective Date."
+msgstr ""
+
+#. y1ps2.full_id: 109_2_0
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_0"
+msgid "I'm glad you're safe.{PA:10}||I learned about what happened"
+msgstr ""
+
+#. y1ps2.full_id: 109_2_1
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_1"
+msgid "in Shibaura through the police radio..."
+msgstr ""
+
+#. y1ps2.full_id: 109_2_3
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_3"
+msgid "What are you gonna do?"
+msgstr ""
+
+#. y1ps2.full_id: 109_2_5
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_5"
+msgid "What?! {PA:10}Okay,{PA:20}||but we don't have much time.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 109_2_6
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_6"
+msgid "Tell me what happened later."
+msgstr ""
+
+#. y1ps2.full_id: 109_2_7
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_7"
+msgid "...Before that,{PA:10}||you should stop by Stardust."
+msgstr ""
+
+#. y1ps2.full_id: 109_2_9
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_9"
+msgid "Well, {PA:10}I think there are many things||you may find useful there."
+msgstr ""
+
+#. y1ps2.full_id: 109_2_10
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_10"
+msgid "I asked Kazuki and Yuya||to gather some items for you."
+msgstr ""
+
+#. y1ps2.full_id: 109_2_11
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_11"
+msgid "...If there's anything you need,{PA:10}||go there to get them."
+msgstr ""
+
+#. y1ps2.full_id: 109_2_13
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0122|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: parka2_Msh_b
+#. y1ps2.actor: w_1048580
+#. y1ps2.pose: Stand05
+msgctxt "109_2_13"
+msgid "Okay...{PA:20}||See you later."
+msgstr ""

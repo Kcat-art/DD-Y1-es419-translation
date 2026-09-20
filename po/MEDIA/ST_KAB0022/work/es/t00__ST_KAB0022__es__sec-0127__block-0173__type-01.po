@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0022\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0022.BIN\n"
+"X-Y1PS2-Source-SHA256: 7f047c2d85a2621627dbff9ba682ef21296151b790be8aabcef420e3793b06d0\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0022.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0022.BIN\n"
+"X-Y1PS2-Talk-SHA256: 7f047c2d85a2621627dbff9ba682ef21296151b790be8aabcef420e3793b06d0\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 127\n"
+"X-Y1PS2-Raw-Block-ID: 173\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00AD\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: ad00010480420000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0022|block=0173|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: str_a_Mnit\n"
+"X-Y1PS2-Actor: girl_Fsh\n"
+"X-Y1PS2-Pose: Stand03\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0022/reference/en/t00__ST_KAB0022__en__sec-0127__block-0173__type-01.po\n"
+
+#. y1ps2.full_id: 127_0_0
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_0_0"
+msgid "Tenemos un montón de chicas bonitas.||¿Por qué no te dejas caer?"
+msgstr ""
+
+#. y1ps2.full_id: 127_0_1
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_0_1"
+msgid "¿Eres nuevo por aquí?||Te engancharemos con una tarifa especial."
+msgstr ""
+
+#. y1ps2.full_id: 127_1_0
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_1_0"
+msgid "Ven a Jewel."
+msgstr ""
+
+#. y1ps2.full_id: 127_1_1
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_1_1"
+msgid "Señor, ¿no le apetecería divertirse||En un bar de alterne?"
+msgstr ""
+
+#. y1ps2.full_id: 127_1_2
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_1_2"
+msgid "iLe ofrecemos un descuento!"
+msgstr ""
+
+#. y1ps2.full_id: 127_1_3
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_1_3"
+msgid "iParece estar aburrido!||¿Por qué no se pasa por nuestro bar?"
+msgstr ""
+
+#. y1ps2.full_id: 127_1_4
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_1_4"
+msgid "iTómese un descanso en nuestro bar!"
+msgstr ""
+
+#. y1ps2.full_id: 127_1_5
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_1_5"
+msgid "iNuestro bar de alterne es||el punto de reunión de la ciudad!"
+msgstr ""
+
+#. y1ps2.full_id: 127_1_6
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_1_6"
+msgid "iPásese y sacie tu sed!"
+msgstr ""
+
+#. y1ps2.full_id: 127_1_7
+#. y1ps2.logical_line_key: ST_KAB0022|block=0173|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: girl_Fsh
+#. y1ps2.pose: Stand03
+msgctxt "127_1_7"
+msgid "Hey, señor. Antes de irse a casa,||¿por qué no entra?"
+msgstr ""

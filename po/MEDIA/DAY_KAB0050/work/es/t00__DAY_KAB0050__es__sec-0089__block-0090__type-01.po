@@ -1,0 +1,1666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0050\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0050.BIN\n"
+"X-Y1PS2-Source-SHA256: 55f1249e4923d917a54a40a1062577e656fffbc677ad7ae6c49eadf495171515\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0050.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0050.BIN\n"
+"X-Y1PS2-Talk-SHA256: 55f1249e4923d917a54a40a1062577e656fffbc677ad7ae6c49eadf495171515\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 89\n"
+"X-Y1PS2-Raw-Block-ID: 90\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5a000106683b0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0050|block=0090|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: CELLULAR\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: cellular\n"
+"X-Y1PS2-Actor: w_5\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0050/reference/jp/t00__TALK_ST_KAB0050__jp__sec-0089__block-0090__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0050/reference/en/t00__DAY_KAB0050__en__sec-0089__block-0090__type-01.po\n"
+
+#. y1ps2.full_id: 89_0_0
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_0"
+msgid "¿Qué tal estás?{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_1
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_1"
+msgid "Sr. Kazuma Kiryu, supongo. {PA:10}iEl ex-soldado||de la Familia Dojima del Clan Tojo!"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_2
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_2"
+msgid "¿Qué?{PA:10} Oh,{PA:10} no.{PA:10} No puede ser..."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_3
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_3"
+msgid "¿Quién...{PA:10} eres?"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_4
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_4"
+msgid "Me halaga que preguntes."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_5
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_5"
+msgid "Me disculpo de antemano||si mis palabras te molestan."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_6
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_6"
+msgid "Déjame que me presente.{PA:10}||Nací en Asakusa, Tokio."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_7
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_7"
+msgid "Mi Oyabun es Kyozo Atobe,{PA:10}||el tercer jefe de la Familia Atobe."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_8
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_8"
+msgid "Mi nombre es"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_9
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_9"
+msgid "Ichirota Yoshikawa.{PA:20}||Me llaman Ichi."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_10
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_10"
+msgid "Como podrás ver,{PA:10}||estoy en la parte baja del tótem y mis"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_11
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_11"
+msgid "hermanos y hermanas tienen que cuidarme."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_12
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_12"
+msgid "Espero que nos llevemos||bien en los negocios."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_13
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_13"
+msgid "¿Y quién demonios eres?"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_14
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_14"
+msgid "Oh, ivamos! Ya me he presentado...{PA:20}||iy de la manera tradicional!"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_15
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_15"
+msgid "Pertenezco a la Familia Atobe."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_16
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_16"
+msgid "Gracias por ayudar a nuestra||gente con Kyoka."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_17
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_17"
+msgid "¿Y?{PA:10} ¿Qué quiere un Atobe de mí?"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_18
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_18"
+msgid "Bueno,||iya que lo preguntas!"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_19
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_19"
+msgid "Hablando con sinceridad,{PA:10}||no creemos que ese chico,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_20
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_20"
+msgid "Takashi, tenga lo que hace falta."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_21
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_21"
+msgid "Así que me enviaron||para vigilarlo..."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_22
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_22"
+msgid "Pero no tengo ni idea de dónde están.||Así que..."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_23
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_23"
+msgid "Quiero que me ayudes a encontrarlos||a los dos, Kazuma-san."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_24
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_24"
+msgid "Sabes muchas cosas sobre esta ciudad. Sería||un honor que me ayudases a encontrarlos."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_25
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_25"
+msgid "Creo que no{PA:20}. Pregúntale a otro."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_26
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_26"
+msgid "Eres frío como el hielo...{PA:10} De hecho,{PA:10}||toda la ciudad es fría..."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_27
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=27
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_27"
+msgid "Ok."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_28
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=28
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_28"
+msgid "Sabía que lo harías,{PA:20} Kazuma-san.||iTienes un gran corazón!"
+msgstr ""
+
+#. y1ps2.full_id: 89_0_29
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_29"
+msgid "Ok, si te encuentras con la Señorita||Kyoka, {PA:10}dile que le dé esto al niño."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_30
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=30
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_30"
+msgid "Has recibido||\"{CC:ffc8c8}Par de Tazas de Mashiko{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_31
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_31"
+msgid "Sabrá lo que significa||cuando se los des."
+msgstr ""
+
+#. y1ps2.full_id: 89_0_32
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=0|sg=32
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_0_32"
+msgid "Kazuma-san,{PA:10} cuento contigo."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_0
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_0"
+msgid "¿Qué tal estás?"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_1
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_1"
+msgid "Sr. Kazuma Kiryu, supongo. {PA:10}iEl ex-soldado||de la Familia Dojima del Clan Tojo!"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_2
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_2"
+msgid "¿Qué?{PA:10} Oh, {PA:10}no. {PA:10}No puede ser..."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_3
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_3"
+msgid "¿Quién...{PA:10} eres?"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_4
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_4"
+msgid "Me halaga que preguntes."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_5
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_5"
+msgid "Me disculpo de antemano||si mis palabras te molestan."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_6
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_6"
+msgid "Déjame que me presente.{PA:10}||Nací en Asakusa, Tokio."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_7
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_7"
+msgid "Mi Oyabun es Kyozo Atobe,{PA:10}||el tercer jefe de la Familia Atobe."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_8
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_8"
+msgid "Mi nombre es"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_9
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_9"
+msgid "Ichirota Yoshikawa.{PA:20}||Me llaman Ichi."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_10
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_10"
+msgid "Como podrás ver,{PA:10} estoy||en la parte baja del tótem y mis hermanos"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_11
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_11"
+msgid "y hermanas tienen que cuidarme."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_12
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_12"
+msgid "Espero que nos llevemos bien||en los negocios."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_13
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_13"
+msgid "¿Y quién demonios eres?"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_14
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_14"
+msgid "Oh, ivamos! Ya me he presentado...{PA:20}||iy de la manera tradicional!"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_15
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_15"
+msgid "Pertenezco a la Familia Atobe."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_16
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_16"
+msgid "Gracias por ayudar a nuestra||gente con Kyoka."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_17
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_17"
+msgid "¿Y?{PA:10} ¿Qué quiere un Atobe de mí?"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_18
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_18"
+msgid "Bueno,||iya que lo preguntas!"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_19
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_19"
+msgid "Hablando con sinceridad,{PA:10}||no creemos que ese chico,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_20
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_20"
+msgid "Takashi, tenga lo que hace falta."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_21
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_21"
+msgid "Así que me enviaron||para vigilarlo..."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_22
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_22"
+msgid "Pero no tengo ni idea de dónde están.||Así que..."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_23
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=23
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_23"
+msgid "Quiero que me ayudes a encontrarlos||a los dos, Kazuma-san."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_24
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=24
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_24"
+msgid "Sabes muchas cosas sobre esta ciudad.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_25
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=25
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_25"
+msgid "Sería un honor que me||ayudases a encontrarlos."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_26
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=26
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_26"
+msgid "Creo que no.{PA:20} Pregúntale a otro."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_27
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=27
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_27"
+msgid "Eres frío como el hielo... {PA:10}De hecho,{PA:10}||toda la ciudad es fría..."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_28
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=28
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_28"
+msgid "Ok."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_29
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=29
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_29"
+msgid "Sabía que lo harías, Kazuma-san.{PA:20}||iTienes un gran corazón!"
+msgstr ""
+
+#. y1ps2.full_id: 89_1_30
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=30
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_30"
+msgid "Ok,{PA:10} si te encuentras con la Señorita Kyoka,||dile que le dé esto al niño."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_31
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=31
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_31"
+msgid "Has recibido||\"{CC:ffc8c8}Par de Tazas de Mashiko{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_32
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=32
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_32"
+msgid "Sabrá lo que significa||cuando se los des."
+msgstr ""
+
+#. y1ps2.full_id: 89_1_33
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=1|sg=33
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_1_33"
+msgid "Kazuma-san,{PA:10} cuento contigo."
+msgstr ""
+
+#. y1ps2.full_id: 89_2_0
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_0"
+msgid "Eres el único hombre de esta ciudad||en el que puedo confiar.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 89_2_1
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_1"
+msgid "Por favor, ayúdame a encontrar||a la Señorita Kyoka."
+msgstr ""
+
+#. y1ps2.full_id: 89_2_2
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_2"
+msgid "Me parece que no.{PA:20} Pídeselo a otro."
+msgstr ""
+
+#. y1ps2.full_id: 89_2_3
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_3"
+msgid "Eres frío como el hielo... {PA:10}De hecho,{PA:10}||toda la ciudad es fría..."
+msgstr ""
+
+#. y1ps2.full_id: 89_2_4
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_4"
+msgid "Ok."
+msgstr ""
+
+#. y1ps2.full_id: 89_2_5
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_5"
+msgid "Sabía que lo harías, Kazuma-san.{PA:20}||iTienes un gran corazón!"
+msgstr ""
+
+#. y1ps2.full_id: 89_2_6
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_6"
+msgid "Ok,{PA:10} si te encuentras||con la Señorita Kyoka,"
+msgstr ""
+
+#. y1ps2.full_id: 89_2_7
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_7"
+msgid "dile que le dé esto al niño."
+msgstr ""
+
+#. y1ps2.full_id: 89_2_8
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_8"
+msgid "Has recibido||\"{CC:ffc8c8}Par de Tazas de Mashiko{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 89_2_9
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_9"
+msgid "Sabrá lo que significa||cuando se los des."
+msgstr ""
+
+#. y1ps2.full_id: 89_2_10
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_2_10"
+msgid "Kazuma-san, {PA:10}cuento contigo."
+msgstr ""
+
+#. y1ps2.full_id: 89_3_0
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_3_0"
+msgid "Kazuma-san,{PA:10} muchas gracias por tu ayuda."
+msgstr ""
+
+#. y1ps2.full_id: 89_3_1
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_3_1"
+msgid "Dale el \"Par de Tazas de Mashiko\"||a la Señorita Kyoka.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 89_3_2
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_3_2"
+msgid "La buscaré un rato por aquí."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_0
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_0"
+msgid "Oh,{PA:20} Kazuma-san.{PA:10} ¿Cómo ha ido todo?{PA:20}||¿Has encontrado a la Señorita Kyoka?"
+msgstr ""
+
+#. y1ps2.full_id: 89_4_1
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_1"
+msgid "¿Darle el \"{CC:ffc8c8}Anillo de Kioka{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 89_4_2
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_2"
+msgid "Le has dado el \"{CC:ffc8c8}Anillo de Kyoka{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_3
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_3"
+msgid "ii¿Es posible?!! Lo es.||Es el anillo de la Señorita Kyoka."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_4
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_4"
+msgid "Esto significa que le has dado el||par de tazas, ¿correcto?"
+msgstr ""
+
+#. y1ps2.full_id: 89_4_5
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_5"
+msgid "iEstoy tan contento!{PA:20}||Y,{PA:10} ¿dónde están ahora?"
+msgstr ""
+
+#. y1ps2.full_id: 89_4_6
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_6"
+msgid "Han dejado la ciudad."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_7
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_7"
+msgid "Me prometieron que volverían||a ver al Oyabun Atobe"
+msgstr ""
+
+#. y1ps2.full_id: 89_4_8
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_8"
+msgid "para que les devuelva el anillo."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_9
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_9"
+msgid "... Ya veo. {PA:10}La Señorita||Kyoka ha hecho una buena jugada..."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_10
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_10"
+msgid "Muchas gracias,{PA:10} Kazuma-san.{PA:20}||Se lo diré al Oyabun,{PA:10} en persona."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_11
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_11"
+msgid "Siento mucho las molestias, Kazuma-san..."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_12
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=12
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_12"
+msgid "Esto es una muestra de agradecimiento||de la Familia Atobe. Por favor, acéptalo."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_13
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=13
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_13"
+msgid "Has recibido 100.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_14
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=14
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_14"
+msgid "Has obtenido 500 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_15
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=15
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_15"
+msgid "Jeje...{PA:10} En esta ciudad hay mucha||más compasión de la que pensaba."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_16
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=16
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_16"
+msgid "Ahora me voy."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_17
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=17
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_17"
+msgid "Kazuma-san, muchas gracias.||Algún día te devolveré el favor."
+msgstr ""
+
+#. y1ps2.full_id: 89_4_18
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=18
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_18"
+msgid "¿Eh?{PA:10} ¿No los has encontrado todavía...?{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 89_4_19
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=4|sg=19
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_4_19"
+msgid "Lo siento,{PA:10} pero continúa buscándolos||hasta que los encuentres."
+msgstr ""
+
+#. y1ps2.full_id: 89_5_0
+#. y1ps2.logical_line_key: DAY_KAB0050|block=0090|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "89_5_0"
+msgid "No pude encontrar a la Señorita Kyoka.||¿Dónde está?"
+msgstr ""

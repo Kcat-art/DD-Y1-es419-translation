@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0006\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0006.BIN\n"
+"X-Y1PS2-Source-SHA256: 2b46ecbecbeacbb020ac976a2803005001ac1f4280ccb4b016373993cb4e2707\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-SHA256: 2b46ecbecbeacbb020ac976a2803005001ac1f4280ccb4b016373993cb4e2707\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 185\n"
+"X-Y1PS2-Raw-Block-ID: 190\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00BE\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: be0001041c4d0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0006|block=0190|type=01\n"
+"X-Y1PS2-Story-Type: substory_unresolved\n"
+"X-Y1PS2-Story-Key: SUB_AYAKA\n"
+"X-Y1PS2-Story-Evidence: unmapped_sub_trigger_prefix\n"
+"X-Y1PS2-Context: sub_ayaka\n"
+"X-Y1PS2-Actor: w_100016\n"
+"X-Y1PS2-Pose: Stand04\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0006/reference/jp/t00__TALK_ST_KAB0006__jp__sec-0185__block-0190__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0006/reference/en/t00__ST_KAB0006__en__sec-0185__block-0190__type-01.po\n"
+
+#. y1ps2.full_id: 185_0_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_0_0"
+msgid "iHey, {PA:10}abuelo!{PA:10}||iQuítale las manos de encima a mi chica!"
+msgstr ""
+
+#. y1ps2.full_id: 185_0_1
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_0_1"
+msgid "iOh, Kiyoshi!{PA:10}||iiEres tan guay!❤"
+msgstr ""
+
+#. y1ps2.full_id: 185_0_2
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_0_2"
+msgid "iTe voy a joder por tratar||de ligar con mi chica!"
+msgstr ""
+
+#. y1ps2.full_id: 185_0_3
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_0_3"
+msgid "iPatéale el culo de mi parte,||Kiyoshi!"
+msgstr ""
+
+#. y1ps2.full_id: 185_1_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_0"
+msgid "iLo siento...||Lo siento!"
+msgstr ""

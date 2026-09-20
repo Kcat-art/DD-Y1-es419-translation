@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0041\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0041.ARC\n"
+"X-Y1PS2-Source-SHA256: 883ba81d11559fa4217677f5275cd569d867dc7d846cc62c7323248380b868fc\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0041.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0041.ARC/0/8___TALK_ST_KAB0041.BIN\n"
+"X-Y1PS2-Talk-SHA256: 1c6b3ca2f0f6306254b4258c46062953efca764ced6762f062ac697991e129ac\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 134\n"
+"X-Y1PS2-Raw-Block-ID: 176\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00B0\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: b0000102bc830200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0041|block=0176|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: N_teamer_D\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Stand01\n"
+
+#. y1ps2.full_id: 134_0_0
+#. y1ps2.logical_line_key: ST_KAB0041|block=0176|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_teamer_D
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "134_0_0"
+msgid "錦山組にシンジさんって人が||いるんだけどよ。"
+msgstr ""
+
+#. y1ps2.full_id: 134_0_1
+#. y1ps2.logical_line_key: ST_KAB0041|block=0176|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_teamer_D
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "134_0_1"
+msgid "ちょっと前に女抱えて||走っていったんだ。"
+msgstr ""
+
+#. y1ps2.full_id: 134_0_2
+#. y1ps2.logical_line_key: ST_KAB0041|block=0176|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_teamer_D
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "134_0_2"
+msgid "なんか切羽詰ってる感じだったぜ。||{PA:20}どうしたんだろうな⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 134_1_0
+#. y1ps2.logical_line_key: ST_KAB0041|block=0176|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_teamer_D
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "134_1_0"
+msgid "シンジさんだったよな➿あれ⋯"
+msgstr ""

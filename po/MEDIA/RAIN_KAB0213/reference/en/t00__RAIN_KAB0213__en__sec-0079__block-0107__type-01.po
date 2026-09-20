@@ -1,0 +1,1358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0213\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Source-SHA256: f625c084a4744f8878b0def04d9cd4f43919e1b98c01b2b4cec357719f51d65c\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-SHA256: f625c084a4744f8878b0def04d9cd4f43919e1b98c01b2b4cec357719f51d65c\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 79\n"
+"X-Y1PS2-Raw-Block-ID: 107\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6b00010c30350000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0213|block=0107|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER13\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C13_TRG_OUT_OF_SAI\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 79_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_0"
+msgid "Yo,{PA:10} old man."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_1"
+msgid "Ah! My apprentice! Have you been beating||people up like I told you?"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_2"
+msgid "Yes,{PA:10} I have."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_3"
+msgid "Good, good. I'm glad.||Good luck and keep it up! Farewell!"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_4"
+msgid "You haven't taught me yet."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_5"
+msgid "Gahahaha!{PA:10}{MS:0} Right, right!{PA:10}||I forgot!{PA:10} Forgive me!"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_6"
+msgid "But...{PA:10} You haven't||trained enough."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_7
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_7"
+msgid "Before I teach you the next lesson,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_1_8
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_8"
+msgid "you need to reach a certain level in your||\"GI\"."
+msgstr ""
+
+#. y1ps2.full_id: 79_1_9
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_1_9"
+msgid "Go back to the streets and train yourself!"
+msgstr ""
+
+#. y1ps2.full_id: 79_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_2_0"
+msgid "Understood?{PA:10} Train your \"GI\"!||{MS:0}Come back when you're ready!{PA:10} Farewell!"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_0"
+msgid "Yo,{PA:10} old man."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_1"
+msgid "Ah!{PA:10} My apprentice!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_2"
+msgid "Have you been beating people up||like I told you?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_3"
+msgid "Yes,{PA:10} I have."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_4"
+msgid "Good, good. I'm glad.||Good luck and keep it up! Farewell!"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_5"
+msgid "You haven't taught me yet."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_6"
+msgid "Gahahaha!{PA:10}{MS:0} Right, right!{PA:10}||I forgot!{PA:10} Forgive me!"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_7
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_7"
+msgid "Hmm,{PA:10}{MS:0} seems you have trained your||\"GI\". {PA:20}Shall we begin the next lesson?"
+msgstr ""
+
+#. y1ps2.full_id: 79_3_8
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_8"
+msgid "No,{PA:10} thanks."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_9
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_9"
+msgid "Hmm? {PA:10}Are you busy?{PA:10}||Alright then.{MS:0}{PA:10} I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_10
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_10"
+msgid "Yes,{PA:10} please."
+msgstr ""
+
+#. y1ps2.full_id: 79_3_11
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=3|sg=11
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_3_11"
+msgid "Get ready..."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_0"
+msgid "Yo,{PA:10} old man."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_1"
+msgid "Ah!{PA:10} My apprentice!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 79_4_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_2"
+msgid "Have you been beating people up||like I told you?"
+msgstr ""
+
+#. y1ps2.full_id: 79_4_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_3"
+msgid "Yes,{PA:10} I have."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_4"
+msgid "Good, good. I'm glad.||Good luck and keep it up! Farewell!"
+msgstr ""
+
+#. y1ps2.full_id: 79_4_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_5"
+msgid "You haven't taught me||how to beat people up yet."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_6"
+msgid "Gahahaha!{PA:10}{MS:0} Right, right!{PA:10}||I forgot!{PA:10} Forgive me!"
+msgstr ""
+
+#. y1ps2.full_id: 79_4_7
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=7
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_7"
+msgid "Hmm,{PA:10}{MS:0} seems you have trained your \"GI\".{PA:20}||Shall we begin the next lesson?"
+msgstr ""
+
+#. y1ps2.full_id: 79_4_8
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=8
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_8"
+msgid "No,{PA:10} thanks."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_9
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=9
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_9"
+msgid "Hmm? {PA:10}Are you busy?{PA:10}||Alright then.{MS:0}{PA:10} I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_10
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=10
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_10"
+msgid "Yes,{PA:10} please."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_11
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=11
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_11"
+msgid "Get ready..."
+msgstr ""
+
+#. y1ps2.full_id: 79_4_12
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=12
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_12"
+msgid "Hmm?{PA:20}||You're equipped right now,{PA:10} aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 79_4_13
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=13
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_13"
+msgid "We can't start training under these||conditions...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_4_14
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=4|sg=14
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_4_14"
+msgid "Remove your gear and come back."
+msgstr ""
+
+#. y1ps2.full_id: 79_5_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_5_0"
+msgid "Hmm,{PA:10}{MS:0} seems you have trained your \"GI\".{PA:20}||Shall we begin the next lesson?"
+msgstr ""
+
+#. y1ps2.full_id: 79_5_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_5_1"
+msgid "No,{PA:10} thanks."
+msgstr ""
+
+#. y1ps2.full_id: 79_5_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_5_2"
+msgid "Hmm? {PA:10}Are you busy?{PA:10}||Alright then.{MS:0}{PA:10} I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 79_5_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_5_3"
+msgid "Yes,{PA:10} please."
+msgstr ""
+
+#. y1ps2.full_id: 79_5_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=5|sg=4
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_5_4"
+msgid "Get ready..."
+msgstr ""
+
+#. y1ps2.full_id: 79_6_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_6_0"
+msgid "Hmm,{PA:10}{MS:0} seems you have trained your||\"GI\". {PA:20}Shall we begin the next lesson?"
+msgstr ""
+
+#. y1ps2.full_id: 79_6_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_6_1"
+msgid "No,{PA:10} thanks."
+msgstr ""
+
+#. y1ps2.full_id: 79_6_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_6_2"
+msgid "Hmm? {PA:10}Are you busy?{PA:10}||Alright then.{MS:0}{PA:10} I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 79_6_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_6_3"
+msgid "Yes,{PA:10} please."
+msgstr ""
+
+#. y1ps2.full_id: 79_6_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=6|sg=4
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_6_4"
+msgid "Get ready..."
+msgstr ""
+
+#. y1ps2.full_id: 79_6_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=6|sg=5
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_6_5"
+msgid "Hmm?{PA:20}||You're equipped right now,{PA:10} aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 79_6_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=6|sg=6
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_6_6"
+msgid "We can't start training under these||conditions...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_6_7
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=6|sg=7
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_6_7"
+msgid "Remove your gear and come back."
+msgstr ""
+
+#. y1ps2.full_id: 79_7_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_7_0"
+msgid "Will you take another lesson,{PA:10}||my apprentice?"
+msgstr ""
+
+#. y1ps2.full_id: 79_7_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_7_1"
+msgid "No,{PA:10} thanks."
+msgstr ""
+
+#. y1ps2.full_id: 79_7_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=7|sg=2
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_7_2"
+msgid "Hmm? {PA:10}Are you busy?{PA:10}||Alright then.{MS:0}{PA:10} I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 79_7_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=7|sg=3
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_7_3"
+msgid "Yes,{PA:10} please."
+msgstr ""
+
+#. y1ps2.full_id: 79_7_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=7|sg=4
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_7_4"
+msgid "Get ready..."
+msgstr ""
+
+#. y1ps2.full_id: 79_8_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_8_0"
+msgid "Will you take another lesson,{PA:10}||my apprentice?"
+msgstr ""
+
+#. y1ps2.full_id: 79_8_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_8_1"
+msgid "No,{PA:10} thanks."
+msgstr ""
+
+#. y1ps2.full_id: 79_8_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=8|sg=2
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_8_2"
+msgid "Hmm? {PA:10}Are you busy?{PA:10}||Alright then.{MS:0}{PA:10} I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 79_8_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=8|sg=3
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_8_3"
+msgid "Yes,{PA:10} please."
+msgstr ""
+
+#. y1ps2.full_id: 79_8_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=8|sg=4
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_8_4"
+msgid "Get ready..."
+msgstr ""
+
+#. y1ps2.full_id: 79_8_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=8|sg=5
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_8_5"
+msgid "Hmm?{PA:20}||You're equipped right now,{PA:10} aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 79_8_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=8|sg=6
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_8_6"
+msgid "We can't start training under these||conditions...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_8_7
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=8|sg=7
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_8_7"
+msgid "Remove your gear and come back."
+msgstr ""
+
+#. y1ps2.full_id: 79_9_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_9_0"
+msgid "Will you take another lesson,{PA:10}||my apprentice?"
+msgstr ""
+
+#. y1ps2.full_id: 79_9_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=9|sg=1
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_9_1"
+msgid "No,{PA:10} thanks."
+msgstr ""
+
+#. y1ps2.full_id: 79_9_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=9|sg=2
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_9_2"
+msgid "Hmm? {PA:10}Are you busy?{PA:10}||Alright then.{MS:0}{PA:10} I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 79_9_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=9|sg=3
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_9_3"
+msgid "Yes,{PA:10} please."
+msgstr ""
+
+#. y1ps2.full_id: 79_9_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=9|sg=4
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_9_4"
+msgid "Get ready..."
+msgstr ""
+
+#. y1ps2.full_id: 79_10_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_10_0"
+msgid "Will you take another lesson,{PA:10}||my apprentice?"
+msgstr ""
+
+#. y1ps2.full_id: 79_10_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_10_1"
+msgid "No,{PA:10} thanks."
+msgstr ""
+
+#. y1ps2.full_id: 79_10_2
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=10|sg=2
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_10_2"
+msgid "Hmm? {PA:10}Are you busy?{PA:10}||Alright then.{MS:0}{PA:10} I'll be waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 79_10_3
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=10|sg=3
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_10_3"
+msgid "Yes,{PA:10} please."
+msgstr ""
+
+#. y1ps2.full_id: 79_10_4
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=10|sg=4
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_10_4"
+msgid "Get ready..."
+msgstr ""
+
+#. y1ps2.full_id: 79_10_5
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=10|sg=5
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_10_5"
+msgid "Hmm?{PA:20}||You're equipped right now,{PA:10} aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 79_10_6
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=10|sg=6
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_10_6"
+msgid "We can't start training under these||conditions...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 79_10_7
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=10|sg=7
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_10_7"
+msgid "Remove your gear and come back."
+msgstr ""
+
+#. y1ps2.full_id: 79_11_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0107|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_OUT_OF_SAI
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "79_11_0"
+msgid "Hmmm..."
+msgstr ""

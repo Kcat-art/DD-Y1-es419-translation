@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0072\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0072.BIN\n"
+"X-Y1PS2-Source-SHA256: 3e50e69d94e8c6d65fd3bc3f7cf7a5bc8d2b428fbfba54d68925eeed4cdeefe6\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0072.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0072.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3e50e69d94e8c6d65fd3bc3f7cf7a5bc8d2b428fbfba54d68925eeed4cdeefe6\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 75\n"
+"X-Y1PS2-Raw-Block-ID: 76\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4c00010330440000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0072|block=0076|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER16\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C16_TRG_M_TOWER\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0072/reference/jp/t00__TALK_ST_KAB0072__jp__sec-0075__block-0076__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0072/reference/en/t00__RAIN_KAB0072__en__sec-0075__block-0076__type-01.po\n"
+
+#. y1ps2.full_id: 75_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0072|block=0076|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_0_0"
+msgid "????"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0072|block=0076|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_1"
+msgid "iEspera un segundo!"
+msgstr ""
+
+#. y1ps2.full_id: 75_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0072|block=0076|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_1_3"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 75_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0072|block=0076|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_0"
+msgid "iEscucha!{PA:20}||Deberías abandonar el parque ya."
+msgstr ""
+
+#. y1ps2.full_id: 75_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0072|block=0076|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_1"
+msgid "Te llamaré luego.{PA:10} Adiós."
+msgstr ""
+
+#. y1ps2.full_id: 75_2_3
+#. y1ps2.logical_line_key: RAIN_KAB0072|block=0076|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_3"
+msgid "Creo que te dije que no preguntases."
+msgstr ""
+
+#. y1ps2.full_id: 75_2_4
+#. y1ps2.logical_line_key: RAIN_KAB0072|block=0076|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_M_TOWER
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "75_2_4"
+msgid "Bip... Bip... Bip..."
+msgstr ""

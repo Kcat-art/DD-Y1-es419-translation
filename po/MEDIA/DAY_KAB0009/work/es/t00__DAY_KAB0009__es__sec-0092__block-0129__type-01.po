@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0009\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0009.BIN\n"
+"X-Y1PS2-Source-SHA256: d17fb756945dfeafbb19c07d269d4a4367754afdf6b1fc2c31b1f153e7605f15\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0009.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0009.BIN\n"
+"X-Y1PS2-Talk-SHA256: d17fb756945dfeafbb19c07d269d4a4367754afdf6b1fc2c31b1f153e7605f15\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 92\n"
+"X-Y1PS2-Raw-Block-ID: 129\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0081\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8100011cd83a0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0009|block=0129|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: salap_a_Mlg_ht\n"
+"X-Y1PS2-Actor: P1_salap_a_Mlg_ht\n"
+"X-Y1PS2-Pose: Smoking01\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0009/reference/en/t00__DAY_KAB0009__en__sec-0092__block-0129__type-01.po\n"
+
+#. y1ps2.full_id: 92_0_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_0_0"
+msgid "iNos estás haciendo quedar mal!{PA:20}||¿Qué ha sido eso? {PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_0_1"
+msgid "¿No vas a entenderlo hasta ||que te dé una paliza?"
+msgstr ""
+
+#. y1ps2.full_id: 92_1_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_1_0"
+msgid "iHey, abuelo!"
+msgstr ""
+
+#. y1ps2.full_id: 92_2_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_2_0"
+msgid "iAyuda! {PA:10}iSiento haber ||sido irrespetuoso!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 92_2_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_2_1"
+msgid "Mis disculpas. {PA:10}Sólo tengo esto, ||pero {PA:10}acéptalo, por favor."
+msgstr ""
+
+#. y1ps2.full_id: 92_2_2
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_2_2"
+msgid "Has obtenido 1,000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 92_3_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_3_0"
+msgid "De veras, {PA:10}ilo siento mucho!"
+msgstr ""
+
+#. y1ps2.full_id: 92_4_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_4_0"
+msgid "Hey, tú,{PA:10} te estoy hablando ||y tú qué, ¿me ignoras?{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 92_4_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_4_1"
+msgid "iEso me pone de muy mal humor! {PA:20}||iTe voy a hacer entrar en razón!"
+msgstr ""
+
+#. y1ps2.full_id: 92_5_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_5_0"
+msgid "iEspera!"
+msgstr ""
+
+#. y1ps2.full_id: 92_6_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_6_0"
+msgid "iSiento haber {PA:10}sido un maleducado!||C... {PA:10}coge esto,{PA:10} si quieres.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 92_6_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_6_1"
+msgid "Has obtenido 2,000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 92_7_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_7_0"
+msgid "De veras, {PA:10}lo siento."
+msgstr ""
+
+#. y1ps2.full_id: 92_8_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_8_0"
+msgid "Esta zona es peligrosa, {PA:10}hay un montón ||de tipos malos por aquí.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 92_8_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_8_1"
+msgid "... iComo nosotros!"
+msgstr ""
+
+#. y1ps2.full_id: 92_9_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_9_0"
+msgid "iHey, tú!"
+msgstr ""
+
+#. y1ps2.full_id: 92_10_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_10_0"
+msgid "P... {PA:10}por favor, ya basta.{PA:20}||Te... {PA:10}te daré esto..."
+msgstr ""
+
+#. y1ps2.full_id: 92_10_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_10_1"
+msgid "Has obtenido 3,000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 92_11_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_11_0"
+msgid "Basta ya, por favor."
+msgstr ""
+
+#. y1ps2.full_id: 92_12_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=12|sg=0
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_12_0"
+msgid "Abuelo,{PA:10} vas bastante bien vestido.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 92_12_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=12|sg=1
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_12_1"
+msgid "¿No podrías darle algunas monedas ||a un tío {PA:10}pobre como yo? {PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 92_12_2
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=12|sg=2
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_12_2"
+msgid "Alguna monedilla..."
+msgstr ""
+
+#. y1ps2.full_id: 92_13_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=13|sg=0
+#. y1ps2.main_group: 13
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_13_0"
+msgid "iTú, abuelo!"
+msgstr ""
+
+#. y1ps2.full_id: 92_14_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=14|sg=0
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_14_0"
+msgid "Vaya. {PA:10}E... {PA:10}eres fuerte.{PA:20}||Abuelo,{PA:10} suéltame..."
+msgstr ""
+
+#. y1ps2.full_id: 92_14_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=14|sg=1
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_14_1"
+msgid "Has obtenido 4,000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 92_15_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=15|sg=0
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_15_0"
+msgid "Lo siento mucho."
+msgstr ""
+
+#. y1ps2.full_id: 92_16_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=16|sg=0
+#. y1ps2.main_group: 16
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_16_0"
+msgid "iEstate quieto! {PA:10}Me estás desconcentrando!{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 92_16_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=16|sg=1
+#. y1ps2.main_group: 16
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_16_1"
+msgid "iMe voy a asegurar de que se te ||pasen las ganas de volver por aquí!"
+msgstr ""
+
+#. y1ps2.full_id: 92_17_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=17|sg=0
+#. y1ps2.main_group: 17
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_17_0"
+msgid "iHey!"
+msgstr ""
+
+#. y1ps2.full_id: 92_18_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=18|sg=0
+#. y1ps2.main_group: 18
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_18_0"
+msgid "Lo...{PA:10} Lo siento, me pasé.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 92_18_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=18|sg=1
+#. y1ps2.main_group: 18
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_18_1"
+msgid "Has obtenido 10,000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 92_19_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=19|sg=0
+#. y1ps2.main_group: 19
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_19_0"
+msgid "Lo {PA:10}siento mucho."
+msgstr ""
+
+#. y1ps2.full_id: 92_20_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=20|sg=0
+#. y1ps2.main_group: 20
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_20_0"
+msgid "iDeja{PA:10} de venir por aquí!{PA:10}||iAcabaré contigo, imbécil!"
+msgstr ""
+
+#. y1ps2.full_id: 92_21_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=21|sg=0
+#. y1ps2.main_group: 21
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_21_0"
+msgid "iNo te pases!"
+msgstr ""
+
+#. y1ps2.full_id: 92_22_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=22|sg=0
+#. y1ps2.main_group: 22
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_22_0"
+msgid "iEek! {PA:10}iEek!{PA:10} P... {PA:10}por favor, ||iacepta esto y déjalo!"
+msgstr ""
+
+#. y1ps2.full_id: 92_22_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=22|sg=1
+#. y1ps2.main_group: 22
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_22_1"
+msgid "Has obtenido 15,000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 92_23_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=23|sg=0
+#. y1ps2.main_group: 23
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_23_0"
+msgid "...{PA:20}P...{PA:10} pero qué he hecho..."
+msgstr ""
+
+#. y1ps2.full_id: 92_24_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=24|sg=0
+#. y1ps2.main_group: 24
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_24_0"
+msgid "iNo te atrevas a ignorarme!{PA:10}||iLa gente como tú no sois bienvenidos aquí!"
+msgstr ""
+
+#. y1ps2.full_id: 92_25_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=25|sg=0
+#. y1ps2.main_group: 25
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_25_0"
+msgid "iHey! iTú!"
+msgstr ""
+
+#. y1ps2.full_id: 92_26_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=26|sg=0
+#. y1ps2.main_group: 26
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_26_0"
+msgid "Últimamente nada va bien y... {PA:20} ||me quise descargar contigo.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 92_26_1
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=26|sg=1
+#. y1ps2.main_group: 26
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_26_1"
+msgid "Lo siento."
+msgstr ""
+
+#. y1ps2.full_id: 92_26_2
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=26|sg=2
+#. y1ps2.main_group: 26
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_26_2"
+msgid "Has obtenido 30,000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 92_27_0
+#. y1ps2.logical_line_key: DAY_KAB0009|block=0129|type=01|mg=27|sg=0
+#. y1ps2.main_group: 27
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_a_Mlg_ht
+#. y1ps2.actor: P1_salap_a_Mlg_ht
+#. y1ps2.pose: Smoking01
+msgctxt "92_27_0"
+msgid "De veras... {PA:10}Lo siento."
+msgstr ""

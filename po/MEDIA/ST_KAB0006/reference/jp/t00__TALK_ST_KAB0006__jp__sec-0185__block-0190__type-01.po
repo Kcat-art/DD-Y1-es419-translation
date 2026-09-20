@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0006\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0006.ARC\n"
+"X-Y1PS2-Source-SHA256: 0889bb27c8628eb17d398f5ddbc6a47a3a0c65bb30e2968cc03e3f17e08c1d9f\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0006.ARC/0/8___TALK_ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-SHA256: 8ea30a1689e5a9d1435e0999914b876c4e1b47388633c83430a243cbe5852196\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 185\n"
+"X-Y1PS2-Raw-Block-ID: 190\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00BE\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: be0001020cbb0200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0006|block=0190|type=01\n"
+"X-Y1PS2-Story-Type: substory_unresolved\n"
+"X-Y1PS2-Story-Key: SUB_AYAKA\n"
+"X-Y1PS2-Story-Evidence: unmapped_sub_trigger_prefix\n"
+"X-Y1PS2-Context: sub_ayaka\n"
+"X-Y1PS2-Actor: w_100016\n"
+"X-Y1PS2-Pose: Stand04\n"
+
+#. y1ps2.full_id: 185_1_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_0"
+msgid "{CU:c8c8ff}ふぅ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 185_1_1
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_1"
+msgid "{CU:ffffff}⋯助かったわ。{PA:20}あなた、{PA:10}「{CC:ffc8c8}ニンベン師{CR:00}」に||頼みごとがあって来たんでしょ？"
+msgstr ""
+
+#. y1ps2.full_id: 185_1_2
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_2"
+msgid "{CU:c8c8ff}ああ。"
+msgstr ""
+
+#. y1ps2.full_id: 185_1_3
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_3"
+msgid "{CU:ffffff}ほんとは、{PA:10}騙すつもりは無かったんだけど、{PA:10}||ちょっと試させてもらったわ。"
+msgstr ""
+
+#. y1ps2.full_id: 185_1_4
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_4"
+msgid "{CU:c8c8ff}シンメイに「{CC:ffc8c8}偽造パスポート{CR:00}」を作ってくれ。{PA:20}||あいつが、{PA:10}しばらくこの街で働けるように。"
+msgstr ""
+
+#. y1ps2.full_id: 185_1_5
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_5"
+msgid "{CU:ffffff}分かったわ。{PA:20}ママ、{PA:10}||お願いしていいよね？"
+msgstr ""
+
+#. y1ps2.full_id: 185_1_6
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_6"
+msgid "{CU:c8c8ff}「{CC:ffc8c8}ニンベン師{CR:00}」ってまさか⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 185_1_7
+#. y1ps2.logical_line_key: ST_KAB0006|block=0190|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_AYAKA
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_ayaka
+#. y1ps2.actor: w_100016
+#. y1ps2.pose: Stand04
+msgctxt "185_1_7"
+msgid "{CU:ffffff}あははは。{PA:20}その通りよ、{PA:10}||さっきのお店で待ってます。"
+msgstr ""

@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0000\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0000.BIN\n"
+"X-Y1PS2-Source-SHA256: 58757a9668fe1f6241a995570c686a2b4fcc62b5da8d12c1590e0b220c388af2\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0000.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0000.BIN\n"
+"X-Y1PS2-Talk-SHA256: 58757a9668fe1f6241a995570c686a2b4fcc62b5da8d12c1590e0b220c388af2\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 7\n"
+"X-Y1PS2-Raw-Block-ID: 7\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0007\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 07000103cc230000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0000|block=0007|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_26\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 7_0_0
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 01
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_0_0"
+msgid "MOGUSA"
+msgstr ""
+
+#. y1ps2.full_id: 7_1_0
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_1_0"
+msgid "Dammit... It's Kazuma."
+msgstr ""
+
+#. y1ps2.full_id: 7_1_2
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_1_2"
+msgid "Yeah, I am."
+msgstr ""
+
+#. y1ps2.full_id: 7_1_3
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_1_3"
+msgid "All of a sudden this kid got real sick,||so I'm trying to find him a doctor."
+msgstr ""
+
+#. y1ps2.full_id: 7_1_5
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_1_5"
+msgid "Yeah?"
+msgstr ""
+
+#. y1ps2.full_id: 7_1_7
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_1_7"
+msgid "I don't have time to waste.||Which building is it?"
+msgstr ""
+
+#. y1ps2.full_id: 7_2_0
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_0"
+msgid "Hello, Kazuma-san."
+msgstr ""
+
+#. y1ps2.full_id: 7_2_1
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_1"
+msgid "I'm in the monitor room right now and||happened to notice that you're in trouble."
+msgstr ""
+
+#. y1ps2.full_id: 7_2_3
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_3"
+msgid "There aren't any legitimate hospitals||in this area."
+msgstr ""
+
+#. y1ps2.full_id: 7_2_4
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_4"
+msgid "I do happen to know a good doctor."
+msgstr ""
+
+#. y1ps2.full_id: 7_2_6
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_6"
+msgid "Yes. Well, his work environment||isn't exactly the cleanest..."
+msgstr ""
+
+#. y1ps2.full_id: 7_2_7
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_7"
+msgid "But he is definitely skilled."
+msgstr ""
+
+#. y1ps2.full_id: 7_2_8
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_8"
+msgid "...His name is Dr. Enomoto."
+msgstr ""
+
+#. y1ps2.full_id: 7_2_9
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_9"
+msgid "He's got a discreetly located clinic||around where you're at right now."
+msgstr ""
+
+#. y1ps2.full_id: 7_2_10
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_10"
+msgid "If you prefer a more legitimate place,||this isn't the place for you though..."
+msgstr ""
+
+#. y1ps2.full_id: 7_2_12
+#. y1ps2.logical_line_key: DAY_KAB0000|block=0007|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_26
+#. y1ps2.pose: Idle
+msgctxt "7_2_12"
+msgid "He's in a building on W. Taihei Blvd.||On the third floor."
+msgstr ""

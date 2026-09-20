@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0002\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0002.BIN\n"
+"X-Y1PS2-Source-SHA256: c7e7a353d1d60b99ef78644de278d929f87080d700336469998f63ea971674cb\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0002.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0002.BIN\n"
+"X-Y1PS2-Talk-SHA256: c7e7a353d1d60b99ef78644de278d929f87080d700336469998f63ea971674cb\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 121\n"
+"X-Y1PS2-Raw-Block-ID: 124\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x007C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7c0001022c3c0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0002|block=0124|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: str_a_Mnit\n"
+"X-Y1PS2-Actor: str_a_Mnit\n"
+"X-Y1PS2-Pose: TalkPC01\n"
+
+#. y1ps2.full_id: 121_0_0
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_0"
+msgid "Hey,{PA:10} who are you?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_1
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_1"
+msgid "Oh,{PA:10} I'm looking for a bar."
+msgstr ""
+
+#. y1ps2.full_id: 121_0_2
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_2"
+msgid "A bar? {PA:10}Which bar?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_3
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_3"
+msgid "A place called Stardust..."
+msgstr ""
+
+#. y1ps2.full_id: 121_0_4
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_4"
+msgid "Oh, {PA:20}Stardust!"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_5
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_5"
+msgid "You know it?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_6
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_6"
+msgid "Yeah...{PA:20}||I'm waiting for it to open."
+msgstr ""
+
+#. y1ps2.full_id: 121_0_7
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_7"
+msgid "What kind of a bar is it?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_8
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_8"
+msgid "It's a host bar."
+msgstr ""
+
+#. y1ps2.full_id: 121_0_9
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_9"
+msgid "A host bar?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_10
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_10"
+msgid "Yeah...{PA:20}||Are you... going for a job interview?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_11
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_11"
+msgid "Huh?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_12
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_12"
+msgid "You are, aren't you?{PA:10}||{MS:0}You should forget about it!"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_13
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_13"
+msgid "Stardust is full of young hosts..."
+msgstr ""
+
+#. y1ps2.full_id: 121_0_14
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_14"
+msgid "I don't think you'd fit in with the rest of||the staff..."
+msgstr ""
+
+#. y1ps2.full_id: 121_0_15
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_15"
+msgid "Um,{PA:10} I see."
+msgstr ""
+
+#. y1ps2.full_id: 121_0_16
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_16"
+msgid "Well,{PA:10} if you came here for||a job interview,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_17
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_17"
+msgid "you're allowed to enter, {PA:10}aren't you?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_18
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_18"
+msgid "Well, give it a shot!"
+msgstr ""
+
+#. y1ps2.full_id: 121_1_0
+#. y1ps2.logical_line_key: ST_KAB0002|block=0124|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_a_Mnit
+#. y1ps2.actor: str_a_Mnit
+#. y1ps2.pose: TalkPC01
+msgctxt "121_1_0"
+msgid "It's not open yet..."
+msgstr ""

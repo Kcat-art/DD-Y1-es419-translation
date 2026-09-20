@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0003\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0003.ARC\n"
+"X-Y1PS2-Source-SHA256: 37eeafbb2e994090651ac19daa46fdae05db4461c463c78e5c31c4270559c6f3\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0003.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0003.ARC/0/8___TALK_ST_KAB0003.BIN\n"
+"X-Y1PS2-Talk-SHA256: c6964794f256b41e020b94e177d256e197a3f89658b1474d9e12dee3e15e4d73\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 5\n"
+"X-Y1PS2-Raw-Block-ID: 5\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0005\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 050001080c930200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0003|block=0005|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: HarukaPresent\n"
+"X-Y1PS2-Pose: Freeze\n"
+
+#. y1ps2.full_id: 5_0_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_0_0"
+msgid "おじさん、{PA:10}お礼にこれあげる！"
+msgstr ""
+
+#. y1ps2.full_id: 5_0_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_0_1"
+msgid "「{CC:ffc8c8}遥の飴玉{CR:00}」を手に入れた。"
+msgstr ""
+
+#. y1ps2.full_id: 5_1_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_1_0"
+msgid "おじさん、{PA:10}お礼にこれあげる！"
+msgstr ""
+
+#. y1ps2.full_id: 5_1_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_1_1"
+msgid "「{CC:ffc8c8}遥のチョコレート{CR:00}」を手に入れた。"
+msgstr ""
+
+#. y1ps2.full_id: 5_2_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_2_0"
+msgid "おじさん、{PA:10}お礼にこれあげる！"
+msgstr ""
+
+#. y1ps2.full_id: 5_2_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_2_1"
+msgid "「{CC:ffc8c8}遥のお守り{CR:00}」を手に入れた。"
+msgstr ""
+
+#. y1ps2.full_id: 5_3_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_3_0"
+msgid "おじさん、{PA:10}お礼にこれあげる！"
+msgstr ""
+
+#. y1ps2.full_id: 5_3_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_3_1"
+msgid "「{CC:ffc8c8}遥の救急箱{CR:00}」を手に入れた。"
+msgstr ""
+
+#. y1ps2.full_id: 5_4_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_4_0"
+msgid "おじさん、{PA:10}お礼にこれあげる！"
+msgstr ""
+
+#. y1ps2.full_id: 5_4_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_4_1"
+msgid "「{CC:ffc8c8}７７７のお札{CR:00}」を手に入れた。"
+msgstr ""
+
+#. y1ps2.full_id: 5_5_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_5_0"
+msgid "おじさん、{PA:10}お礼にこれあげる！"
+msgstr ""
+
+#. y1ps2.full_id: 5_5_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_5_1"
+msgid "「{CC:ffc8c8}遥のネックレス{CR:00}」を手に入れた。"
+msgstr ""
+
+#. y1ps2.full_id: 5_6_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_6_0"
+msgid "おじさん、{PA:10}お礼にこれあげる！"
+msgstr ""
+
+#. y1ps2.full_id: 5_6_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_6_1"
+msgid "「{CC:ffc8c8}桐生の似顔絵{CR:00}」を手に入れた。"
+msgstr ""
+
+#. y1ps2.full_id: 5_7_0
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_7_0"
+msgid "おじさん、{PA:10}お礼にこれあげる！"
+msgstr ""
+
+#. y1ps2.full_id: 5_7_1
+#. y1ps2.logical_line_key: DAY_KAB0003|block=0005|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: HarukaPresent
+#. y1ps2.pose: Freeze
+msgctxt "5_7_1"
+msgid "「{CC:ffc8c8}遥のビー玉{CR:00}」を手に入れた。"
+msgstr ""

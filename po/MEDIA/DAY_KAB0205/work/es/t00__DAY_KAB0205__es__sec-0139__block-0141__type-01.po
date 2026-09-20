@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0205\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0205.BIN\n"
+"X-Y1PS2-Source-SHA256: cf6dff38f0a38ad4289492ceeba66917a193ff62120be581e6a9d799f49be8e8\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0205.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0205.BIN\n"
+"X-Y1PS2-Talk-SHA256: cf6dff38f0a38ad4289492ceeba66917a193ff62120be581e6a9d799f49be8e8\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 139\n"
+"X-Y1PS2-Raw-Block-ID: 141\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x008D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8d000103185d0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0205|block=0141|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: mofuku_zako_a\n"
+"X-Y1PS2-Actor: w_5\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0205/reference/jp/t00__TALK_ST_KAB0205__jp__sec-0139__block-0141__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0205/reference/en/t00__DAY_KAB0205__en__sec-0139__block-0141__type-01.po\n"
+
+#. y1ps2.full_id: 139_0_0
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_0_0"
+msgid "Tú debes ser Kazuma Kiryu.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 139_0_1
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_0_1"
+msgid "Alguien me pidió que||guardara algunas cosas para ti..."
+msgstr ""
+
+#. y1ps2.full_id: 139_0_2
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_0_2"
+msgid "Por desgracia,{PA:10}||no puedo dártelas gratis..."
+msgstr ""
+
+#. y1ps2.full_id: 139_0_4
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_0_4"
+msgid "Gracias.{PA:10}||Nos vemos."
+msgstr ""
+
+#. y1ps2.full_id: 139_0_5
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_0_5"
+msgid "¿Eres bueno?{PA:10}||Buena suerte."
+msgstr ""
+
+#. y1ps2.full_id: 139_1_0
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_1_0"
+msgid "Tú debes ser Kazuma.{PA:20}||Compra lo que necesites."
+msgstr ""
+
+#. y1ps2.full_id: 139_1_2
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_1_2"
+msgid "Gracias.{PA:10}||Nos vemos."
+msgstr ""
+
+#. y1ps2.full_id: 139_1_3
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_1_3"
+msgid "¿Eres bueno?{PA:10}||Buena suerte."
+msgstr ""
+
+#. y1ps2.full_id: 139_2_0
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_2_0"
+msgid "iOye tú!"
+msgstr ""
+
+#. y1ps2.full_id: 139_2_1
+#. y1ps2.logical_line_key: DAY_KAB0205|block=0141|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_a
+#. y1ps2.actor: w_5
+#. y1ps2.pose: Idle
+msgctxt "139_2_1"
+msgid "Tú..."
+msgstr ""

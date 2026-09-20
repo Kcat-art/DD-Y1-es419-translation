@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0092\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0092.BIN\n"
+"X-Y1PS2-Source-SHA256: 79b1aaca82337b2d1e184e1a4d235c1d9390ab9747c346edfea1ceb3ec9a68c0\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0092.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0092.BIN\n"
+"X-Y1PS2-Talk-SHA256: 79b1aaca82337b2d1e184e1a4d235c1d9390ab9747c346edfea1ceb3ec9a68c0\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 98\n"
+"X-Y1PS2-Raw-Block-ID: 103\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0067\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 67000102883f0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0092|block=0103|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0092/reference/jp/t00__TALK_ST_KAB0092__jp__sec-0102__block-0103__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0092/reference/en/t00__DAY_KAB0092__en__sec-0098__block-0103__type-01.po\n"
+
+#. y1ps2.full_id: 98_0_0
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_0"
+msgid "Señor, ¿sabe cómo utilizar||las máquinas tragaperras?"
+msgstr ""
+
+#. y1ps2.full_id: 98_0_1
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_1"
+msgid "¿Quiere que se lo explique?"
+msgstr ""
+
+#. y1ps2.full_id: 98_0_2
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_2"
+msgid "...Ok.||Diviértase."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_3
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_3"
+msgid "Ok, déjeme que le explique."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_4
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_4"
+msgid "Las Máquinas Tragaperras||tienen diferentes ajustes."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_5
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_5"
+msgid "Elegir la máquina correcta||es importante para ganar."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_6
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_6"
+msgid "Asimismo, la probabilidad de conseguir||un jackpot es distinta en cada máquina."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_7
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_7"
+msgid "Elegir la correcta||depende sólo de la suerte."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_8
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_8"
+msgid "Después de elegir la máquina,||inserte las fichas."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_9
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_9"
+msgid "Presione el botón R1 para insertar fichas.{PA:20}||Un juego requiere 3 fichas."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_10
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_10"
+msgid "A continuación, tire de la palanca.{PA:20}||Presione el botón de dirección hacia"
+msgstr ""
+
+#. y1ps2.full_id: 98_0_11
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_11"
+msgid "abajo para tirar de la palanca."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_12
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_12"
+msgid "Preste atención cuando||las bobinas empiecen a girar."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_13
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_13"
+msgid "Presione los botones {IC:00_02}➿{IC:01_03}➿{IC:02_00}➿||para detener cada bobina."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_14
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_14"
+msgid "Gana si la misma imagen se alinea||en horizontal o en diagonal."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_15
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_15"
+msgid "Puede que aparezca de vez en cuando||una imagen en la ventana de la derecha."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_16
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_16"
+msgid "Cuando la imagen no esté alineada{PA:10}||o se alinee una imagen diferente..."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_17
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_17"
+msgid "Puede significar que tiene||una posibilidad de ganar el jackpot."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_18
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_18"
+msgid "Cuando se muestra el 7 y permanece||en la ventana de muestra,"
+msgstr ""
+
+#. y1ps2.full_id: 98_0_19
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_19"
+msgid "significa un bonus."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_20
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_20"
+msgid "Si continúa jugando, está destinado a ganar."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_21
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_21"
+msgid "Cuando gane un puñado de fichas,"
+msgstr ""
+
+#. y1ps2.full_id: 98_0_22
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_22"
+msgid "puede cambiarlas por premios||en el Mostrador de Premios."
+msgstr ""
+
+#. y1ps2.full_id: 98_0_23
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_0_23"
+msgid "Páseselo bien."
+msgstr ""
+
+#. y1ps2.full_id: 98_1_0
+#. y1ps2.logical_line_key: DAY_KAB0092|block=0103|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "98_1_0"
+msgid "Me pregunto si hoy ganaré..."
+msgstr ""

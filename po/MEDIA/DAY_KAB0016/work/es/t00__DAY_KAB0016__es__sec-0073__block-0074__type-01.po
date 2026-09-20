@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0016\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0016.BIN\n"
+"X-Y1PS2-Source-SHA256: f60446ea23e9d202cf9bf29b80afe07454b85622eead015405297d3b01a1de5f\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0016.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0016.BIN\n"
+"X-Y1PS2-Talk-SHA256: f60446ea23e9d202cf9bf29b80afe07454b85622eead015405297d3b01a1de5f\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 73\n"
+"X-Y1PS2-Raw-Block-ID: 74\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4a0001028c370000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0016|block=0074|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER13\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C13_TRG_HAIBILL\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0016/reference/jp/t00__TALK_ST_KAB0016__jp__sec-0073__block-0074__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0016/reference/en/t00__DAY_KAB0016__en__sec-0073__block-0074__type-01.po\n"
+
+#. y1ps2.full_id: 73_0_0
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_0"
+msgid "¿Uhm? {PA:20}¿Qué pasa, amigo?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_1
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_1"
+msgid "Um, {PA:10}¿qué es el dios del vino?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_2
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_2"
+msgid "Eh... bueno,{PA:20}||es un bar que se llama Baco."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_3
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_3"
+msgid "¿Lo conoces?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_4
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_4"
+msgid "Sí, {PA:10}acabo de estar allí."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_5
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_5"
+msgid "iGuau! {PA:10}Debes ser un conocedor."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_6
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_6"
+msgid "Sólo hay unos pocos bares{PA:10}||como ése en esta ciudad."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_7
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_7"
+msgid "Ya veo..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_8
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_8"
+msgid "El dios del vino... {PA:20}Baco...{PA:20}||Qué buen nombre para un bar.."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_9
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_9"
+msgid "... Bueno, {PA:10}el camarero de allí es||una especie de tío influyente."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_10
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_10"
+msgid "¿De verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_11
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_11"
+msgid "Sí, {PA:10}es una especie de director||del consejo del distrito comercial."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_12
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_12"
+msgid "Más vale estar a buenas con él."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_0
+#. y1ps2.logical_line_key: DAY_KAB0016|block=0074|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_0"
+msgid "¿Dios del vino, eh?"
+msgstr ""

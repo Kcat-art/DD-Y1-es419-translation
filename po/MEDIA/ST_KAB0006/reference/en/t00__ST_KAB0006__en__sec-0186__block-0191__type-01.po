@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0006\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0006.BIN\n"
+"X-Y1PS2-Source-SHA256: e69d86bbd8788f2da59a59326bf2677e4118fef0c3324b6f24b9ba221d7e770d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-SHA256: e69d86bbd8788f2da59a59326bf2677e4118fef0c3324b6f24b9ba221d7e770d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 186\n"
+"X-Y1PS2-Raw-Block-ID: 191\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00BF\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: bf000104c8420000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0006|block=0191|type=01\n"
+"X-Y1PS2-Story-Type: substory_unresolved\n"
+"X-Y1PS2-Story-Key: SUB_JAKAZANTOU\n"
+"X-Y1PS2-Story-Evidence: unmapped_sub_trigger_prefix\n"
+"X-Y1PS2-Context: sub_jakazantou_02\n"
+"X-Y1PS2-Actor: w_100014\n"
+"X-Y1PS2-Pose: Stand03\n"
+
+#. y1ps2.full_id: 186_0_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0191|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_JAKAZANTOU
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_jakazantou_02
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand03
+msgctxt "186_0_0"
+msgid "Wha...{PA:10} what does a Yakuza||like you want from me?"
+msgstr ""
+
+#. y1ps2.full_id: 186_0_1
+#. y1ps2.logical_line_key: ST_KAB0006|block=0191|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_JAKAZANTOU
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_jakazantou_02
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand03
+msgctxt "186_0_1"
+msgid "I'll scream for help!"
+msgstr ""
+
+#. y1ps2.full_id: 186_1_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0191|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_JAKAZANTOU
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_jakazantou_02
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand03
+msgctxt "186_1_0"
+msgid "...Hmm Hmmmm♪"
+msgstr ""
+
+#. y1ps2.full_id: 186_3_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0191|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory_unresolved
+#. y1ps2.story_key: SUB_JAKAZANTOU
+#. y1ps2.story_title: 
+#. y1ps2.evidence: unmapped_sub_trigger_prefix
+#. y1ps2.context: sub_jakazantou_02
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand03
+msgctxt "186_3_0"
+msgid "Ugh, you're so pathetic, Kiyoshi..."
+msgstr ""

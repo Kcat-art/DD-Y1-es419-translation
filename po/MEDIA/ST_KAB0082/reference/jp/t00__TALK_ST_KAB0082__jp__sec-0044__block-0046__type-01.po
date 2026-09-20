@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0082\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0082.ARC\n"
+"X-Y1PS2-Source-SHA256: a01beee7fbe433861df8a50c108f05c66a1716e2d4fb4d35082b931b2917330f\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0082.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0082.ARC/0/8___TALK_ST_KAB0082.BIN\n"
+"X-Y1PS2-Talk-SHA256: 9fb61d7125e461516472d7f053d6ae16600141286d7d38a04c7c895ebe023754\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 44\n"
+"X-Y1PS2-Raw-Block-ID: 46\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x002E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 2e000102c05e0100\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0082|block=0046|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: haruka\n"
+"X-Y1PS2-Actor: w_16\n"
+"X-Y1PS2-Pose: Wait01\n"
+
+#. y1ps2.full_id: 44_0_0
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_0_0"
+msgid "おじさん、{PA:10}どこ行ってたの？"
+msgstr ""
+
+#. y1ps2.full_id: 44_0_1
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_0_1"
+msgid "出かけるなら起こしてくれれば||よかったのに⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 44_0_2
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_0_2"
+msgid "{CU:c8c8ff}あぁ、{PA:10}すまなかったな。{PA:20}||まだ少しだけ用事があるんだ。"
+msgstr ""
+
+#. y1ps2.full_id: 44_0_3
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_0_3"
+msgid "⋯待ってられるか？"
+msgstr ""
+
+#. y1ps2.full_id: 44_0_4
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_0_4"
+msgid "{CU:ffffff}うん。{PA:20}大丈夫だよ。"
+msgstr ""
+
+#. y1ps2.full_id: 44_0_5
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_0_5"
+msgid "⋯いってらっしゃい。"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_0
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_1_0"
+msgid "もう用はすんだの？"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_1
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_1_1"
+msgid "{CU:c8c8ff}いや、{PA:10}まだ少しかかるな。"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_2
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_1_2"
+msgid "{CU:ffffff}ちょっと眠くなってきちゃった。"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_3
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_1_3"
+msgid "⋯寝ててもいい？"
+msgstr ""
+
+#. y1ps2.full_id: 44_1_4
+#. y1ps2.logical_line_key: ST_KAB0082|block=0046|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: haruka
+#. y1ps2.actor: w_16
+#. y1ps2.pose: Wait01
+msgctxt "44_1_4"
+msgid "{CU:c8c8ff}フッ{SP:2}⋯{SP:1}||あぁ、{PA:10}ゆっくり休んでおけ。"
+msgstr ""

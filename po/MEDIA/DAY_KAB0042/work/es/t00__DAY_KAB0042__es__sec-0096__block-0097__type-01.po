@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0042\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0042.BIN\n"
+"X-Y1PS2-Source-SHA256: c51687db828a56a2b342cfe1c974d0826caff5cd3052e7e9b24984d6d883c6a9\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0042.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0042.BIN\n"
+"X-Y1PS2-Talk-SHA256: c51687db828a56a2b342cfe1c974d0826caff5cd3052e7e9b24984d6d883c6a9\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 96\n"
+"X-Y1PS2-Raw-Block-ID: 97\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0061\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 610001035c3b0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0042|block=0097|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: sweatB_hige0\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Smoking01\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0042/reference/jp/t00__TALK_ST_KAB0042__jp__sec-0096__block-0097__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0042/reference/en/t00__DAY_KAB0042__en__sec-0096__block-0097__type-01.po\n"
+
+#. y1ps2.full_id: 96_0_0
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_0_0"
+msgid "¿Eh?{PA:10}||i¿Qué te pasa, hijo de puta?!"
+msgstr ""
+
+#. y1ps2.full_id: 96_0_1
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_0_1"
+msgid "¿Qué habéis hecho con la niña?"
+msgstr ""
+
+#. y1ps2.full_id: 96_0_2
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_0_2"
+msgid "¿Eh?"
+msgstr ""
+
+#. y1ps2.full_id: 96_0_3
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_0_3"
+msgid "Sois la banda blanca,{PA:10} ¿no?{PA:10}||¿Quién es el jefe?"
+msgstr ""
+
+#. y1ps2.full_id: 96_0_4
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_0_4"
+msgid "iQué hijo de puta!{PA:10}||¿Crees que te lo voy a decir?"
+msgstr ""
+
+#. y1ps2.full_id: 96_0_5
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_0_5"
+msgid "Jódete.{PA:20}||{MS:3}{MS:2}{MS:1}{MS:0}Lo que haré es matarte."
+msgstr ""
+
+#. y1ps2.full_id: 96_1_0
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_1_0"
+msgid "Dime dónde está tu jefe."
+msgstr ""
+
+#. y1ps2.full_id: 96_1_1
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_1_1"
+msgid "Nuestro refugio está en el{MS:0}||\"{CC:ffc8c8}Distrito Champion{CR:00}\"..."
+msgstr ""
+
+#. y1ps2.full_id: 96_1_2
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_1_2"
+msgid "Nuestra gente está en el callejón."
+msgstr ""
+
+#. y1ps2.full_id: 96_1_3
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_1_3"
+msgid "Allí está el jefe.{PA:20}||iPor favor, no me hagas daño!"
+msgstr ""
+
+#. y1ps2.full_id: 96_2_0
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_2_0"
+msgid "Nuestro refugio está en||el \"Distrito Champion\"..."
+msgstr ""
+
+#. y1ps2.full_id: 96_2_1
+#. y1ps2.logical_line_key: DAY_KAB0042|block=0097|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: sweatB_hige0
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking01
+msgctxt "96_2_1"
+msgid "Nuestra gente está en el callejón."
+msgstr ""

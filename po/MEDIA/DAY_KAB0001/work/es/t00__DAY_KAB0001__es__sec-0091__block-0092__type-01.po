@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0001\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Source-SHA256: dab02d505edf20cb1003d51631fe4ac68fdb06f849bd96ff6a2a55ca3843a3ae\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Talk-SHA256: dab02d505edf20cb1003d51631fe4ac68fdb06f849bd96ff6a2a55ca3843a3ae\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 91\n"
+"X-Y1PS2-Raw-Block-ID: 92\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5c0001017c3d0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0001|block=0092|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_1237540\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0001/reference/jp/t00__TALK_ST_KAB0001__jp__sec-0091__block-0092__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0001/reference/en/t00__DAY_KAB0001__en__sec-0091__block-0092__type-01.po\n"
+
+#. y1ps2.full_id: 91_0_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_0"
+msgid "Estoy cansado. {PA:20}Tan cansado..."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_1
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_1"
+msgid "¿Qué ha pasado?"
+msgstr ""
+
+#. y1ps2.full_id: 91_0_2
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_2"
+msgid "Escúchame, {PA:10} tío."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_3
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_3"
+msgid "El bar cerró a las 6 de la mañana,"
+msgstr ""
+
+#. y1ps2.full_id: 91_0_4
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_4"
+msgid "y desde entonces estoy||con esta vieja desagradable."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_5
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_5"
+msgid "He tenido que estar acariciándo||el culo de esta vieja durante horas."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_6
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_6"
+msgid "... Ya veo."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_7
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_7"
+msgid "¿No es una jodienda?{PA:10}||Shota me envía a todas las feas."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_8
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_8"
+msgid "iYa no lo aguanto más!"
+msgstr ""
+
+#. y1ps2.full_id: 91_0_9
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_9"
+msgid "Siento molestarte..."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_10
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_10"
+msgid "En serio."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_11
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_11"
+msgid "¿Qué? {PA:10}¿Dónde queda tu actitud?{PA:20}||Compórtate como un tío de una vez."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_12
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_12"
+msgid "Trabajo en un bar llamado Stardust||en la Calle Tenkaichi."
+msgstr ""
+
+#. y1ps2.full_id: 91_0_13
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_13"
+msgid "Pásate y me cuentas cómo te va."
+msgstr ""

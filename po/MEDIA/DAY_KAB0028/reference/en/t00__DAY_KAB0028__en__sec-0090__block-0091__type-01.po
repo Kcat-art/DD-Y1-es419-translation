@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0028\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0028.BIN\n"
+"X-Y1PS2-Source-SHA256: 499dfb0bc94135d24fb0d303776690375ede7d144b642f9efdf658b5c01abe3a\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0028.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0028.BIN\n"
+"X-Y1PS2-Talk-SHA256: 499dfb0bc94135d24fb0d303776690375ede7d144b642f9efdf658b5c01abe3a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 90\n"
+"X-Y1PS2-Raw-Block-ID: 91\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5b000103e0320000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0028|block=0091|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: MAIL\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: mail\n"
+"X-Y1PS2-Actor: w_57\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 90_0_0
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0091|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_0"
+msgid "It's that pub over there.{PA:20}||The owner's inside, isn't he?"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_1
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0091|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_1"
+msgid "I've been scoping out the situation and if||we just run up in there,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_2
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0091|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_2"
+msgid "the guy will do whatever we say."
+msgstr ""
+
+#. y1ps2.full_id: 90_0_3
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0091|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_3"
+msgid "Aniki, {PA:10}why don't you talk||to him, off the bat?"
+msgstr ""
+
+#. y1ps2.full_id: 90_0_4
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0091|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_0_4"
+msgid "He's a fucking pussy."
+msgstr ""
+
+#. y1ps2.full_id: 90_1_0
+#. y1ps2.logical_line_key: DAY_KAB0028|block=0091|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: MAIL
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: mail
+#. y1ps2.actor: w_57
+#. y1ps2.pose: Idle
+msgctxt "90_1_0"
+msgid "The bartender is a big pussy.{PA:20}||Why don't you go talk to him?"
+msgstr ""

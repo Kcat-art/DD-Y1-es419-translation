@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0201\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0201.BIN\n"
+"X-Y1PS2-Source-SHA256: 3ef12e61d90f561a3633706772e9c19c625d7bacd44050c31f7530134e480fde\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0201.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0201.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3ef12e61d90f561a3633706772e9c19c625d7bacd44050c31f7530134e480fde\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 20\n"
+"X-Y1PS2-Raw-Block-ID: 25\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0019\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 1900010238310000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0201|block=0025|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: STALKER_HARUKA\n"
+"X-Y1PS2-Pose: Freeze\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0201/reference/jp/t00__TALK_ST_KAB0201__jp__sec-0024__block-0025__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0201/reference/en/t00__DAY_KAB0201__en__sec-0020__block-0025__type-01.po\n"
+
+#. y1ps2.full_id: 20_1_0
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_0"
+msgid "¿Qué puedo hacer por ti?"
+msgstr ""
+
+#. y1ps2.full_id: 20_1_1
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_1"
+msgid "¿Conoces a Kage del Purgatorio?"
+msgstr ""
+
+#. y1ps2.full_id: 20_1_2
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_2"
+msgid "Emm... {PA:20}Sí.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 20_1_3
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_3"
+msgid "Te refieres al jefe de esta||ciudad subterránea, ¿no?"
+msgstr ""
+
+#. y1ps2.full_id: 20_1_4
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_4"
+msgid "Exacto."
+msgstr ""
+
+#. y1ps2.full_id: 20_1_5
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_5"
+msgid "No lo conozco bien.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 20_1_6
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_6"
+msgid "Sólo he venido a gastarme el dinero||y divertirme. Eso es todo."
+msgstr ""
+
+#. y1ps2.full_id: 20_1_7
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_7"
+msgid "... No estoy interesado en absoluto||por saber quién es el dueño de este lugar."
+msgstr ""
+
+#. y1ps2.full_id: 20_1_8
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_8"
+msgid "... Ya veo."
+msgstr ""
+
+#. y1ps2.full_id: 20_1_9
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_9"
+msgid "iDeja de preocuparte tanto y diviértete!"
+msgstr ""
+
+#. y1ps2.full_id: 20_1_10
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_10"
+msgid "iEste lugar está lleno de lujuria!"
+msgstr ""
+
+#. y1ps2.full_id: 20_1_11
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0025|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_HARUKA
+#. y1ps2.pose: Freeze
+msgctxt "20_1_11"
+msgid "iJajaja!"
+msgstr ""

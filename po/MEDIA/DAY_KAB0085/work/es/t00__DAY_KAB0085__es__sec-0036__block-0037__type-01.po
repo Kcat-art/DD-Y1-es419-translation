@@ -1,0 +1,1890 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0085\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0085.BIN\n"
+"X-Y1PS2-Source-SHA256: ea3d6b00629d3e15130baf2d352bb79be458f9d4a8922b6832edd3cf871395d8\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0085.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0085.BIN\n"
+"X-Y1PS2-Talk-SHA256: ea3d6b00629d3e15130baf2d352bb79be458f9d4a8922b6832edd3cf871395d8\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 36\n"
+"X-Y1PS2-Raw-Block-ID: 37\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0025\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 250001109c330000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0085|block=0037|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_4\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0085/reference/jp/t00__TALK_ST_KAB0085__jp__sec-0036__block-0037__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0085/reference/en/t00__DAY_KAB0085__en__sec-0036__block-0037__type-01.po\n"
+
+#. y1ps2.full_id: 36_0_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_0"
+msgid "Eh, estás muy fuerte.{MS:0}||¿Qué te parece un desafío?"
+msgstr ""
+
+#. y1ps2.full_id: 36_0_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_1"
+msgid "Para tu información, era pitcher de||un equipo profesional de béisboll."
+msgstr ""
+
+#. y1ps2.full_id: 36_0_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_2"
+msgid "Me metí en un problemilla y...||bueno, me dieron"
+msgstr ""
+
+#. y1ps2.full_id: 36_0_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_3"
+msgid "el finiquito.{PA:20} Jajaja."
+msgstr ""
+
+#. y1ps2.full_id: 36_0_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_4"
+msgid "{CU:ffc8c8}Te lanzaré 20 bolas mágicas.||Si golpeas 10 home runs,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 36_0_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_5"
+msgid "te daré 50.000 yenes.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 36_0_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_6"
+msgid "Pero, si no lo consigues, tendrás||que pagarme 10.000 yenes. ¿Te parece bien?"
+msgstr ""
+
+#. y1ps2.full_id: 36_0_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_7"
+msgid "Ok,{PA:10} acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_0_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_8"
+msgid "Ok,{PA:10} golpea 10 o más home runs."
+msgstr ""
+
+#. y1ps2.full_id: 36_0_9
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_9"
+msgid "Si lo consigues,{PA:10} ganarás 50.000 yenes.{PA:20}||Si fallas,{PA:10} me darás 10.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_0_10
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_10"
+msgid "Puedes abandonar||ahora si tienes miedo."
+msgstr ""
+
+#. y1ps2.full_id: 36_0_11
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_11"
+msgid "Me retiro."
+msgstr ""
+
+#. y1ps2.full_id: 36_0_12
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_12"
+msgid "Ya veo.{PA:20} Si quieres desafiarme,||ya sabes dónde puedes encontrarme."
+msgstr ""
+
+#. y1ps2.full_id: 36_0_13
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_13"
+msgid "He dicho que acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_0_14
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_0_14"
+msgid "Ok,{PA:10} iempecemos!"
+msgstr ""
+
+#. y1ps2.full_id: 36_1_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_1_0"
+msgid "¿Has cambiado de opinión?||¿Quieres desafiarme?"
+msgstr ""
+
+#. y1ps2.full_id: 36_1_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_1_1"
+msgid "Ok,{PA:10} acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_1_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_1_2"
+msgid "Ok,{PA:10} golpea 10 o más home runs."
+msgstr ""
+
+#. y1ps2.full_id: 36_1_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_1_3"
+msgid "Si lo consigues,{PA:10} ganarás 50.000 yenes.{PA:20}||Si fallas,{PA:10} me darás 10.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_1_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_1_5"
+msgid "Puedes abandonar||ahora si tienes miedo."
+msgstr ""
+
+#. y1ps2.full_id: 36_1_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_1_6"
+msgid "Me retiro."
+msgstr ""
+
+#. y1ps2.full_id: 36_1_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_1_7"
+msgid "Ya veo.{PA:20} Si quieres desafiarme,||ya sabes dónde puedes encontrarme."
+msgstr ""
+
+#. y1ps2.full_id: 36_1_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_1_8"
+msgid "He dicho que acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_1_9
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_1_9"
+msgid "Ok,{PA:10} iempecemos!"
+msgstr ""
+
+#. y1ps2.full_id: 36_2_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_0"
+msgid "Jajaja. Buen trabajo. iHas ganado!"
+msgstr ""
+
+#. y1ps2.full_id: 36_2_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_1"
+msgid "No me cabe ni un ápice de duda||que podrías jugar en las ligas mayores."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_2"
+msgid "Tengo un contacto. ¿Quieres conocerlo?"
+msgstr ""
+
+#. y1ps2.full_id: 36_2_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_3"
+msgid "Sí, claro."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_4"
+msgid "Jajaja. Estaba bromeando.||No conozco a ningún ojeador."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_5"
+msgid "Pero, aún así podrías triunfar en||el béisbol profesional."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_6"
+msgid "Toma tu dinero."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_7"
+msgid "Has recibido 50.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_8"
+msgid "Bueno,{PA:10}||si quieres desafiarme en cualquier momento,"
+msgstr ""
+
+#. y1ps2.full_id: 36_2_9
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_9"
+msgid "vuelve.{PA:20} Estaré esperándote."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_10
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_10"
+msgid "No,{PA:10} gracias."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_11
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_11"
+msgid "Ya veo. Qué pena.{MS:1}{MS:0}||Toma tu dinero."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_12
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_12"
+msgid "Has recibido 50.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_2_13
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_13"
+msgid "Bueno,{PA:10}||si quieres desafiarme en cualquier momento,"
+msgstr ""
+
+#. y1ps2.full_id: 36_2_14
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_2_14"
+msgid "vuelve.{PA:20} Estaré esperándote."
+msgstr ""
+
+#. y1ps2.full_id: 36_3_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_0"
+msgid "iJajaja!{PA:10} iHas perdido!"
+msgstr ""
+
+#. y1ps2.full_id: 36_3_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_1"
+msgid "Has pagado 10.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_3_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_2"
+msgid "Sabes,{PA:20} no es tarea fácil||golpear mis lanzamientos."
+msgstr ""
+
+#. y1ps2.full_id: 36_3_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_3"
+msgid "¿Qué te parece otro desafío{MS:0}||{PA:20}con las mismas reglas?"
+msgstr ""
+
+#. y1ps2.full_id: 36_3_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_4"
+msgid "{CU:ffc8c8}Te lanzaré 20 bolas mágicas."
+msgstr ""
+
+#. y1ps2.full_id: 36_3_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_5"
+msgid "Si golpeas 10 home runs,{PA:10}||te daré 50.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_3_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_6"
+msgid "Pero, si no lo consigues, tendrás que||pagarme 10.000 yenes. ¿Te parece bien?{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 36_3_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_7"
+msgid "No,{PA:10} gracias."
+msgstr ""
+
+#. y1ps2.full_id: 36_3_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_8"
+msgid "Ya veo.{PA:20} Si quieres desafiarme,||ya sabes dónde puedes encontrarme."
+msgstr ""
+
+#. y1ps2.full_id: 36_3_9
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_9"
+msgid "He dicho que acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_3_10
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_3_10"
+msgid "Ok,{PA:10} iempecemos!"
+msgstr ""
+
+#. y1ps2.full_id: 36_4_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_4_0"
+msgid "iOye!||iTú!"
+msgstr ""
+
+#. y1ps2.full_id: 36_5_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_5_0"
+msgid "¿Así que quieres intentar nuevamente?"
+msgstr ""
+
+#. y1ps2.full_id: 36_5_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_5_1"
+msgid "Ok,{PA:10} acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_5_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=5|sg=2
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_5_2"
+msgid "Espera un segundo...{PA:10}||No tienes dinero suficiente."
+msgstr ""
+
+#. y1ps2.full_id: 36_5_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=5|sg=3
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_5_3"
+msgid "Puedes estar seguro de ganar,||pero no puedes jugar"
+msgstr ""
+
+#. y1ps2.full_id: 36_5_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=5|sg=4
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_5_4"
+msgid "si no tienes el dinero...{PA:10}||Vuelve cuando tengas dinero."
+msgstr ""
+
+#. y1ps2.full_id: 36_5_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=5|sg=5
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_5_5"
+msgid "Me retiro."
+msgstr ""
+
+#. y1ps2.full_id: 36_5_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=5|sg=6
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_5_6"
+msgid "Ya veo.{PA:20} Si quieres desafiarme,||ya sabes dónde puedes encontrarme."
+msgstr ""
+
+#. y1ps2.full_id: 36_6_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_0"
+msgid "¿Así que quieres intentar nuevamente?"
+msgstr ""
+
+#. y1ps2.full_id: 36_6_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_1"
+msgid "Ok,{PA:10} acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_6_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_2"
+msgid "Ok,{PA:10} golpea 10 o más home runs."
+msgstr ""
+
+#. y1ps2.full_id: 36_6_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_3"
+msgid "Si lo consigues,{PA:10}||ganarás 50.000 yenes.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 36_6_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=4
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_4"
+msgid "Si fallas,{PA:10} me darás 10.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_6_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=5
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_5"
+msgid "Puedes abandonar||ahora si tienes miedo."
+msgstr ""
+
+#. y1ps2.full_id: 36_6_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=6
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_6"
+msgid "Me retiro."
+msgstr ""
+
+#. y1ps2.full_id: 36_6_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=7
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_7"
+msgid "Ya veo.{PA:20} Si quieres desafiarme,||ya sabes dónde puedes encontrarme."
+msgstr ""
+
+#. y1ps2.full_id: 36_6_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=8
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_8"
+msgid "He dicho que acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_6_9
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=6|sg=9
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_6_9"
+msgid "Ok,{PA:10} iempecemos!"
+msgstr ""
+
+#. y1ps2.full_id: 36_7_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_7_0"
+msgid "Jajaja.{PA:10} Buen trabajo."
+msgstr ""
+
+#. y1ps2.full_id: 36_7_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_7_1"
+msgid "Toma tu dinero."
+msgstr ""
+
+#. y1ps2.full_id: 36_7_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=7|sg=2
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_7_2"
+msgid "Has recibido 50.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_7_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=7|sg=3
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_7_3"
+msgid "Bueno,{PA:10}||si quieres desafiarme en cualquier momento,"
+msgstr ""
+
+#. y1ps2.full_id: 36_7_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=7|sg=4
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_7_4"
+msgid "Vuelve. Estaré esperándote."
+msgstr ""
+
+#. y1ps2.full_id: 36_8_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_0"
+msgid "iJajaja!{PA:10} iHas perdido!"
+msgstr ""
+
+#. y1ps2.full_id: 36_8_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_1"
+msgid "Has pagado 10.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_8_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=2
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_2"
+msgid "Sabes,{PA:20} no es tarea fácil||golpear mis lanzamientos."
+msgstr ""
+
+#. y1ps2.full_id: 36_8_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=3
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_3"
+msgid "¿Qué te parece otro desafío||{PA:20}con las mismas reglas?"
+msgstr ""
+
+#. y1ps2.full_id: 36_8_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=4
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_4"
+msgid "{CU:ffc8c8}Te lanzaré 20 bolas mágicas.||Si golpeas 10 home runs,{PA:10}||te daré 50.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_8_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=5
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_5"
+msgid "Si no puedes golpear 10 home runs,||me debes 10.000 yenes.{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 36_8_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=6
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_6"
+msgid "No,{PA:10} gracias."
+msgstr ""
+
+#. y1ps2.full_id: 36_8_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=7
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_7"
+msgid "Ya veo.{PA:20} Si quieres desafiarme,||ya sabes dónde puedes encontrarme."
+msgstr ""
+
+#. y1ps2.full_id: 36_8_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=8
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_8"
+msgid "He dicho que acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_8_9
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=8|sg=9
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_8_9"
+msgid "Ok,{PA:10} iempecemos!"
+msgstr ""
+
+#. y1ps2.full_id: 36_9_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_9_0"
+msgid "¿Así que quieres intentar nuevamente?"
+msgstr ""
+
+#. y1ps2.full_id: 36_9_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=9|sg=1
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_9_1"
+msgid "Ok,{PA:10} acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_9_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=9|sg=2
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_9_2"
+msgid "Espera un segundo...{PA:10}||No tienes dinero suficiente."
+msgstr ""
+
+#. y1ps2.full_id: 36_9_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=9|sg=3
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_9_3"
+msgid "Puedes estar seguro de ganar,||pero no puedes jugar"
+msgstr ""
+
+#. y1ps2.full_id: 36_9_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=9|sg=4
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_9_4"
+msgid "si no tienes el dinero...{PA:10}||Vuelve cuando tengas dinero."
+msgstr ""
+
+#. y1ps2.full_id: 36_9_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=9|sg=5
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_9_5"
+msgid "Me retiro."
+msgstr ""
+
+#. y1ps2.full_id: 36_9_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=9|sg=6
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_9_6"
+msgid "Ya veo.{PA:20} Si quieres desafiarme,||ya sabes dónde puedes encontrarme."
+msgstr ""
+
+#. y1ps2.full_id: 36_10_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_0"
+msgid "¿Así que quieres intentar nuevamente?"
+msgstr ""
+
+#. y1ps2.full_id: 36_10_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_1"
+msgid "Ok,{PA:10} acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_10_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=2
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_2"
+msgid "Ok,{PA:10} golpea 10 o más home runs."
+msgstr ""
+
+#. y1ps2.full_id: 36_10_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=3
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_3"
+msgid "Si lo consigues,{PA:10}||ganarás 50.000 yenes.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 36_10_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=4
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_4"
+msgid "Si fallas,{PA:10} me darás 10.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_10_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=5
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_5"
+msgid "Puedes abandonar||ahora si tienes miedo."
+msgstr ""
+
+#. y1ps2.full_id: 36_10_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=6
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_6"
+msgid "Me retiro."
+msgstr ""
+
+#. y1ps2.full_id: 36_10_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=7
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_7"
+msgid "Ya veo.{PA:20} Si quieres desafiarme,||ya sabes dónde puedes encontrarme."
+msgstr ""
+
+#. y1ps2.full_id: 36_10_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=8
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_8"
+msgid "He dicho que acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_10_9
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=10|sg=9
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_10_9"
+msgid "Ok,{PA:10} iempecemos!"
+msgstr ""
+
+#. y1ps2.full_id: 36_11_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_11_0"
+msgid "Jajaja.{PA:10} Buen trabajo."
+msgstr ""
+
+#. y1ps2.full_id: 36_11_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=11|sg=1
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_11_1"
+msgid "Toma tu dinero."
+msgstr ""
+
+#. y1ps2.full_id: 36_11_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=11|sg=2
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_11_2"
+msgid "Has recibido 50.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_11_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=11|sg=3
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_11_3"
+msgid "Tío...{PA:10} Me rindo."
+msgstr ""
+
+#. y1ps2.full_id: 36_11_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=11|sg=4
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_11_4"
+msgid "Has obtenido 1,000 puntos de exp."
+msgstr ""
+
+#. y1ps2.full_id: 36_12_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=0
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_0"
+msgid "iJajaja!{PA:10} iHas perdido!"
+msgstr ""
+
+#. y1ps2.full_id: 36_12_1
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=1
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_1"
+msgid "Has pagado 10.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_12_2
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=2
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_2"
+msgid "Sabes,{PA:20} no es tarea fácil||golpear mis lanzamientos."
+msgstr ""
+
+#. y1ps2.full_id: 36_12_3
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=3
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_3"
+msgid "¿Qué te parece otro desafío||{PA:20}con las mismas reglas?"
+msgstr ""
+
+#. y1ps2.full_id: 36_12_4
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=4
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_4"
+msgid "{CU:ffc8c8}Si golpeas 10 home runs de mis 20||bolas mágicas, {PA:10}te daré 50.000 yenes."
+msgstr ""
+
+#. y1ps2.full_id: 36_12_5
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=5
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_5"
+msgid "Si no puedes golpear 10 home runs,||me debes 10.000 yenes.{MR:00}{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 36_12_6
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=6
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_6"
+msgid "No,{PA:10} gracias."
+msgstr ""
+
+#. y1ps2.full_id: 36_12_7
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=7
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_7"
+msgid "Ya veo.{PA:20} Si quieres desafiarme,||ya sabes dónde puedes encontrarme."
+msgstr ""
+
+#. y1ps2.full_id: 36_12_8
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=8
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_8"
+msgid "He dicho que acepto tu desafío."
+msgstr ""
+
+#. y1ps2.full_id: 36_12_9
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=12|sg=9
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_12_9"
+msgid "Ok,{PA:10} iempecemos!"
+msgstr ""
+
+#. y1ps2.full_id: 36_13_0
+#. y1ps2.logical_line_key: DAY_KAB0085|block=0037|type=01|mg=13|sg=0
+#. y1ps2.main_group: 13
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Idle
+msgctxt "36_13_0"
+msgid "Tío...{PA:10} Me rindo."
+msgstr ""

@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0010\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0010.BIN\n"
+"X-Y1PS2-Source-SHA256: 010d52ee422a39f4ec5351b969208bb549f1644fca352b3ee7fe813c5ef7e2c3\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0010.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0010.BIN\n"
+"X-Y1PS2-Talk-SHA256: 010d52ee422a39f4ec5351b969208bb549f1644fca352b3ee7fe813c5ef7e2c3\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 110\n"
+"X-Y1PS2-Raw-Block-ID: 118\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0076\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 76000102d4360000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0010|block=0118|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_kanou\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: stand_ykz\n"
+
+#. y1ps2.full_id: 110_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0010|block=0118|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "110_0_0"
+msgid "The street gang called the Bloody Eye||has been annihilated there."
+msgstr ""
+
+#. y1ps2.full_id: 110_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0010|block=0118|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "110_0_1"
+msgid "There's more...{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 110_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0010|block=0118|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "110_0_2"
+msgid "I heard one guy took out||the whole entire gang!"
+msgstr ""
+
+#. y1ps2.full_id: 110_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0010|block=0118|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "110_0_3"
+msgid "That sounds like a load of bullshit to me."
+msgstr ""
+
+#. y1ps2.full_id: 110_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0010|block=0118|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_2
+#. y1ps2.pose: stand_ykz
+msgctxt "110_1_0"
+msgid "It was a wise decision||not to go to Deborah."
+msgstr ""

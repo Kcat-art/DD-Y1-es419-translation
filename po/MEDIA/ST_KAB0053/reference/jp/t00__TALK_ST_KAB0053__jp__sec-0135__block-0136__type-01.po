@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0053\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0053.ARC\n"
+"X-Y1PS2-Source-SHA256: eaad830b5c00128881d957879a3e6a2faf4848354c873440a42e291cbee716d2\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0053.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0053.ARC/0/9___TALK_ST_KAB0053.BIN\n"
+"X-Y1PS2-Talk-SHA256: dcae5f26e610c30c8afd38cd3ecf9cec97d02f90395cc4328293b9001c45ae27\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 135\n"
+"X-Y1PS2-Raw-Block-ID: 136\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0088\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 88000102ec960200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0053|block=0136|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Tyoung_c\n"
+"X-Y1PS2-Actor: w_48\n"
+"X-Y1PS2-Pose: Stand03\n"
+
+#. y1ps2.full_id: 135_0_0
+#. y1ps2.logical_line_key: ST_KAB0053|block=0136|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_c
+#. y1ps2.actor: w_48
+#. y1ps2.pose: Stand03
+msgctxt "135_0_0"
+msgid "劇場前広場にデボラって||クラブがあるんですけど⋯"
+msgstr ""
+
+#. y1ps2.full_id: 135_0_1
+#. y1ps2.logical_line_key: ST_KAB0053|block=0136|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_c
+#. y1ps2.actor: w_48
+#. y1ps2.pose: Stand03
+msgctxt "135_0_1"
+msgid "あそこ、{PA:10}ギャングの溜まり場||らしいんですよね⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 135_0_2
+#. y1ps2.logical_line_key: ST_KAB0053|block=0136|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_c
+#. y1ps2.actor: w_48
+#. y1ps2.pose: Stand03
+msgctxt "135_0_2"
+msgid "赤いジャージの連中がよく||たむろしてますよ。"
+msgstr ""
+
+#. y1ps2.full_id: 135_1_0
+#. y1ps2.logical_line_key: ST_KAB0053|block=0136|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Tyoung_c
+#. y1ps2.actor: w_48
+#. y1ps2.pose: Stand03
+msgctxt "135_1_0"
+msgid "よお➿{PA:20}デボラ行かねえ？"
+msgstr ""

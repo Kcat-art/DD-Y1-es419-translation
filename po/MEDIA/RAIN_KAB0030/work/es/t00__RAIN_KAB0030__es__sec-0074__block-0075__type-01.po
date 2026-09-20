@@ -1,0 +1,408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0030\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0030.BIN\n"
+"X-Y1PS2-Source-SHA256: 3e1ecaaecaabdf61ef6986e90a10c1f3937c9c9c181a990c10e33a60e4ab7e22\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0030.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0030.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3e1ecaaecaabdf61ef6986e90a10c1f3937c9c9c181a990c10e33a60e4ab7e22\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 74\n"
+"X-Y1PS2-Raw-Block-ID: 75\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4b00010278370000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0030|block=0075|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER14\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C14_TRG_TOKYO_YUBO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0030/reference/jp/t00__TALK_ST_KAB0030__jp__sec-0074__block-0075__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0030/reference/en/t00__RAIN_KAB0030__en__sec-0074__block-0075__type-01.po\n"
+
+#. y1ps2.full_id: 74_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_0"
+msgid "Disculpa.{PA:10}||He estudiado el arte de leer las manos..."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_1"
+msgid "¿Me dejas que te las lea?"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_2"
+msgid "Sí,➿{PA:10}adelante."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_3"
+msgid "...{PA:20}......{PA:20}.........{PA:20}..............................{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_4
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 4b
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_4"
+msgid "Hmmmmmm...{PA:20}||Parece que eres muy cabezota..."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_5
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_5"
+msgid "......Oh, {PA:10}iqué es esto!{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_6
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_6"
+msgid "iiVeo señales que indican problemas!!{PA:10}||iEsto es muy malo!"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_7
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_7"
+msgid "Pero hay una forma||de evitar esta mala suerte."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_8
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_8"
+msgid "¿Quieres conocerla?||Sólo te llevará unos 10 minutos."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_9
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_9"
+msgid "Sí, dímelo."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_10
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_10"
+msgid "iMe alegra que quieras escucharme!{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 74_0_11
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_11"
+msgid "Tengo algunas cosas interesantes||que decirte sobre tu suerte."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_12
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_12"
+msgid "Ven aquí."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_14
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_14"
+msgid "No, {PA:10}gracias."
+msgstr ""
+
+#. y1ps2.full_id: 74_0_15
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_0_15"
+msgid "Ya veo..."
+msgstr ""
+
+#. y1ps2.full_id: 74_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_0"
+msgid "¿Escucharás lo que tengo que decirte?"
+msgstr ""
+
+#. y1ps2.full_id: 74_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_1"
+msgid "Adelante, dímelo."
+msgstr ""
+
+#. y1ps2.full_id: 74_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_2"
+msgid "iMe alegra que quieras escucharme!{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 74_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_3"
+msgid "Tengo algunas cosas interesantes||que decirte sobre tu suerte."
+msgstr ""
+
+#. y1ps2.full_id: 74_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_4"
+msgid "Ven aquí."
+msgstr ""
+
+#. y1ps2.full_id: 74_1_6
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_6"
+msgid "No, {PA:10}gracias."
+msgstr ""
+
+#. y1ps2.full_id: 74_1_7
+#. y1ps2.logical_line_key: RAIN_KAB0030|block=0075|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER14
+#. y1ps2.story_title: Internal CHAPTER14
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C14_TRG_TOKYO_YUBO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 14
+msgctxt "74_1_7"
+msgid "Ya veo..."
+msgstr ""

@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0031\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0031.ARC\n"
+"X-Y1PS2-Source-SHA256: f44772727e3fa8f1555351ebaeb83ab4da8433f6eac09c0d5c550bfa01e14ca4\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0031.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0031.ARC/0/8___TALK_ST_KAB0031.BIN\n"
+"X-Y1PS2-Talk-SHA256: 6f358eadc3bd0d1ed25c18015139749ccaf471efec4d12a205e01cacdc51c49a\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 108\n"
+"X-Y1PS2-Raw-Block-ID: 109\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6d000102c03e0200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0031|block=0109|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_kanou\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Smoking02\n"
+
+#. y1ps2.full_id: 108_0_0
+#. y1ps2.logical_line_key: ST_KAB0031|block=0109|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking02
+msgctxt "108_0_0"
+msgid "あ！➿{PA:10}兄貴！{PA:10}||俺です！➿{PA:10}加納っス！"
+msgstr ""
+
+#. y1ps2.full_id: 108_0_1
+#. y1ps2.logical_line_key: ST_KAB0031|block=0109|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking02
+msgctxt "108_0_1"
+msgid "聞いてくださいよ、{PA:10}兄貴ぃ。"
+msgstr ""
+
+#. y1ps2.full_id: 108_0_2
+#. y1ps2.logical_line_key: ST_KAB0031|block=0109|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking02
+msgctxt "108_0_2"
+msgid "俺、{PA:10}近々大出世するかもしんないっす。"
+msgstr ""
+
+#. y1ps2.full_id: 108_0_3
+#. y1ps2.logical_line_key: ST_KAB0031|block=0109|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking02
+msgctxt "108_0_3"
+msgid "知り合いのヤクザの幹部から||でかい仕事があるっていわれたんスよ。"
+msgstr ""
+
+#. y1ps2.full_id: 108_0_4
+#. y1ps2.logical_line_key: ST_KAB0031|block=0109|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking02
+msgctxt "108_0_4"
+msgid "へへ、{PA:10}次会うときはきっと俺{PA:10}||ぞろぞろ舎弟連れてますよ。"
+msgstr ""
+
+#. y1ps2.full_id: 108_0_5
+#. y1ps2.logical_line_key: ST_KAB0031|block=0109|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking02
+msgctxt "108_0_5"
+msgid "それじゃまた！"
+msgstr ""
+
+#. y1ps2.full_id: 108_1_0
+#. y1ps2.logical_line_key: ST_KAB0031|block=0109|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking02
+msgctxt "108_1_0"
+msgid "へへ、{PA:10}次会うときはきっと俺{PA:10}||ぞろぞろ舎弟連れてますよ。"
+msgstr ""
+
+#. y1ps2.full_id: 108_1_1
+#. y1ps2.logical_line_key: ST_KAB0031|block=0109|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Smoking02
+msgctxt "108_1_1"
+msgid "それじゃまた！"
+msgstr ""

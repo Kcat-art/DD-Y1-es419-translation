@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: OLD_KAB0082\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: OLD_KAB0082.BIN\n"
+"X-Y1PS2-Source-SHA256: 160d563884ab4b1729c36717bd7e35efdb7aeb9d96c85a936e5494c989807d64\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: OLD_KAB0082.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: OLD_KAB0082.BIN\n"
+"X-Y1PS2-Talk-SHA256: 160d563884ab4b1729c36717bd7e35efdb7aeb9d96c85a936e5494c989807d64\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 26\n"
+"X-Y1PS2-Raw-Block-ID: 27\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x001B\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 1b000102f4270000\n"
+"X-Y1PS2-Logical-Section-Key: OLD_KAB0082|block=0027|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: STALKER_SAYA\n"
+"X-Y1PS2-Pose: Freeze\n"
+
+#. y1ps2.full_id: 26_0_0
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_0"
+msgid "Mister, where have you been?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_1
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_1"
+msgid "Why didn't you wake me up||when you went out...?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_2
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_2"
+msgid "Yeah, I'm sorry.||I still have some things to take care of."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_3
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_3"
+msgid "...Will you wait here for me?"
+msgstr ""
+
+#. y1ps2.full_id: 26_0_4
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_4"
+msgid "Yeah. That's fine."
+msgstr ""
+
+#. y1ps2.full_id: 26_0_5
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_0_5"
+msgid "...See you later."
+msgstr ""
+
+#. y1ps2.full_id: 26_1_0
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_1_0"
+msgid "Did you finish what you had to do?"
+msgstr ""
+
+#. y1ps2.full_id: 26_1_1
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_1_1"
+msgid "No, it's gonna take a little more time."
+msgstr ""
+
+#. y1ps2.full_id: 26_1_2
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_1_2"
+msgid "I'm getting sleepy again."
+msgstr ""
+
+#. y1ps2.full_id: 26_1_3
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_1_3"
+msgid "...Is it okay if I sleep?"
+msgstr ""
+
+#. y1ps2.full_id: 26_1_4
+#. y1ps2.logical_line_key: OLD_KAB0082|block=0027|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: STALKER_SAYA
+#. y1ps2.pose: Freeze
+msgctxt "26_1_4"
+msgid "...Yeah,{SP:2} no problem.{SP:1}||Get some rest."
+msgstr ""

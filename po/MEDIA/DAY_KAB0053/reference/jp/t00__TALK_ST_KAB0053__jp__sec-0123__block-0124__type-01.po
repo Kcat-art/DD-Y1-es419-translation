@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0053\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0053.ARC\n"
+"X-Y1PS2-Source-SHA256: 652ce4cd7a445d1338fc3f68af3d379a6478e20ffe7a11a7baa103d860657d12\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0053.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0053.ARC/0/8___TALK_ST_KAB0053.BIN\n"
+"X-Y1PS2-Talk-SHA256: a1cd48293918583ec66c46a6772377e7c01be3b420e81a3207f2ff678b18787c\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 123\n"
+"X-Y1PS2-Raw-Block-ID: 124\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x007C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7c000101dc3e0200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0053|block=0124|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_kanou\n"
+"X-Y1PS2-Actor: w_7\n"
+"X-Y1PS2-Pose: stand_ykz\n"
+
+#. y1ps2.full_id: 123_0_0
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0124|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_7
+#. y1ps2.pose: stand_ykz
+msgctxt "123_0_0"
+msgid "へへ。➿{PA:20}やりましたね、{PA:10}兄貴。{PA:20}||ま、{PA:10}結果オーライってことで。➿{PA:20}ね？"
+msgstr ""
+
+#. y1ps2.full_id: 123_0_1
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0124|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_7
+#. y1ps2.pose: stand_ykz
+msgctxt "123_0_1"
+msgid "やっぱ女絡むシノギは難しいッスね。{PA:20}||この街の女ぁ、{PA:10}こりごりッス。"
+msgstr ""
+
+#. y1ps2.full_id: 123_0_2
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0124|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_7
+#. y1ps2.pose: stand_ykz
+msgctxt "123_0_2"
+msgid "じゃ、{PA:10}俺また別のシノギのクチ見つけてきますから。{PA:20}||それじゃ！"
+msgstr ""
+
+#. y1ps2.full_id: 123_0_3
+#. y1ps2.logical_line_key: DAY_KAB0053|block=0124|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_kanou
+#. y1ps2.actor: w_7
+#. y1ps2.pose: stand_ykz
+msgctxt "123_0_3"
+msgid "➿➿経験値➿５００➿を手に入れた"
+msgstr ""

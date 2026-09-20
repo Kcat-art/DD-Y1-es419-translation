@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0001\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0001.ARC\n"
+"X-Y1PS2-Source-SHA256: 846338569f205c89f0c998b49209a9d47ec55e2d461fc6319b79cdf93bac68e8\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0001.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0001.ARC/0/8___TALK_ST_KAB0001.BIN\n"
+"X-Y1PS2-Talk-SHA256: d14fe0948899737060ceb5e45df28edfe4b50e6a9f2f7dcfd15d896b7b6ebf78\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 91\n"
+"X-Y1PS2-Raw-Block-ID: 92\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005C\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5c0001010c7b0200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0001|block=0092|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_1237540\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 91_0_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_0"
+msgid "{CU:c8c8ff}（{MS:0}情報通の田村はまだ街にいるだろうか⋯{PA:20}||➿奴なら何か知ってるに違いない。）"
+msgstr ""
+
+#. y1ps2.full_id: 91_0_1
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0092|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_1237540
+#. y1ps2.pose: Idle
+msgctxt "91_0_1"
+msgid "（ちょっと探してみるか。）"
+msgstr ""

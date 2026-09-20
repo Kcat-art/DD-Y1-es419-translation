@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: OLD_KAB0010\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: OLD_KAB0010.BIN\n"
+"X-Y1PS2-Source-SHA256: 355223756176936db9d0437d891880526212ec237fd26a9b708e05e61dc00571\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: OLD_KAB0010.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: OLD_KAB0010.BIN\n"
+"X-Y1PS2-Talk-SHA256: 355223756176936db9d0437d891880526212ec237fd26a9b708e05e61dc00571\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 136\n"
+"X-Y1PS2-Raw-Block-ID: 141\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x008D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8d00010224320000\n"
+"X-Y1PS2-Logical-Section-Key: OLD_KAB0010|block=0141|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: gc_Fmid\n"
+"X-Y1PS2-Actor: w_24\n"
+"X-Y1PS2-Pose: Wait02\n"
+
+#. y1ps2.full_id: 136_0_0
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0141|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: gc_Fmid
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait02
+msgctxt "136_0_0"
+msgid "It looks like the Dojima Family||is prosperous as usual. {PA:20}Hehe."
+msgstr ""
+
+#. y1ps2.full_id: 136_0_1
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0141|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: gc_Fmid
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait02
+msgctxt "136_0_1"
+msgid "I wish our family could be as successful."
+msgstr ""
+
+#. y1ps2.full_id: 136_1_0
+#. y1ps2.logical_line_key: OLD_KAB0010|block=0141|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: gc_Fmid
+#. y1ps2.actor: w_24
+#. y1ps2.pose: Wait02
+msgctxt "136_1_0"
+msgid "Are you by chance Kazuma-san,||from the Dojima Family?"
+msgstr ""

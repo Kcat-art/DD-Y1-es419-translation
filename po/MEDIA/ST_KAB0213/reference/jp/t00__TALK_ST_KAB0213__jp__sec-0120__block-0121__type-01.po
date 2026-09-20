@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0213\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0213.ARC\n"
+"X-Y1PS2-Source-SHA256: e65357c294bcffd8811fed3451b3629f914190b8695b44a08516c7bae64187b2\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0213.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0213.ARC/0/8___TALK_ST_KAB0213.BIN\n"
+"X-Y1PS2-Talk-SHA256: 3686fd16bcc4601a37e1f21ad4b69797c46e7e28621ab1a203f7339fa41fc435\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 120\n"
+"X-Y1PS2-Raw-Block-ID: 121\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0079\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 79000103000a0300\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0213|block=0121|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: CELLULAR\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: cellular\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 120_0_0
+#. y1ps2.logical_line_key: ST_KAB0213|block=0121|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 01
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "120_0_0"
+msgid "花屋"
+msgstr ""
+
+#. y1ps2.full_id: 120_1_1
+#. y1ps2.logical_line_key: ST_KAB0213|block=0121|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "120_1_1"
+msgid "{CU:c8c8ff}ああ。{PA:20}➿花屋、{PA:10}どうした？"
+msgstr ""
+
+#. y1ps2.full_id: 120_1_3
+#. y1ps2.logical_line_key: ST_KAB0213|block=0121|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "120_1_3"
+msgid "堂島組⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 120_2_0
+#. y1ps2.logical_line_key: ST_KAB0213|block=0121|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "120_2_0"
+msgid "おう、{PA:10}桐生か？"
+msgstr ""
+
+#. y1ps2.full_id: 120_2_2
+#. y1ps2.logical_line_key: ST_KAB0213|block=0121|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "120_2_2"
+msgid "河原の住人が掴んだ情報なんだが⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 120_2_3
+#. y1ps2.logical_line_key: ST_KAB0213|block=0121|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "120_2_3"
+msgid "どうやら、{PA:10}元堂島組の連中が||この辺りをうろついてるようだ。"
+msgstr ""
+
+#. y1ps2.full_id: 120_2_5
+#. y1ps2.logical_line_key: ST_KAB0213|block=0121|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+msgctxt "120_2_5"
+msgid "詳しい話は、{PA:10}こっちに来たら話す。{PA:20}||時間があるなら、{PA:10}モニタールームに来い。"
+msgstr ""

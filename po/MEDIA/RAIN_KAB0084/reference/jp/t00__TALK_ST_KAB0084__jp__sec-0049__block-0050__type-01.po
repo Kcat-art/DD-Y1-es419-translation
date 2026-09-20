@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0084\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0084.ARC\n"
+"X-Y1PS2-Source-SHA256: d233f98b12ba80de1c4a8d6d1aa4b8f7f0ca570756978e84b58624ebd00ce477\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0084.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0084.ARC/0/8___TALK_ST_KAB0084.BIN\n"
+"X-Y1PS2-Talk-SHA256: 8c7a089c3d4cb319685862bdf75fba909f631bf566713251a098b8b3cbcfa29e\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 49\n"
+"X-Y1PS2-Raw-Block-ID: 50\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0032\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 3200010348d80100\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0084|block=0050|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Yuya\n"
+"X-Y1PS2-Actor: w_4\n"
+"X-Y1PS2-Pose: Stand05\n"
+
+#. y1ps2.full_id: 49_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0050|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yuya
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand05
+msgctxt "49_0_0"
+msgid "大した事できなくてすみません。||必要な物を揃えてってください。"
+msgstr ""
+
+#. y1ps2.full_id: 49_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0050|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yuya
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand05
+msgctxt "49_1_0"
+msgid "桐生さん、{PA:10}こっちです！"
+msgstr ""
+
+#. y1ps2.full_id: 49_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0050|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yuya
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand05
+msgctxt "49_1_1"
+msgid "{CU:c8c8ff}ああ、{PA:10}⋯最後まで||世話になっちまって、{PA:10}すまないな。"
+msgstr ""
+
+#. y1ps2.full_id: 49_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0050|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yuya
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand05
+msgctxt "49_1_2"
+msgid "{CU:ffffff}そんな事は良いですから⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 49_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0050|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yuya
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand05
+msgctxt "49_1_3"
+msgid "なにかと必要だと思って⋯{PA:20}これ、{PA:10}||ホスト仲間からの気持ちです。"
+msgstr ""
+
+#. y1ps2.full_id: 49_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0050|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yuya
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand05
+msgctxt "49_1_4"
+msgid "➿➿➿➿➿➿３０万円➿受け取った"
+msgstr ""
+
+#. y1ps2.full_id: 49_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0050|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yuya
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand05
+msgctxt "49_1_5"
+msgid "{CU:c8c8ff}そうか。➿{PA:20}すまないな⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 49_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0050|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Yuya
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand05
+msgctxt "49_2_0"
+msgid "桐生さん！"
+msgstr ""

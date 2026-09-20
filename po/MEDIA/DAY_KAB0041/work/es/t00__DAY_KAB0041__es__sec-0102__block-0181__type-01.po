@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0041\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0041.BIN\n"
+"X-Y1PS2-Source-SHA256: 01d42c0f528a6de8fb9f82534e07b9a9137a4b4b0705aa97f4c59bd3a2b45946\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0041.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0041.BIN\n"
+"X-Y1PS2-Talk-SHA256: 01d42c0f528a6de8fb9f82534e07b9a9137a4b4b0705aa97f4c59bd3a2b45946\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 102\n"
+"X-Y1PS2-Raw-Block-ID: 181\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00B5\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: b500010b243f0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0041|block=0181|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: str_b_Mnit\n"
+"X-Y1PS2-Actor: str_b_Mnit\n"
+"X-Y1PS2-Pose: Wait01\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0041/reference/en/t00__DAY_KAB0041__en__sec-0102__block-0181__type-01.po\n"
+
+#. y1ps2.full_id: 102_2_0
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_2_0"
+msgid "（... Este sitio parece interesante.{PA:10}||Pero ahora"
+msgstr ""
+
+#. y1ps2.full_id: 102_2_1
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_2_1"
+msgid "Haruka está conmigo...||¿Qué debería hacer...?)"
+msgstr ""
+
+#. y1ps2.full_id: 102_2_2
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_2_2"
+msgid "Señor,{PA:10} ¿vas a dejarme aquí?"
+msgstr ""
+
+#. y1ps2.full_id: 102_2_3
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_2_3"
+msgid "Lo siento, pero espérame aquí un rato.||Volveré pronto."
+msgstr ""
+
+#. y1ps2.full_id: 102_2_4
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_2_4"
+msgid "¿De verdad?{PA:20} Supongo..."
+msgstr ""
+
+#. y1ps2.full_id: 102_2_6
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_2_6"
+msgid "No debería dejarte aquí sola."
+msgstr ""
+
+#. y1ps2.full_id: 102_2_7
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_2_7"
+msgid "... Señor,{PA:10} ¿estás seguro?"
+msgstr ""
+
+#. y1ps2.full_id: 102_2_8
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_2_8"
+msgid "Sí.{PA:20}{PA:20} Ya iré en otro momento."
+msgstr ""
+
+#. y1ps2.full_id: 102_3_0
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_3_0"
+msgid "(Entrar... i¿ahora?!)"
+msgstr ""
+
+#. y1ps2.full_id: 102_3_1
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_3_1"
+msgid "Hey,{PA:10} i¿Qué crees que estás haciendo?!"
+msgstr ""
+
+#. y1ps2.full_id: 102_3_2
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_3_2"
+msgid "Lo siento, pero espérame aquí un rato.||Volveré pronto."
+msgstr ""
+
+#. y1ps2.full_id: 102_3_3
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_3_3"
+msgid "... iNo puedo creerlo!{PA:20}||iEres asqueroso!"
+msgstr ""
+
+#. y1ps2.full_id: 102_3_5
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_3_5"
+msgid "Sólo bromeaba."
+msgstr ""
+
+#. y1ps2.full_id: 102_3_6
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_3_6"
+msgid "... No pensé que lo hicieras."
+msgstr ""
+
+#. y1ps2.full_id: 102_4_0
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_4_0"
+msgid "(El Detective Date está conmigo...||¿Qué debería hacer...?)"
+msgstr ""
+
+#. y1ps2.full_id: 102_4_1
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_4_1"
+msgid "iHey,{PA:10} Kazuma!{PA:20}||¿Vas a...?"
+msgstr ""
+
+#. y1ps2.full_id: 102_4_2
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_4_2"
+msgid "Lo siento, pero espérame aquí un rato.||Volveré pronto."
+msgstr ""
+
+#. y1ps2.full_id: 102_4_3
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_4_3"
+msgid "¿Así que vas a divertirte sin mí?{PA:20}||iBah!{PA:20} Lo pillo."
+msgstr ""
+
+#. y1ps2.full_id: 102_4_5
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=4|sg=5
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_4_5"
+msgid "No puedo entrar en un momento así."
+msgstr ""
+
+#. y1ps2.full_id: 102_4_6
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=4|sg=6
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_4_6"
+msgid "Umf... Puedes entrar si realmente quieres."
+msgstr ""
+
+#. y1ps2.full_id: 102_5_0
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_5_0"
+msgid "(Creo que debería seguir a||Haruka por ahora...)"
+msgstr ""
+
+#. y1ps2.full_id: 102_6_0
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_6_0"
+msgid "(Éste no es momento para||pararse en el bar...)"
+msgstr ""
+
+#. y1ps2.full_id: 102_7_0
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_7_0"
+msgid "(Tengo que llevar a esta niño al médico...)"
+msgstr ""
+
+#. y1ps2.full_id: 102_8_0
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_8_0"
+msgid "... Señor,{PA:20} llegas tarde."
+msgstr ""
+
+#. y1ps2.full_id: 102_8_1
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_8_1"
+msgid "... Lo siento."
+msgstr ""
+
+#. y1ps2.full_id: 102_9_0
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_9_0"
+msgid "Umf...{PA:10} Has tardado más de lo que pensaba.||iVamos!"
+msgstr ""
+
+#. y1ps2.full_id: 102_10_0
+#. y1ps2.logical_line_key: DAY_KAB0041|block=0181|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Mnit
+#. y1ps2.actor: str_b_Mnit
+#. y1ps2.pose: Wait01
+msgctxt "102_10_0"
+msgid "iLlegas tarde!{PA:10} Todavía no entiendo||por qué has tenido que ir justo ahora."
+msgstr ""

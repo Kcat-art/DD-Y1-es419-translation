@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0010\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0010.BIN\n"
+"X-Y1PS2-Source-SHA256: 42be04d2eade0eb5703027dd90a3a1e45e9af1eefb5745e1d59d6375b9f72741\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0010.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0010.BIN\n"
+"X-Y1PS2-Talk-SHA256: 42be04d2eade0eb5703027dd90a3a1e45e9af1eefb5745e1d59d6375b9f72741\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 125\n"
+"X-Y1PS2-Raw-Block-ID: 173\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00AD\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: ad00010240450000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0010|block=0173|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: salap_b_M64\n"
+"X-Y1PS2-Actor: Mcoat_b_M64\n"
+"X-Y1PS2-Pose: WaitTel\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0010/reference/en/t00__DAY_KAB0010__en__sec-0125__block-0173__type-01.po\n"
+
+#. y1ps2.full_id: 125_1_0
+#. y1ps2.logical_line_key: DAY_KAB0010|block=0173|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salap_b_M64
+#. y1ps2.actor: Mcoat_b_M64
+#. y1ps2.pose: WaitTel
+msgctxt "125_1_0"
+msgid "iMierda!{PA:10} iNo olvidaré esto!"
+msgstr ""

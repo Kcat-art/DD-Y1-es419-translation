@@ -1,0 +1,593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0204\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0204.BIN\n"
+"X-Y1PS2-Source-SHA256: a91352f49cf62f9b3e9f576af45a62d952b3e5341c6522bc4d6621f2488c8b20\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0204.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0204.BIN\n"
+"X-Y1PS2-Talk-SHA256: a91352f49cf62f9b3e9f576af45a62d952b3e5341c6522bc4d6621f2488c8b20\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 94\n"
+"X-Y1PS2-Raw-Block-ID: 95\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005F\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5f000102bc580000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0204|block=0095|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER04\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C4_TRG_HONBU_2F\n"
+"X-Y1PS2-Actor: w_3\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 94_1_0
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_0"
+msgid "Thank you for coming, sir."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_1
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_1"
+msgid "Please sign here."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_2
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_2"
+msgid "I guess I have to sign in..."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_3
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_3"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_4
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_4"
+msgid "...Can I enter now?"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_5
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_5"
+msgid "Yes. {PA:10}Thank you very much."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_6
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_6"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_7
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_7"
+msgid "...Kazuma {PA:10}...Kiryu?"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_8
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_8"
+msgid "Are you Kazuma who was sent to prison||for murdering Dojima Oyabun?!"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_9
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_9"
+msgid "Yeah, I am. You gotta problem with that?"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_10
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_10"
+msgid "Bastard!{PA:10}||How dare you show your face here!"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_11
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_11"
+msgid "Even though it's a funeral,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_12
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_12"
+msgid "the Tojo Clan is not gonna let||a piece of shit traitor attend!"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_13
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_13"
+msgid "Hey!{PA:10}||Throw this asshole out!"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_16
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_16"
+msgid "......"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_17
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_17"
+msgid "...Can I enter now?"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_18
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_18"
+msgid "Yes. {PA:10}Thank you very much."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_19
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_19"
+msgid "I'm sorry, but which family||do you belong to?"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_20
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_20"
+msgid "I used to belong to the Dojima Family."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_21
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_21"
+msgid "I see..."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_22
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_22"
+msgid "Dojima Oyabun was killed by that piece of||shit traitor, Kazuma, 10 years ago."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_23
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=23
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_23"
+msgid "Now Chairman Sera's dead, too..."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_24
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=24
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_24"
+msgid "I got a feeling there's someone||in the back pulling some strings."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_25
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=25
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_25"
+msgid "...The memorial service will start soon.||Please wait inside."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_26
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=26
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_26"
+msgid "The Fuma Family."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_27
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=27
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_27"
+msgid "The Fuma Family?"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_28
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=28
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_28"
+msgid "I'm in the Fuma Family, too.||But you don't look familiar."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_29
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=29
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_29"
+msgid "You're fucking suspicious!{PA:20}||Hey! {PA:10}Throw him out!"
+msgstr ""
+
+#. y1ps2.full_id: 94_1_32
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=32
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_32"
+msgid "No, you must have the wrong person."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_33
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=33
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_33"
+msgid "...That's what I thought."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_34
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=34
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_34"
+msgid "If that Kazuma showed up...||I can guarantee he'd get killed."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_35
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=35
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_35"
+msgid "I don't think he's that stupid."
+msgstr ""
+
+#. y1ps2.full_id: 94_1_36
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0095|type=01|mg=1|sg=36
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER04
+#. y1ps2.story_title: Internal CHAPTER04
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C4_TRG_HONBU_2F
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 4
+msgctxt "94_1_36"
+msgid "...The memorial service will start soon.||Please wait inside."
+msgstr ""

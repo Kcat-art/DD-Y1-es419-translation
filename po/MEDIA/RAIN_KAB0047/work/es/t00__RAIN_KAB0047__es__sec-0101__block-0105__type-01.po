@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0047\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0047.BIN\n"
+"X-Y1PS2-Source-SHA256: bf2785f10e4b8dd7325175c64e19575b9cb90184251d33eff5d8bd80c03dbe81\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0047.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0047.BIN\n"
+"X-Y1PS2-Talk-SHA256: bf2785f10e4b8dd7325175c64e19575b9cb90184251d33eff5d8bd80c03dbe81\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 101\n"
+"X-Y1PS2-Raw-Block-ID: 105\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0069\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 69000101f03b0000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0047|block=0105|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mus_suit3_E\n"
+"X-Y1PS2-Actor: w_3\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: RAIN_KAB0047/reference/jp/t00__TALK_ST_KAB0047__jp__sec-0104__block-0105__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: RAIN_KAB0047/reference/en/t00__RAIN_KAB0047__en__sec-0101__block-0105__type-01.po\n"
+
+#. y1ps2.full_id: 101_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0047|block=0105|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mus_suit3_E
+#. y1ps2.actor: w_3
+#. y1ps2.pose: Idle
+msgctxt "101_0_0"
+msgid "Me pregunto si la lluvia apagará||el fuego del Purgatorio..."
+msgstr ""

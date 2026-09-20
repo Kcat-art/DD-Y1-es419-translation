@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0071\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0071.BIN\n"
+"X-Y1PS2-Source-SHA256: 0d0668e08cc49a91a8b0d527566d74eac2c71a58ccbcb86d27314b6f12192ff2\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0071.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0071.BIN\n"
+"X-Y1PS2-Talk-SHA256: 0d0668e08cc49a91a8b0d527566d74eac2c71a58ccbcb86d27314b6f12192ff2\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 97\n"
+"X-Y1PS2-Raw-Block-ID: 99\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0063\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 63000102f0340000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0071|block=0099|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Myoung_f\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: SitGround01\n"
+
+#. y1ps2.full_id: 97_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0071|block=0099|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Myoung_f
+#. y1ps2.actor: w_0
+#. y1ps2.pose: SitGround01
+msgctxt "97_0_0"
+msgid "Terrorists!{PA:20}||I'm telling you, terrorists are behind this!"
+msgstr ""
+
+#. y1ps2.full_id: 97_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0071|block=0099|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Myoung_f
+#. y1ps2.actor: w_0
+#. y1ps2.pose: SitGround01
+msgctxt "97_0_1"
+msgid "I was worried that someday,||something like this would hit Japan."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0071|block=0099|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Myoung_f
+#. y1ps2.actor: w_0
+#. y1ps2.pose: SitGround01
+msgctxt "97_0_2"
+msgid "A peace-loving country is||a vulnerable country after all."
+msgstr ""
+
+#. y1ps2.full_id: 97_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0071|block=0099|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Myoung_f
+#. y1ps2.actor: w_0
+#. y1ps2.pose: SitGround01
+msgctxt "97_1_0"
+msgid "Something crazy must've happened..."
+msgstr ""

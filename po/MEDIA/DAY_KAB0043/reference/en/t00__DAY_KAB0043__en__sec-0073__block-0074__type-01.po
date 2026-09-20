@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0043\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0043.BIN\n"
+"X-Y1PS2-Source-SHA256: 777d3715903d7b455efdbfbe1717866ca472777b3c163a8643a0d540959f9b7d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0043.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0043.BIN\n"
+"X-Y1PS2-Talk-SHA256: 777d3715903d7b455efdbfbe1717866ca472777b3c163a8643a0d540959f9b7d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 73\n"
+"X-Y1PS2-Raw-Block-ID: 74\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4a000102d4320000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0043|block=0074|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER13\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C13_TRG_HAIBILL\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 73_0_0
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_0"
+msgid "Hey you,{PA:10}||did you see a little girl around here?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_1
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_1"
+msgid "Hic, {PA:10}bring me some Sake!"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_2
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_2"
+msgid "Hic, {PA:10}bring me Sake!"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_3
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_3"
+msgid "You gave him Sake."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_4
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_4"
+msgid "Heehee. {PA:10}Thank you."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_5
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_5"
+msgid "Hey,{PA:10}||did you see a little girl around here?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_6
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_6"
+msgid "Shut up!{PA:10}||I want Sake. {PA:10}Bring me Sake!"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_7
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_7"
+msgid "Hey, {PA:10}did you see a little girl||around here, huh?! {PA:10}Fucking tell me, now!!"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_8
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_8"
+msgid "Ohh... {PA:10}I'm sorry...{PA:10}||I saw her around here a moment ago..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_9
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_9"
+msgid "But a man in suit took her somewhere..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_10
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_10"
+msgid "Where did they go?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_11
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_11"
+msgid "He was saying something about a park{MS:0}||on the cell phone..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_12
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_12"
+msgid "(This guy doesn't look friendly...)"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_0
+#. y1ps2.logical_line_key: DAY_KAB0043|block=0074|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_0"
+msgid "I... {PA:10}I'm sorry...{PA:10}||My wife and kids left me. {PA:10}I was lonely..."
+msgstr ""

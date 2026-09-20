@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0005\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0005.BIN\n"
+"X-Y1PS2-Source-SHA256: 6f2417f0811415f027dd22696407eb6e27b03b5ca0bec6029cead0b023fd538f\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0005.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0005.BIN\n"
+"X-Y1PS2-Talk-SHA256: 6f2417f0811415f027dd22696407eb6e27b03b5ca0bec6029cead0b023fd538f\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 76\n"
+"X-Y1PS2-Raw-Block-ID: 77\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4d000101f0310000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0005|block=0077|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER16\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C16_TRG_ICHIBAN_GATE\n"
+"X-Y1PS2-Actor: w_1\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 76_0_0
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_0"
+msgid "Umm, {PA:10}do you know a bar called Serena?"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_1
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_1"
+msgid "Yeah,{PA:10} I do."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_2
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_2"
+msgid "Really?"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_3
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_3"
+msgid "I wanted to meet the Mama-san, Reina.||I came a long way from my hometown..."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_4
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_4"
+msgid "Do you know where it is?"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_5
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_5"
+msgid "It's on 1F of a building on Tenkaichi St."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_6
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_6"
+msgid "Oh, okay.{PA:10}||Thank you very much!"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_7
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_7"
+msgid "...However, I think I should better||myself before I meet her."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_8
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_8"
+msgid "No I don't."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_9
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_9"
+msgid "I see..."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_10
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_10"
+msgid "I heard it's somewhere on Tenkaichi St.||I'll look for it."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_11
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_11"
+msgid "Sorry, but I don't know where it is."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_12
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_12"
+msgid "...I see.{PA:20}||Thank you anyway."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_13
+#. y1ps2.logical_line_key: DAY_KAB0005|block=0077|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_13"
+msgid "I heard it's somewhere on Tenkaichi St.||I'll look for it."
+msgstr ""

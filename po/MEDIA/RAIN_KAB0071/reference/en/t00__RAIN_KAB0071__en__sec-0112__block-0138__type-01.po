@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0071\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0071.BIN\n"
+"X-Y1PS2-Source-SHA256: 0d0668e08cc49a91a8b0d527566d74eac2c71a58ccbcb86d27314b6f12192ff2\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0071.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0071.BIN\n"
+"X-Y1PS2-Talk-SHA256: 0d0668e08cc49a91a8b0d527566d74eac2c71a58ccbcb86d27314b6f12192ff2\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 112\n"
+"X-Y1PS2-Raw-Block-ID: 138\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x008A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 8a00010120360000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0071|block=0138|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: fa_Msh_b\n"
+"X-Y1PS2-Actor: double_B_M64\n"
+"X-Y1PS2-Pose: Stand01\n"
+
+#. y1ps2.full_id: 112_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0071|block=0138|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: fa_Msh_b
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Stand01
+msgctxt "112_0_0"
+msgid "There's something strange in the air.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0071|block=0138|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: fa_Msh_b
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Stand01
+msgctxt "112_0_1"
+msgid "This city doesn't seem to have the same||feeling as it usually does."
+msgstr ""
+
+#. y1ps2.full_id: 112_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0071|block=0138|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: fa_Msh_b
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Stand01
+msgctxt "112_0_2"
+msgid "Even when I'm trying to pull people in,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0071|block=0138|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: fa_Msh_b
+#. y1ps2.actor: double_B_M64
+#. y1ps2.pose: Stand01
+msgctxt "112_0_3"
+msgid "the people walking around seem to have a||different feel..."
+msgstr ""

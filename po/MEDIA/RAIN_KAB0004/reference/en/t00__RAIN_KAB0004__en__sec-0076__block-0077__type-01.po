@@ -1,0 +1,882 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0004\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Source-SHA256: eb0603c4a310f37da6960814da8108bf853114947c67fc08871edf635ce4d7cd\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Talk-SHA256: eb0603c4a310f37da6960814da8108bf853114947c67fc08871edf635ce4d7cd\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 76\n"
+"X-Y1PS2-Raw-Block-ID: 77\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4d00010374320000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0004|block=0077|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER16\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C16_TRG_ICHIBAN_GATE\n"
+"X-Y1PS2-Actor: w_1\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 76_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_0"
+msgid "Hmm. You again..."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_1"
+msgid "Some things you may not be aware of||are as follows... maybe."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_2
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_2"
+msgid "Is there anything else you want to know?"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_3
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_3"
+msgid "Tell me about shifting."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_4
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_4"
+msgid "If you move by the {CU:ffff00}left analog stick{CU:ffffff} while||holding the {CU:ffff00}R1{CU:ffffff} button, you can \"shift\"."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_5
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_5"
+msgid "One drawback is that you can't run,"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_6
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_6"
+msgid "but you can move toward any direction||while always facing the enemy."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_7
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_7"
+msgid "It's quite useful during a one on one fight||or when you want to make"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_8
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_8"
+msgid "concentrated attacks on an enemy.||Give it a try."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_9
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_9"
+msgid "Tell me about guarding."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_10
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_10"
+msgid "Guard by pressing the{CU:ffff00} L1{CU:ffffff} button."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_11
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_11"
+msgid "When you're fighting an unarmed enemy,||as long as you make sure you don't get hit"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_12
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_12"
+msgid "from behind, you can block||the enemy's attack almost perfectly."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_13
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_13"
+msgid "However, if the enemy's armed, stay alert.||A blow from a weapon will break your guard."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_14
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_14"
+msgid "Also, guarding is useless against||knives or guns, obviously."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_15
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_15"
+msgid "Tell me about dodging."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_16
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_16"
+msgid "You can dodge by pressing {IC:00_03}➿ while shifting."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_17
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_17"
+msgid "By using this technique, you can avoid||the enemy's attack"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_18
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_18"
+msgid "or position yourself behind the enemy."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_19
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_19"
+msgid "By improving your \"TAI\" skills,||you will be able to move faster."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_20
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_20"
+msgid "Who the hell are you?"
+msgstr ""
+
+#. y1ps2.full_id: 76_0_21
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_21"
+msgid "My name's Oki. I'm an apprentice of a grand||master of martial arts, Sotaro Komaki."
+msgstr ""
+
+#. y1ps2.full_id: 76_0_22
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_0_22"
+msgid "I see... {PA:10}If you want to||know something, feel free to ask me."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_0"
+msgid "Looks like you haven't||made full use of your skills."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_1"
+msgid "Some things you may not be aware of are||as follows... maybe."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_2"
+msgid "Is there anything else you want to know?"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_3"
+msgid "Tell me about shifting."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_4"
+msgid "If you move by the {CU:ffff00}left analog stick{CU:ffffff} while||holding the {CU:ffff00}R1{CU:ffffff} button, you can \"shift\"."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_5"
+msgid "One drawback is that you can't run,"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_6
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_6"
+msgid "but you can move toward any direction||while always facing the enemy."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_7
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_7"
+msgid "It's quite useful during a one on one fight||or when you want to make"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_8
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_8"
+msgid "concentrated attacks on an enemy.||Give it a try."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_9
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_9"
+msgid "Tell me about guarding."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_10
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_10"
+msgid "Guard by pressing the{CU:ffff00} L1{CU:ffffff} button."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_11
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_11"
+msgid "When you're fighting an unarmed enemy,||as long as you make sure you don't get hit"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_12
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_12"
+msgid "from behind, you can block||the enemy's attack almost perfectly."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_13
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_13"
+msgid "However, if the enemy's armed, stay alert.||A blow from a weapon will break your guard."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_14
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_14"
+msgid "Also, guarding is useless against||knives or guns, obviously."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_15
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_15"
+msgid "Tell me about dodging."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_16
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_16"
+msgid "You can dodge by pressing {IC:00_03}➿ while shifting."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_17
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_17"
+msgid "By using this technique, you can avoid||the enemy's attack or position yourself"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_18
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_18"
+msgid "behind the enemy."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_19
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_19"
+msgid "By improving your \"TAI\" skills,||you will be able to move faster."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_20
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_20"
+msgid "Who the hell are you?"
+msgstr ""
+
+#. y1ps2.full_id: 76_1_21
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_21"
+msgid "My name's Oki. I'm an apprentice of a grand||master of martial arts, Sotaro Komaki."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_22
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_22"
+msgid "I see... {PA:10}If you want to||know something, feel free to ask me."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_23
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=23
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_23"
+msgid "I'll give this to you just in case.{MS:1}{MS:0}{PA:20}||Take a look at it sometime."
+msgstr ""
+
+#. y1ps2.full_id: 76_1_24
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=1|sg=24
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_1_24"
+msgid "You received \"{CC:ffc8c8}Tips from Komaki's Apprentice{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 76_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_2_0"
+msgid "Mister!"
+msgstr ""
+
+#. y1ps2.full_id: 76_2_1
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0077|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER16
+#. y1ps2.story_title: Internal CHAPTER16
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C16_TRG_ICHIBAN_GATE
+#. y1ps2.actor: w_1
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 16
+msgctxt "76_2_1"
+msgid "Wait a second."
+msgstr ""

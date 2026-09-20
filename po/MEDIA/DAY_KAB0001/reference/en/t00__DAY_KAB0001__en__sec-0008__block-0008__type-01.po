@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0001\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Source-SHA256: 7e980df37d15cd5c795c0c7462e60691392d0ca9cd5517c02e280df1a778f0e8\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0001.BIN\n"
+"X-Y1PS2-Talk-SHA256: 7e980df37d15cd5c795c0c7462e60691392d0ca9cd5517c02e280df1a778f0e8\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 8\n"
+"X-Y1PS2-Raw-Block-ID: 8\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0008\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 0800010470290000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0001|block=0008|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_33\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 8_0_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_0_0"
+msgid "Aniki,||you're going the wrong way!"
+msgstr ""
+
+#. y1ps2.full_id: 8_1_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_1_0"
+msgid "Don't leave me behind, Aniki!"
+msgstr ""
+
+#. y1ps2.full_id: 8_2_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_2_0"
+msgid "Let's go, Aniki.{PA:20}||Please follow me."
+msgstr ""
+
+#. y1ps2.full_id: 8_3_0
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_3_0"
+msgid "So, who are we supposed to||collect money from?"
+msgstr ""
+
+#. y1ps2.full_id: 8_3_1
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_3_1"
+msgid "A loan shark whose office is||right around here."
+msgstr ""
+
+#. y1ps2.full_id: 8_3_2
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_3_2"
+msgid "They used to borrow money||from other families..."
+msgstr ""
+
+#. y1ps2.full_id: 8_3_3
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_3_3"
+msgid "but they didn't even bother||paying the interest."
+msgstr ""
+
+#. y1ps2.full_id: 8_3_4
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_3_4"
+msgid "So, the families gave up dealing with him||and asked us to collect the debt for them."
+msgstr ""
+
+#. y1ps2.full_id: 8_3_5
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_3_5"
+msgid "I see...{PA:20}||So,{PA:10} how much are we collecting?"
+msgstr ""
+
+#. y1ps2.full_id: 8_3_6
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_3_6"
+msgid "200 million."
+msgstr ""
+
+#. y1ps2.full_id: 8_3_7
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_3_7"
+msgid "It was agreed upon that we get half||of the money, {PA:10}100 million profit."
+msgstr ""
+
+#. y1ps2.full_id: 8_3_8
+#. y1ps2.logical_line_key: DAY_KAB0001|block=0008|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_33
+#. y1ps2.pose: Idle
+msgctxt "8_3_8"
+msgid "Quite a business opportunity.{PA:20}||Okay... Let's roll."
+msgstr ""

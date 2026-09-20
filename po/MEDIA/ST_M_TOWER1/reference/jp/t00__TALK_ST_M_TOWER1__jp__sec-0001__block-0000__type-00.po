@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_M_TOWER1\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_M_TOWER1.ARC\n"
+"X-Y1PS2-Source-SHA256: ee3e728b123a0d8910d27614a09446e8455b474b541c9235f7d3db06fd5d06c6\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_M_TOWER1.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_M_TOWER1.ARC/0/8___TALK_ST_M_TOWER1.BIN\n"
+"X-Y1PS2-Talk-SHA256: 855e3a5a94e0142203e7d123f5c07acd2971a13294a8e37a7f9e2e09ac5168fd\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 1\n"
+"X-Y1PS2-Raw-Block-ID: 0\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0000\n"
+"X-Y1PS2-Section-Type: 0\n"
+"X-Y1PS2-Section-Raw-Bytes: 0000000888160100\n"
+"X-Y1PS2-Logical-Section-Key: ST_M_TOWER1|block=0000|type=00\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: \n"
+"X-Y1PS2-Actor: \n"
+"X-Y1PS2-Pose: \n"
+
+#. y1ps2.full_id: 1_0_0
+#. y1ps2.logical_line_key: ST_M_TOWER1|block=0000|type=00|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "1_0_0"
+msgid "０１２３４５６７８９＋－円万億￥﹐枚点"
+msgstr ""
+
+#. y1ps2.full_id: 1_1_0
+#. y1ps2.logical_line_key: ST_M_TOWER1|block=0000|type=00|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "1_1_0"
+msgid "経験値：{NU:00_08_00}𝟘𝟘𝟘𝟘𝟘𝟘𝟘𝟘"
+msgstr ""
+
+#. y1ps2.full_id: 1_2_0
+#. y1ps2.logical_line_key: ST_M_TOWER1|block=0000|type=00|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "1_2_0"
+msgid "回復剤を手に入れた。"
+msgstr ""
+
+#. y1ps2.full_id: 1_3_0
+#. y1ps2.logical_line_key: ST_M_TOWER1|block=0000|type=00|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "1_3_0"
+msgid "アイテムが一杯です。||アイテムボックスへ送ります。"
+msgstr ""
+
+#. y1ps2.full_id: 1_4_0
+#. y1ps2.logical_line_key: ST_M_TOWER1|block=0000|type=00|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "1_4_0"
+msgid "アイテムが一杯です。"
+msgstr ""
+
+#. y1ps2.full_id: 1_5_0
+#. y1ps2.logical_line_key: ST_M_TOWER1|block=0000|type=00|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "1_5_0"
+msgid "ミレニアムタワーＢ１Ｆ"
+msgstr ""
+
+#. y1ps2.full_id: 1_6_0
+#. y1ps2.logical_line_key: ST_M_TOWER1|block=0000|type=00|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "1_6_0"
+msgid "ミレニアムタワー１Ｆ"
+msgstr ""
+
+#. y1ps2.full_id: 1_7_0
+#. y1ps2.logical_line_key: ST_M_TOWER1|block=0000|type=00|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: 
+#. y1ps2.actor: 
+#. y1ps2.pose: 
+msgctxt "1_7_0"
+msgid "ミレニアムタワー２Ｆ"
+msgstr ""

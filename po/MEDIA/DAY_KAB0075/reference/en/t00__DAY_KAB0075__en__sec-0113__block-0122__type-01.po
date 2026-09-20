@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0075\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0075.BIN\n"
+"X-Y1PS2-Source-SHA256: 837c6f46fd359ba93b87f12473d37117bfd7582f05dd394f8dfc61a444621616\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0075.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0075.BIN\n"
+"X-Y1PS2-Talk-SHA256: 837c6f46fd359ba93b87f12473d37117bfd7582f05dd394f8dfc61a444621616\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 113\n"
+"X-Y1PS2-Raw-Block-ID: 122\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x007A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 7a00010700370000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0075|block=0122|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: str_b_Msh_b\n"
+"X-Y1PS2-Actor: str_b_Msh_b\n"
+"X-Y1PS2-Pose: Smoking01\n"
+
+#. y1ps2.full_id: 113_0_0
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_0_0"
+msgid "Which would you bet on for the third race,||3-7 or 3-8?"
+msgstr ""
+
+#. y1ps2.full_id: 113_0_1
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_0_1"
+msgid "I'd bet on 3-7."
+msgstr ""
+
+#. y1ps2.full_id: 113_0_2
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_0_2"
+msgid "Yeah,{PA:10} it's gotta be 3-7.{PA:20}||Alright.{PA:10} I'll bet on 3-7."
+msgstr ""
+
+#. y1ps2.full_id: 113_0_4
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_0_4"
+msgid "I'd bet on 3-8."
+msgstr ""
+
+#. y1ps2.full_id: 113_0_5
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_0_5"
+msgid "Yeah,{PA:10} it's gotta be 3-8.{PA:20}||Alright.{PA:10} I'll bet on 3-8."
+msgstr ""
+
+#. y1ps2.full_id: 113_0_7
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_0_7"
+msgid "Horse racing, huh?{PA:20}||I don't know much about that."
+msgstr ""
+
+#. y1ps2.full_id: 113_0_8
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_0_8"
+msgid "Oh,{PA:10} sorry to have bothered you then."
+msgstr ""
+
+#. y1ps2.full_id: 113_1_0
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_1_0"
+msgid "It's 3-7!!{PA:10} It was an unexpected win!{PA:20}||Here.{PA:10} This is your share."
+msgstr ""
+
+#. y1ps2.full_id: 113_1_1
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_1_1"
+msgid "You received 200,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 113_1_2
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_1_2"
+msgid "You gained 500 exp."
+msgstr ""
+
+#. y1ps2.full_id: 113_1_3
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_1_3"
+msgid "Thank you."
+msgstr ""
+
+#. y1ps2.full_id: 113_2_0
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_2_0"
+msgid "Hey! You!"
+msgstr ""
+
+#. y1ps2.full_id: 113_3_0
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_3_0"
+msgid "3-8!!{PA:10} You missed the mark completely!!{PA:10}||{MS:3}{MS:2}{MS:1}{MS:0}You bastard!!!{PA:10} You're dead meat!"
+msgstr ""
+
+#. y1ps2.full_id: 113_4_0
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_4_0"
+msgid "Haa haa...{PA:10}||I think I'm gonna give up gambling......"
+msgstr ""
+
+#. y1ps2.full_id: 113_4_1
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_4_1"
+msgid "You gained 500 exp."
+msgstr ""
+
+#. y1ps2.full_id: 113_5_0
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_5_0"
+msgid "Hey! You!"
+msgstr ""
+
+#. y1ps2.full_id: 113_6_0
+#. y1ps2.logical_line_key: DAY_KAB0075|block=0122|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: str_b_Msh_b
+#. y1ps2.actor: str_b_Msh_b
+#. y1ps2.pose: Smoking01
+msgctxt "113_6_0"
+msgid "3-7 or 3-8...||That's the question."
+msgstr ""

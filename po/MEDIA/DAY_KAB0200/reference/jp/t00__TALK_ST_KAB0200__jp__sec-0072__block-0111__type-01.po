@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0200\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0200.ARC\n"
+"X-Y1PS2-Source-SHA256: 6ea7c8d7d86a5978c7793c256fec6d21e26a03cb715e0e09fb3d37c0157f2963\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0200.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0200.ARC/0/8___TALK_ST_KAB0200.BIN\n"
+"X-Y1PS2-Talk-SHA256: b184badc669a3dcc2f9a492348010790596ab528067990b877aaf1b9d5fd1259\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 72\n"
+"X-Y1PS2-Raw-Block-ID: 111\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x006F\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6f000102e0d10200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0200|block=0111|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: battlemaster\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Stand01\n"
+
+#. y1ps2.full_id: 72_0_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0111|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "72_0_0"
+msgid "うーむ、{PA:10}まだまだじゃな。{PA:20}||どうじゃ、{PA:10}もう一度やるか？"
+msgstr ""
+
+#. y1ps2.full_id: 72_0_2
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0111|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "72_0_2"
+msgid "{CU:ffffff}ふむ。{PA:10}ゆっくり休む事も進歩に必要じゃ。{PA:20}||修行する決心が付いたら、{PA:10}また来るが良い。"
+msgstr ""
+
+#. y1ps2.full_id: 72_1_0
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0111|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "72_1_0"
+msgid "うむ、{PA:10}{MS:0}見事！➿{PA:20}{MS:1}文句なしじゃ！{PA:20}||これにて、{PA:10}この技は修了じゃ！"
+msgstr ""
+
+#. y1ps2.full_id: 72_1_1
+#. y1ps2.logical_line_key: DAY_KAB0200|block=0111|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: battlemaster
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Stand01
+msgctxt "72_1_1"
+msgid "避けているだけではラチがあかん敵に{PA:10}||この一擊をお見舞いしてやれ！"
+msgstr ""

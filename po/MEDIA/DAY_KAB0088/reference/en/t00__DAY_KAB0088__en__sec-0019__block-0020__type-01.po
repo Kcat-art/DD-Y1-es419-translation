@@ -1,0 +1,2480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0088\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0088.BIN\n"
+"X-Y1PS2-Source-SHA256: 795b430f8ef882157991012cf9635bf9a8102420c860332e082762079e87e7cb\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0088.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0088.BIN\n"
+"X-Y1PS2-Talk-SHA256: 795b430f8ef882157991012cf9635bf9a8102420c860332e082762079e87e7cb\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 19\n"
+"X-Y1PS2-Raw-Block-ID: 20\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0014\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 1400010a00260000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0088|block=0020|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: CELLULAR\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: cellular\n"
+"X-Y1PS2-Actor: w_29\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 19_0_1
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_1"
+msgid "Welcome.||Are you ready to order,{PA:10} sir?"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_4
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_4"
+msgid "Sir,{PA:10} you seem pretty drunk.{PA:20}||Maybe you should take it easy."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_5
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_5"
+msgid "How about another drink,{PA:10} sir?"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_6
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_6"
+msgid "...I see.{PA:20}||Come again anytime."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_9
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_9"
+msgid "Bowmore 40 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_10
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_10"
+msgid "A vintage scotch from the Bowmore||distillery, which is very famous for"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_11
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_11"
+msgid "its Islay malt."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_12
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_12"
+msgid "Just having a bottle of this fine scotch||is a great honour."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_13
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_13"
+msgid "It is often called the \"Queen\"||of Islay malt."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_14
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_14"
+msgid "It has a mixed fruit bouquet and an||aftertaste that changes several times."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_15
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_15"
+msgid "This is a very pricey scotch, {PA:10}but||any connoisseur should have at least"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_16
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_16"
+msgid "one taste in their lifetime."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_17
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_17"
+msgid "As a matter of fact,{PA:10}||I haven't even tasted it yet..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_21
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_21"
+msgid "Yamazaki 12 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_22
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_22"
+msgid "This is a very fine whisky."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_23
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_23"
+msgid "This whisky made its debut in 1984||as the first Japanese pure malt whisky."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_24
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_24"
+msgid "It was made to commemorate"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_25
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_25"
+msgid "the 60th anniversary of the Yamazaki||distillery, where the first Japanese whisky"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_26
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_26"
+msgid "was created."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_27
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=27
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_27"
+msgid "You can say that this represents Yamazaki."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_28
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=28
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_28"
+msgid "As for the taste,{PA:10} it has a mellow yet||powerful flavour characteristic of Yamazaki."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_29
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_29"
+msgid "It has earned quite a reputation||overseas as well as domestically."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_33
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=33
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_33"
+msgid "Hakushu 10 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_34
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=34
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_34"
+msgid "Your standard Japanese whisky."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_35
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=35
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_35"
+msgid "It's created in the Hakushu distillery||in Komagadake, which is in the Japanese Alps."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_36
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=36
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_36"
+msgid "The water from that region is very pure."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_37
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=37
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_37"
+msgid "Personally, I like drinking Hakushu 10 years"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_38
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=38
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_38"
+msgid "while eating a little tofu..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_39
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=39
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_39"
+msgid "Anyways,{PA:10} I recommend Japanese side||dishes to accompany this fine drink."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_43
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=43
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_43"
+msgid "The Macallan 12 Years... This is||the standard grade for the Macallan."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_44
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=44
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_44"
+msgid "The alcohol content was changed from||43% Alc./Vol. to 40% Alc./Vol. last year."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_45
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=45
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_45"
+msgid "Even though it's the standard grade for the||Macallan, it is still of very high quality."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_46
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=46
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_46"
+msgid "This luxurious Scotch has a wonderful taste.||It has a sweet honey-like flavour"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_47
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=47
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_47"
+msgid "and a comfortable aftertaste.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_48
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=48
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_48"
+msgid "This is the kind of single malt Scotch||that sets the standard."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_52
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=52
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_52"
+msgid "Laphroaig 15 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_53
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=53
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_53"
+msgid "A powerful whisky that has||a thick, smoky flavour."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_54
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=54
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 54
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_54"
+msgid "It's relatively milder than||the standard 10 years old one."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_55
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=55
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_55"
+msgid "However, its flavour is very unique;||people either love it, or hate it."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_56
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=56
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_56"
+msgid "Lovers of this fine whisky can||never resist its temptation."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_60
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=60
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 60
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_60"
+msgid "Bowmore 12 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_61
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=61
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 61
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_61"
+msgid "It's famous for its sherry barrel flavour.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_62
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=62
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 62
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_62"
+msgid "One of the most famous 12-year-old||single malt Scotches."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_63
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=63
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 63
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_63"
+msgid "Once you try it,{PA:20}||you'll want more and more."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_64
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=64
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 64
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_64"
+msgid "Bowmore is Gaelic for \"big reef\"."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_68
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=68
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 68
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_68"
+msgid "Glenfiddich 12 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_69
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=69
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 69
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_69"
+msgid "The best selling single malt Scotch||in the world."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_70
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=70
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 70
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_70"
+msgid "It has a mature fruity flavour and a mild||aftertaste, {PA:10}Making it very easy to drink."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_71
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=71
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 71
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_71"
+msgid "Supposedly the triangle-shaped bottle design||is to prevent it from being knocked over"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_72
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=72
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 72
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_72"
+msgid "by drunks."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_73
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=73
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 73
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_73"
+msgid "I think it's just a rumour, but||it's pretty funny, nevertheless."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_77
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=77
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 77
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_77"
+msgid "NAZO 2003..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_78
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=78
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 78
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_78"
+msgid "Suntory has been holding a blend contest||every year since 2000 for mystery writers."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_79
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=79
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 79
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_79"
+msgid "The winner of the contest in 2003 was||Seishu Hase and this blend,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_80
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=80
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 80
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_80"
+msgid "\"Kaori-no-Blend\" was made."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_81
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=81
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 81
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_81"
+msgid "With the aroma of the forests of||Hakushu in mind,"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_82
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=82
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 82
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_82"
+msgid "Mr. Hase created this blend using 10 kinds||of malts and grains, all over 15 years old."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_83
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=83
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 83
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_83"
+msgid "Needless to say,{PA:10} the taste is superb."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_87
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=87
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 87
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_87"
+msgid "Ballantine's 17 Years Old..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_88
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=88
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 88
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_88"
+msgid "It's a top-notch blended scotch with 40||kinds of single malts incorporated in it."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_89
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=89
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 89
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_89"
+msgid "It is referred to as \"The Scotch\",{PA:10}||and is favored worldwide."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_90
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=90
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 90
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_90"
+msgid "It's a notable scotch that can truly be||called the ultimate blend."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_94
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=94
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 94
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_94"
+msgid "Ballantine's Finest..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_95
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=95
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 95
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_95"
+msgid "A standard Scotch||blended with 40 different single malts."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_96
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=96
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 96
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_96"
+msgid "Not too heavy, not too light,{PA:10}||it has a very well-balanced taste."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_97
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=97
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 97
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_97"
+msgid "You can say that it's a best seller||among standard Scotches."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_101
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=101
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 101
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_101"
+msgid "Jack Daniel's..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_102
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=102
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 102
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_102"
+msgid "Your standard American whisky.{PA:20}||Same recipe as the old days."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_103
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=103
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 103
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_103"
+msgid "Jack Daniel's is actually a type of||Tennessee whisky."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_104
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=104
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 104
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_104"
+msgid "So it's in a different class than bourbon."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_108
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=108
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 108
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_108"
+msgid "Early Times..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_109
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=109
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 109
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_109"
+msgid "A world renown bourbon."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_110
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=110
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 110
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_110"
+msgid "It has the unique American edge and||a gorgeous flavour."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_111
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=111
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 111
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_111"
+msgid "It's very reasonably priced and||quite enjoyable."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_115
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=115
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 115
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_115"
+msgid "Courvoisier XO"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_116
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=116
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 116
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_116"
+msgid "This cognac brandy is called \"Napoleon\",||because it was much beloved"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_117
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=117
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 117
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_117"
+msgid "by Napoleon himself."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_118
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=118
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 118
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_118"
+msgid "XO is one of the most||expensive Courvoisiers."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_119
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=119
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 119
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_119"
+msgid "It is very rich in flavour but has a soft,{PA:10}||pleasant taste. I highly recommend it."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_123
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=123
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 123
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_123"
+msgid "Suntory Malt's Beer..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_124
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=124
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 124
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_124"
+msgid "A draft beer put out by Suntory."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_125
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=125
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 125
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_125"
+msgid "The makers of this brew focus not only on||the quality of the materials like hops but"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_126
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=126
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 126
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_126"
+msgid "the quality of water as well.||4 types of natural spring water"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_127
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=127
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 127
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_127"
+msgid "have been carefully selected for||the crafting of this beer."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_128
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=128
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 128
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_128"
+msgid "No other draft beers can beat||the aftertaste of Suntory Malt's."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_132
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=132
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 132
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_132"
+msgid "Carlsberg..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_133
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=133
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 133
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_133"
+msgid "Originally created in Denmark, {PA:10}it is||savoured in over 140 countries, worldwide."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_134
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=134
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 134
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_134"
+msgid "It has a fresh flavour,||which is characteristic of draft beers."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_135
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=135
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 135
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_135"
+msgid "It's a very easy-to-drink beer."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_139
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=139
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 139
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_139"
+msgid "Lemon Hart Demerara..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_140
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=140
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 140
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_140"
+msgid "A very strong spirit with 75.5% Alc./Vol."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_141
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=141
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 141
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_141"
+msgid "Characterized by its rich gorgeous flavour||and sophisticated sweetness,"
+msgstr ""
+
+#. y1ps2.full_id: 19_0_142
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=142
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 142
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_142"
+msgid "It has a very elegant taste."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_146
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=146
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 146
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_146"
+msgid "Herradura Tequila Silver..."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_147
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=147
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 147
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_147"
+msgid "A wonderful tequila."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_148
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=148
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 148
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_148"
+msgid "One of the best silver tequilas around."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_149
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=149
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 149
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_149"
+msgid "It's very popular for its clean flavour||and mild taste."
+msgstr ""
+
+#. y1ps2.full_id: 19_0_150
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=0|sg=150
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 150
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_0_150"
+msgid "True connoisseurs enjoy its flavour||by drinking it straight."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_0
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_0"
+msgid "Well,{PA:10} there is a customer||who hasn't paid off any of his tab..."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_1
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_1"
+msgid "So my wife's giving me a lot of shit..."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_2
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_2"
+msgid "It'd be satisfied||if I got even half of the amount."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_3
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_3"
+msgid "You know, the customer's a Yakuza."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_4
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_4"
+msgid "I see."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_5
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_5"
+msgid "Really?!{PA:10} You really mean it?"
+msgstr ""
+
+#. y1ps2.full_id: 19_1_6
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_6"
+msgid "That's very reassuring.{MS:1}{MS:0}{PA:20}||Then, please take this."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_7
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_7"
+msgid "You received the \"{CC:ffc8c8}Tab{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_8
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_8"
+msgid "Please give the tab to the Yakuza||and collect the money from him."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_9
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_9"
+msgid "I'll give you half of the money."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_10
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_10"
+msgid "Where's the Yakuza?"
+msgstr ""
+
+#. y1ps2.full_id: 19_1_11
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_11"
+msgid "I heard that he frequents a casino||somewhere...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 19_1_12
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_12"
+msgid "I don't know where it is exactly..."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_13
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_13"
+msgid "You'll know||when you see him in the casino."
+msgstr ""
+
+#. y1ps2.full_id: 19_1_14
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_1_14"
+msgid "Yeah,{PA:10} well...{PA:20} What should I do||about it?{PA:20} I don't know what to do..."
+msgstr ""
+
+#. y1ps2.full_id: 19_2_0
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_0"
+msgid "About the Yakuza who refuses to pay his||tab... What the hell should I do about him?"
+msgstr ""
+
+#. y1ps2.full_id: 19_2_1
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_1"
+msgid "Really?!{PA:10} You really mean it?"
+msgstr ""
+
+#. y1ps2.full_id: 19_2_2
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_2"
+msgid "That's very reassuring.{MS:1}{MS:0}{PA:20}||Then, please take this."
+msgstr ""
+
+#. y1ps2.full_id: 19_2_3
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_3"
+msgid "You received the \"{CC:ffc8c8}Tab{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 19_2_4
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_4"
+msgid "Please give the tab to the Yakuza||and collect the money from him."
+msgstr ""
+
+#. y1ps2.full_id: 19_2_5
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_5"
+msgid "I'll give you half of the money."
+msgstr ""
+
+#. y1ps2.full_id: 19_2_6
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_6"
+msgid "Where's the Yakuza?"
+msgstr ""
+
+#. y1ps2.full_id: 19_2_7
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_7"
+msgid "I heard that he frequents a casino||somewhere...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 19_2_8
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_8"
+msgid "I don't know where it is exactly..."
+msgstr ""
+
+#. y1ps2.full_id: 19_2_9
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_9"
+msgid "But he always wears a distinct green suit.{MS:0}{PA:20}||You'll know when you see him in the casino."
+msgstr ""
+
+#. y1ps2.full_id: 19_2_10
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_2_10"
+msgid "Yeah, {PA:10}well...{PA:20} What should I do||about it? I don't know what to do..."
+msgstr ""
+
+#. y1ps2.full_id: 19_3_0
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_3_0"
+msgid "There's a Yakuza||who wears a distinct green suit in a casino."
+msgstr ""
+
+#. y1ps2.full_id: 19_3_1
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_3_1"
+msgid "Please give him the tab||and collect the money from him."
+msgstr ""
+
+#. y1ps2.full_id: 19_3_2
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_3_2"
+msgid "I'm counting on you, man!"
+msgstr ""
+
+#. y1ps2.full_id: 19_4_0
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_4_0"
+msgid "Wow!{PA:10} Thank you for||collecting the tab...{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 19_4_1
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_4_1"
+msgid "This is a token of my appreciation.{PA:20}||Please take it."
+msgstr ""
+
+#. y1ps2.full_id: 19_4_2
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_4_2"
+msgid "You received 50,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 19_4_3
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_4_3"
+msgid "You gained 1,000 exp."
+msgstr ""
+
+#. y1ps2.full_id: 19_4_4
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=4|sg=4
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_4_4"
+msgid "Thank you very much.{PA:20}||Come by anytime."
+msgstr ""
+
+#. y1ps2.full_id: 19_5_0
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_5_0"
+msgid "Thank you very much.{PA:20}||Come by anytime."
+msgstr ""
+
+#. y1ps2.full_id: 19_6_0
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_6_0"
+msgid "What should I do...||What should I do..."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_0
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_0"
+msgid "Welcome."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_1
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_1"
+msgid "Is Shotaro here?"
+msgstr ""
+
+#. y1ps2.full_id: 19_8_2
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=2
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_2"
+msgid "Are you an acquaintance?"
+msgstr ""
+
+#. y1ps2.full_id: 19_8_3
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=3
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_3"
+msgid "Really...{PA:20} Are you gonna order something?"
+msgstr ""
+
+#. y1ps2.full_id: 19_8_4
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=4
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_4"
+msgid "...Well,{PA:10} I'll give you a little quiz.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 19_8_5
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=5
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_5"
+msgid "Try to guess which drink is||the most expensive in here."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_6
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=6
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_6"
+msgid "Humph.{PA:20}||Piss off."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_7
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=7
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_7"
+msgid "Well, if it's none of my business,{PA:10}||I guess I won't tell you then."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_8
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=8
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_8"
+msgid "You better watch what you say to me.{PA:20}||I got nothing more to say to you."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_9
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=9
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_9"
+msgid "Humph,{PA:10} it's pretty obvious, isn't it?{PA:20}||It's Bowmore 40 Years."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_10
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=10
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_10"
+msgid "That was an easy question.{PA:20}||I gave you that one."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_11
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=11
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_11"
+msgid "It's pretty premium spirit. {PA:10}There may||be only one bottle in this entire city."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_12
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=12
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_12"
+msgid "I've never even had it before."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_13
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=13
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_13"
+msgid "I like you.{PA:10} I'll tell you about Shotaro."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_14
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=14
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_14"
+msgid "Shotaro doesn't work here anymore."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_15
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=15
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_15"
+msgid "He quit about 3 months ago and started||working at a host bar called {MS:0}\"{CC:ffc8c8}Stardust{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 19_8_16
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=16
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_16"
+msgid "He said he wanted to become the number one||host in this town.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 19_8_17
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=8|sg=17
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_8_17"
+msgid "He goes by the name Shota there."
+msgstr ""
+
+#. y1ps2.full_id: 19_9_0
+#. y1ps2.logical_line_key: DAY_KAB0088|block=0020|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: CELLULAR
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: cellular
+#. y1ps2.actor: w_29
+#. y1ps2.pose: Idle
+msgctxt "19_9_0"
+msgid "Shotaro works at a place called Stardust||now. {PA:20}Shota is his host name."
+msgstr ""

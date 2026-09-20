@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0089\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0089.BIN\n"
+"X-Y1PS2-Source-SHA256: 182a175cd58d6e205c14e2f4a30ed71faefa733587f39fbedb8e12816f6d4663\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0089.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0089.BIN\n"
+"X-Y1PS2-Talk-SHA256: 182a175cd58d6e205c14e2f4a30ed71faefa733587f39fbedb8e12816f6d4663\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 97\n"
+"X-Y1PS2-Raw-Block-ID: 98\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0062\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 6200010338310000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0089|block=0098|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_18\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 97_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0089|block=0098|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_18
+#. y1ps2.pose: Idle
+msgctxt "97_0_0"
+msgid "You can't enter from here."
+msgstr ""
+
+#. y1ps2.full_id: 97_2_0
+#. y1ps2.logical_line_key: RAIN_KAB0089|block=0098|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_18
+#. y1ps2.pose: Idle
+msgctxt "97_2_0"
+msgid "You can't enter from here."
+msgstr ""

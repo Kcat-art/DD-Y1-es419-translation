@@ -1,0 +1,752 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0047\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0047.ARC\n"
+"X-Y1PS2-Source-SHA256: 9099f0e15e14df584eff48e5c3eec9ccdc3b0efe780c9951df92ba45ce6d5d23\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0047.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0047.ARC/0/8___TALK_ST_KAB0047.BIN\n"
+"X-Y1PS2-Talk-SHA256: 846b3ba238468727af5f5229b81018237903891c6ad3b4830fe29baecf55c484\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 100\n"
+"X-Y1PS2-Raw-Block-ID: 101\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0065\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 650001046c3c0200\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0047|block=0101|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_warashibe_salaly_no\n"
+"X-Y1PS2-Actor: w_6\n"
+"X-Y1PS2-Pose: lp_damaage\n"
+
+#. y1ps2.full_id: 100_0_0
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_0"
+msgid "{CU:c8c8ff}どうかしたのか？"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_1
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_1"
+msgid "{CU:ffffff}なんでもありません⋯。{PA:20}||放っておいてください。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_2
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_2"
+msgid "もう私、{PA:10}首つるしかないんですから⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_3
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_3"
+msgid "{CU:c8c8ff}なら勝手にしろ。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_4
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_4"
+msgid "{CU:ffffff}優しさも人情もないこんな世の中⋯。{PA:20}||思えば未練なんてない。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_5
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_5"
+msgid "やっぱり首をつるしかないんだ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_6
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_6"
+msgid "{CU:c8c8ff}いいから話してみろ。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_7
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_7"
+msgid "{CU:ffffff}ええ⋯➿{PA:20}実は会社の超機密書類を||なくしてしまったんです。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_8
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_8"
+msgid "大事にアタッシュケースに||入れていたんですが⋯"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_9
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_9"
+msgid "緊張しすぎていて、{PA:10}一体いつから持って||なかったのかも記憶にない有様で⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_10
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_10"
+msgid "{CU:c8c8ff}首をつるほどのことか？"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_11
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_11"
+msgid "{CU:ffffff}サラリーマンにしかわからん話です。{PA:20}||あなたにはきっと分からんでしょうね⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_12
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_12"
+msgid "何か渡しますか？"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_14
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_14"
+msgid "{CU:ffffff}はは⋯。{PA:20}||慰めてくれてるんですか？"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_15
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_15"
+msgid "私が今欲しいのは失くした書類だけ。{PA:20}||下手な同情はやめてください⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_16
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_16"
+msgid "{CU:ffffff}はは⋯。{PA:20}||下手な同情はやめてください⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_17
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_17"
+msgid "{CU:c8c8ff}（何も持っていない⋯）"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_18
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_18"
+msgid "{CU:ffffff}そ、{PA:10}そのアタッシュケースは！？{PA:10}||私のだ！➿{PA:10}私のアタッシュケースだ！"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_19
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_19"
+msgid "この野郎⋯➿{PA:10}よくも盜みやがったな！"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_20
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_20"
+msgid "{CU:c8c8ff}なに？"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_21
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_21"
+msgid "{CU:ffffff}問答無用だ！{PA:10}||サラリーマンなめやがって⋯"
+msgstr ""
+
+#. y1ps2.full_id: 100_0_22
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_0_22"
+msgid "ぶっ殺してやる！"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_0
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_0"
+msgid "もう破滅だ⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_1
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_1"
+msgid "あのアタッシュケースが戻らない限り||私は首をつるしかないんだ⋯！"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_2
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_2"
+msgid "何か渡しますか？"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_4
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_4"
+msgid "{CU:ffffff}はは⋯。{PA:20}||慰めてくれてるんですか？"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_5
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_5"
+msgid "私が今欲しいのは失くした書類だけ。{PA:20}||下手な同情はやめてください⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_6
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_6"
+msgid "{CU:ffffff}はは⋯。{PA:20}||下手な同情はやめてください⋯。"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_7
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_7"
+msgid "{CU:c8c8ff}（何も持っていない⋯）"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_8
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_8"
+msgid "{CU:ffffff}そ、{PA:10}そのアタッシュケースは！？{PA:10}||私のだ！➿{PA:10}私のアタッシュケースだ！"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_9
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_9"
+msgid "この野郎⋯➿{PA:10}よくも盜みやがったな！"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_10
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_10"
+msgid "{CU:c8c8ff}なに？"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_11
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_11"
+msgid "{CU:ffffff}問答無用だ！{PA:10}||サラリーマンなめやがって⋯"
+msgstr ""
+
+#. y1ps2.full_id: 100_1_12
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_1_12"
+msgid "ぶっ殺してやる！"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_0
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_0"
+msgid "あ⋯➿{PA:10}あ⋯➿{PA:10}返せ！{PA:10}||アタッシュケースを返してくれ！"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_1
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_1"
+msgid "{CU:c8c8ff}さっき渡そうとしたろうが！"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_2
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_2"
+msgid "{CU:ffffff}そ、{PA:10}そうだったんですか？{PA:10}||それじゃ⋯➿{PA:10}早く返してください！"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_3
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_3"
+msgid "➿➿➿「{CC:ffc8c8}銀のアタッシュケース{CR:00}」を渡した"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_4
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_4"
+msgid "{CU:ffffff}よかった⋯！{MS:0}{PA:10}||本当によかった！"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_5
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_5"
+msgid "あなたは私の命の恩人です。"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_6
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_6"
+msgid "そうだ⋯➿{PA:10}これを！"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_7
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_7"
+msgid "➿➿べっこうの皿を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_9
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_9"
+msgid "➿➿経験値➿５００➿を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 100_2_10
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_2_10"
+msgid "こんなものしか差し上げられませんが||お役にたててください。"
+msgstr ""
+
+#. y1ps2.full_id: 100_3_0
+#. y1ps2.logical_line_key: DAY_KAB0047|block=0101|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_warashibe_salaly_no
+#. y1ps2.actor: w_6
+#. y1ps2.pose: lp_damaage
+msgctxt "100_3_0"
+msgid "ああ⋯➿俺はもうおしまいだ⋯！"
+msgstr ""

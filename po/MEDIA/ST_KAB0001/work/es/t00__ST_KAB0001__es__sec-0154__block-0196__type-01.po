@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0001\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0001.BIN\n"
+"X-Y1PS2-Source-SHA256: 7267a3f0eda6105bc3389f3f510d2d9a52118911d8e339930722b0351cedd8bf\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0001.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0001.BIN\n"
+"X-Y1PS2-Talk-SHA256: 7267a3f0eda6105bc3389f3f510d2d9a52118911d8e339930722b0351cedd8bf\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 154\n"
+"X-Y1PS2-Raw-Block-ID: 196\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00C4\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: c4000103c44f0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0001|block=0196|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0001/reference/jp/t00__TALK_ST_KAB0001__jp__sec-0154__block-0196__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0001/reference/en/t00__ST_KAB0001__en__sec-0154__block-0196__type-01.po\n"
+
+#. y1ps2.full_id: 154_0_0
+#. y1ps2.logical_line_key: ST_KAB0001|block=0196|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "154_0_0"
+msgid "¿Cuál es tu maldito problema?{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 154_0_1
+#. y1ps2.logical_line_key: ST_KAB0001|block=0196|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "154_0_1"
+msgid "¿Es que ésta es una carretera sólo||para gánsters o qué?"
+msgstr ""
+
+#. y1ps2.full_id: 154_0_2
+#. y1ps2.logical_line_key: ST_KAB0001|block=0196|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "154_0_2"
+msgid "¿Eh? {PA:20}Vosotros los||Yakuza os creéis todos tan...{PA:20} iHic!"
+msgstr ""
+
+#. y1ps2.full_id: 154_0_3
+#. y1ps2.logical_line_key: ST_KAB0001|block=0196|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "154_0_3"
+msgid "Estáis muy ciegos."
+msgstr ""
+
+#. y1ps2.full_id: 154_0_4
+#. y1ps2.logical_line_key: ST_KAB0001|block=0196|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "154_0_4"
+msgid "¿Emm? {PA:20}¿Te crees muy chulito?{PA:20}||iPuto Yakuza de mierda!"
+msgstr ""
+
+#. y1ps2.full_id: 154_1_0
+#. y1ps2.logical_line_key: ST_KAB0001|block=0196|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Idle
+msgctxt "154_1_0"
+msgid "iGuau, guau!"
+msgstr ""

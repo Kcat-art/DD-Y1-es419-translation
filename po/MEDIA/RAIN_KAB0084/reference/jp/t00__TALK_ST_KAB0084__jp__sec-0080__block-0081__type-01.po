@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0084\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0084.ARC\n"
+"X-Y1PS2-Source-SHA256: d233f98b12ba80de1c4a8d6d1aa4b8f7f0ca570756978e84b58624ebd00ce477\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0084.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0084.ARC/0/8___TALK_ST_KAB0084.BIN\n"
+"X-Y1PS2-Talk-SHA256: 8c7a089c3d4cb319685862bdf75fba909f631bf566713251a098b8b3cbcfa29e\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 80\n"
+"X-Y1PS2-Raw-Block-ID: 81\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0051\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 51000105a8dd0100\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0084|block=0081|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: host_suit_long0\n"
+"X-Y1PS2-Actor: w_1048655\n"
+"X-Y1PS2-Pose: Stand05\n"
+
+#. y1ps2.full_id: 80_3_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0081|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048655
+#. y1ps2.pose: Stand05
+msgctxt "80_3_0"
+msgid "{CU:c8c8ff}一輝はいるか？"
+msgstr ""
+
+#. y1ps2.full_id: 80_3_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0081|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048655
+#. y1ps2.pose: Stand05
+msgctxt "80_3_1"
+msgid "{CU:ffffff}あ、{PA:10}桐生さん！➿{PA:10}お久しぶりです。"
+msgstr ""
+
+#. y1ps2.full_id: 80_3_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0081|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048655
+#. y1ps2.pose: Stand05
+msgctxt "80_3_2"
+msgid "ちょっと今、オーナー出かけちゃってんですよ。||{SP:10}多分一時間位したら戻ってくると思いますよ。"
+msgstr ""
+
+#. y1ps2.full_id: 80_4_0
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0081|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048655
+#. y1ps2.pose: Stand05
+msgctxt "80_4_0"
+msgid "沙耶ちゃんのお父さん{PA:10}||凄かったですね。"
+msgstr ""
+
+#. y1ps2.full_id: 80_4_1
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0081|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048655
+#. y1ps2.pose: Stand05
+msgctxt "80_4_1"
+msgid "{CU:c8c8ff}あぁ。"
+msgstr ""
+
+#. y1ps2.full_id: 80_4_2
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0081|type=01|mg=4|sg=2
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048655
+#. y1ps2.pose: Stand05
+msgctxt "80_4_2"
+msgid "{CU:ffffff}⋯田舎の親父のコト{PA:10}||思い出しましたよ。"
+msgstr ""
+
+#. y1ps2.full_id: 80_4_3
+#. y1ps2.logical_line_key: RAIN_KAB0084|block=0081|type=01|mg=4|sg=3
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: host_suit_long0
+#. y1ps2.actor: w_1048655
+#. y1ps2.pose: Stand05
+msgctxt "80_4_3"
+msgid "今頃なにしてんのかなぁ。"
+msgstr ""

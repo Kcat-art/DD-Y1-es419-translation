@@ -1,0 +1,865 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0086\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0086.BIN\n"
+"X-Y1PS2-Source-SHA256: 7369749730da76b37171f0a481043ee20011a5a874fd94c01a710f34304cf2bb\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0086.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0086.BIN\n"
+"X-Y1PS2-Talk-SHA256: 7369749730da76b37171f0a481043ee20011a5a874fd94c01a710f34304cf2bb\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 43\n"
+"X-Y1PS2-Raw-Block-ID: 55\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0037\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 37000103d8340000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0086|block=0055|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: jack_B_M64\n"
+"X-Y1PS2-Actor: w_11\n"
+"X-Y1PS2-Pose: cus_wait_table_01\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0086/reference/en/t00__ST_KAB0086__en__sec-0043__block-0055__type-01.po\n"
+
+#. y1ps2.full_id: 43_0_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_0"
+msgid "i¿Oh, Kazuma-san?!||Así que conoces este casino después de todo."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_1"
+msgid "Bueno, sí. ¿Cómo lo conoces tú, Yuzu?"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_2
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_2"
+msgid "Una chica de nuestro bar me habló de él."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_3
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_3"
+msgid "Y había jugado aquí sola antes..."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_4
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_4"
+msgid "Pero siempre pierdo...||Tengo ganas de llorar..."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_5
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_5"
+msgid "¿Cuánto has perdido?"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_6
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_6"
+msgid "Um... Unos 200.000 yenes..."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_7
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_7"
+msgid "Ya veo."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_8
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_8"
+msgid "Kazuma-san, iestoy tan frustrada!"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_9
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_9"
+msgid "iNo quiero volver a casa hasta||que me recupere!"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_10
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_10"
+msgid "Oh, ya veo."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_11
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_11"
+msgid "¿Darle 200.000 yenes?"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_13
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_13"
+msgid "¿Qué...? i¿Estás seguro?!"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_14
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_14"
+msgid "No puedo aceptarlo..."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_15
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_15"
+msgid "No te preocupes.||Deberías volver a intentarlo con ese dinero."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_16
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_16"
+msgid "Sólo hay un método||para ganar en un casino."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_17
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_17"
+msgid "¿Método?"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_18
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_18"
+msgid "Es no rendirte hasta que ganes."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_19
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_19"
+msgid "Jeejee...||Eso no funciona, ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_20
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_20"
+msgid "No obstante, gracias."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_21
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_21"
+msgid "Oh, por favor, toma esto..."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_22
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_22"
+msgid "iHas recibido la \"Espada Tesshusai Grabada\"!"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_24
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_24"
+msgid "¿Qué es esto?"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_25
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_25"
+msgid "Un tipo extraño me lo dio durante||mi racha perdedora."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_26
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_26"
+msgid "Me dijo que es una espada muy cara,||pero no sé qué la hace tan especial..."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_27
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=27
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_27"
+msgid "Por favor, utilízala si te sirve de ayuda..."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_28
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=28
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_28"
+msgid "Ya veo. Muchas gracias."
+msgstr ""
+
+#. y1ps2.full_id: 43_0_29
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_29"
+msgid "De nada.❤"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_30
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=30
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_30"
+msgid "Kazuma-san, iestoy tan frustrada!"
+msgstr ""
+
+#. y1ps2.full_id: 43_0_31
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_0_31"
+msgid "iNo quiero irme a casa hasta||que me recupere!"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_0"
+msgid "Kazuma-san, iestoy tan frustrada!"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_1
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_1"
+msgid "iNo quiero irme a casa||hasta que me recupere!"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_2
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_2"
+msgid "¿Darle 200.000 yenes?"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_4
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_4"
+msgid "¿Qué...? i¿Estás seguro?!"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_5
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_5"
+msgid "No puedo aceptarlo..."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_6
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_6"
+msgid "No te preocupes.||Deberías volver a intentarlo con ese dinero."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_7
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_7"
+msgid "Sólo hay un método para ganar en un casino."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_8
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_8"
+msgid "¿Método?"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_9
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_9"
+msgid "Es no rendirte hasta que ganes."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_10
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_10"
+msgid "Jeejee...||Eso no funciona, ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_11
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_11"
+msgid "No obstante, gracias."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_12
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_12"
+msgid "Oh, por favor, toma esto..."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_13
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_13"
+msgid "iHas recibido la \"Espada Tesshusai Grabada\"!"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_15
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_15"
+msgid "¿Qué es esto?"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_16
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_16"
+msgid "Un tipo extraño me lo dio durante||mi racha perdedora."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_17
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_17"
+msgid "Me dijo que es una espada muy cara,||pero no sé qué la hace tan especial..."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_18
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_18"
+msgid "Por favor, utilízala si te sirve de ayuda..."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_19
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_19"
+msgid "Ya veo. Muchas gracias."
+msgstr ""
+
+#. y1ps2.full_id: 43_1_20
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_20"
+msgid "De nada.❤"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_21
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_21"
+msgid "Kazuma-san, iestoy tan frustrada!"
+msgstr ""
+
+#. y1ps2.full_id: 43_1_22
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_1_22"
+msgid "iNo quiero irme||a casa hasta que me recupere!"
+msgstr ""
+
+#. y1ps2.full_id: 43_2_0
+#. y1ps2.logical_line_key: ST_KAB0086|block=0055|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: jack_B_M64
+#. y1ps2.actor: w_11
+#. y1ps2.pose: cus_wait_table_01
+msgctxt "43_2_0"
+msgid "Muchas gracias.||iSé que ganaré la próxima vez!"
+msgstr ""

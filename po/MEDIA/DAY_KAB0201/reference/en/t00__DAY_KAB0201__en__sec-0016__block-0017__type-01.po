@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0201\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0201.BIN\n"
+"X-Y1PS2-Source-SHA256: eda1dd46174253c21ff70d1764c47bf58913659292b5dca020d7fb188dc387ef\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0201.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0201.BIN\n"
+"X-Y1PS2-Talk-SHA256: eda1dd46174253c21ff70d1764c47bf58913659292b5dca020d7fb188dc387ef\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 16\n"
+"X-Y1PS2-Raw-Block-ID: 17\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0011\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 11000101fc270000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0201|block=0017|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_37\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 16_0_0
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0017|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_0"
+msgid "Oh?{PA:10} Aren't you the guy||that found my manuscript the other day?"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_1
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0017|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_1"
+msgid "What are you doing here?"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_2
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0017|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_2"
+msgid "I was investigating the underworld..."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_3
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0017|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_3"
+msgid "and found out that there's a suspicious||entertainment district here..."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_4
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0017|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_4"
+msgid "I managed to sneak in||and was so shocked."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_5
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0017|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_5"
+msgid "Oh, it's kind of late, but this is for||helping me out in finding my manuscript."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_6
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0017|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_6"
+msgid "You received 10,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 16_0_7
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0017|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_7"
+msgid "If you see me around,{PA:10}||don't be afraid to stop and chat.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 16_0_8
+#. y1ps2.logical_line_key: DAY_KAB0201|block=0017|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_37
+#. y1ps2.pose: Idle
+msgctxt "16_0_8"
+msgid "I'll share some information with you."
+msgstr ""

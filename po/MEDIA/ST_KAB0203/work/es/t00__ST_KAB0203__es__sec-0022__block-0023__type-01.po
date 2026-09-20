@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0203\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0203.BIN\n"
+"X-Y1PS2-Source-SHA256: ad2bfcdcd0afbcce3618d8f1f081d15c2996b68ef78d2650470b774429b82695\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0203.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0203.BIN\n"
+"X-Y1PS2-Talk-SHA256: ad2bfcdcd0afbcce3618d8f1f081d15c2996b68ef78d2650470b774429b82695\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 22\n"
+"X-Y1PS2-Raw-Block-ID: 23\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0017\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 17000101402e0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0203|block=0023|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: KUROKO\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Kuroko\n"
+"X-Y1PS2-Actor: Navi_shi_01_K00_03\n"
+"X-Y1PS2-Pose: Freeze\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0203/reference/jp/t00__TALK_ST_KAB0203__jp__sec-0023__block-0023__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0203/reference/en/t00__ST_KAB0203__en__sec-0022__block-0023__type-01.po\n"
+
+#. y1ps2.full_id: 22_0_0
+#. y1ps2.logical_line_key: ST_KAB0203|block=0023|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_0"
+msgid "Oh, casi lo olvido."
+msgstr ""
+
+#. y1ps2.full_id: 22_0_1
+#. y1ps2.logical_line_key: ST_KAB0203|block=0023|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_1"
+msgid "El padre de la amiga||de Takashi dejó esto..."
+msgstr ""
+
+#. y1ps2.full_id: 22_0_2
+#. y1ps2.logical_line_key: ST_KAB0203|block=0023|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_2"
+msgid "Has recibido \"Kodachi de Mifune\"."
+msgstr ""
+
+#. y1ps2.full_id: 22_0_4
+#. y1ps2.logical_line_key: ST_KAB0203|block=0023|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_4"
+msgid "El padre de Kyoka, ¿eh...?||{PA:20}... ¿Me lo vas a dar a mí?"
+msgstr ""
+
+#. y1ps2.full_id: 22_0_5
+#. y1ps2.logical_line_key: ST_KAB0203|block=0023|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_5"
+msgid "Sí.{PA:20} Lo vimos todo.{PA:20}||Le conmovió lo que hiciste."
+msgstr ""
+
+#. y1ps2.full_id: 22_0_6
+#. y1ps2.logical_line_key: ST_KAB0203|block=0023|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_6"
+msgid "... Bueno, lo dejó como un regalo.{PA:20}||Deberías aceptarlo."
+msgstr ""
+
+#. y1ps2.full_id: 22_0_7
+#. y1ps2.logical_line_key: ST_KAB0203|block=0023|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_7"
+msgid "Una cosa más. Hay un ring de pelea y||un pequeño casino en la ciudad subterránea."
+msgstr ""
+
+#. y1ps2.full_id: 22_0_8
+#. y1ps2.logical_line_key: ST_KAB0203|block=0023|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_8"
+msgid "Me las he arreglado para que puedas||acceder a estas instalaciones."
+msgstr ""
+
+#. y1ps2.full_id: 22_0_9
+#. y1ps2.logical_line_key: ST_KAB0203|block=0023|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: KUROKO
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Kuroko
+#. y1ps2.actor: Navi_shi_01_K00_03
+#. y1ps2.pose: Freeze
+msgctxt "22_0_9"
+msgid "Ve y visítalas cuando tengas tiempo."
+msgstr ""

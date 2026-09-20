@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0022\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0022.BIN\n"
+"X-Y1PS2-Source-SHA256: 561e9736a45e97d500f221a21689beccb00406fc847deaf5aec6729976b048fc\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0022.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0022.BIN\n"
+"X-Y1PS2-Talk-SHA256: 561e9736a45e97d500f221a21689beccb00406fc847deaf5aec6729976b048fc\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 81\n"
+"X-Y1PS2-Raw-Block-ID: 82\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0052\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 52000101bc3c0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0022|block=0082|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_11\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_NIN_TRG_CHILD_PARK\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0022/reference/jp/t00__TALK_ST_KAB0022__jp__sec-0081__block-0082__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0022/reference/en/t00__DAY_KAB0022__en__sec-0081__block-0082__type-01.po\n"
+
+#. y1ps2.full_id: 81_0_0
+#. y1ps2.logical_line_key: DAY_KAB0022|block=0082|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_0"
+msgid "iGuau!{PA:10}||¿Has oído esos disparos?"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_1
+#. y1ps2.logical_line_key: DAY_KAB0022|block=0082|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_1"
+msgid "¿De qué hablas?"
+msgstr ""
+
+#. y1ps2.full_id: 81_0_2
+#. y1ps2.logical_line_key: DAY_KAB0022|block=0082|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_2"
+msgid "Oh.{PA:20}||Acabo de escuchar tiros que venían de allí."
+msgstr ""
+
+#. y1ps2.full_id: 81_0_3
+#. y1ps2.logical_line_key: DAY_KAB0022|block=0082|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_11
+#. y1ps2.story_title: ニンベン師
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_NIN_TRG_CHILD_PARK
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 11
+msgctxt "81_0_3"
+msgid "¿Han matado a alguien?"
+msgstr ""

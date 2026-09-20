@@ -1,0 +1,544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0047\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0047.ARC\n"
+"X-Y1PS2-Source-SHA256: b3a680e6bc7b0244ade6d5ecabdae6c2aa1fbb34ad0a081a8a61b60d6866fbde\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0047.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0047.ARC/0/8___TALK_ST_KAB0047.BIN\n"
+"X-Y1PS2-Talk-SHA256: d91197e8cd6dc98ec2e3c4291f5ea825fbce73abdeac198d47daf239d394ca38\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 112\n"
+"X-Y1PS2-Raw-Block-ID: 113\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0071\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 710001048c8e0200\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0047|block=0113|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_gouwan_otoko\n"
+"X-Y1PS2-Actor: w_9\n"
+"X-Y1PS2-Pose: Stand02\n"
+
+#. y1ps2.full_id: 112_0_0
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_0"
+msgid "この先は俺様に通行料が必要だぜ？{PA:20}||ここを通るつもりか？"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_1
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_1"
+msgid "なら５千円⋯➿{PA:10}といってやりてえところだが||{MS:0}今はあいにくクリスマス料金でな。"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_2
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_2"
+msgid "１万円払っていきな。"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_3
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_3"
+msgid "払わねえってんならそれでもいいぜ？"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_4
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_4"
+msgid "みんな素直に払っていくんで体がなまってるんだ⋯{PA:20}||どうする？➿{PA:10}払うのか？➿{PA:10}払わねえのか？"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_5
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_5"
+msgid "{CU:c8c8ff}わかった、{PA:10}払おう。"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_6
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_6"
+msgid "{CU:ffffff}毎度アリ！{PA:20}||{MS:0}⋯って、{PA:10}金ねぇじゃんか！！"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_7
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_7"
+msgid "金もってきやがれ！！"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_9
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_9"
+msgid "{CU:c8c8ff}いや、{PA:10}断る。"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_10
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_10"
+msgid "{CU:ffffff}いいねえ⋯{MS:0}{PA:10}||久しぶりに骨のあるヤツに会えたようだな。"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_11
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_11"
+msgid "一丁楽しませてくれよ！"
+msgstr ""
+
+#. y1ps2.full_id: 112_0_13
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_0_13"
+msgid "そうかい。➿{PA:20}なら、{PA:10}回れ右して帰るんだな。{PA:20}||ここは金か力がないと通れない道だからよ。"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_0
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_0"
+msgid "この先は俺様に通行料が必要だぜ？{PA:20}||ここを通るつもりか？"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_1
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_1"
+msgid "なら５千円⋯➿{PA:10}といってやりてえところだが||{MS:0}今はあいにくクリスマス料金でな。"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_2
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_2"
+msgid "１万円払っていきな。"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_3
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_3"
+msgid "払わねえってんならそれでもいいぜ？"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_4
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_4"
+msgid "みんな素直に払っていくんで体がなまってるんだ⋯{PA:20}||どうする？➿{PA:10}払うのか？➿{PA:10}払わねえのか？"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_5
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_5"
+msgid "{CU:c8c8ff}わかった、{PA:10}払おう。"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_6
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_6"
+msgid "{CU:ffffff}毎度アリ！{MS:0}{PA:20}||またよろしく頼むぜ。{PA:20}な！"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_8
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_8"
+msgid "{CU:c8c8ff}いや、{PA:10}断る。"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_9
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_9"
+msgid "{CU:ffffff}いいねえ⋯{MS:0}{PA:10}||久しぶりに骨のあるヤツに会えたようだな。"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_10
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_10"
+msgid "一丁楽しませてくれよ！"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_12
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_1_12"
+msgid "そうかい。➿{PA:20}なら、{PA:10}回れ右して帰るんだな。{PA:20}||ここは金か力がないと通れない道だからよ。"
+msgstr ""
+
+#. y1ps2.full_id: 112_2_0
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_2_0"
+msgid "ちょっと待ちな！"
+msgstr ""
+
+#. y1ps2.full_id: 112_3_0
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_3_0"
+msgid "{SP:1}つ、{PA:10}強え⋯！{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 112_3_1
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_3_1"
+msgid "ち⋯➿{PA:10}この街に居るヤツは、{PA:10}見た目だけの||こけおどしかと思ってたが⋯"
+msgstr ""
+
+#. y1ps2.full_id: 112_3_2
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_3_2"
+msgid "あんたはどうやら本物みてえだ。"
+msgstr ""
+
+#. y1ps2.full_id: 112_3_3
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_3_3"
+msgid "こいつは迷惑料だ。{PA:20}||とっといてくれ。"
+msgstr ""
+
+#. y1ps2.full_id: 112_3_4
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_3_4"
+msgid "➿➿➿➿➿１万円を手に入れた"
+msgstr ""
+
+#. y1ps2.full_id: 112_3_5
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_3_5"
+msgid "また修行のやり直しだ。➿{PA:10}あんたを倒す||自信がついたらまたこの街に戻ってくる。"
+msgstr ""
+
+#. y1ps2.full_id: 112_3_6
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_3_6"
+msgid "それまで達者でな。"
+msgstr ""
+
+#. y1ps2.full_id: 112_3_7
+#. y1ps2.logical_line_key: ST_KAB0047|block=0113|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_gouwan_otoko
+#. y1ps2.actor: w_9
+#. y1ps2.pose: Stand02
+msgctxt "112_3_7"
+msgid "➿➿経験値➿５００➿を手に入れた"
+msgstr ""

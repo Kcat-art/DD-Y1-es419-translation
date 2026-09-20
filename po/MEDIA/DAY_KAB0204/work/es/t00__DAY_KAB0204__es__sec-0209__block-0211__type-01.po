@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0204\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0204.BIN\n"
+"X-Y1PS2-Source-SHA256: 6d6e92181eb50b53ed770e66fa7fe9cf6c91904a64477bad259c5e1fbedb84e3\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0204.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0204.BIN\n"
+"X-Y1PS2-Talk-SHA256: 6d6e92181eb50b53ed770e66fa7fe9cf6c91904a64477bad259c5e1fbedb84e3\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 209\n"
+"X-Y1PS2-Raw-Block-ID: 211\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00D3\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: d3000102a8660000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0204|block=0211|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: mofuku_zako_b\n"
+"X-Y1PS2-Actor: w_4\n"
+"X-Y1PS2-Pose: Stand01\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0204/reference/jp/t00__TALK_ST_KAB0204__jp__sec-0209__block-0211__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0204/reference/en/t00__DAY_KAB0204__en__sec-0209__block-0211__type-01.po\n"
+
+#. y1ps2.full_id: 209_0_0
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_0"
+msgid "Oh, {PA:10}me has oído.||Perdón por decir una estupidez así."
+msgstr ""
+
+#. y1ps2.full_id: 209_0_1
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_1"
+msgid "Oh... {PA:20}No pasa nada."
+msgstr ""
+
+#. y1ps2.full_id: 209_0_2
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_2"
+msgid "¿Eres miembro del Clan Tojo?"
+msgstr ""
+
+#. y1ps2.full_id: 209_0_3
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_3"
+msgid "No..."
+msgstr ""
+
+#. y1ps2.full_id: 209_0_4
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_4"
+msgid "Yo soy miembro {PA:10}de una familia afiliada."
+msgstr ""
+
+#. y1ps2.full_id: 209_0_5
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_5"
+msgid "...Sinceramente, {PA:10}desde||que todo se fue al garete,"
+msgstr ""
+
+#. y1ps2.full_id: 209_0_6
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_6"
+msgid "me siento como una mierda..."
+msgstr ""
+
+#. y1ps2.full_id: 209_0_7
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_7"
+msgid "¿Y eso por qué?"
+msgstr ""
+
+#. y1ps2.full_id: 209_0_8
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_8"
+msgid "Bueno, ya sabes."
+msgstr ""
+
+#. y1ps2.full_id: 209_0_9
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_9"
+msgid "Al Clan Tojo le iba muy bien{PA:10}||con el Presidente Sera."
+msgstr ""
+
+#. y1ps2.full_id: 209_0_10
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_10"
+msgid "Tras la pérdida de la cabeza del clan,{PA:10}||no hay duda de que Shimano"
+msgstr ""
+
+#. y1ps2.full_id: 209_0_11
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_11"
+msgid "Oyabun o Nishiki intentarán hacer algo."
+msgstr ""
+
+#. y1ps2.full_id: 209_0_12
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_12"
+msgid "... Tal vez si Fuma Oyabun llega||al poder, {PA:10} todo salga bien."
+msgstr ""
+
+#. y1ps2.full_id: 209_0_13
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_13"
+msgid "... iTengo que decir que los miembros||de familias Pequeñas, {PA:10}como nosotros,"
+msgstr ""
+
+#. y1ps2.full_id: 209_0_14
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_14"
+msgid "estamos muy preocupados por||lo que le pueda suceder a nuestra"
+msgstr ""
+
+#. y1ps2.full_id: 209_0_15
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_0_15"
+msgid "organización {PA:10}y eso es lo único||en lo que podemos pensar!"
+msgstr ""
+
+#. y1ps2.full_id: 209_1_0
+#. y1ps2.logical_line_key: DAY_KAB0204|block=0211|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: mofuku_zako_b
+#. y1ps2.actor: w_4
+#. y1ps2.pose: Stand01
+msgctxt "209_1_0"
+msgid "Me pregunto qué sucederá con el Clan Tojo."
+msgstr ""

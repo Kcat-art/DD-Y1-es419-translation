@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0049\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0049.BIN\n"
+"X-Y1PS2-Source-SHA256: 6e693cca8233f588353565c682c42f7da040c29d2d0c4beaa8d2789fb829757f\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0049.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0049.BIN\n"
+"X-Y1PS2-Talk-SHA256: 6e693cca8233f588353565c682c42f7da040c29d2d0c4beaa8d2789fb829757f\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 92\n"
+"X-Y1PS2-Raw-Block-ID: 93\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5d000102ac390000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0049|block=0093|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: dj_Mnit\n"
+"X-Y1PS2-Actor: w_75\n"
+"X-Y1PS2-Pose: Stand01\n"
+"X-Y1PS2-Reference-JP-PO: DAY_KAB0049/reference/jp/t00__TALK_ST_KAB0049__jp__sec-0092__block-0093__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0049/reference/en/t00__DAY_KAB0049__en__sec-0092__block-0093__type-01.po\n"
+
+#. y1ps2.full_id: 92_0_0
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_0"
+msgid "iAniki,{PA:10} por aquí!"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_1
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_1"
+msgid "¿Qué demonios es esto?"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_2
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_2"
+msgid "Bien...{PA:10} Te dije que hay una chica que está||locamente enamorada de mí, ¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_3
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_3"
+msgid "Sí."
+msgstr ""
+
+#. y1ps2.full_id: 92_0_4
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_4"
+msgid "Todo iba tan bien, demasiado bien...{PA:20}||iResulta que es la putita de otro Yakuza!"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_5
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_5"
+msgid "Acabó siendo un timo.{PA:20}||Así que,{PA:10} ¿qué quieres que haga al respecto?"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_6
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_6"
+msgid "El Yakuza que la protege me ha llamado."
+msgstr ""
+
+#. y1ps2.full_id: 92_0_7
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_7"
+msgid "Si voy solo...||va a hacer que me desangre y luego me tirará"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_8
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_8"
+msgid "a la Bahía de Tokio con unos"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_9
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_9"
+msgid "zapatos de cemento."
+msgstr ""
+
+#. y1ps2.full_id: 92_0_10
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_10"
+msgid "Dame un respiro.{PA:20} Encárgate tú de tu mierda."
+msgstr ""
+
+#. y1ps2.full_id: 92_0_11
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_11"
+msgid "iAniki!||iPor favor!"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_12
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_12"
+msgid "¿Dónde está ese Yakuza?"
+msgstr ""
+
+#. y1ps2.full_id: 92_0_13
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_0_13"
+msgid "Está al volver la esquina..."
+msgstr ""
+
+#. y1ps2.full_id: 92_1_0
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_1_0"
+msgid "iAniki!{PA:10} iSabía que me apoyarías!{PA:20}||iMuchísimas gracias!"
+msgstr ""
+
+#. y1ps2.full_id: 92_1_1
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_1_1"
+msgid "Dame un respiro.{PA:20} Encárgate tú de tu mierda."
+msgstr ""
+
+#. y1ps2.full_id: 92_1_2
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_1_2"
+msgid "iAniki!{PA:10}||iPor favor!"
+msgstr ""
+
+#. y1ps2.full_id: 92_1_3
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_1_3"
+msgid "¿Dónde está ese Yakuza?"
+msgstr ""
+
+#. y1ps2.full_id: 92_1_4
+#. y1ps2.logical_line_key: DAY_KAB0049|block=0093|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: dj_Mnit
+#. y1ps2.actor: w_75
+#. y1ps2.pose: Stand01
+msgctxt "92_1_4"
+msgid "Está al volver la esquina..."
+msgstr ""

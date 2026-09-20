@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0020\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0020.BIN\n"
+"X-Y1PS2-Source-SHA256: 15e83bdb850af14cd1057f5a44a93d4403bd46dd8869823d8e5549909ac4acd7\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0020.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0020.BIN\n"
+"X-Y1PS2-Talk-SHA256: 15e83bdb850af14cd1057f5a44a93d4403bd46dd8869823d8e5549909ac4acd7\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 97\n"
+"X-Y1PS2-Raw-Block-ID: 98\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0062\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 62000103703c0000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0020|block=0098|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: playboy\n"
+"X-Y1PS2-Actor: w_2\n"
+"X-Y1PS2-Pose: Stand02\n"
+"X-Y1PS2-Reference-JP-PO: ST_KAB0020/reference/jp/t00__TALK_ST_KAB0020__jp__sec-0097__block-0098__type-01.po\n"
+"X-Y1PS2-Reference-EN-PO: ST_KAB0020/reference/en/t00__ST_KAB0020__en__sec-0097__block-0098__type-01.po\n"
+
+#. y1ps2.full_id: 97_0_0
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_0_0"
+msgid "Hay un bar de alterne llamado||Shine en la Calle Pink."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_1
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_0_1"
+msgid "Y sus ojeadores siempre||me están molestando."
+msgstr ""
+
+#. y1ps2.full_id: 97_0_2
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_0_2"
+msgid "Estoy harta de ellos."
+msgstr ""
+
+#. y1ps2.full_id: 97_1_0
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_1_0"
+msgid "¿Qué?{PA:20}||¿Eres otro ojeador de un bar de alterne?"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_1
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_1_1"
+msgid "¿Eh?"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_2
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_1_2"
+msgid "Oh, lo siento.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 97_1_3
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_1_3"
+msgid "Los ojeadores de bares de alterne||son tan pesados,{PA:10} pensé que eras uno."
+msgstr ""
+
+#. y1ps2.full_id: 97_1_4
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_1_4"
+msgid "Bueno,{PA:10}||no pareces un ojeador."
+msgstr ""
+
+#. y1ps2.full_id: 97_1_5
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_1_5"
+msgid "Hay un bar de alterne llamado||Shine en la Calle Pink."
+msgstr ""
+
+#. y1ps2.full_id: 97_1_6
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_1_6"
+msgid "Y sus ojeadores siempre||me están molestando."
+msgstr ""
+
+#. y1ps2.full_id: 97_1_7
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_1_7"
+msgid "Estoy harta de ellos."
+msgstr ""
+
+#. y1ps2.full_id: 97_1_8
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_1_8"
+msgid "Hay un bar de alterne llamado||Shine en la Calle Pink."
+msgstr ""
+
+#. y1ps2.full_id: 97_2_0
+#. y1ps2.logical_line_key: ST_KAB0020|block=0098|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: playboy
+#. y1ps2.actor: w_2
+#. y1ps2.pose: Stand02
+msgctxt "97_2_0"
+msgid "iCorta el rollo!||iSois tan cansinos!"
+msgstr ""

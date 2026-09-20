@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0213\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Source-SHA256: f625c084a4744f8878b0def04d9cd4f43919e1b98c01b2b4cec357719f51d65c\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0213.BIN\n"
+"X-Y1PS2-Talk-SHA256: f625c084a4744f8878b0def04d9cd4f43919e1b98c01b2b4cec357719f51d65c\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 25\n"
+"X-Y1PS2-Raw-Block-ID: 53\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0035\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 35000102602f0000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0213|block=0053|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: home_B_Mhl_a\n"
+"X-Y1PS2-Actor: home_C_Mhl_c\n"
+"X-Y1PS2-Pose: cus_take_01\n"
+
+#. y1ps2.full_id: 25_0_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0053|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: home_B_Mhl_a
+#. y1ps2.actor: home_C_Mhl_c
+#. y1ps2.pose: cus_take_01
+msgctxt "25_0_0"
+msgid "Hello,{PA:10} Kazuma-san.{PA:20}||Detective Date has been waiting for you."
+msgstr ""
+
+#. y1ps2.full_id: 25_0_1
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0053|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: home_B_Mhl_a
+#. y1ps2.actor: home_C_Mhl_c
+#. y1ps2.pose: cus_take_01
+msgctxt "25_0_1"
+msgid "Please hurry to the Hideout."
+msgstr ""
+
+#. y1ps2.full_id: 25_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0213|block=0053|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: home_B_Mhl_a
+#. y1ps2.actor: home_C_Mhl_c
+#. y1ps2.pose: cus_take_01
+msgctxt "25_1_0"
+msgid "Brrr. It's cold..."
+msgstr ""

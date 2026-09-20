@@ -1,0 +1,1792 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0087\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0087.BIN\n"
+"X-Y1PS2-Source-SHA256: 68761e316c03e5ad52eda8df9243822e91f80f124f05c0fc4b740e89a4f1b683\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0087.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0087.BIN\n"
+"X-Y1PS2-Talk-SHA256: 68761e316c03e5ad52eda8df9243822e91f80f124f05c0fc4b740e89a4f1b683\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 23\n"
+"X-Y1PS2-Raw-Block-ID: 24\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0018\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 18000103e0250000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0087|block=0024|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: STALKER_SHINJI\n"
+"X-Y1PS2-Pose: Freeze\n"
+
+#. y1ps2.full_id: 23_0_1
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_1"
+msgid "Hello.||Sir,{PA:10} what would you like to drink?"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_4
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_4"
+msgid "You look drunk.{PA:20}||I don't think you should drink anymore."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_5
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_5"
+msgid "Would you like another drink?"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_6
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_6"
+msgid "Oh, {PA:10}ok.{PA:20}||Have a nice day!"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_9
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_9"
+msgid "Yamazaki 12 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_10
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_10"
+msgid "This is a very fine whisky."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_11
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_11"
+msgid "This whisky made its debut in 1984||as the first Japanese pure malt whisky."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_12
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_12"
+msgid "It was made to commemorate the 60th||anniversary of the Yamazaki distillery,"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_13
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_13"
+msgid "where the first Japanese whisky was||created."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_14
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_14"
+msgid "You can say that this represents Yamazaki."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_15
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_15"
+msgid "As for the taste, it has a mellow yet||powerful flavour characteristic of Yamazaki."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_16
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_16"
+msgid "It has earned quite a reputation||overseas as well as domestically."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_20
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_20"
+msgid "Hakushu 10 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_21
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_21"
+msgid "Your standard Japanese whisky."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_22
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_22"
+msgid "It's created in the Hakushu distillery||in Kaikomagadake,"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_23
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_23"
+msgid "which is in the Japanese Alps."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_24
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_24"
+msgid "The water from that region is very pure."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_25
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_25"
+msgid "Personally, I like drinking Hakushu||while eating a little tofu..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_26
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_26"
+msgid "Anyways, I recommend Japanese side||dishes to accompany this fine drink."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_30
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=30
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_30"
+msgid "Suntory Old Whisky..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_31
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_31"
+msgid "Even someone who doesn't drink has||surely come across one of these bottles"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_32
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=32
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_32"
+msgid "at one point in time."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_33
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=33
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_33"
+msgid "It's famous for its thick, but mild taste."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_34
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=34
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_34"
+msgid "It came out in 1950 and||for the past 55 years,"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_35
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=35
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_35"
+msgid "its flavour has attracted many whisky||fans to this charming drink."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_39
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=39
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_39"
+msgid "Early Times..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_40
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=40
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_40"
+msgid "A world renown bourbon."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_41
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=41
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_41"
+msgid "It has the unique American edge and||a gorgeous flavour."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_42
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=42
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_42"
+msgid "It's very reasonably priced and||quite enjoyable."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_46
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=46
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_46"
+msgid "Suntory Brandy X.O Deluxe..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_47
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=47
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_47"
+msgid "This brandy is made 100% from grapes."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_48
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=48
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_48"
+msgid "It has a thick mature flavor that's suitable||to drink straight or with tonic."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_49
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=49
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_49"
+msgid "I'm sure you'll enjoy its refreshing taste."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_50
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=50
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_50"
+msgid "This liquor is very well-balanced."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_51
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=51
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_51"
+msgid "The taste lingers longer||than Suntory Brandy X.O."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_55
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=55
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_55"
+msgid "Suntory Brandy V.S.O.P..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_56
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=56
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_56"
+msgid "This is the highest quality brandy in Japan."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_57
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=57
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 57
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_57"
+msgid "V.S.O.P stands for Very,||Superior, Old and Pale."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_58
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=58
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 58
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_58"
+msgid "With 4 kinds of fruity raw spirits||and distinct spirits blended,"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_59
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=59
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 59
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_59"
+msgid "it has a very rich flavour."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_63
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=63
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 63
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_63"
+msgid "Suntory Brandy V.O..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_64
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=64
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 64
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_64"
+msgid "This brandy has a very||smooth and fruity taste."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_65
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=65
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 65
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_65"
+msgid "It's reasonably priced and easy to drink,"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_66
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=66
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 66
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_66"
+msgid "with a taste you won't get tired of anytime||soon. A brandy suitable for beginners."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_67
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=67
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 67
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_67"
+msgid "Enjoy the unique sweetness of this brandy."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_71
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=71
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 71
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_71"
+msgid "Suntory Malt's Beer..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_72
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=72
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 72
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_72"
+msgid "A draft beer put out by Suntory. The makers||of this brew focus not only on the quality"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_73
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=73
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 73
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_73"
+msgid "of the materials like hops but the quality||of water as well. 4 types of natural"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_74
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=74
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 74
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_74"
+msgid "spring water have been carefully||selected for the crafting of this beer."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_75
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=75
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 75
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_75"
+msgid "No other draft beers can beat||the aftertaste of Suntory Malt's Beer."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_79
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=79
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 79
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_79"
+msgid "Kyogetsu Green..."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_80
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=80
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 80
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_80"
+msgid "A notable Korean spirit."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_81
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=81
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 81
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_81"
+msgid "Mineral water from Mt. Sorak and||select Korean hops are used to"
+msgstr ""
+
+#. y1ps2.full_id: 23_0_82
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=82
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 82
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_82"
+msgid "produce a mild taste."
+msgstr ""
+
+#. y1ps2.full_id: 23_0_83
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=0|sg=83
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 83
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_0_83"
+msgid "Reasonably priced, this is a fine drink||well-suited for anyone's palette."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_1
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_1"
+msgid "Hello.||Sir,{PA:10} what would you like to drink?"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_4
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_4"
+msgid "You look drunk. {PA:20}I don't think you||should drink anymore."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_5
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_5"
+msgid "Would you like another drink?"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_6
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_6"
+msgid "Oh, {PA:10}ok.{PA:20}||Have a nice day!"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_9
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_9"
+msgid "Yamazaki 12 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_10
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_10"
+msgid "This is a very fine whisky."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_11
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_11"
+msgid "This whisky made its debut in 1984||as the first Japanese pure malt whisky."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_12
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_12"
+msgid "It was made to commemorate the 60th||anniversary of the Yamazaki distillery,"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_13
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_13"
+msgid "where the first Japanese whisky||was created."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_14
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_14"
+msgid "You can say that this represents Yamazaki."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_15
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_15"
+msgid "As for the taste, it has a mellow yet||powerful flavour characteristic of Yamazaki."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_16
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_16"
+msgid "It has earned quite a reputation||overseas as well as domestically."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_20
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_20"
+msgid "Hakushu 10 Years..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_21
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_21"
+msgid "Your standard Japanese whisky."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_22
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_22"
+msgid "It's created in the Hakushu distillery||in Kaikomagadake,"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_23
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=23
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_23"
+msgid "which is in the Japanese Alps."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_24
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=24
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_24"
+msgid "The water from that region is very pure."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_25
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=25
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_25"
+msgid "Personally, I like drinking Hakushu||while eating a little tofu..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_26
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=26
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_26"
+msgid "Anyways, I recommend Japanese side||dishes to accompany this fine drink."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_30
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=30
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_30"
+msgid "Suntory Old Whisky..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_31
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=31
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_31"
+msgid "Even someone who doesn't drink has||surely come across one of these bottles"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_32
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=32
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_32"
+msgid "at one point in time."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_33
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=33
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_33"
+msgid "It's famous for its thick, but mild taste."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_34
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=34
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_34"
+msgid "It came out in 1950 and||for the past 55 years,"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_35
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=35
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_35"
+msgid "its flavour has attracted many whisky||fans to this charming drink."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_39
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=39
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_39"
+msgid "Early Times..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_40
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=40
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_40"
+msgid "A world renown bourbon."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_41
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=41
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_41"
+msgid "It has the unique American edge and||a gorgeous flavour."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_42
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=42
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_42"
+msgid "It's very reasonably priced and||quite enjoyable."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_46
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=46
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_46"
+msgid "Suntory Brandy X.O Deluxe..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_47
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=47
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_47"
+msgid "This brandy is made 100% from grapes."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_48
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=48
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_48"
+msgid "It has a thick mature flavor that's suitable||to drink straight or with tonic."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_49
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=49
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_49"
+msgid "I'm sure you'll enjoy its refreshing taste."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_50
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=50
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_50"
+msgid "This liquor is very well-balanced."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_51
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=51
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_51"
+msgid "The taste lingers longer||than Suntory Brandy X.O."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_55
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=55
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_55"
+msgid "Suntory Brandy V.S.O.P..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_56
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=56
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_56"
+msgid "This is the highest quality brandy in Japan."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_57
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=57
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 57
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_57"
+msgid "V.S.O.P stands for Very,||Superior, Old and Pale."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_58
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=58
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 58
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_58"
+msgid "With 4 kinds of fruity raw spirits||and distinct spirits blended,"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_59
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=59
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 59
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_59"
+msgid "it has a very rich flavour."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_63
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=63
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 63
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_63"
+msgid "Suntory Brandy V.O..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_64
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=64
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 64
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_64"
+msgid "This brandy has a very||smooth and fruity taste."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_65
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=65
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 65
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_65"
+msgid "It's reasonably priced and easy to drink,"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_66
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=66
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 66
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_66"
+msgid "with a taste you won't get tired of anytime||soon. A brandy suitable for beginners."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_67
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=67
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 67
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_67"
+msgid "Enjoy the unique sweetness of this brandy."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_71
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=71
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 71
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_71"
+msgid "Suntory Malt's Beer..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_72
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=72
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 72
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_72"
+msgid "A draft beer put out by Suntory. The makers||of this brew focus not only on the quality"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_73
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=73
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 73
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_73"
+msgid "of the materials like hops, but the quality||of water as well. 4 types of natural"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_74
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=74
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 74
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_74"
+msgid "spring water have been carefully||selected for the crafting of this beer."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_75
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=75
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 75
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_75"
+msgid "No other draft beers can beat||the aftertaste of Suntory Malt's Beer."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_79
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=79
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 79
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_79"
+msgid "Kyogetsu Green..."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_80
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=80
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 80
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_80"
+msgid "A notable Korean spirit."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_81
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=81
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 81
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_81"
+msgid "Mineral water from Mt. Sorak and||select Korean hops are used to"
+msgstr ""
+
+#. y1ps2.full_id: 23_1_82
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=82
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 82
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_82"
+msgid "produce a mild taste."
+msgstr ""
+
+#. y1ps2.full_id: 23_1_83
+#. y1ps2.logical_line_key: DAY_KAB0087|block=0024|type=01|mg=1|sg=83
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 83
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: STALKER_SHINJI
+#. y1ps2.pose: Freeze
+msgctxt "23_1_83"
+msgid "Reasonably priced, this is a fine drink||well-suited for anyone's palette."
+msgstr ""

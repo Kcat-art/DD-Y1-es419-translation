@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0025\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0025.BIN\n"
+"X-Y1PS2-Source-SHA256: ffda761f702d9845d5af61614e6ca4f32b4c70229ad59b65a1198cba8e1c1215\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0025.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0025.BIN\n"
+"X-Y1PS2-Talk-SHA256: ffda761f702d9845d5af61614e6ca4f32b4c70229ad59b65a1198cba8e1c1215\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 112\n"
+"X-Y1PS2-Raw-Block-ID: 132\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0084\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 84000103343c0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0025|block=0132|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: salary_Msh_b\n"
+"X-Y1PS2-Actor: pink_Fhs_a\n"
+"X-Y1PS2-Pose: Stand03\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0025/reference/en/t00__DAY_KAB0025__en__sec-0112__block-0132__type-01.po\n"
+
+#. y1ps2.full_id: 112_0_0
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_0_0"
+msgid "Ve al video club, y di:||{CU:ffc8c8}\"Esposas Atadas - Pasión por las Cuerdas\".{MR:00}"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_0
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_0"
+msgid "Escuche.{PA:10}||Tengo información muy valiosa.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_1
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_1"
+msgid "¿Quiere comprarla?"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_2
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_2"
+msgid "Te la venderé por tres Fukuzawas||(30.000 yenes).{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_3
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_3"
+msgid "Es una ganga."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_4
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_4"
+msgid "Ok,{PA:10} la compraré."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_6
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_6"
+msgid "De acuerdo. iGracias!{MS:0}{PA:20}||Aquí tienes la información."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_7
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_7"
+msgid "Es sobre un videoclub al norte.{PA:10}||La verdad es que llevan un negocio secreto."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_8
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_8"
+msgid "¿Qué venden? Para averiguar la respuesta,||dile al dependiente..."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_9
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_9"
+msgid "{CU:ffc8c8}\"Esposas atadas - pasión por las cuerdas\".{MR:00}||{MS:0}Eso es todo lo que te puedo decir."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_10
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_10"
+msgid "Bueno,{PA:10} lo sabrás cuando lo digas."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_11
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_11"
+msgid "Oh, mierda. iNo tienes dinero!"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_12
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_12"
+msgid "Consigue 30.000 yenes||si de verdad quieres saberlo!"
+msgstr ""
+
+#. y1ps2.full_id: 112_1_13
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_13"
+msgid "No,{PA:10} gracias."
+msgstr ""
+
+#. y1ps2.full_id: 112_1_14
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_1_14"
+msgid "Che.{PA:10}||Ya veo."
+msgstr ""
+
+#. y1ps2.full_id: 112_2_0
+#. y1ps2.logical_line_key: DAY_KAB0025|block=0132|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: salary_Msh_b
+#. y1ps2.actor: pink_Fhs_a
+#. y1ps2.pose: Stand03
+msgctxt "112_2_0"
+msgid "iHey!||iSeñor, señor!"
+msgstr ""

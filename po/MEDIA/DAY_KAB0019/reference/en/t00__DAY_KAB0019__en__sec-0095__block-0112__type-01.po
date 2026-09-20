@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0019\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0019.BIN\n"
+"X-Y1PS2-Source-SHA256: 10cb67801b9a722bd62410eff0bcedfcddf310b118b4bac1f1c2029c9e0eb9b7\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0019.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0019.BIN\n"
+"X-Y1PS2-Talk-SHA256: 10cb67801b9a722bd62410eff0bcedfcddf310b118b4bac1f1c2029c9e0eb9b7\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 95\n"
+"X-Y1PS2-Raw-Block-ID: 112\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0070\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 70000104a4300000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0019|block=0112|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mini_shigan_tutuyakuza\n"
+"X-Y1PS2-Actor: w_8\n"
+"X-Y1PS2-Pose: lp_damaage\n"
+
+#. y1ps2.full_id: 95_0_0
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_0"
+msgid "Huh? {PA:10}What are you doing||bringing a kid to a place like this?"
+msgstr ""
+
+#. y1ps2.full_id: 95_0_1
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_1"
+msgid "I need shelter from the rain."
+msgstr ""
+
+#. y1ps2.full_id: 95_0_2
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_2"
+msgid "...I see.{PA:20}||{MS:0}Please come in."
+msgstr ""
+
+#. y1ps2.full_id: 95_0_4
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_4"
+msgid "Can I use the bathroom?"
+msgstr ""
+
+#. y1ps2.full_id: 95_0_5
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_5"
+msgid "Sorry, but we don't have a bathroom.{PA:10}||{MS:0}Go somewhere else."
+msgstr ""
+
+#. y1ps2.full_id: 95_0_7
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_7"
+msgid "I'm here to meet a guy named Sawada..."
+msgstr ""
+
+#. y1ps2.full_id: 95_0_8
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_8"
+msgid "...{PA:10}Who are you?"
+msgstr ""
+
+#. y1ps2.full_id: 95_0_9
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_0_9"
+msgid "Whatever. {PA:10}There's no Sawada here.{PA:20}||You got the wrong place."
+msgstr ""
+
+#. y1ps2.full_id: 95_1_0
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_1_0"
+msgid "What? {PA:10}Get lost{PA:10}||if you don't have any business here."
+msgstr ""
+
+#. y1ps2.full_id: 95_1_1
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_1_1"
+msgid "I need shelter from the rain."
+msgstr ""
+
+#. y1ps2.full_id: 95_1_2
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_1_2"
+msgid "...I see.{PA:20}||Please come in."
+msgstr ""
+
+#. y1ps2.full_id: 95_1_4
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_1_4"
+msgid "Can I use the bathroom?"
+msgstr ""
+
+#. y1ps2.full_id: 95_1_5
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_1_5"
+msgid "Sorry, but we don't have a bathroom.{PA:20}||Go somewhere else."
+msgstr ""
+
+#. y1ps2.full_id: 95_1_7
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_1_7"
+msgid "I'm here to meet a guy named Sawada."
+msgstr ""
+
+#. y1ps2.full_id: 95_1_8
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_1_8"
+msgid "...{PA:10}Who are you?"
+msgstr ""
+
+#. y1ps2.full_id: 95_1_9
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_1_9"
+msgid "Whatever. {PA:10}There's no Sawada here.{PA:10}||You got the wrong place."
+msgstr ""
+
+#. y1ps2.full_id: 95_2_0
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_0"
+msgid "...What?"
+msgstr ""
+
+#. y1ps2.full_id: 95_2_1
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_2_1"
+msgid "We're busy.{PA:20}||Get outta here."
+msgstr ""
+
+#. y1ps2.full_id: 95_3_0
+#. y1ps2.logical_line_key: DAY_KAB0019|block=0112|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mini_shigan_tutuyakuza
+#. y1ps2.actor: w_8
+#. y1ps2.pose: lp_damaage
+msgctxt "95_3_0"
+msgid "Unfortunately,||there isn't anything here anymore."
+msgstr ""

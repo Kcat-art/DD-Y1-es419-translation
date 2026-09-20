@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0008\n"
+"X-Y1PS2-Role: reference_jp\n"
+"X-Y1PS2-Output-Language: jp\n"
+"X-Y1PS2-Source-Language: jp\n"
+"X-Y1PS2-Source-Language-Index: 0\n"
+"X-Y1PS2-Source-Kind: arc_talk\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0008.ARC\n"
+"X-Y1PS2-Source-SHA256: 30b01c3fd4e0d973c85c3ad9aa9686e000ea402a07890f8a127b6760d0903d20\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: TALK_ST_KAB0008.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0008.ARC/0/8___TALK_ST_KAB0008.BIN\n"
+"X-Y1PS2-Talk-SHA256: 9fb696f64e6beac831f226b54fcb23082cac92c106fa576da69d25fb0cfda903\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 93\n"
+"X-Y1PS2-Raw-Block-ID: 94\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x005E\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5e000101c0fc0100\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0008|block=0094|type=01\n"
+"X-Y1PS2-Story-Type: reusable\n"
+"X-Y1PS2-Story-Key: EVENT\n"
+"X-Y1PS2-Story-Evidence: generic_reusable_context\n"
+"X-Y1PS2-Context: Event\n"
+"X-Y1PS2-Actor: w_7\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 93_0_0
+#. y1ps2.logical_line_key: DAY_KAB0008|block=0094|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: reusable
+#. y1ps2.story_key: EVENT
+#. y1ps2.story_title: 
+#. y1ps2.evidence: generic_reusable_context
+#. y1ps2.context: Event
+#. y1ps2.actor: w_7
+#. y1ps2.pose: Idle
+msgctxt "93_0_0"
+msgid "{CU:c8c8ff}（今は遥についていこう）"
+msgstr ""

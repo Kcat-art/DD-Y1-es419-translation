@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: RAIN_KAB0004\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Source-SHA256: eb0603c4a310f37da6960814da8108bf853114947c67fc08871edf635ce4d7cd\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: RAIN_KAB0004.BIN\n"
+"X-Y1PS2-Talk-SHA256: eb0603c4a310f37da6960814da8108bf853114947c67fc08871edf635ce4d7cd\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 80\n"
+"X-Y1PS2-Raw-Block-ID: 81\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x0051\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 5100010204330000\n"
+"X-Y1PS2-Logical-Section-Key: RAIN_KAB0004|block=0081|type=01\n"
+"X-Y1PS2-Story-Type: substory\n"
+"X-Y1PS2-Story-Key: SUB_SCENARIO_08\n"
+"X-Y1PS2-Story-Evidence: mapped_trigger_prefix\n"
+"X-Y1PS2-Context: SUB_BOX_TRG_JANSO\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 80_1_0
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0081|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_1_0"
+msgid "I'm sorry, Kazuma-san. I never thought||things would turn out like this..."
+msgstr ""
+
+#. y1ps2.full_id: 80_1_1
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0081|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_1_1"
+msgid "But I'm so relieved, thanks to you."
+msgstr ""
+
+#. y1ps2.full_id: 80_1_2
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0081|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_1_2"
+msgid "Yaoi-san was my very first customer||at the bar, when I came to Tokyo."
+msgstr ""
+
+#. y1ps2.full_id: 80_1_3
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0081|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_1_3"
+msgid "So I kinda left my guard down.||Then he gradually started stalking me..."
+msgstr ""
+
+#. y1ps2.full_id: 80_1_4
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0081|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_1_4"
+msgid "...Oh, I'm sorry, Kazuma-san.||I need to go back to the bar now."
+msgstr ""
+
+#. y1ps2.full_id: 80_1_5
+#. y1ps2.logical_line_key: RAIN_KAB0004|block=0081|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: substory
+#. y1ps2.story_key: SUB_SCENARIO_08
+#. y1ps2.story_title: ボクシング賭博
+#. y1ps2.evidence: mapped_trigger_prefix
+#. y1ps2.context: SUB_BOX_TRG_JANSO
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.substory_id: 8
+msgctxt "80_1_5"
+msgid "See you later."
+msgstr ""

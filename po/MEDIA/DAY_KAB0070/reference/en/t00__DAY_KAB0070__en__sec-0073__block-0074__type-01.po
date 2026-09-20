@@ -1,0 +1,4333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0070\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0070.BIN\n"
+"X-Y1PS2-Source-SHA256: 0a66acbd36321e827fd3a467673d6a76cd3bb3d85f42adab8f0fd278ab9c7e41\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0070.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0070.BIN\n"
+"X-Y1PS2-Talk-SHA256: 0a66acbd36321e827fd3a467673d6a76cd3bb3d85f42adab8f0fd278ab9c7e41\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 73\n"
+"X-Y1PS2-Raw-Block-ID: 74\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x004A\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 4a000110982d0000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0070|block=0074|type=01\n"
+"X-Y1PS2-Story-Type: main_story\n"
+"X-Y1PS2-Story-Key: CHAPTER13\n"
+"X-Y1PS2-Story-Evidence: explicit_trigger_prefix\n"
+"X-Y1PS2-Context: C13_TRG_HAIBILL\n"
+"X-Y1PS2-Actor: w_0\n"
+"X-Y1PS2-Pose: Idle\n"
+
+#. y1ps2.full_id: 73_0_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_0"
+msgid "Hello,{PA:10} creature of the night.{PA:20}||My name is Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_1"
+msgid "What can I do for you?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_2
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_2"
+msgid "You want to know about some hostess bars?{PA:20}||I recommend \"{CC:ffc8c8}Shine{CR:00}\" on Pink St."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_3
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_3"
+msgid "Or... \"{CC:ffc8c8}Jewel{CR:00}\" on Shichifuku St."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_5
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_5"
+msgid "You want to know about \"{CC:ffc8c8}Shine{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_6
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=6
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_6"
+msgid "Every girl is top-notch,||but I'll have to go with..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_7
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=7
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_7"
+msgid "the very sexy Aya,{PA:20}||Erina who looks very young,"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_8
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=8
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_8"
+msgid "or Yuzu who's the cute ditsy type..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_9
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=9
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_9"
+msgid "Which girl do you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_10
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=10
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_10"
+msgid "Aya is 20 years old.{PA:20}||Blood type O."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_11
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=11
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_11"
+msgid "She may be a daddy's girl,||but she has common sense,"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_12
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=12
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_12"
+msgid "and can appreciate a dirty joke."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_13
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=13
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_13"
+msgid "She's very friendly,||and is popular among young people."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_14
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=14
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_14"
+msgid "If you want the full hostess bar experience,||she'll show you a good time."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_15
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=15
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_15"
+msgid "Hehe.{PA:10} If you do well with her,||please lemme know."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_16
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=16
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_16"
+msgid "Erina is 21 years old.||Blood type B."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_17
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=17
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_17"
+msgid "She's good at acting like a cutesy girl,||and is good at milking the customer's money."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_18
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=18
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_18"
+msgid "Of course,{PA:10}||that doesn't make her a bitch..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_19
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=19
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_19"
+msgid "But she's not the girl for||a light-weight player."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_20
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=20
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_20"
+msgid "She likes pretty pricey presents like||perfume or brand-named items."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_21
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=21
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_21"
+msgid "You're gonna have to like||dropping some cash..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_22
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=22
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_22"
+msgid "to be on good terms with Erina."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_23
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=23
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_23"
+msgid "Yuzu's got a set of 32D breasts that||everyone's trying to get at."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_24
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=24
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_24"
+msgid "She's 22 years old.{PA:10} Blood type B."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_25
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=25
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_25"
+msgid "She has a short attention span||which results in some funny conversations."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_26
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=26
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_26"
+msgid "Once you win her affection,||her huge jugs will be... ❤"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_27
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=27
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_27"
+msgid "Hehehe.{PA:10}||I noticed your eyes glittering."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_28
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=28
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_28"
+msgid "I know how you're feeling."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_29
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=29
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_29"
+msgid "You want to know about \"{CC:ffc8c8}Jewel{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_30
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=30
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_30"
+msgid "All the girls there are fine but||I'd have to recommend..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_31
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=31
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_31"
+msgid "Reika who looks like a race queen,"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_32
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=32
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_32"
+msgid "Chisa who tells it how it is,"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_33
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=33
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_33"
+msgid "or Hiromi who's very relaxed to be around..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_34
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=34
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_34"
+msgid "Which girl do you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_35
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=35
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_35"
+msgid "Reika looks like she's got a lot of pride."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_36
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=36
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_36"
+msgid "At first she may come off as arrogant,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_37
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=37
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_37"
+msgid "but the truth is,{PA:10}||she's really down-to-earth."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_38
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=38
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_38"
+msgid "She's 22 years old. Blood type AB."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_39
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=39
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_39"
+msgid "A lot of guys are intimidated by her||appearance and hesitate to confront her..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_40
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=40
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_40"
+msgid "However, the goddess only smiles upon ones||who can overcome this obstacle."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_41
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=41
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_41"
+msgid "Good luck."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_42
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=42
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_42"
+msgid "Chisa is a very sweet girl.{PA:20}||She's my personal favourite."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_43
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=43
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_43"
+msgid "Well, people either love||or hate this type of girl."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_44
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=44
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_44"
+msgid "She's 20 years old, but acts||like everybody's older sister.{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_45
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=45
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_45"
+msgid "She's got a strong sense of right||and wrong and is somewhat a tomboy."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_46
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=46
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_46"
+msgid "Maybe it's because of the way||she was brought up,"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_47
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=47
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_47"
+msgid "but she doesn't care about luxury goods."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_48
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=48
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_48"
+msgid "She doesn't prefer expensive presents."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_49
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=49
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_49"
+msgid "Some dirty jokes are okay..."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_50
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=50
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_50"
+msgid "But, {PA:10}if you go overboard,{PA:10}||she'll get turned off."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_51
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=51
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_51"
+msgid "Hiromi's 23 years old.{PA:20}||Blood type O."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_52
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=52
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_52"
+msgid "I heard she likes wearing boots."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_53
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=53
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_53"
+msgid "She is extremely beautiful and||has an excellent body."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_54
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=54
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 54
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_54"
+msgid "She's the type who enjoys long||conversations with customers."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_55
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=55
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_55"
+msgid "Unlike most girls,||she isn't attracted to expensive drinks."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_56
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=56
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_56"
+msgid "I've seen many rich men try to||win her over and fail."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_57
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=57
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 57
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_57"
+msgid "Hmm.{PA:20} You want to know about||strip clubs? You have a refined hobby."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_58
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=58
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 58
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_58"
+msgid "Do you know \"{CC:ffc8c8}Asia{CR:00}\" on Pink St.?"
+msgstr ""
+
+#. y1ps2.full_id: 73_0_59
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=59
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 59
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_59"
+msgid "I recommend Miyu."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_60
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=60
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 60
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_60"
+msgid "I heard she's in a relationship with||a host, but she's still a nice girl."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_61
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=61
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 61
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_61"
+msgid "I think one day she'll turn the whole||strip club industry in a new direction."
+msgstr ""
+
+#. y1ps2.full_id: 73_0_62
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=0|sg=62
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 62
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_0_62"
+msgid "Good bye, creature of the night.{PA:20}||Come by anytime."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_0"
+msgid "Hello, {PA:10}creature of the night.{PA:20}||My name is Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_1"
+msgid "What can I do for you?"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_2
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_2"
+msgid "You want to know about some hostess bars?{PA:20}||I recommend \"{CC:ffc8c8}Shine{CR:00}\" on Pink St."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_3
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_3"
+msgid "Or... \"{CC:ffc8c8}Jewel{CR:00}\" on Shichifuku St."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_5
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_5"
+msgid "You want to know about \"{CC:ffc8c8}Shine{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_6
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_6"
+msgid "Every girl is top-notch,||but I'll have to go with..."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_7
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=7
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_7"
+msgid "the very sexy Aya,{PA:20}||Erina who looks very young,"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_8
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=8
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_8"
+msgid "or Yuzu who's the cute ditsy type..."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_9
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=9
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_9"
+msgid "Which girl do you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_10
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=10
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_10"
+msgid "Aya is 20 years old.{PA:20}||Blood type O."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_11
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=11
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_11"
+msgid "She may be a daddy's girl,"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_12
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=12
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_12"
+msgid "but she has common sense,||and can appreciate a dirty joke."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_13
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=13
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_13"
+msgid "She's very friendly,||and is popular among young people."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_14
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=14
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_14"
+msgid "If you want the full hostess bar experience,||she'll show you a good time."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_15
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=15
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_15"
+msgid "Hehe. {PA:10}If you do well with her,||please lemme know."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_16
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=16
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_16"
+msgid "Erina is 21 years old.||Blood type B."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_17
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=17
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_17"
+msgid "She's good at acting like a cutesy girl,||and is good at milking the customer's money."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_18
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=18
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_18"
+msgid "Of course,{PA:10}||that doesn't make her a bitch..."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_19
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=19
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_19"
+msgid "But she's not the girl||for a light-weight player."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_20
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=20
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_20"
+msgid "She likes pretty pricey presents like||perfume or brand-named items."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_21
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=21
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_21"
+msgid "You're gonna have to like||dropping some cash..."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_22
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=22
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_22"
+msgid "to be in good terms with Erina."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_23
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=23
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_23"
+msgid "Yuzu's got a set of 32D breasts that||everyone's trying to get at."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_24
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=24
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_24"
+msgid "She's 22 years old.{PA:10} Blood type B."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_25
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=25
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_25"
+msgid "She has a short attention span||which results in some funny conversations."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_26
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=26
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_26"
+msgid "Once you win her affection,||her huge jugs will be... ❤"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_27
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=27
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_27"
+msgid "Hehehe.{PA:10}||I noticed your eyes glittering."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_28
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=28
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_28"
+msgid "I know how you're feeling."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_29
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=29
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_29"
+msgid "You want to know about \"{CC:ffc8c8}Jewel{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_30
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=30
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_30"
+msgid "All the girls there are fine but||I'd have to recommend..."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_31
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=31
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_31"
+msgid "Reika who looks like a race queen,"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_32
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=32
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_32"
+msgid "Chisa who tells it how it is,"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_33
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=33
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_33"
+msgid "or Hiromi who's very relaxed to be around..."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_34
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=34
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_34"
+msgid "Which girl do you want to know about?"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_35
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=35
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_35"
+msgid "Reika looks like she's got a lot of pride."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_36
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=36
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_36"
+msgid "At first she may come off as arrogant,{PA:10}"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_37
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=37
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 37
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_37"
+msgid "but the truth is,{PA:10}||she's really down-to-earth."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_38
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=38
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_38"
+msgid "She's 22 years old. Blood type AB."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_39
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=39
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_39"
+msgid "A lot of guys are intimidated by her||appearance and hesitate to confront her..."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_40
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=40
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_40"
+msgid "However, the goddess only smiles upon ones||who can overcome this obstacle."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_41
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=41
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_41"
+msgid "Good luck."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_42
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=42
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_42"
+msgid "I heard Chisa-chan||quit her job recently."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_43
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=43
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_43"
+msgid "She was such a nice girl..."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_44
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=44
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 44
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_44"
+msgid "Did you get a chance to talk with her?"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_45
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=45
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 45
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_45"
+msgid "Hiromi's 23 years old.{PA:20}||Blood type O."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_46
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=46
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 46
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_46"
+msgid "I heard she likes wearing boots."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_47
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=47
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 47
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_47"
+msgid "She is extremely beautiful and||has an excellent body."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_48
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=48
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 48
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_48"
+msgid "She's the type who enjoys long||conversations with customers."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_49
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=49
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 49
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_49"
+msgid "Unlike most girls,||she isn't attracted to expensive drinks."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_50
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=50
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 50
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_50"
+msgid "I've seen many rich men try to||win her over and fail."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_51
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=51
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 51
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_51"
+msgid "Hmm.{PA:20} You want to know about strip clubs?||You have a refined hobby."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_52
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=52
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 52
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_52"
+msgid "Do you know \"{CC:ffc8c8}Asia{CR:00}\" on Pink St.?"
+msgstr ""
+
+#. y1ps2.full_id: 73_1_53
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=53
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 53
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_53"
+msgid "I recommend Miyu."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_54
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=54
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 54
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_54"
+msgid "I heard she's in a relationship with||a host, but she's still a nice girl."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_55
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=55
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 55
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_55"
+msgid "I think one day she'll turn the whole||strip club industry in a new direction."
+msgstr ""
+
+#. y1ps2.full_id: 73_1_56
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=1|sg=56
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 56
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_1_56"
+msgid "Good bye, creature of the night.{PA:20}||Come by anytime."
+msgstr ""
+
+#. y1ps2.full_id: 73_2_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_2_0"
+msgid "Hello,{PA:10} creature of the night.{PA:20}||My name is Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 73_2_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_2_1"
+msgid "Are you having fun?||I wish you good luck."
+msgstr ""
+
+#. y1ps2.full_id: 73_3_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_3_0"
+msgid "Hello,{PA:10} creature of the night.{PA:20}||My name is Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 73_3_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_3_1"
+msgid "Are you having fun?||I wish you good luck."
+msgstr ""
+
+#. y1ps2.full_id: 73_4_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=4|sg=0
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_4_0"
+msgid "Hello,{PA:10} creature of the night.{PA:20}||My name is Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 73_4_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=4|sg=1
+#. y1ps2.main_group: 4
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_4_1"
+msgid "Are you having fun?||I wish you good luck."
+msgstr ""
+
+#. y1ps2.full_id: 73_5_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=5|sg=0
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_5_0"
+msgid "Hello,{PA:10} creature of the night.{PA:20}||My name is Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 73_5_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=5|sg=1
+#. y1ps2.main_group: 5
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_5_1"
+msgid "Are you having fun?||I wish you good luck."
+msgstr ""
+
+#. y1ps2.full_id: 73_6_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_6_0"
+msgid "Hello,{PA:10} creature of the night.{PA:20}||My name is Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 73_6_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_6_1"
+msgid "Are you having fun?||I wish you good luck."
+msgstr ""
+
+#. y1ps2.full_id: 73_7_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_7_0"
+msgid "Hello,{PA:10} creature of the night.{PA:20}||My name is Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 73_7_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=7|sg=1
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_7_1"
+msgid "Are you having fun?||I wish you good luck."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=0
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_0"
+msgid "Hello,{PA:10} creature of the night.{PA:20}||My name is Masutatsu Mizuno."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=1
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_1"
+msgid "What can I do for you?"
+msgstr ""
+
+#. y1ps2.full_id: 73_8_2
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=2
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_2"
+msgid "You want to know about some hostess bars?{PA:20}||I recommend \"{CC:ffc8c8}Shine{CR:00}\" on Pink St."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_3
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=3
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_3"
+msgid "Or... \"{CC:ffc8c8}Jewel{CR:00}\" on Shichifuku St."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_5
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=5
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_5"
+msgid "You want to know about \"{CC:ffc8c8}Shine{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 73_8_6
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=6
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_6"
+msgid "Looks like you've already conquered it!"
+msgstr ""
+
+#. y1ps2.full_id: 73_8_7
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=7
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_7"
+msgid "I don't think there is anything||more I can tell you."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_8
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=8
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_8"
+msgid "You want to know about \"{CC:ffc8c8}Jewel{CR:00}\"?"
+msgstr ""
+
+#. y1ps2.full_id: 73_8_9
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=9
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_9"
+msgid "Looks like you've already conquered it!"
+msgstr ""
+
+#. y1ps2.full_id: 73_8_10
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=10
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_10"
+msgid "I don't think there is anything||more I can tell you."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_11
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=11
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_11"
+msgid "Hmm.{PA:20} You want to know about strip clubs?||You have a refined hobby."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_12
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=12
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_12"
+msgid "Do you know \"{CC:ffc8c8}Asia{CR:00}\" on Pink St.?"
+msgstr ""
+
+#. y1ps2.full_id: 73_8_13
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=13
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_13"
+msgid "I recommend Miyu."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_14
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=14
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_14"
+msgid "I heard she's in a relationship with||a host, but she's still a nice girl."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_15
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=15
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_15"
+msgid "I think one day she'll turn the whole||strip club industry in a new direction."
+msgstr ""
+
+#. y1ps2.full_id: 73_8_16
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=8|sg=16
+#. y1ps2.main_group: 8
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_8_16"
+msgid "Good bye, creature of the night.{PA:20}||Come by anytime."
+msgstr ""
+
+#. y1ps2.full_id: 73_9_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=9|sg=0
+#. y1ps2.main_group: 9
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_9_0"
+msgid "Is there anything you||want to ask me?"
+msgstr ""
+
+#. y1ps2.full_id: 73_10_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_10_0"
+msgid "Is there anything you||want to ask me?"
+msgstr ""
+
+#. y1ps2.full_id: 73_11_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_0"
+msgid "Huh? {PA:20}You're {PA:10}Shinji-san's||friend, eh?"
+msgstr ""
+
+#. y1ps2.full_id: 73_11_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=1
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_1"
+msgid "...{PA:20}I see.{PA:20}||I've heard what happened..."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_2
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=2
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_2"
+msgid "{PA:20}I feel sorry for Shinji-san.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 73_11_3
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=3
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_3"
+msgid "Tell me about \"{CC:ffc8c8}Shangri-la{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_4
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=4
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_4"
+msgid "Shangri-la's an Asian massage parlour for||VIP members only. It's on E. Taihei Blvd."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_5
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=5
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_5"
+msgid "Getting a hold of a membership card is{PA:10}||very difficult."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_6
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=6
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_6"
+msgid "Rumour has it that they're sold||for ridiculously high prices"
+msgstr ""
+
+#. y1ps2.full_id: 73_11_7
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=7
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_7"
+msgid "on the black market."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_8
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=8
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_8"
+msgid "By the way,||Shinji-san's favorite girl's name is Akemi."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_9
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=9
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_9"
+msgid "She is the number one \"masseuse\" there."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_10
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=10
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_10"
+msgid "Tell me about \"{CC:ffc8c8}Shine{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_11
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=11
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_11"
+msgid "Shine's a hostess bar||in the central section of Pink St."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_12
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=12
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_12"
+msgid "They got pretty good girls||for a reasonable price."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_13
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=13
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_13"
+msgid "However, {PA:10}I heard there are||many scandalous bars in that area."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_14
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=14
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_14"
+msgid "I recommend \"{CC:ffc8c8}Shine{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_15
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=15
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_15"
+msgid "Tell me about \"{CC:ffc8c8}Jewel{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_16
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=16
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_16"
+msgid "Go out this information centre,||and walk east on Shichifuku St."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_17
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=17
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_17"
+msgid "You'll find a hostess bar called||\"{CC:ffc8c8}Jewel{CR:00}\" on your left."
+msgstr ""
+
+#. y1ps2.full_id: 73_11_18
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=11|sg=18
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_11_18"
+msgid "This is another good spot.{PA:20}||I recommend it."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=0
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_0"
+msgid "Ah, hello. {PA:20}If you want to know about||the nightlife of this town,"
+msgstr ""
+
+#. y1ps2.full_id: 73_12_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=1
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_1"
+msgid "you came to the right guy."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_2
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=2
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_2"
+msgid "I'll tell you about some interesting places.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 73_12_3
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=3
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_3"
+msgid "Tell me about \"{CC:ffc8c8}Shangri-la{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_4
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=4
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_4"
+msgid "Shangri-la's an Asian massage parlour for||VIP members only. It's on E. Taihei Blvd."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_5
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=5
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_5"
+msgid "Getting a hold of a membership||card is {PA:10}very difficult."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_6
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=6
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_6"
+msgid "Rumour has it that they're being sold||for ridiculously high prices"
+msgstr ""
+
+#. y1ps2.full_id: 73_12_7
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=7
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_7"
+msgid "on the black market."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_8
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=8
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_8"
+msgid "By the way,||Shinji-san's favorite girl's name is Akemi."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_9
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=9
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_9"
+msgid "She is the number one \"masseuse\" there."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_10
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=10
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_10"
+msgid "Tell me about \"{CC:ffc8c8}Shine{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_11
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=11
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_11"
+msgid "Shine's a hostess bar||in the central section of Pink St."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_12
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=12
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_12"
+msgid "They got pretty good girls||for a reasonable price."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_13
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=13
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_13"
+msgid "However,{PA:10} I heard||there are many scandalous bars in that area."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_14
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=14
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_14"
+msgid "I recommend \"{CC:ffc8c8}Shine{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_15
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=15
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_15"
+msgid "Tell me about \"{CC:ffc8c8}Jewel{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_16
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=16
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_16"
+msgid "Go out this information centre,||and walk east on Shichifuku St."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_17
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=17
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_17"
+msgid "You'll find a hostess bar called||\"{CC:ffc8c8}Jewel{CR:00}\" on your left."
+msgstr ""
+
+#. y1ps2.full_id: 73_12_18
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=12|sg=18
+#. y1ps2.main_group: 12
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_12_18"
+msgid "This is another good spot.{PA:20}||I recommend it."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=0
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_0"
+msgid "If you wanna know about the nightlife||of this town, you came to the right guy.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 73_14_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=1
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_1"
+msgid "I'll tell you about some interesting places.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 73_14_2
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=2
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_2"
+msgid "You must be {PA:10}Masutatsu Mizuno?"
+msgstr ""
+
+#. y1ps2.full_id: 73_14_3
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=3
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_3"
+msgid "Xin Mei said||you have a \"{CC:ffc8c8}Shangri-la Membership Card{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_4
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=4
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_4"
+msgid "Huh?! {PA:20}Xin Mei?!{PA:20}||How do you know {PA:10}Xin Mei?!"
+msgstr ""
+
+#. y1ps2.full_id: 73_14_5
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=5
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_5"
+msgid "Don't worry about it.{PA:20}||I need that \"{CC:ffc8c8}Shangri-la Membership Card{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_6
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=6
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_6"
+msgid "...{MS:0}{PA:20}{PA:20}||So, you met with Xin Mei."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_7
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=7
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_7"
+msgid "I see...{PA:20}||That means {PA:10}she's still in town."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_8
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=8
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_8"
+msgid "About the membership card...{MS:0}{PA:20}||I can't just hand it over to you."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_9
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=9
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_9"
+msgid "You don't understand{PA:10}||how hard it was for me to get it..."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_10
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=10
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_10"
+msgid "I'm sure it was very difficult to get,{PA:20}||but I need it... it's life or death."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_11
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=11
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_11"
+msgid "Hmmm...{MS:0}{PA:20}||Okay."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_12
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=12
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_12"
+msgid "If Xin Mei trusts you,{PA:10}||I can't refuse."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_13
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=13
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_13"
+msgid "You have to understand that{PA:10}||I can't just give it to you..."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_14
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=14
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_14"
+msgid "A \"{CC:ffc8c8}Shangri-la Membership Card{CR:00}\" is usually sold||for several million yen..."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_15
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=15
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_15"
+msgid "How about 500,000 yen?"
+msgstr ""
+
+#. y1ps2.full_id: 73_14_17
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=17
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_17"
+msgid "You paid 500,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_18
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=18
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_18"
+msgid "Here you go.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 73_14_19
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=19
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_19"
+msgid "You received a \"{CC:ffc8c8}Shangri-la Membership Card{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_20
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=20
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_20"
+msgid "It's a memento||from the first time I met Xin Mei."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_21
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=21
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_21"
+msgid "Please take good care of it."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_22
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=22
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_22"
+msgid "Okay."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_23
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=23
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_23"
+msgid "Uhh... {PA:20}If you see Xin Mei again...{PA:20}||{MS:0}Ummm, {PA:10}never mind..."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_24
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=24
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 24
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_24"
+msgid "Don't worry about it.{PA:20}||Good bye."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_27
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=27
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_27"
+msgid "Well...{PA:20}||Alright..."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_28
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=28
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_28"
+msgid "You look pretty desperate."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_29
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=29
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_29"
+msgid "Okay,{MS:1}{MS:0}{PA:20}||300,000 it is."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_30
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=30
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_30"
+msgid "You paid 300,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_31
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=31
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 31
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_31"
+msgid "You received a \"{CC:ffc8c8}Shangri-la Membership Card{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_32
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=32
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 32
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_32"
+msgid "It's a memento||from the first time I met Xin Mei."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_33
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=33
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 33
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_33"
+msgid "Please take good care of it."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_34
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=34
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 34
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_34"
+msgid "Okay."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_35
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=35
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 35
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_35"
+msgid "Uhh... {PA:20}If you see Xin Mei again...{PA:20}||{MS:0}Ummm, {PA:10}never mind..."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_36
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=36
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 36
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_36"
+msgid "Don't worry about it.{PA:20}||Good bye."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_38
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=38
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 38
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_38"
+msgid "...{MS:0}{PA:20}||Don't be ridiculous!"
+msgstr ""
+
+#. y1ps2.full_id: 73_14_39
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=39
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 39
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_39"
+msgid "I'm sorry,{PA:10}||but no."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_40
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=40
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 40
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_40"
+msgid "...{PA:20}||Are you threatening me?"
+msgstr ""
+
+#. y1ps2.full_id: 73_14_41
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=41
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 41
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_41"
+msgid "I refuse to deal with a person like you.{PA:20}||I'm sorry, {PA:10}but please leave."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_42
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=42
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 42
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_42"
+msgid "It doesn't look like you can afford it.{MS:0}{PA:20}||I'm sorry, {PA:10}but I can't give it to you."
+msgstr ""
+
+#. y1ps2.full_id: 73_14_43
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=14|sg=43
+#. y1ps2.main_group: 14
+#. y1ps2.subgroup: 43
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_14_43"
+msgid "Come back {PA:10}when you have||enough cash. {PA:20}See you later."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_0
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=0
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_0"
+msgid "Oh,{MS:0}{PA:10}||you wanna make a deal?"
+msgstr ""
+
+#. y1ps2.full_id: 73_15_1
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=1
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_1"
+msgid "A \"{CC:ffc8c8}Shangri-la Membership Card{CR:00}\" is usually sold||for several million yen..."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_2
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=2
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_2"
+msgid "How about 500,000 yen?"
+msgstr ""
+
+#. y1ps2.full_id: 73_15_4
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=4
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_4"
+msgid "You paid 500,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_5
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=5
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_5"
+msgid "Here you go.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 73_15_6
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=6
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_6"
+msgid "You received a \"{CC:ffc8c8}Shangri-la Membership Card{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_7
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=7
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_7"
+msgid "It's a memento||from the first time I met Xin Mei."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_8
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=8
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_8"
+msgid "Please take good care of it."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_9
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=9
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_9"
+msgid "Okay."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_10
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=10
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_10"
+msgid "Uhh... {PA:20}If you see Xin Mei again...{PA:20}||{MS:0}Ummm, {PA:10}never mind..."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_11
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=11
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_11"
+msgid "Don't worry about it.{PA:20}||Good bye."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_14
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=14
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_14"
+msgid "Well...{PA:20}||Alright..."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_15
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=15
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_15"
+msgid "You look pretty desperate."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_16
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=16
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 16
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_16"
+msgid "Okay,{MS:1}{MS:0}{PA:20}||300,000 it is."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_17
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=17
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_17"
+msgid "You paid 300,000 yen."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_18
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=18
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_18"
+msgid "You received a \"{CC:ffc8c8}Shangri-la Membership Card{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_19
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=19
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 19
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_19"
+msgid "It's a memento||from the first time I met Xin Mei."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_20
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=20
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 20
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_20"
+msgid "Please take good care of it."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_21
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=21
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 21
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_21"
+msgid "Okay."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_22
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=22
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 22
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_22"
+msgid "Uhh... {PA:20}If you see Xin Mei again...{PA:20}||{MS:0}Ummm, {PA:10}never mind..."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_23
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=23
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 23
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_23"
+msgid "Don't worry about it.{MS:0}{PA:20}||Good bye."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_25
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=25
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 25
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_25"
+msgid "...{MS:0}{PA:20}||Don't be ridiculous!"
+msgstr ""
+
+#. y1ps2.full_id: 73_15_26
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=26
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 26
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_26"
+msgid "I'm sorry,{PA:10}||but no."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_27
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=27
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 27
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_27"
+msgid "...{PA:20}||Are you threatening me?"
+msgstr ""
+
+#. y1ps2.full_id: 73_15_28
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=28
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 28
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_28"
+msgid "I refuse to deal with a person like you.{PA:20}||I'm sorry, {PA:10}but please leave."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_29
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=29
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 29
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_29"
+msgid "It doesn't look like you can afford it.{PA:20}||I'm sorry, {PA:10}but I can't give it to you."
+msgstr ""
+
+#. y1ps2.full_id: 73_15_30
+#. y1ps2.logical_line_key: DAY_KAB0070|block=0074|type=01|mg=15|sg=30
+#. y1ps2.main_group: 15
+#. y1ps2.subgroup: 30
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: main_story
+#. y1ps2.story_key: CHAPTER13
+#. y1ps2.story_title: Internal CHAPTER13
+#. y1ps2.evidence: explicit_trigger_prefix
+#. y1ps2.context: C13_TRG_HAIBILL
+#. y1ps2.actor: w_0
+#. y1ps2.pose: Idle
+#. y1ps2.chapter: 13
+msgctxt "73_15_30"
+msgid "Come back {PA:10}when you have enough cash.{PA:20}||See you later."
+msgstr ""

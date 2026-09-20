@@ -1,0 +1,1025 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: DAY_KAB0015\n"
+"X-Y1PS2-Role: work_es\n"
+"X-Y1PS2-Output-Language: es\n"
+"X-Y1PS2-Source-Language: es\n"
+"X-Y1PS2-Source-Language-Index: 5\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: DAY_KAB0015.BIN\n"
+"X-Y1PS2-Source-SHA256: fea6d24e9229c0a1803cf5c1d34fa053d7cdf980ef28515a39bc38fcf239443b\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: DAY_KAB0015.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: DAY_KAB0015.BIN\n"
+"X-Y1PS2-Talk-SHA256: fea6d24e9229c0a1803cf5c1d34fa053d7cdf980ef28515a39bc38fcf239443b\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 121\n"
+"X-Y1PS2-Raw-Block-ID: 157\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x009D\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: 9d00010ec0420000\n"
+"X-Y1PS2-Logical-Section-Key: DAY_KAB0015|block=0157|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: Mcoat_b_Msh_b\n"
+"X-Y1PS2-Actor: Mcoat_b_Msh_b\n"
+"X-Y1PS2-Pose: TalkPC01\n"
+"X-Y1PS2-Reference-EN-PO: DAY_KAB0015/reference/en/t00__DAY_KAB0015__en__sec-0121__block-0157__type-01.po\n"
+
+#. y1ps2.full_id: 121_0_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_0"
+msgid "¿Qué estás haciendo?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_1
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_1"
+msgid "iUgh!{PA:10} iTú!"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_2
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_2"
+msgid "No me vas a matar||tan fácilmente..."
+msgstr ""
+
+#. y1ps2.full_id: 121_0_3
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_3"
+msgid "¿Eh?{PA:10} ¿De qué hablas?"
+msgstr ""
+
+#. y1ps2.full_id: 121_0_4
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_0_4"
+msgid "iDescansa en paz!"
+msgstr ""
+
+#. y1ps2.full_id: 121_1_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_1_0"
+msgid "iCapullo! iMuévete!||iQuítate de en medio!"
+msgstr ""
+
+#. y1ps2.full_id: 121_2_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_0"
+msgid "Mierda...{PA:10}||No eres sólo un recadero, {PA:10}¿verdad?"
+msgstr ""
+
+#. y1ps2.full_id: 121_2_1
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=1
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_1"
+msgid "¿Quién demonios eres?"
+msgstr ""
+
+#. y1ps2.full_id: 121_2_2
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=2
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_2"
+msgid "Debes haberme confundido con alguien."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_3
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=3
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_3"
+msgid "¿Eh? Tú... ¿No serás Kazuma Kiryu?||De la Familia Dojima..."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_4
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=4
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_4"
+msgid "¿Nos conocemos de algo?"
+msgstr ""
+
+#. y1ps2.full_id: 121_2_5
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=5
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_5"
+msgid "Umf... Eres más famoso||de lo que crees."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_6
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=6
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_6"
+msgid "Entonces eso significa que no eres uno||de los tíos que me estaban buscando."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_7
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=7
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_7"
+msgid "¿A qué te refieres?"
+msgstr ""
+
+#. y1ps2.full_id: 121_2_8
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=8
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_8"
+msgid "Me busca la familia a la que pertenecía."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_9
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=9
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_9"
+msgid "Por tu aspecto, te tomé por uno de ellos.||Lo siento."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_10
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=10
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_10"
+msgid "Esto es por los problemas.{PA:20}||Por favor, acéptala."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_11
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=11
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_11"
+msgid "Has conseguido||\"{CC:ffc8c8}Llave de Taquilla de Monedas N0 10{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_12
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=12
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_12"
+msgid "Ahora me voy.{PA:20} Si te quedas cerca de mí||demasiado tiempo, te meterás en problemas."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_13
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=13
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_13"
+msgid "¿Adónde vas a ir?"
+msgstr ""
+
+#. y1ps2.full_id: 121_2_14
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=14
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_14"
+msgid "Jeje.{PA:10} Ni siquiera sé lo que||puede pasarme mañana."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_15
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=15
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_15"
+msgid "Adiós,{PA:10} Dragón de la Familia Dojima.{PA:20}||iCuídate!"
+msgstr ""
+
+#. y1ps2.full_id: 121_2_17
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=17
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 17
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_17"
+msgid "No sé de qué me hablas.{PA:20}||No soy ese que dices."
+msgstr ""
+
+#. y1ps2.full_id: 121_2_18
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=2|sg=18
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 18
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_2_18"
+msgid "¿De verdad?...{PA:20}||Pues te pareces mucho a él."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_0"
+msgid "Oye,{PA:10} tú...{PA:20} Tú eres Kazuma Kiryu, ¿verdad?{PA:10}||¿De la Familia Dojima...?"
+msgstr ""
+
+#. y1ps2.full_id: 121_3_1
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_1"
+msgid "¿Nos conocemos de algo?"
+msgstr ""
+
+#. y1ps2.full_id: 121_3_2
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=2
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_2"
+msgid "Umf...{PA:10} Eres más famoso||de lo que crees."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_3
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=3
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_3"
+msgid "Entonces eso significa que no eres uno||de los tíos que me estaban buscando."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_4
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=4
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_4"
+msgid "¿A qué te refieres?"
+msgstr ""
+
+#. y1ps2.full_id: 121_3_5
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=5
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_5"
+msgid "Me busca la familia a la que pertenecía."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_6
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=6
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_6"
+msgid "Por tu aspecto, te tomé por uno de ellos.||Lo siento."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_7
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=7
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_7"
+msgid "Esto es por los problemas.{PA:20}||Por favor, acéptala."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_8
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=8
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_8"
+msgid "Has conseguido||\"{CC:ffc8c8}Llave de Taquilla de Monedas N0 10{CR:00}\"."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_9
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=9
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 9
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_9"
+msgid "Ahora me voy. {PA:20}Si te quedas cerca de mí||demasiado tiempo, te meterás en problemas."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_10
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=10
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_10"
+msgid "¿Adónde vas a ir?"
+msgstr ""
+
+#. y1ps2.full_id: 121_3_11
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=11
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_11"
+msgid "Jeje. Ni siquiera sé lo que||puede pasarme mañana."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_12
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=12
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_12"
+msgid "Adiós,{PA:10} Dragón de la Familia Dojima.{PA:20}||iCuídate!"
+msgstr ""
+
+#. y1ps2.full_id: 121_3_14
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=14
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_14"
+msgid "No sé de qué me hablas.{PA:20}||No soy ese que dices."
+msgstr ""
+
+#. y1ps2.full_id: 121_3_15
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=3|sg=15
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_3_15"
+msgid "¿De verdad?...{PA:20}||Pues te pareces mucho a él."
+msgstr ""
+
+#. y1ps2.full_id: 121_6_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=0
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_0"
+msgid "Oye tú."
+msgstr ""
+
+#. y1ps2.full_id: 121_6_1
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=1
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_1"
+msgid "iUgh! {PA:10}iEres tú!{PA:10}||No me vas a matar tan fácilmente..."
+msgstr ""
+
+#. y1ps2.full_id: 121_6_2
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=2
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_2"
+msgid "¿De qué me hablas?"
+msgstr ""
+
+#. y1ps2.full_id: 121_6_3
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=3
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_3"
+msgid "iOh!{PA:10} Eres tú otra vez."
+msgstr ""
+
+#. y1ps2.full_id: 121_6_4
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=4
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_4"
+msgid "¿Y?{PA:10}||¿Te gusta lo que había en la taquilla?"
+msgstr ""
+
+#. y1ps2.full_id: 121_6_5
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=5
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_5"
+msgid "Sí,{PA:10} no está mal."
+msgstr ""
+
+#. y1ps2.full_id: 121_6_6
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=6
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_6"
+msgid "Me alegro. Por desgracia,"
+msgstr ""
+
+#. y1ps2.full_id: 121_6_7
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=7
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 7
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_7"
+msgid "me persiguen.{PA:20}||No tengo tiempo para charlar."
+msgstr ""
+
+#. y1ps2.full_id: 121_6_8
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=8
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 8
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_8"
+msgid "No creo que te vuelva a ver,||pero ibuena suerte!"
+msgstr ""
+
+#. y1ps2.full_id: 121_6_10
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=10
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 10
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_10"
+msgid "No..."
+msgstr ""
+
+#. y1ps2.full_id: 121_6_11
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=11
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 11
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_11"
+msgid "Ya veo...{PA:10}||Algunas personas están ansiosas"
+msgstr ""
+
+#. y1ps2.full_id: 121_6_12
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=12
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 12
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_12"
+msgid "por conseguir eso..."
+msgstr ""
+
+#. y1ps2.full_id: 121_6_13
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=13
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 13
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_13"
+msgid "Bueno,{PA:10} como verás,||estoy huyendo.{PA:20}"
+msgstr ""
+
+#. y1ps2.full_id: 121_6_14
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=14
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 14
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_14"
+msgid "No tengo tiempo que perder."
+msgstr ""
+
+#. y1ps2.full_id: 121_6_15
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=6|sg=15
+#. y1ps2.main_group: 6
+#. y1ps2.subgroup: 15
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_6_15"
+msgid "No creo que vuelva a verte,{PA:10}||pero ibuena suerte!"
+msgstr ""
+
+#. y1ps2.full_id: 121_7_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=7|sg=0
+#. y1ps2.main_group: 7
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_7_0"
+msgid "iCapullo! iMuévete!||iQuítate de en medio!"
+msgstr ""
+
+#. y1ps2.full_id: 121_10_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=10|sg=0
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_10_0"
+msgid "Oye,{PA:10} tú."
+msgstr ""
+
+#. y1ps2.full_id: 121_10_1
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=10|sg=1
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_10_1"
+msgid "iOh!{PA:10} Eres tú.{PA:10}||Como verás, sigo huyendo."
+msgstr ""
+
+#. y1ps2.full_id: 121_10_2
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=10|sg=2
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_10_2"
+msgid "Pero es muy emocionante||estar huyendo."
+msgstr ""
+
+#. y1ps2.full_id: 121_10_3
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=10|sg=3
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_10_3"
+msgid "No está tan mal."
+msgstr ""
+
+#. y1ps2.full_id: 121_10_4
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=10|sg=4
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_10_4"
+msgid "Será cosa del destino que te||haya encontrado tantas veces."
+msgstr ""
+
+#. y1ps2.full_id: 121_10_5
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=10|sg=5
+#. y1ps2.main_group: 10
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_10_5"
+msgid "Nos vemos.{PA:20}||iHasta luego!"
+msgstr ""
+
+#. y1ps2.full_id: 121_11_0
+#. y1ps2.logical_line_key: DAY_KAB0015|block=0157|type=01|mg=11|sg=0
+#. y1ps2.main_group: 11
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: Mcoat_b_Msh_b
+#. y1ps2.actor: Mcoat_b_Msh_b
+#. y1ps2.pose: TalkPC01
+msgctxt "121_11_0"
+msgid "iCapullo! iMuévete!||iQuítate de en medio!"
+msgstr ""

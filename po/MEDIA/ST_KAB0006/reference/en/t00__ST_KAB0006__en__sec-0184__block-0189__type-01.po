@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 1 PS2 trilingual / yakuza_ps2xr compatible PO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Y1PS2-Schema-Version: 1\n"
+"X-Y1PS2-Source-Extractor: Sylwahan/yakuza_ps2xr\n"
+"X-Y1PS2-Logical-Container: ST_KAB0006\n"
+"X-Y1PS2-Role: reference_en\n"
+"X-Y1PS2-Output-Language: en\n"
+"X-Y1PS2-Source-Language: uk\n"
+"X-Y1PS2-Source-Language-Index: 2\n"
+"X-Y1PS2-Source-Kind: raw_talk_bin\n"
+"X-Y1PS2-Source-Relative-Path: ST_KAB0006.BIN\n"
+"X-Y1PS2-Source-SHA256: e69d86bbd8788f2da59a59326bf2677e4118fef0c3324b6f24b9ba221d7e770d\n"
+"X-Y1PS2-Talk-Index: 0\n"
+"X-Y1PS2-Talk-Name: ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-Upstream-Path: ST_KAB0006.BIN\n"
+"X-Y1PS2-Talk-SHA256: e69d86bbd8788f2da59a59326bf2677e4118fef0c3324b6f24b9ba221d7e770d\n"
+"X-Y1PS2-PO-Kind: text_section\n"
+"X-Y1PS2-Section-Ordinal: 184\n"
+"X-Y1PS2-Raw-Block-ID: 189\n"
+"X-Y1PS2-Raw-Block-ID-Hex: 0x00BD\n"
+"X-Y1PS2-Section-Type: 1\n"
+"X-Y1PS2-Section-Raw-Bytes: bd00010628420000\n"
+"X-Y1PS2-Logical-Section-Key: ST_KAB0006|block=0189|type=01\n"
+"X-Y1PS2-Story-Type: shared_or_unassigned\n"
+"X-Y1PS2-Story-Key: \n"
+"X-Y1PS2-Story-Evidence: not_uniquely_owned\n"
+"X-Y1PS2-Context: N_jaka1_F\n"
+"X-Y1PS2-Actor: w_100014\n"
+"X-Y1PS2-Pose: Stand05\n"
+
+#. y1ps2.full_id: 184_0_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=0|sg=0
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_0_0"
+msgid "This is the Shimano Family's territory.{PA:20}||You better get the fuck outta here."
+msgstr ""
+
+#. y1ps2.full_id: 184_0_1
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=0|sg=1
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_0_1"
+msgid "Go fuck yourself!"
+msgstr ""
+
+#. y1ps2.full_id: 184_0_2
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=0|sg=2
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_0_2"
+msgid "Oh, {PA:10}hehe. {PA:10}That was||definitely the wrong thing to say..."
+msgstr ""
+
+#. y1ps2.full_id: 184_0_3
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=0|sg=3
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_0_3"
+msgid "You're gonna be real sorry for that!"
+msgstr ""
+
+#. y1ps2.full_id: 184_0_4
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=0|sg=4
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_0_4"
+msgid "Alright, {PA:10}I'm outta here."
+msgstr ""
+
+#. y1ps2.full_id: 184_0_5
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=0|sg=5
+#. y1ps2.main_group: 0
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_0_5"
+msgid "Don't cause any more trouble."
+msgstr ""
+
+#. y1ps2.full_id: 184_1_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=1|sg=0
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_1_0"
+msgid "Your face doesn't look familiar.||This is the Shimano Family's territory."
+msgstr ""
+
+#. y1ps2.full_id: 184_1_1
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=1|sg=1
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_1_1"
+msgid "You better get the fuck outta here."
+msgstr ""
+
+#. y1ps2.full_id: 184_1_2
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=1|sg=2
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 2
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_1_2"
+msgid "Go fuck yourself!"
+msgstr ""
+
+#. y1ps2.full_id: 184_1_3
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=1|sg=3
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 3
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_1_3"
+msgid "Oh, {PA:10}hehe. {PA:10}That was||definitely the wrong thing to say..."
+msgstr ""
+
+#. y1ps2.full_id: 184_1_4
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=1|sg=4
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 4
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_1_4"
+msgid "You're gonna be real sorry for that!"
+msgstr ""
+
+#. y1ps2.full_id: 184_1_5
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=1|sg=5
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 5
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_1_5"
+msgid "Alright,{PA:10} I'm outta here."
+msgstr ""
+
+#. y1ps2.full_id: 184_1_6
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=1|sg=6
+#. y1ps2.main_group: 1
+#. y1ps2.subgroup: 6
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_1_6"
+msgid "Don't cause any more trouble."
+msgstr ""
+
+#. y1ps2.full_id: 184_2_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=2|sg=0
+#. y1ps2.main_group: 2
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 0f
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_2_0"
+msgid "Hey! You!||Stop right there."
+msgstr ""
+
+#. y1ps2.full_id: 184_3_0
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=3|sg=0
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 0
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_3_0"
+msgid "I...{PA:10} I'm sorry...{PA:20}||Forgive me... Please!"
+msgstr ""
+
+#. y1ps2.full_id: 184_3_1
+#. y1ps2.logical_line_key: ST_KAB0006|block=0189|type=01|mg=3|sg=1
+#. y1ps2.main_group: 3
+#. y1ps2.subgroup: 1
+#. y1ps2.main_line_spec_op: 00
+#. y1ps2.story_type: shared_or_unassigned
+#. y1ps2.story_key: 
+#. y1ps2.story_title: 
+#. y1ps2.evidence: not_uniquely_owned
+#. y1ps2.context: N_jaka1_F
+#. y1ps2.actor: w_100014
+#. y1ps2.pose: Stand05
+msgctxt "184_3_1"
+msgid "I'll never get in your face again, you have||my word! {PA:20}Please. I'm begging you!"
+msgstr ""
