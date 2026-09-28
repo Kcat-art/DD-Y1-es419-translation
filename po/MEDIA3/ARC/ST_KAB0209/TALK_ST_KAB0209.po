@@ -1,0 +1,4120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza PS2 Spanish TALK + EN/JP references - TALK_ST_KAB0209.BIN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: name
+#. name-index: 0
+msgctxt "ESN005446"
+msgid "Kazuma"
+msgstr ""
+
+#. type: name
+#. name-index: 1
+msgctxt "ESN005447"
+msgid "Haruka"
+msgstr ""
+
+#. type: name
+#. name-index: 2
+msgctxt "ESN005448"
+msgid "Date"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: KAGE [line-id 0_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 花屋 [line-id 0_0_0]
+msgctxt "ES0321669"
+msgid "Kage"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 0_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: It's me... {PA:10}What's up? [line-id 0_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}俺だ⋯{PA:10}どうした？ [line-id 0_1_0]
+msgctxt "ES0321670"
+msgid "Yo...{PA:10} ¿Qué pasa?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 0_1_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Suspicious man? [line-id 0_1_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 怪しい男？ [line-id 0_1_2]
+msgctxt "ES0321672"
+msgid "¿Tío sospechoso?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 0_1_4
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Alright, {PA:10}I'm heading over there now. [line-id 0_1_4]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: わかった、{PA:10}すぐに向かう。 [line-id 0_1_4]
+msgctxt "ES0321674"
+msgid "De acuerdo,{PA:10} voy hacia allá."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_2_0
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: I got a tip on Haruka's whereabouts.{PA:20}||There's a suspicious man at Park No.3. [line-id 0_2_0]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 遥に関する情報だ。{PA:20}||{MS:0}第三公園にあやしい男がいるらしい。 [line-id 0_2_0]
+msgctxt "ES0321675"
+msgid "Tengo una pista sobre||el paradero de Haruka."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_2_1
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: I got a tip on Haruka's whereabouts.{PA:20}||There's a suspicious man at Park No.3. [line-id 0_2_0]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 遥に関する情報だ。{PA:20}||{MS:0}第三公園にあやしい男がいるらしい。 [line-id 0_2_0]
+msgctxt "ES0321676"
+msgid "Hay un tío sospechoso||en el Parque No. 3."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_2_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: He was with a girl that might be||Haruka just a while ago.{PA:20} [line-id 0_2_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ちょっと前に遥らしい女の子を連れていた。{PA:20}||今そいつが居るのが第三公園だ。 [line-id 0_2_2]
+msgctxt "ES0321678"
+msgid "Estaba con una niña que podría ser||Haruka hace un momento.{PA:20}"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_2_4
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: He's at Park No.3 now. [line-id 0_2_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ちょっと前に遥らしい女の子を連れていた。{PA:20}||今そいつが居るのが第三公園だ。 [line-id 0_2_2]
+msgctxt "ES0321679"
+msgid "Está en el Parque No. 3 ahora mismo."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 1_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: It's almost time.{PA:20}||Get Haruka over to {MS:0}Purgatory. [line-id 1_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: そろそろ時間だ。{PA:20}||遥を{MS:0}賽の河原に預けに来い。 [line-id 2_1_0]
+msgctxt "ES0321683"
+msgid "Es casi la hora.{PA:20}||Lleva a Haruka{MS:0} al Purgatorio."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 2_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shinji [line-id 2_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: シンジ [line-id 3_0_0]
+msgctxt "ES0321684"
+msgid "Shinji"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 2_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: It's me. {PA:20}Where are you right now? [line-id 2_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}俺だ。{PA:20}今どこだ？ [line-id 3_1_0]
+msgctxt "ES0321685"
+msgid "Soy yo. {PA:20}¿Dónde estás ahora mismo?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 2_1_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Okay. {PA:20}I'll be there soon. [line-id 2_1_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: わかった。{PA:20}すぐ行く。 [line-id 3_1_2]
+msgctxt "ES0321687"
+msgid "Ok. Llegaré pronto ahí."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 2_1_4
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Don't die until I get there, {PA:20}Shinji! [line-id 2_1_4]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 俺が行くまで死ぬな。{PA:20}シンジ！ [line-id 3_1_4]
+msgctxt "ES0321689"
+msgid "iNo te mueras hasta que||llegue allí,{PA:20} Shinji!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 2_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: In the abandoned multipurpose complex.{PA:20} [line-id 2_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 雑居ビル跡です。{PA:20}||賽の河原近く、{PA:10}バッティングセンターの裏。 [line-id 3_2_0]
+msgctxt "ES0321690"
+msgid "En el complejo multiusos abandonado.||Detrás de la jaula de bateo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 2_2_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: It's behind the batting cage||and near Purgatory. [line-id 2_2_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 雑居ビル跡です。{PA:20}||賽の河原近く、{PA:10}バッティングセンターの裏。 [line-id 3_2_0]
+msgctxt "ES0321691"
+msgid "cerca del Purgatorio."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 2_2_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Please get here as soon as possible. [line-id 2_2_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 早く来てください。 [line-id 3_2_2]
+msgctxt "ES0321693"
+msgid "Por favor, ven cuanto antes."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 3_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Kano [line-id 3_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 加納 [line-id 4_0_0]
+msgctxt "ES0321695"
+msgid "Kano"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 3_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Aniki,{PA:10} it looks like she lost you. [line-id 3_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 兄貴、{PA:10}どうやら||逃げ切られちまったみたいですね。 [line-id 4_2_0]
+msgctxt "ES0321698"
+msgid "Aniki, parece que te ha perdido."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 3_2_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: I thought we could bank on this job... [line-id 3_2_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: いい儲けに||なると思ったんだけどなぁ。 [line-id 4_2_1]
+msgctxt "ES0321699"
+msgid "Creía que podríamos||seguir con este trabajo..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 3_2_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Well,{PA:10} I guess||I'll go find us some other jobs then... [line-id 3_2_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ま、{PA:10}また何か別のシノギ口||見つけてきますから。 [line-id 4_2_2]
+msgctxt "ES0321700"
+msgid "Bueno,{PA:10} supongo que iré a||buscar otro trabajo entonces..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 3_2_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Talk to you later! [line-id 3_2_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: それじゃ！ [line-id 4_2_3]
+msgctxt "ES0321701"
+msgid "iLuego hablamos!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 4_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Date [line-id 4_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 伊達 [line-id 5_0_0]
+msgctxt "ES0321703"
+msgid "Date"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 4_1_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Well, {PA:10}there's a slight problem... [line-id 4_1_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}それが、{PA:10}ちょっと困った事になってな⋯ [line-id 5_1_1]
+msgctxt "ES0321705"
+msgid "Bueno, existe un pequeño problema..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 4_1_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: I went to Bacchus,{PA:10}||but I couldn't get any info. [line-id 4_1_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: バッカスに行ったんだが、{PA:10}||情報は得られなかった。 [line-id 5_1_2]
+msgctxt "ES0321706"
+msgid "He ido a Baco,||pero no pude obtener ninguna información."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 4_1_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Everyone was dead. [line-id 4_1_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 全部消されちまってた。 [line-id 5_1_3]
+msgctxt "ES0321707"
+msgid "Todo el mundo estaba muerto."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 4_1_4
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: ...... [line-id 4_1_4]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ⋯⋯⋯ [line-id 5_1_4]
+msgctxt "ES0321708"
+msgid "......"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 4_1_5
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: ...That's what happened. [line-id 4_1_5]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ⋯という訳だ。 [line-id 5_1_5]
+msgctxt "ES0321709"
+msgid "...Eso fue lo que pasó."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 4_1_7
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yeah. [line-id 4_1_7]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: あぁそうなんだ。 [line-id 5_1_7]
+msgctxt "ES0321711"
+msgid "Sí."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 4_1_9
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: I guess so.{PA:20}||...I got it. [line-id 4_1_9]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: そうだな。{PA:20}||⋯分かった。 [line-id 5_1_9]
+msgctxt "ES0321713"
+msgid "Supongo.||...Vale"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 4_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: ...Date here.{PA:20} What's up?{PA:10}||Did you get to Serena? [line-id 4_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ⋯伊達だ。{PA:20}➿そっちの調子はどうだ？{PA:10}||セレナには行けたのか？ [line-id 5_2_0]
+msgctxt "ES0321714"
+msgid "...Date aquí. ¿Qué sucede?||¿Has ido a Serena?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 4_2_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: WHAT?!{PA:10}||Then,{PA:10} even the bartender, too? [line-id 4_2_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 何！？{PA:10}||じゃ、{PA:10}じゃあバッカスのマスターも！ [line-id 5_2_2]
+msgctxt "ES0321716"
+msgid "i¿QUÉ?!||Luego, ¿el camarero, también?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 4_2_4
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Damn... [line-id 4_2_4]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: そうか⋯ [line-id 5_2_4]
+msgctxt "ES0321718"
+msgid "Mierda..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 4_2_5
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Anyways Kazuma,{PA:10}||get the girl to {MS:0}"{CC:ffc8c8}Serena{CR:00}" right away. [line-id 4_2_5]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 桐生、{PA:10}とりあえずその女の子は||{MS:0}「{CC:ffc8c8}セレナ{CR:00}」に連れて行け。 [line-id 5_2_5]
+msgctxt "ES0321719"
+msgid "De todas maneras Kazuma, lleva la niña a||{MS:0}\"{CC:ffc8c8}Serena{CR:00}\", ahora mismo."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 4_2_6
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: We'll put her under police protection later. [line-id 4_2_6]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 後で警察が保護する。 [line-id 5_2_6]
+msgctxt "ES0321720"
+msgid "La pondremos bajo protección||policial más adelante."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 5_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: YUYA [line-id 5_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ユウヤ [line-id 6_0_0]
+msgctxt "ES0321722"
+msgid "Yuya"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 5_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Kazuma-san,{PA:10} you got some spare time? [line-id 5_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 桐生さん、{PA:10}今お時間あります？ [line-id 6_2_0]
+msgctxt "ES0321724"
+msgid "Kazuma-san,{PA:10} ¿tienes algo de tiempo?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 5_2_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: My girl's gonna be performing later.{PA:10}||Why don't you come and check it out? [line-id 5_2_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: もうじきオレの彼女の舞台があるんですけど、{PA:10}||良かったら、{PA:10}見にきません？ [line-id 6_2_1]
+msgctxt "ES0321725"
+msgid "Mi chica va a actuar más tarde.{PA:10}||¿Por qué no vienes y la ves?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 5_2_2
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: The place's on Pink St.{PA:20} I'll be waiting for||you in front of the club. {PA:20}See you later! [line-id 5_2_2]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: えーっと、{PA:10}場所はピンク通りになります。{PA:20}||店の前でまってますね。➿{PA:20}それでは！ [line-id 6_2_2]
+msgctxt "ES0321726"
+msgid "El sitio está en la Calle Pink.{PA:20}||Estaré esperándote enfrente de la tienda."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 5_2_3
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: The place's on Pink St.{PA:20} I'll be waiting for||you in front of the club. {PA:20}See you later! [line-id 5_2_2]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: えーっと、{PA:10}場所はピンク通りになります。{PA:20}||店の前でまってますね。➿{PA:20}それでは！ [line-id 6_2_2]
+msgctxt "ES0321727"
+msgid "iNos vemos!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 6_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: YUYA [line-id 6_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ユウヤ [line-id 7_0_0]
+msgctxt "ES0321728"
+msgid "Yuya"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 6_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: It's Yuya.{PA:10}||I'm with Miyu right now. [line-id 6_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ユウヤです。{PA:10}||今、{PA:10}ミユも一緒にいます。 [line-id 7_2_0]
+msgctxt "ES0321730"
+msgid "Soy Yuya.{PA:10}||Estoy con Miyu ahora mismo."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 6_2_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: When I told them you wouldn't show up,{PA:10}||they let us go... [line-id 6_2_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 連中、{PA:10}桐生さんは来ないって言ったら||オレらのことあっさり解放して⋯。 [line-id 7_2_1]
+msgctxt "ES0321731"
+msgid "Cuando les dije que no apareceríais,||nos dejaron ir..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 6_2_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: I wasn't able to find out anything.{PA:20}||...I hope that's okay with you? [line-id 6_2_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 結局、{PA:10}何も分からずじまいでした。{PA:20}||⋯よかったんですかね？➿これで。 [line-id 7_2_2]
+msgctxt "ES0321732"
+msgid "No pude averiguar nada.{PA:20}||... Espero que no te importe"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 6_2_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Well, {PA:10}I'm gonna go take Miyu to a doctor.{PA:10}||Take care. [line-id 6_2_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: じゃ、{PA:10}これからミユ、{PA:10}||一応、医者に見せにいくんで。{PA:10}失礼します。 [line-id 7_2_3]
+msgctxt "ES0321733"
+msgid "Bien, {PA:10}voy a llevar||a Miyu al médico. Cuídate."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 6_2_4
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: ...tu-tu-tu-... [line-id 6_2_4]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ⋯𝐭𝐮﹣𝐭𝐮﹣𝐭𝐮﹣⋯ [line-id 7_2_4]
+msgctxt "ES0321734"
+msgid "...tu-tu-tu-..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 7_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: The membership card is ready. [line-id 7_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 会員証が用意できたぞ。 [line-id 8_2_0]
+msgctxt "ES0321737"
+msgid "La tarjeta de miembro está lista."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 7_2_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Come pick it up. [line-id 7_2_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 取りに来てくれ。 [line-id 8_2_1]
+msgctxt "ES0321738"
+msgid "Pásate por ella."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 8_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}this is for you! [line-id 8_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}お礼にこれあげる！ [line-id 10_0_0]
+msgctxt "ES0321739"
+msgid "Señor,{PA:10} iesto es para ti!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 8_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You received "{CC:ffc8c8}Haruka's Candy{CR:00}". [line-id 8_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}遥の飴玉{CR:00}」を手に入れた。 [line-id 10_0_1]
+msgctxt "ES0321740"
+msgid "Has conseguido \"{CC:ffc8c8}Caramelo de Haruka{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 8_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}this is for you! [line-id 8_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}お礼にこれあげる！ [line-id 10_1_0]
+msgctxt "ES0321743"
+msgid "Señor,{PA:10} iesto es para ti!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 8_1_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You received "{CC:ffc8c8}Haruka's Chocolate{CR:00}". [line-id 8_1_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}遥のチョコレート{CR:00}」を手に入れた。 [line-id 10_1_1]
+msgctxt "ES0321744"
+msgid "Has conseguido \"{CC:ffc8c8}Bombón de Haruka{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 8_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}this is for you! [line-id 8_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}お礼にこれあげる！ [line-id 10_2_0]
+msgctxt "ES0321747"
+msgid "Señor,{PA:10} iesto es para ti!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 8_2_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You received "{CC:ffc8c8}Haruka's Talisman{CR:00}". [line-id 8_2_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}遥のお守り{CR:00}」を手に入れた。 [line-id 10_2_1]
+msgctxt "ES0321748"
+msgid "Has conseguido \"{CC:ffc8c8}Talismán de Haruka{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 8_3_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}this is for you! [line-id 8_3_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}お礼にこれあげる！ [line-id 10_3_0]
+msgctxt "ES0321751"
+msgid "Señor,{PA:10} iesto es para ti!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 8_3_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You received "{CC:ffc8c8}Haruka's Med-Kit{CR:00}". [line-id 8_3_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}遥の救急箱{CR:00}」を手に入れた。 [line-id 10_3_1]
+msgctxt "ES0321752"
+msgid "Has conseguido||\"{CC:ffc8c8}Primeros Auxilios{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 8_4_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}this is for you! [line-id 8_4_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}お礼にこれあげる！ [line-id 10_4_0]
+msgctxt "ES0321755"
+msgid "Señor,{PA:10} iesto es para ti!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 8_4_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You received "{CC:ffc8c8}777 Talisman{CR:00}". [line-id 8_4_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}７７７のお札{CR:00}」を手に入れた。 [line-id 10_4_1]
+msgctxt "ES0321756"
+msgid "Has conseguido \"{CC:ffc8c8}Talismán 777{CR:00}\""
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 8_5_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}this is for you! [line-id 8_5_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}お礼にこれあげる！ [line-id 10_5_0]
+msgctxt "ES0321759"
+msgid "Señor,{PA:10} iesto es para ti!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 8_5_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You received "{CC:ffc8c8}Haruka's Necklace{CR:00}". [line-id 8_5_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}遥のネックレス{CR:00}」を手に入れた。 [line-id 10_5_1]
+msgctxt "ES0321760"
+msgid "Has conseguido \"{CC:ffc8c8}Collar de Haruka{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 8_6_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}this is for you! [line-id 8_6_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}お礼にこれあげる！ [line-id 10_6_0]
+msgctxt "ES0321763"
+msgid "Señor,{PA:10} iesto es para ti!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 8_6_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You received "{CC:ffc8c8}Kazuma's Portrait{CR:00}". [line-id 8_6_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}桐生の似顔絵{CR:00}」を手に入れた。 [line-id 10_6_1]
+msgctxt "ES0321764"
+msgid "Has conseguido \"{CC:ffc8c8}Retrato de Kazuma{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 8_7_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}this is for you! [line-id 8_7_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}お礼にこれあげる！ [line-id 10_7_0]
+msgctxt "ES0321766"
+msgid "Señor,{PA:10} iesto es para ti!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 8_7_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You received "{CC:ffc8c8}Haruka's Marble{CR:00}". [line-id 8_7_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}遥のビー玉{CR:00}」を手に入れた。 [line-id 10_7_1]
+msgctxt "ES0321767"
+msgid "Has conseguido \"{CC:ffc8c8}Canica de Haruka{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 9_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}he looks really sick...{PA:20}||We gotta hurry up! [line-id 9_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}この子すごく辛そう⋯。{PA:20}||早く病院に行かなきゃっ！ [line-id 12_1_0]
+msgctxt "ES0321772"
+msgid "Señor, {PA:10}parece muy enfermo...{PA:20}||iTenemos que darnos prisa!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 9_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister!{PA:10} I think he passed out!{PA:20}||Please hurry! [line-id 9_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん！{PA:10}➿この子、{PA:10}ぐったりしてる⋯。{PA:20}||急がなきゃ！！ [line-id 12_2_0]
+msgctxt "ES0321773"
+msgid "iSeñor! {PA:10}iCreo que se ha desmayado!{PA:20}||iDése prisa, por favor!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 9_3_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hey... {PA:20}Are you alright?{PA:10}||Can you hear me! [line-id 9_3_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ねぇ⋯{PA:20}大丈夫？{PA:10}||ねぇ、{PA:10}ねぇってばっ！！！ [line-id 12_3_0]
+msgctxt "ES0321774"
+msgid "Hey... {PA:20}¿Estás bien?{PA:10}||i¿Me oyes?!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 9_3_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}he's not saying anything back!{PA:10}||Hurry!! [line-id 9_3_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}返事がないよっ！！{PA:10}||急いでよ！！ [line-id 12_3_1]
+msgctxt "ES0321775"
+msgid "Señor, {PA:10}ino está respondiendo!{PA:10}||iiDése prisa!!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 9_4_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister...{PA:20} I don't know if he'll make it! [line-id 9_4_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん⋯{PA:20}||もう、{PA:10}間に合わないよぉ！！ [line-id 12_4_0]
+msgctxt "ES0321776"
+msgid "Señor...{PA:20}||iNo sé si lo conseguirá!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 10_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: KAGE [line-id 10_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 花屋 [line-id 16_0_0]
+msgctxt "ES0321778"
+msgid "Kage"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 10_1_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hey. {PA:20}What's up, Kage? [line-id 10_1_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}ああ。{PA:20}➿花屋、どうした？ [line-id 16_1_1]
+msgctxt "ES0321780"
+msgid "Hey. {PA:20}¿Qué hay de nuevo, Kage?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 10_1_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Ex-Dojima gangsters...? [line-id 10_1_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 堂島組⋯。 [line-id 16_1_3]
+msgctxt "ES0321782"
+msgid "¿Ex-gánsters Dojima...?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 10_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hey, {PA:10}Kazuma. [line-id 10_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おう、{PA:10}桐生か？ [line-id 16_2_0]
+msgctxt "ES0321784"
+msgid "Hey, {PA:10}Kazuma."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 10_2_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: I got some info for ya... [line-id 10_2_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 河原の住人が掴んだ情報なんだが⋯。 [line-id 16_2_2]
+msgctxt "ES0321786"
+msgid "Tengo algo de información para ti..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 10_2_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Looks like some ex-Dojima gangsters||are hanging around this area. [line-id 10_2_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: どうやら、{PA:10}元堂島組の連中が||この辺りをうろついてるようだ。 [line-id 16_2_3]
+msgctxt "ES0321787"
+msgid "Parece que unos ex-gánsters Dojima||están dando vueltas por esta área."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 10_2_5
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: I'll give you the details||when you get here. [line-id 10_2_5]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 詳しい話は、{PA:10}こっちに来たら話す。{PA:20}||時間があるなら、{PA:10}モニタールームに来い。 [line-id 16_2_5]
+msgctxt "ES0321789"
+msgid "Te daré los detalles cuando llegues.{PA:20}"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 10_2_6
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: When you got the time,||{PA:10}come see me in the monitor room. [line-id 10_2_6]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 詳しい話は、{PA:10}こっちに来たら話す。{PA:20}||時間があるなら、{PA:10}モニタールームに来い。 [line-id 16_2_5]
+msgctxt "ES0321790"
+msgid "Cuando tengas tiempo,{PA:10}||ven a verme a la sala de monitores."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: MOGUSA [line-id 11_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: モグサ [line-id 20_0_0]
+msgctxt "ES0321791"
+msgid "Moxa"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 11_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Dammit... It's Kazuma. [line-id 11_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}ちっ⋯➿こんな時に⋯➿桐生だ。 [line-id 20_1_0]
+msgctxt "ES0321792"
+msgid "Maldita sea... Es Kazuma."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 11_1_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yeah, I am. [line-id 11_1_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: あぁ、実はそうなんだ。||子供が倒れてな。病院を探してるんだ。 [line-id 20_1_2]
+msgctxt "ES0321794"
+msgid "Sí, es verdad. De pronto este chico||se puso malo como un perro,"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 11_1_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: All of a sudden, this kid got real sick,||so I'm trying to find him a doctor. [line-id 11_1_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: あぁ、実はそうなんだ。||子供が倒れてな。病院を探してるんだ。 [line-id 20_1_2]
+msgctxt "ES0321795"
+msgid "así que intento encontrarle un médico."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 11_1_5
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yeah? [line-id 11_1_5]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 腕のいい医者？ [line-id 20_1_4]
+msgctxt "ES0321797"
+msgid "¿Sí?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 11_1_7
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: I don't have time to waste.||Which building is it? [line-id 11_1_7]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 今はそんなこと言ってられない。||そいつはどこのビルにいるんだ？ [line-id 20_1_6]
+msgctxt "ES0321799"
+msgid "No tengo tiempo que perder.||¿Qué edificio es?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hello, Kazuma-san. [line-id 11_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: あぁ、桐生の旦那。➿⋯なんかモニター室で||偶然見かけたらお困りのようだったんで。 [line-id 20_2_0]
+msgctxt "ES0321801"
+msgid "Hola, Kazuma-san. Estoy en la sala de||monitores ahora mismo y me han llegado"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_2_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: I'm in the monitor room right now and||happened to notice that you're in trouble. [line-id 11_2_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: あぁ、桐生の旦那。➿⋯なんかモニター室で||偶然見かけたらお困りのようだったんで。 [line-id 20_2_0]
+msgctxt "ES0321802"
+msgid "noticias de que estás en apuros."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_2_3
+#. en-match: 2:1 (EN:ES)
+#. en-confidence: high
+#. english[1/2]: There aren't any legitimate hospitals||in this area. [line-id 11_2_3]
+#. english[2/2]: I do happen to know a good doctor. [line-id 11_2_4]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 2/2
+#. japanese: この街の近くにまっとうな病院はありませんぜ。||⋯ただ、腕のいい医者の話なら知ってますよ。 [line-id 20_2_2]
+msgctxt "ES0321804"
+msgid "No hay ningún hospital legal en esta área.||Yo conozco un buen médico."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_2_5
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yes. Well, his work environment||isn't exactly the cleanest... [line-id 11_2_6]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: えぇ。➿まぁ、きれいな病院じゃないんですがね。 [line-id 20_2_4]
+msgctxt "ES0321806"
+msgid "Sí. Bueno, su entorno de trabajo||no es precisamente el más limpio..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_2_6
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: But he is definitely skilled. [line-id 11_2_7]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 腕は確かな奴なんですよ。 [line-id 20_2_5]
+msgctxt "ES0321807"
+msgid "Pero tiene mucho talento."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_2_7
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: ...His name is Dr. Enomoto. [line-id 11_2_8]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ⋯柄本って言いましてね。||近くのビルでひっそりやってるんですよ。 [line-id 20_2_6]
+msgctxt "ES0321808"
+msgid "... Su nombre es Dr. Enomoto."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_2_8
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: He's got a discreetly located clinic||around where you're at right now. [line-id 11_2_9]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ⋯柄本って言いましてね。||近くのビルでひっそりやってるんですよ。 [line-id 20_2_6]
+msgctxt "ES0321809"
+msgid "Tiene una discreta clínica situada cerca||de donde estás ahora."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_2_9
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: If you prefer a more legitimate place,||this isn't the place for you though... [line-id 11_2_10]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: まぁ、ちゃんとした病院がいいんでしたら、||お勧めできませんが⋯。 [line-id 20_2_7]
+msgctxt "ES0321810"
+msgid "Aunque si prefieres un sitio legal,||éste no es tu sitio..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_2_11
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: He's in a building on W. Taihei Blvd.||His clinic is on the third floor. [line-id 11_2_12]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 泰平通り西の雑居ビルですね。||３Ｆの部屋が診療所です。行ってみてください。 [line-id 20_2_9]
+msgctxt "ES0321812"
+msgid "Está en un edificio en el Bulevar W. Taihei.||En el tercer piso."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 12_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shangri-la..{PA:10} Shangri-la... [line-id 12_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 桃源郷〜➿{PA:10}桃源郷〜 [line-id 24_0_0]
+msgctxt "ES0321813"
+msgid "Shangri-la...{PA:10} Shangri-la..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 12_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, {PA:10}let's hurry! [line-id 12_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、{PA:10}急ごう！ [line-id 24_0_1]
+msgctxt "ES0321814"
+msgid "Señor,{PA:10} idémonos prisa!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 12_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hey, mister.||Do you know that Akemi girl? [line-id 12_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ねえ、おじさん。||アケミって人知ってるの？ [line-id 24_1_0]
+msgctxt "ES0321815"
+msgid "Hey, señor.||¿Conoces a aquella tal Akemi?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 12_1_1
+#. en-match: 2:1 (EN:ES)
+#. en-confidence: high
+#. english[1/2]: I've never seen her before. [line-id 12_1_1]
+#. english[2/2]: So, we'll just have to search one room||after another. [line-id 12_1_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 2/2
+#. japanese: {CU:c8c8ff}見た事がないからな。||片っ端から探すしかない。 [line-id 24_1_1]
+msgctxt "ES0321816"
+msgid "No la he visto nunca. Así que tendremos||que buscarla habitación tras habitación."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 12_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Haruka's Trust has decreased. [line-id 12_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 遥の信頼度がダウンしました。 [line-id 24_2_0]
+msgctxt "ES0321817"
+msgid "La confianza de Haruka ha disminuido."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 12_3_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Haruka's Trust has increased. [line-id 12_3_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 遥の信頼度がアップしました。 [line-id 24_3_0]
+msgctxt "ES0321819"
+msgid "La confianza de Haruka ha crecido."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 12_4_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Haruka's Trust Level has increased. [line-id 12_4_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 遥の信頼度のランクがアップしました。 [line-id 24_4_0]
+msgctxt "ES0321821"
+msgid "El nivel de confianza de Haruka ha crecido."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Date
+#. speaker-source: meta_0209_explicit
+#. line-id: 13_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: This is bad, Kazuma. Let's find her! [line-id 13_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: まずいぞ、桐生。追いかけよう。 [line-id 25_0_0]
+msgctxt "ES0321823"
+msgid "Esto es malo, Kazuma. iEncontrémosla!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Date
+#. speaker-source: meta_0209_explicit
+#. line-id: 13_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Let's ask questions to find out||where Haruka is. [line-id 13_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 聞き込みで遥の足どりを追うんだ。||{PA:1}東城会より先に押さえねえとやばいぞ。 [line-id 25_1_0]
+msgctxt "ES0321824"
+msgid "Vamos a preguntarle para averiguar||dónde está Haruka."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Date
+#. speaker-source: meta_0209_inherited
+#. line-id: 13_1_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: We have to find her before||the Tojo Clan does! [line-id 13_1_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 聞き込みで遥の足どりを追うんだ。||{PA:1}東城会より先に押さえねえとやばいぞ。 [line-id 25_1_0]
+msgctxt "ES0321825"
+msgid "{PA:1}iTenemos que encontrarla antes||que el Clan Tojo!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 14_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You want to open the package, don't you? [line-id 14_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: やっぱり紙袋を開けてみますか？ [line-id 27_0_0]
+msgctxt "ES0321826"
+msgid "Quieres abrir el paquete, ¿verdad?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 14_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Are you sure? [line-id 14_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 本当に開けますか？ [line-id 27_0_1]
+msgctxt "ES0321827"
+msgid "¿Estás seguro?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 14_0_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: A pair of panties are inside.{PA:20} [line-id 14_0_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 女モノの下着が入っている。{PA:20}||特に必要ない。➿{PA:20}戻しておこう。 [line-id 27_0_2]
+msgctxt "ES0321828"
+msgid "Hay ropa interior femenina dentro."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 14_0_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: They don't look useful.{PA:20}||I better put them back in the bag. [line-id 14_0_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 女モノの下着が入っている。{PA:20}||特に必要ない。➿{PA:20}戻しておこう。 [line-id 27_0_2]
+msgctxt "ES0321829"
+msgid "No parece de utilidad.{PA:20}||Mejor las vuelvo a poner en su caja.{PA:20}"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 14_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Open the package? [line-id 14_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 紙袋を開けてみますか？ [line-id 27_1_0]
+msgctxt "ES0321831"
+msgid "¿Abrir el paquete?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 14_1_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Are you sure? [line-id 14_1_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 本当に開けますか？ [line-id 27_1_1]
+msgctxt "ES0321832"
+msgid "¿Estás seguro?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 14_1_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: A pair of panties are inside.{PA:20} [line-id 14_1_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 女モノの下着が入っている。{PA:20}||特に必要ない。➿{PA:20}戻しておこう。 [line-id 27_1_2]
+msgctxt "ES0321833"
+msgid "Hay ropa interior femenina dentro.{PA:20}||No parece de utilidad."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 14_1_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: They don't look useful.{PA:20}||I better put them back in the bag. [line-id 14_1_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 女モノの下着が入っている。{PA:20}||特に必要ない。➿{PA:20}戻しておこう。 [line-id 27_1_2]
+msgctxt "ES0321834"
+msgid "Mejor las vuelvo a poner en su caja."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 14_1_5
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: I don't think I need to check the inside... [line-id 14_1_5]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}わざわざ見ることもないだろう⋯ [line-id 27_1_3]
+msgctxt "ES0321836"
+msgid "No necesito ver lo que hay dentro..."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 15_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, follow me! [line-id 15_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん➿ついてきて！ [line-id 29_0_0]
+msgctxt "ES0321837"
+msgid "Señor, isígame!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 15_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, wait! [line-id 15_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん➿まってよ！ [line-id 29_1_0]
+msgctxt "ES0321838"
+msgid "Señor, iespere!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 15_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, this way.||Follow me. [line-id 15_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん➿こっち||ついてきて [line-id 29_2_0]
+msgctxt "ES0321839"
+msgid "Señor, por aquí.||Sígame."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 15_3_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister!||Follow me!! [line-id 15_3_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん！||ついてきてね！！ [line-id 29_3_0]
+msgctxt "ES0321840"
+msgid "iSeñor!||Señor, iapúrese!"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 15_4_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: This way...||Follow me. [line-id 15_4_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: こっちだから⋯。||ついてきて。 [line-id 29_4_0]
+msgctxt "ES0321841"
+msgid "Por aquí...||Sígueme."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 16_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Ares is just around the corner.{PA:20}||Follow me. [line-id 16_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アレス、{PA:10}もう少しだから。{PA:20}||しっかりついてきてね。 [line-id 30_0_0]
+msgctxt "ES0321842"
+msgid "Ares está al volver la esquina.{PA:20}||Sígueme."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 17_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Be very careful.{PA:20}||It's no good if we get caught by the police. [line-id 17_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 気をつけようね。{PA:20}||警察に捕まったら困っちゃうもん。 [line-id 31_0_0]
+msgctxt "ES0321843"
+msgid "Ten mucho cuidado.{PA:20}||Si nos coje la policía, todo se acabó."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 23_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (It sure is a big building.||This wasn't here 10 years ago.) [line-id 23_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（大きいビルだ。||➿１０年前はこんな建物はこの街に無かった。） [line-id 39_0_0]
+msgctxt "ES0321912"
+msgid "(Seguro que es un edificio grande.||No estaba aquí hace 10 años.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 23_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (Even though it's in the middle of the||city, it seems out of place.) [line-id 23_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: （この街の真ん中にあるのに||➿雰囲気は随分違うな。） [line-id 39_0_1]
+msgctxt "ES0321913"
+msgid "(Aunque está enmedio de la ciudad,||parece fuera de lugar.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 24_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: There's an elevator.||This is the only means to get to the top. [line-id 24_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: エレベーターがある||上の階に行くにはあれに乗るしかないようだ [line-id 40_0_0]
+msgctxt "ES0321914"
+msgid "Hay un ascensor.||Es la única forma de subir a la azotea."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 27_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: It reads "Ares", but||there's a sign that says "Renovating". [line-id 27_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ″アレス″とあるが||『改装中』と書かれている [line-id 43_0_0]
+msgctxt "ES0321917"
+msgid "Ares.||El cartel dice que lo están renovando."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 27_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: It reads "Ares", but||there's a sign that says "Renovating". [line-id 27_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ″アレス″とあるが||『改装中』と書かれている [line-id 43_1_0]
+msgctxt "ES0321919"
+msgid "Ares.||El cartel dice que lo están renovando."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 28_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, you can't get to Ares||using that elevator. [line-id 28_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、そのエレベーターじゃ、||アレスにいけないよ。 [line-id 44_0_0]
+msgctxt "ES0321921"
+msgid "Señor, no puede llegar a Ares||utilizando ese ascensor."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 29_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, you can't get to Ares||using that elevator. [line-id 29_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、そのエレベーターじゃ、||アレスにいけないよ。 [line-id 45_0_0]
+msgctxt "ES0321922"
+msgid "Señor, no puede llegar a Ares||utilizando ese ascensor."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 30_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, you can't get to Ares||using that elevator. [line-id 30_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、そのエレベーターじゃ、||アレスにいけないよ。 [line-id 46_0_0]
+msgctxt "ES0321923"
+msgid "Señor, no puede llegar a Ares||utilizando ese ascensor."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 31_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, you can't get to Ares||using that elevator. [line-id 31_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、そのエレベーターじゃ、||アレスにいけないよ。 [line-id 47_0_0]
+msgctxt "ES0321924"
+msgid "Señor, no puede llegar a Ares||utilizando ese ascensor."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 32_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, you can't get to Ares||using that elevator. [line-id 32_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、そのエレベーターじゃ、||アレスにいけないよ。 [line-id 48_0_0]
+msgctxt "ES0321925"
+msgid "Señor, no puede llegar a Ares||utilizando ese ascensor."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 33_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, you can't get to Ares||using that elevator. [line-id 33_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、そのエレベーターじゃ、||アレスにいけないよ。 [line-id 49_0_0]
+msgctxt "ES0321926"
+msgid "Señor, no puede llegar a Ares||utilizando ese ascensor."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Haruka
+#. speaker-source: meta_0209_explicit
+#. line-id: 34_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mister, you can't get to Ares||using that elevator. [line-id 34_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん、そのエレベーターじゃ、||アレスにいけないよ。 [line-id 50_0_0]
+msgctxt "ES0321927"
+msgid "Señor, no puede llegar a Ares||utilizando ese ascensor."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 35_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: This way, mister. [line-id 35_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: おじさん➿こっちだよ [line-id 51_0_0]
+msgctxt "ES0321928"
+msgid "Por aquí, señor."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 35_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: If you want to get to Ares,||we gotta use this elevator. [line-id 35_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アレスに行くのは||このエレベーターだよ [line-id 51_0_1]
+msgctxt "ES0321929"
+msgid "Si quieres que lleguemos a Ares,||tenemos que utilizar este ascensor."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 36_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (Chinese food, {PA:10}French food,{PA:10}||German food, {PA:10}Japanese food...) [line-id 36_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（中華料理、{PA:10}フランス料理、{PA:10}ドイツ料理、||{PA:10}日本料理⋯。） [line-id 52_0_0]
+msgctxt "ES0321930"
+msgid "(Comida china, {PA:10}comida francesa,{PA:10}||comida alemana, {PA:10}comida japonesa...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 36_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (A lot of different restaurants are here...) [line-id 36_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: （色々なレストランが入っているな⋯。） [line-id 52_0_1]
+msgctxt "ES0321931"
+msgid "(Aquí hay un montón||de restaurantes diferentes...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 37_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (...A floor guide.) [line-id 37_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（⋯各階の案内板だ。） [line-id 53_0_0]
+msgctxt "ES0321932"
+msgid "(... Un plano de la planta.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 37_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (I can't seem to find Ares||on the floor guide...) [line-id 37_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: （アレスという店は、{PA:10}見当たらないが⋯。） [line-id 53_0_1]
+msgctxt "ES0321933"
+msgid "(No puedo encontrar Ares||en el plano de la planta...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 38_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (A 60-story skyscraper with various||shops on each floor.) [line-id 38_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（６０階の超高層ビルだ。{PA:20}||各階に、{PA:10}様々な店舗が入っている。） [line-id 54_0_0]
+msgctxt "ES0321934"
+msgid "(Un rascacielos de 60 pisos{PA:20}||con varias tiendas {PA:10}en cada piso.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 39_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (A 60-story skyscraper...) [line-id 39_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（６０階建ての超高層ビルだ⋯。） [line-id 55_0_0]
+msgctxt "ES0321935"
+msgid "(Un rascacielos de 60 pisos...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 39_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (There is an unbelievable||number of shops here.) [line-id 39_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: （店舗だけでも、{PA:10}尋常じゃない数だ。） [line-id 55_0_1]
+msgctxt "ES0321936"
+msgid "(Hay un increíble número||de tiendas aquí.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 40_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (There is a vacancy on the 60th floor.) [line-id 40_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（６０階に、{PA:10}何も入っていないスペースがある。） [line-id 56_0_0]
+msgctxt "ES0321937"
+msgid "(Hay una vacante en {PA:10}el piso 60.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 40_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (The building seems to be thriving.{PA:10}||It's very strange...) [line-id 40_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: （これだけ繁盛してるのに、{PA:10}おかしいな⋯。） [line-id 56_0_1]
+msgctxt "ES0321938"
+msgid "(El edificio parece muy próspero.{PA:10}||Es muy raro...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 41_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (There are offices on the middle floors.) [line-id 41_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（中央の階は、{PA:10}オフィスになっている。） [line-id 57_0_0]
+msgctxt "ES0321939"
+msgid "(Hay oficinas||en los pisos intermedios.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 41_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (All of them seem to be first class||companies...) [line-id 41_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: （見たところ、{PA:10}一流企業ばかりだ⋯。） [line-id 57_0_1]
+msgctxt "ES0321940"
+msgid "(Todas parecen||ser empresas punteras...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 45_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (There's something on the ground...) [line-id 45_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（何か落ちているようだ⋯） [line-id 72_0_0]
+msgctxt "ES0321944"
+msgid "(Hay algo en el suelo...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 45_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Pick up the Coin Locker Key? [line-id 45_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:ffffff}コインロッカーの鍵を拾いますか？ [line-id 72_0_1]
+msgctxt "ES0321945"
+msgid "¿Quieres recoger la Llave de la Taquilla?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 45_0_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You obtained "{CC:ffc8c8}Coin Locker Key No.29{CR:00}". [line-id 45_0_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}コインロッカーの鍵２９番{CR:00}」を手に入れた [line-id 72_0_2]
+msgctxt "ES0321946"
+msgid "Has obtenido \"{CC:ffc8c8}Llave de Taquilla N0 29{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 45_0_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (I'll just leave it there...) [line-id 45_0_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（やめておこう⋯） [line-id 72_0_3]
+msgctxt "ES0321947"
+msgid "(Lo dejaré donde está...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 45_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (There's something on the ground...) [line-id 45_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（何か落ちているようだ⋯） [line-id 72_1_0]
+msgctxt "ES0321948"
+msgid "(Hay algo en el suelo...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 45_1_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Pick up the Coin Locker Key? [line-id 45_1_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:ffffff}コインロッカーの鍵を拾いますか？ [line-id 72_1_1]
+msgctxt "ES0321949"
+msgid "¿Quieres recoger la Llave de la Taquilla?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 45_1_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You obtained "{CC:ffc8c8}Coin Locker Key No.29{CR:00}". [line-id 45_1_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}コインロッカーの鍵２９番{CR:00}」を手に入れた [line-id 72_1_2]
+msgctxt "ES0321950"
+msgid "Has obtenido \"{CC:ffc8c8}Llave de Taquilla N0 29{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 45_1_3
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: (Theater S. Lockers is engraved into it.||Maybe I should go check it out sometime.) [line-id 45_1_3]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（劇場南コインロッカーと書かれている。||➿どうやらそこの鍵らしい。） [line-id 72_1_3]
+msgctxt "ES0321951"
+msgid "(En la llave está grabado Taquillas ||Sur del Teatro. A lo mejor tendría "
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 45_1_4
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: (Theater S. Lockers is engraved into it.||Maybe I should go check it out sometime.) [line-id 45_1_3]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（劇場南コインロッカーと書かれている。||➿どうやらそこの鍵らしい。） [line-id 72_1_3]
+msgctxt "ES0321952"
+msgid "que ir a ver qué hay algún día.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 45_1_5
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (I'll just leave it there...) [line-id 45_1_4]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（やめておこう⋯） [line-id 72_1_4]
+msgctxt "ES0321953"
+msgid "(Lo dejaré donde está...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 46_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (There's something on the ground...) [line-id 46_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（何か落ちているようだ⋯） [line-id 74_0_0]
+msgctxt "ES0321954"
+msgid "(Hay algo en el suelo...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 46_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Pick up the Coin Locker Key? [line-id 46_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:ffffff}コインロッカーの鍵を拾いますか？ [line-id 74_0_1]
+msgctxt "ES0321955"
+msgid "¿Quieres recoger la Llave de la Taquilla?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 46_0_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You obtained "{CC:ffc8c8}Coin Locker Key No.42{CR:00}". [line-id 46_0_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}コインロッカーの鍵４２番{CR:00}」を手に入れた [line-id 74_0_2]
+msgctxt "ES0321956"
+msgid "Has obtenido \"{CC:ffc8c8}Llave de Taquilla N0 42{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 46_0_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (I'll just leave it there...) [line-id 46_0_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（やめておこう⋯） [line-id 74_0_3]
+msgctxt "ES0321957"
+msgid "(Lo dejaré donde está...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 46_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (There's something on the ground...) [line-id 46_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（何か落ちているようだ⋯） [line-id 74_1_0]
+msgctxt "ES0321958"
+msgid "(Hay algo en el suelo...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 46_1_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Pick up the Coin Locker Key? [line-id 46_1_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:ffffff}コインロッカーの鍵を拾いますか？ [line-id 74_1_1]
+msgctxt "ES0321959"
+msgid "¿Quieres recoger la Llave de la Taquilla?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 46_1_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You obtained "{CC:ffc8c8}Coin Locker Key No.42{CR:00}". [line-id 46_1_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}コインロッカーの鍵４２番{CR:00}」を手に入れた [line-id 74_1_2]
+msgctxt "ES0321960"
+msgid "Has obtenido \"{CC:ffc8c8}Llave de Taquilla N0 42{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 46_1_3
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: (Theater S. Lockers is engraved into it.||Maybe I should go check it out sometime.) [line-id 46_1_3]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（劇場南コインロッカーと書かれている。||➿どうやらそこの鍵らしい。） [line-id 74_1_3]
+msgctxt "ES0321961"
+msgid "(En la llave está grabado Taquillas ||Sur del Teatro. A lo mejor tendría "
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 46_1_4
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: (Theater S. Lockers is engraved into it.||Maybe I should go check it out sometime.) [line-id 46_1_3]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（劇場南コインロッカーと書かれている。||➿どうやらそこの鍵らしい。） [line-id 74_1_3]
+msgctxt "ES0321962"
+msgid "que ir a ver qué hay algún día.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 46_1_5
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (I'll just leave it there...) [line-id 46_1_4]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（やめておこう⋯） [line-id 74_1_4]
+msgctxt "ES0321963"
+msgid "(Lo dejaré donde está...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 47_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (There's something on the ground...) [line-id 47_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（何か落ちているようだ⋯） [line-id 77_0_0]
+msgctxt "ES0321964"
+msgid "(Hay algo en el suelo...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 47_0_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Pick up the Coin Locker Key? [line-id 47_0_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:ffffff}コインロッカーの鍵を拾いますか？ [line-id 77_0_1]
+msgctxt "ES0321965"
+msgid "¿Quieres recoger la Llave de la Taquilla?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 47_0_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You obtained "{CC:ffc8c8}Coin Locker Key No.46{CR:00}". [line-id 47_0_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}コインロッカーの鍵４６番{CR:00}」を手に入れた [line-id 77_0_2]
+msgctxt "ES0321966"
+msgid "Has obtenido \"{CC:ffc8c8}Llave de Taquilla N0 46{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 47_0_3
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (I'll just leave it there...) [line-id 47_0_3]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（やめておこう⋯） [line-id 77_0_3]
+msgctxt "ES0321967"
+msgid "(Lo dejaré donde está...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 47_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (There's something on the ground...) [line-id 47_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（何か落ちているようだ⋯） [line-id 77_1_0]
+msgctxt "ES0321968"
+msgid "(Hay algo en el suelo...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 47_1_1
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Pick up the Coin Locker Key? [line-id 47_1_1]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:ffffff}コインロッカーの鍵を拾いますか？ [line-id 77_1_1]
+msgctxt "ES0321969"
+msgid "¿Quieres recoger la Llave de la Taquilla?"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 47_1_2
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You obtained "{CC:ffc8c8}Coin Locker Key No.46{CR:00}". [line-id 47_1_2]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 「{CC:ffc8c8}コインロッカーの鍵４６番{CR:00}」を手に入れた [line-id 77_1_2]
+msgctxt "ES0321970"
+msgid "Has obtenido \"{CC:ffc8c8}Llave de Taquilla N0 46{CR:00}\"."
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 47_1_3
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: (Theater S. Lockers is engraved into it.||Maybe I should go check it out sometime.) [line-id 47_1_3]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（劇場南コインロッカーと書かれている。||➿どうやらそこの鍵らしい。） [line-id 77_1_3]
+msgctxt "ES0321971"
+msgid "(En la llave está grabado Taquillas ||Sur del Teatro. A lo mejor tendría "
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_inherited
+#. line-id: 47_1_4
+#. en-match: 1:2 (EN:ES)
+#. en-confidence: high
+#. english: (Theater S. Lockers is engraved into it.||Maybe I should go check it out sometime.) [line-id 47_1_3]
+#. jp-match: 1:2 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（劇場南コインロッカーと書かれている。||➿どうやらそこの鍵らしい。） [line-id 77_1_3]
+msgctxt "ES0321972"
+msgid "que ir a ver qué hay algún día.)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: Kazuma
+#. speaker-source: meta_0209_explicit
+#. line-id: 47_1_5
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: (I'll just leave it there...) [line-id 47_1_4]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: {CU:c8c8ff}（やめておこう⋯） [line-id 77_1_4]
+msgctxt "ES0321973"
+msgid "(Lo dejaré donde está...)"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 48_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: 0123456789+-円万億¥,枚点 [line-id 48_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ０１２３４５６７８９＋－円万億￥﹐枚点 [line-id 80_0_0]
+msgctxt "ES0321974"
+msgid "0123456789+-円万億¥,枚点"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 48_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Exp: {NU:02_08_00}00000000 [line-id 48_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 経験値：{NU:00_08_00}𝟘𝟘𝟘𝟘𝟘𝟘𝟘𝟘 [line-id 80_1_0]
+msgctxt "ES0321975"
+msgid "Exp: {NU:02_08_00}00000000"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 48_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You got a HP Supplement. [line-id 48_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 回復剤を手に入れた。 [line-id 80_2_0]
+msgctxt "ES0321976"
+msgid "Has obtenido un Suplemento de PV."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 48_3_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You cannot carry any more items.||Sending it to the Item Box. [line-id 48_3_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アイテムが一杯です。||アイテムボックスへ送ります。 [line-id 80_3_0]
+msgctxt "ES0321977"
+msgid "No puedes llevar más objetos.||Se enviarán al Inventario."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 48_4_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You cannot carry any more items. [line-id 48_4_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アイテムが一杯です。 [line-id 80_4_0]
+msgctxt "ES0321978"
+msgid "No puedes llevar más objetos."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 48_5_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Millennium Tower B1F [line-id 48_5_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ミレニアムタワーＢ１Ｆ [line-id 80_5_0]
+msgctxt "ES0321979"
+msgid "Torre del Milenio B1F"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 48_6_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Millennium Tower 2F [line-id 48_6_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ミレニアムタワー２Ｆ [line-id 80_6_0]
+msgctxt "ES0321980"
+msgid "Torre del Milenio 2F"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 49_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Millennium Tower 1F [line-id 49_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ミレニアムタワー１Ｆ [line-id 81_0_0]
+msgctxt "ES0321981"
+msgid "Torre del Milenio 10"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 50_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Haruka's Trust [line-id 50_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 遥の信頼度 [line-id 82_0_0]
+msgctxt "ES0321982"
+msgid "Conf de Haruka"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 51_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Bantam [line-id 51_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: バンタム [line-id 83_0_0]
+msgctxt "ES0321983"
+msgid "Bantam"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 54_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Akagyu - Taihei Blvd. [line-id 54_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 赤牛丸➿泰平通り店 [line-id 86_0_0]
+msgctxt "ES0321984"
+msgid "Bulevar Akagyu Taihei"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 55_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Smile Burger [line-id 55_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: スマイルバーガー [line-id 87_0_0]
+msgctxt "ES0321985"
+msgid "Hamburguesa Sonriente"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 56_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Kyushu No.1 Star [line-id 56_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 九州一番星 [line-id 88_0_0]
+msgctxt "ES0321986"
+msgid "Estrella de Kyushu"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 57_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Ebisu Pawn [line-id 57_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: えびすや [line-id 89_0_0]
+msgctxt "ES0321987"
+msgid "Tienda de empeños Ebisu"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 58_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Gelato Shop [line-id 58_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ジェラートショップ [line-id 90_0_0]
+msgctxt "ES0321988"
+msgid "Heladería"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 59_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Good Cafe [line-id 59_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: グッドカフェ [line-id 91_0_0]
+msgctxt "ES0321989"
+msgid "Buen Café"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 60_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Kotobuki Drug [line-id 60_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ことぶき薬局 [line-id 92_0_0]
+msgctxt "ES0321990"
+msgid "Farmacia Kotobuki"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 61_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Poppo - Showa St. [line-id 61_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ポッポ➿昭和通り店 [line-id 93_0_0]
+msgctxt "ES0321991"
+msgid "Poppo. Calle Showa"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 62_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hideout [line-id 62_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アジト [line-id 94_0_0]
+msgctxt "ES0321992"
+msgid "Guarida"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 63_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Deborah [line-id 63_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: デボラ [line-id 95_0_0]
+msgctxt "ES0321993"
+msgid "Déborah"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 64_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Cafe' Alps [line-id 64_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 喫茶アルプス [line-id 96_0_0]
+msgctxt "ES0321994"
+msgid "Café Alpes"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 65_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Club SEGA - Theater Ave. [line-id 65_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: クラブセガ➿劇場前店 [line-id 97_0_0]
+msgctxt "ES0321995"
+msgid "Club SEGA Avenida Teatro"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 66_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Club SEGA - Nakamichi St. [line-id 66_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: クラブセガ➿中道通り店 [line-id 98_0_0]
+msgctxt "ES0321996"
+msgid "Calle Nakamichi Club SEGA"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 67_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Poppo - Nakamichi Alley [line-id 67_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ポッポ➿中道通り裏店 [line-id 99_0_0]
+msgctxt "ES0321997"
+msgid "Poppo. Callejón Nakamichi"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 68_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Beam [line-id 68_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ビーム [line-id 100_0_0]
+msgctxt "ES0321998"
+msgid "Rayo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 69_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: MEB [line-id 69_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 𝐌𝐄𝐁 [line-id 101_0_0]
+msgctxt "ES0321999"
+msgid "Centro información"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 70_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Super Lotto Stand [line-id 70_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 宝くじ売り場 [line-id 102_0_0]
+msgctxt "ES0322000"
+msgid "Quiosco de la Super Lotto"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 71_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Behind Serena [line-id 71_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: セレナ裏 [line-id 103_0_0]
+msgctxt "ES0322001"
+msgid "Detrás de Serena"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 72_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Millennium Tower Gardens [line-id 72_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ミレニアムタワー前庭 [line-id 104_0_0]
+msgctxt "ES0322002"
+msgid "Jardines de la Torre del Milenio"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 73_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hidden Armory [line-id 73_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 裏武器屋 [line-id 105_0_0]
+msgctxt "ES0322003"
+msgid "Armería secreta"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 74_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hallway to Serena [line-id 74_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: セレナエレベータホール [line-id 106_0_0]
+msgctxt "ES0322004"
+msgid "Vestíbulo de Serena"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 75_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hallway to Parlor [line-id 75_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 賭場通路 [line-id 107_0_0]
+msgctxt "ES0322005"
+msgid "Vestíbulo del Salón"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 76_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Gambling Parlor [line-id 76_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 賭場 [line-id 108_0_0]
+msgctxt "ES0322006"
+msgid "Salón de Apuestas"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 77_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shine [line-id 77_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: シャイン [line-id 109_0_0]
+msgctxt "ES0322007"
+msgid "Shine"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 78_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Jewel [line-id 78_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ジュエル [line-id 110_0_0]
+msgctxt "ES0322008"
+msgid "Jewel"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 79_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Serena [line-id 79_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: セレナ [line-id 111_0_0]
+msgctxt "ES0322009"
+msgid "Serena"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 80_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Bacchus [line-id 80_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: バッカス [line-id 112_0_0]
+msgctxt "ES0322010"
+msgid "Baco"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 81_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Stardust [line-id 81_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: スターダスト [line-id 113_0_0]
+msgctxt "ES0322011"
+msgid "Stardust"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 82_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Batting Cage [line-id 82_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 吉田バッティングセンター [line-id 114_0_0]
+msgctxt "ES0322012"
+msgid "Jaula de Bateo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 83_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Rune [line-id 83_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ルーン [line-id 115_0_0]
+msgctxt "ES0322013"
+msgid "Runa"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 84_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Pares [line-id 84_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: パレス [line-id 116_0_0]
+msgctxt "ES0322014"
+msgid "Pares"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 85_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shellac [line-id 85_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: シェラック [line-id 117_0_0]
+msgctxt "ES0322015"
+msgid "Shellac"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 86_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Asia [line-id 86_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: エイジア [line-id 118_0_0]
+msgctxt "ES0322016"
+msgid "Asia"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 87_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Love in Heart [line-id 87_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ラブインハート [line-id 119_0_0]
+msgctxt "ES0322017"
+msgid "Amor en el Corazón"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 88_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mini Doll [line-id 88_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ミニドール [line-id 120_0_0]
+msgctxt "ES0322018"
+msgid "Mini Muñeca"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 89_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Volcano [line-id 89_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ボルケーノ [line-id 121_0_0]
+msgctxt "ES0322019"
+msgid "Volcán"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 90_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Stairway to Deborah [line-id 90_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: デボラ下り階段 [line-id 122_0_0]
+msgctxt "ES0322020"
+msgid "Escaleras a Déborah"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 91_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Akagyu - Tenakaichi St. [line-id 91_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 赤牛丸➿天下一通り店 [line-id 123_0_0]
+msgctxt "ES0322021"
+msgid "Akagyu. Calle Tenkaichi"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 92_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Poppo - Tenkaichi St. [line-id 92_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ポッポ➿天下一通り店 [line-id 124_0_0]
+msgctxt "ES0322022"
+msgid "Poppo. Calle Tenkaichi"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 93_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: M Store [line-id 93_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 𝐌ストア [line-id 125_0_0]
+msgctxt "ES0322023"
+msgid "Tienda M"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 94_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Don Quijote [line-id 94_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ドン・キホーテ [line-id 126_0_0]
+msgctxt "ES0322024"
+msgid "Don Quijote"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 95_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hideout [line-id 95_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アジト [line-id 127_0_0]
+msgctxt "ES0322025"
+msgid "Guarida"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 96_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Rokuran Mah Jong [line-id 96_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 六蘭荘 [line-id 128_0_0]
+msgctxt "ES0322026"
+msgid "Rokuran Mah Jong"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 97_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Purgatory [line-id 97_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 賽の河原 [line-id 129_0_0]
+msgctxt "ES0322027"
+msgid "Purgatorio"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 98_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Red-Light District [line-id 98_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 地下歓楽街 [line-id 130_0_0]
+msgctxt "ES0322028"
+msgid "Barrio Rojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 99_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Public Restroom [line-id 99_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 西公園公衆便所 [line-id 131_0_0]
+msgctxt "ES0322029"
+msgid "Baños Públicos"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 100_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Kage's Room [line-id 100_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 花屋の部屋 [line-id 132_0_0]
+msgctxt "ES0322030"
+msgid "Habitación de Kage"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 101_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Tojo Clan HQ [line-id 101_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東城会本部 [line-id 133_0_0]
+msgctxt "ES0322031"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 102_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Tojo Clan HQ [line-id 102_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東城会本部 [line-id 134_0_0]
+msgctxt "ES0322032"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 103_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Tojo Clan HQ [line-id 103_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東城会本部 [line-id 135_0_0]
+msgctxt "ES0322033"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 104_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Tojo Clan HQ [line-id 104_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東城会本部 [line-id 136_0_0]
+msgctxt "ES0322034"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 105_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Surveillance Room [line-id 105_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: モニタールーム [line-id 137_0_0]
+msgctxt "ES0322035"
+msgid "Cuarto de Vigilancia"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 106_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Millennium Tower 1F [line-id 106_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ミレニアムタワー１Ｆ [line-id 138_0_0]
+msgctxt "ES0322036"
+msgid "Torre del Milenio 10"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 107_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Ares [line-id 107_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アレス [line-id 139_0_0]
+msgctxt "ES0322037"
+msgid "Ares"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 108_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Asia [line-id 108_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: エイジア [line-id 140_0_0]
+msgctxt "ES0322038"
+msgid "Asia"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 109_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Deborah [line-id 109_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: デボラ [line-id 141_0_0]
+msgctxt "ES0322039"
+msgid "Déborah"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 110_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Purgatory [line-id 110_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 賽の河原 [line-id 142_0_0]
+msgctxt "ES0322040"
+msgid "Purgatorio"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 111_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shangri-la 1F [line-id 111_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 桃源郷１Ｆ [line-id 143_0_0]
+msgctxt "ES0322041"
+msgid "Shangri-la 1P"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 112_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Fuma Family's Office [line-id 112_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 風間組事務所 [line-id 144_0_0]
+msgctxt "ES0322042"
+msgid "Oficina de la Familia Fuma"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 113_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Todo Building [line-id 113_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東堂ビル [line-id 145_0_0]
+msgctxt "ES0322043"
+msgid "Edificio Todo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 114_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Passageway to Colosseum [line-id 114_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 闘技場への通路 [line-id 146_0_0]
+msgctxt "ES0322044"
+msgid "Pasillo al coliseo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 115_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Fukuma Casino [line-id 115_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 福間殿 [line-id 147_0_0]
+msgctxt "ES0322045"
+msgid "Casino Fukuma"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 116_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shibaura Wharf [line-id 116_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 芝浦埠頭 [line-id 148_0_0]
+msgctxt "ES0322046"
+msgid "Shibaura Muelle"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 117_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Go Parlor [line-id 117_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 碁会所 [line-id 149_0_0]
+msgctxt "ES0322047"
+msgid "Salón de Go"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 118_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Multipurpose Complex [line-id 118_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 雑居ビル [line-id 150_0_0]
+msgctxt "ES0322048"
+msgid "Complejo Multiuso"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 119_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Paradise [line-id 119_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: パラダイス [line-id 151_0_0]
+msgctxt "ES0322049"
+msgid "Paraíso"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 120_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hanagata Building [line-id 120_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 花形ビル [line-id 152_0_0]
+msgctxt "ES0322050"
+msgid "Edificio Hanagata"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 121_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shangri-la [line-id 121_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 桃源郷 [line-id 153_0_0]
+msgctxt "ES0322051"
+msgid "Shangri-la"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 122_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Ryujin Building [line-id 122_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 龍神会館 [line-id 154_0_0]
+msgctxt "ES0322052"
+msgid "Edificio Ryujin"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 123_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Peace Finance [line-id 123_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ピースファイナンス [line-id 155_0_0]
+msgctxt "ES0322053"
+msgid "Finanzas de Paz"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 124_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Clinic [line-id 124_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 診療所 [line-id 156_0_0]
+msgctxt "ES0322054"
+msgid "Clínica"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 125_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Open it [line-id 125_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 開けてみる [line-id 157_0_0]
+msgctxt "ES0322055"
+msgid "Sí"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 125_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Don't open it [line-id 125_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 開けない [line-id 157_1_0]
+msgctxt "ES0322056"
+msgid "No"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 126_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yes [line-id 126_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 本当に開けてみる [line-id 158_0_0]
+msgctxt "ES0322057"
+msgid "Sí"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 126_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: No [line-id 126_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 開けない [line-id 158_1_0]
+msgctxt "ES0322058"
+msgid "No"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 127_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Open it [line-id 127_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 開けてみる [line-id 159_0_0]
+msgctxt "ES0322059"
+msgid "Abrirlo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 127_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Don't open it [line-id 127_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 開けない [line-id 159_1_0]
+msgctxt "ES0322060"
+msgid "No abrirlo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 128_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yes [line-id 128_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 本当に開けてみる [line-id 160_0_0]
+msgctxt "ES0322061"
+msgid "Sí"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 128_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: No [line-id 128_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 開けない [line-id 160_1_0]
+msgctxt "ES0322062"
+msgid "No"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 129_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yes [line-id 129_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾う [line-id 161_0_0]
+msgctxt "ES0322063"
+msgid "Sí"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 129_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: No [line-id 129_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾わない [line-id 161_1_0]
+msgctxt "ES0322064"
+msgid "No"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 130_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yes [line-id 130_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾う [line-id 162_0_0]
+msgctxt "ES0322065"
+msgid "Sí"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 130_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: No [line-id 130_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾わない [line-id 162_1_0]
+msgctxt "ES0322066"
+msgid "No"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 131_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yes [line-id 131_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾う [line-id 163_0_0]
+msgctxt "ES0322067"
+msgid "Sí"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 131_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: No [line-id 131_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾わない [line-id 163_1_0]
+msgctxt "ES0322068"
+msgid "No"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 132_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yes [line-id 132_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾う [line-id 164_0_0]
+msgctxt "ES0322069"
+msgid "Sí"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 132_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: No [line-id 132_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾わない [line-id 164_1_0]
+msgctxt "ES0322070"
+msgid "No"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 133_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yes [line-id 133_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾う [line-id 165_0_0]
+msgctxt "ES0322071"
+msgid "Sí"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 133_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: No [line-id 133_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾わない [line-id 165_1_0]
+msgctxt "ES0322072"
+msgid "No"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 134_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Yes [line-id 134_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾う [line-id 166_0_0]
+msgctxt "ES0322073"
+msgid "Sí"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 134_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: No [line-id 134_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 拾わない [line-id 166_1_0]
+msgctxt "ES0322074"
+msgid "No"
+msgstr ""

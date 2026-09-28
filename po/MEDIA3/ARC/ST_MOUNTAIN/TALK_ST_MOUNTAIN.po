@@ -1,0 +1,1175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza PS2 Spanish TALK + EN/JP references - TALK_ST_MOUNTAIN.BIN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: 0123456789+-円万億¥,枚点 [line-id 0_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ０１２３４５６７８９＋－円万億￥﹐枚点 [line-id 0_0_0]
+msgctxt "ES0378918"
+msgid "0123456789+-円万億¥,枚点"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_1_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Exp: {NU:02_08_00}00000000 [line-id 0_1_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 経験値：{NU:00_08_00}𝟘𝟘𝟘𝟘𝟘𝟘𝟘𝟘 [line-id 0_1_0]
+msgctxt "ES0378919"
+msgid "Exp: {NU:02_08_00}00000000"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_2_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You got a HP Supplement. [line-id 0_2_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 回復剤を手に入れた。 [line-id 0_2_0]
+msgctxt "ES0378920"
+msgid "Has obtenido un Suplemento de PV."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_3_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You cannot carry any more items.||Sending it to the Item Box. [line-id 0_3_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アイテムが一杯です。||アイテムボックスへ送ります。 [line-id 0_3_0]
+msgctxt "ES0378921"
+msgid "No puedes llevar más objetos.||Se enviarán al Inventario."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 0_4_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: You cannot carry any more items. [line-id 0_4_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アイテムが一杯です。 [line-id 0_4_0]
+msgctxt "ES0378922"
+msgid "No puedes llevar más objetos."
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 1_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Haruka's Trust [line-id 1_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 遥の信頼度 [line-id 1_0_0]
+msgctxt "ES0378923"
+msgid "Conf de Haruka"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 2_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Bantam [line-id 2_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: バンタム [line-id 2_0_0]
+msgctxt "ES0378924"
+msgid "Bantam"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 5_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Akagyu - Taihei Blvd. [line-id 5_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 赤牛丸➿泰平通り店 [line-id 5_0_0]
+msgctxt "ES0378925"
+msgid "Bulevar Akagyu Taihei"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 6_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Smile Burger [line-id 6_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: スマイルバーガー [line-id 6_0_0]
+msgctxt "ES0378926"
+msgid "Hamburguesa Sonriente"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 7_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Kyushu No.1 Star [line-id 7_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 九州一番星 [line-id 7_0_0]
+msgctxt "ES0378927"
+msgid "Estrella de Kyushu"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 8_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Ebisu Pawn [line-id 8_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: えびすや [line-id 8_0_0]
+msgctxt "ES0378928"
+msgid "Tienda de empeños Ebisu"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 9_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Gelato Shop [line-id 9_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ジェラートショップ [line-id 9_0_0]
+msgctxt "ES0378929"
+msgid "Heladería"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 10_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Good Cafe [line-id 10_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: グッドカフェ [line-id 10_0_0]
+msgctxt "ES0378930"
+msgid "Buen Café"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 11_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Kotobuki Drug [line-id 11_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ことぶき薬局 [line-id 11_0_0]
+msgctxt "ES0378931"
+msgid "Farmacia Kotobuki"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 12_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Poppo - Showa St. [line-id 12_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ポッポ➿昭和通り店 [line-id 12_0_0]
+msgctxt "ES0378932"
+msgid "Poppo. Calle Showa"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 13_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hideout [line-id 13_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アジト [line-id 13_0_0]
+msgctxt "ES0378933"
+msgid "Guarida"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 14_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Deborah [line-id 14_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: デボラ [line-id 14_0_0]
+msgctxt "ES0378934"
+msgid "Déborah"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 15_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Cafe' Alps [line-id 15_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 喫茶アルプス [line-id 15_0_0]
+msgctxt "ES0378935"
+msgid "Café Alpes"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 16_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Club SEGA - Theater Ave. [line-id 16_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: クラブセガ➿劇場前店 [line-id 16_0_0]
+msgctxt "ES0378936"
+msgid "Club SEGA Avenida Teatro"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 17_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Club SEGA - Nakamichi St. [line-id 17_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: クラブセガ➿中道通り店 [line-id 17_0_0]
+msgctxt "ES0378937"
+msgid "Calle Nakamichi Club SEGA"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 18_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Poppo - Nakamichi Alley [line-id 18_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ポッポ➿中道通り裏店 [line-id 18_0_0]
+msgctxt "ES0378938"
+msgid "Poppo. Callejón Nakamichi"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 19_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Beam [line-id 19_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ビーム [line-id 19_0_0]
+msgctxt "ES0378939"
+msgid "Rayo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 20_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: MEB [line-id 20_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 𝐌𝐄𝐁 [line-id 20_0_0]
+msgctxt "ES0378940"
+msgid "Centro información"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 21_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Super Lotto Stand [line-id 21_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 宝くじ売り場 [line-id 21_0_0]
+msgctxt "ES0378941"
+msgid "Quiosco de la Super Lotto"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 22_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Behind Serena [line-id 22_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: セレナ裏 [line-id 22_0_0]
+msgctxt "ES0378942"
+msgid "Detrás de Serena"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 23_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Millennium Tower Gardens [line-id 23_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ミレニアムタワー前庭 [line-id 23_0_0]
+msgctxt "ES0378943"
+msgid "Jardines de la Torre del Milenio"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 24_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hidden Armory [line-id 24_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 裏武器屋 [line-id 24_0_0]
+msgctxt "ES0378944"
+msgid "Armería secreta"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 25_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hallway to Serena [line-id 25_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: セレナエレベータホール [line-id 25_0_0]
+msgctxt "ES0378945"
+msgid "Vestíbulo de Serena"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 26_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hallway to Parlor [line-id 26_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 賭場通路 [line-id 26_0_0]
+msgctxt "ES0378946"
+msgid "Vestíbulo del Salón"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 27_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Gambling Parlor [line-id 27_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 賭場 [line-id 27_0_0]
+msgctxt "ES0378947"
+msgid "Salón de Apuestas"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 28_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shine [line-id 28_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: シャイン [line-id 28_0_0]
+msgctxt "ES0378948"
+msgid "Shine"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 29_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Jewel [line-id 29_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ジュエル [line-id 29_0_0]
+msgctxt "ES0378949"
+msgid "Jewel"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 30_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Serena [line-id 30_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: セレナ [line-id 30_0_0]
+msgctxt "ES0378950"
+msgid "Serena"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 31_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Bacchus [line-id 31_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: バッカス [line-id 31_0_0]
+msgctxt "ES0378951"
+msgid "Baco"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 32_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Stardust [line-id 32_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: スターダスト [line-id 32_0_0]
+msgctxt "ES0378952"
+msgid "Stardust"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 33_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Batting Cage [line-id 33_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 吉田バッティングセンター [line-id 33_0_0]
+msgctxt "ES0378953"
+msgid "Jaula de Bateo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 34_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Rune [line-id 34_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ルーン [line-id 34_0_0]
+msgctxt "ES0378954"
+msgid "Runa"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 35_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Pares [line-id 35_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: パレス [line-id 35_0_0]
+msgctxt "ES0378955"
+msgid "Pares"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 36_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shellac [line-id 36_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: シェラック [line-id 36_0_0]
+msgctxt "ES0378956"
+msgid "Shellac"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 37_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Asia [line-id 37_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: エイジア [line-id 37_0_0]
+msgctxt "ES0378957"
+msgid "Asia"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 38_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Love in Heart [line-id 38_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ラブインハート [line-id 38_0_0]
+msgctxt "ES0378958"
+msgid "Amor en el Corazón"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 39_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Mini Doll [line-id 39_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ミニドール [line-id 39_0_0]
+msgctxt "ES0378959"
+msgid "Mini Muñeca"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 40_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Volcano [line-id 40_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ボルケーノ [line-id 40_0_0]
+msgctxt "ES0378960"
+msgid "Volcán"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 41_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Stairway to Deborah [line-id 41_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: デボラ下り階段 [line-id 41_0_0]
+msgctxt "ES0378961"
+msgid "Escaleras a Déborah"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 42_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Akagyu - Tenakaichi St. [line-id 42_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 赤牛丸➿天下一通り店 [line-id 42_0_0]
+msgctxt "ES0378962"
+msgid "Akagyu. Calle Tenkaichi"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 43_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Poppo - Tenkaichi St. [line-id 43_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ポッポ➿天下一通り店 [line-id 43_0_0]
+msgctxt "ES0378963"
+msgid "Poppo. Calle Tenkaichi"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 44_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: M Store [line-id 44_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 𝐌ストア [line-id 44_0_0]
+msgctxt "ES0378964"
+msgid "Tienda M"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 45_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Don Quijote [line-id 45_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ドン・キホーテ [line-id 45_0_0]
+msgctxt "ES0378965"
+msgid "Don Quijote"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 46_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hideout [line-id 46_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アジト [line-id 46_0_0]
+msgctxt "ES0378966"
+msgid "Guarida"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 47_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Rokuran Mah Jong [line-id 47_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 六蘭荘 [line-id 47_0_0]
+msgctxt "ES0378967"
+msgid "Rokuran Mah Jong"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 48_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Purgatory [line-id 48_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 賽の河原 [line-id 48_0_0]
+msgctxt "ES0378968"
+msgid "Purgatorio"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 49_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Red-Light District [line-id 49_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 地下歓楽街 [line-id 49_0_0]
+msgctxt "ES0378969"
+msgid "Barrio Rojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 50_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Public Restroom [line-id 50_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 西公園公衆便所 [line-id 50_0_0]
+msgctxt "ES0378970"
+msgid "Baños Públicos"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 51_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Kage's Room [line-id 51_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 花屋の部屋 [line-id 51_0_0]
+msgctxt "ES0378971"
+msgid "Habitación de Kage"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 52_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Tojo Clan HQ [line-id 52_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東城会本部 [line-id 52_0_0]
+msgctxt "ES0378972"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 53_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Tojo Clan HQ [line-id 53_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東城会本部 [line-id 53_0_0]
+msgctxt "ES0378973"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 54_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Tojo Clan HQ [line-id 54_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東城会本部 [line-id 54_0_0]
+msgctxt "ES0378974"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 55_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Tojo Clan HQ [line-id 55_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東城会本部 [line-id 55_0_0]
+msgctxt "ES0378975"
+msgid "Cuartel General del Clan Tojo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 56_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Surveillance Room [line-id 56_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: モニタールーム [line-id 56_0_0]
+msgctxt "ES0378976"
+msgid "Cuarto de Vigilancia"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 57_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Millennium Tower 1F [line-id 57_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ミレニアムタワー１Ｆ [line-id 57_0_0]
+msgctxt "ES0378977"
+msgid "Torre del Milenio 10"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 58_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Ares [line-id 58_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: アレス [line-id 58_0_0]
+msgctxt "ES0378978"
+msgid "Ares"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 59_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Asia [line-id 59_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: エイジア [line-id 59_0_0]
+msgctxt "ES0378979"
+msgid "Asia"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 60_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Deborah [line-id 60_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: デボラ [line-id 60_0_0]
+msgctxt "ES0378980"
+msgid "Déborah"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 61_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Purgatory [line-id 61_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 賽の河原 [line-id 61_0_0]
+msgctxt "ES0378981"
+msgid "Purgatorio"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 62_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shangri-la 1F [line-id 62_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 桃源郷１Ｆ [line-id 62_0_0]
+msgctxt "ES0378982"
+msgid "Shangri-la 1P"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 63_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Fuma Family's Office [line-id 63_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 風間組事務所 [line-id 63_0_0]
+msgctxt "ES0378983"
+msgid "Oficina de la Familia Fuma"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 64_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Todo Building [line-id 64_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 東堂ビル [line-id 64_0_0]
+msgctxt "ES0378984"
+msgid "Edificio Todo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 65_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Passageway to Colosseum [line-id 65_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 闘技場への通路 [line-id 65_0_0]
+msgctxt "ES0378985"
+msgid "Pasillo al coliseo"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 66_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Fukuma Casino [line-id 66_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 福間殿 [line-id 66_0_0]
+msgctxt "ES0378986"
+msgid "Casino Fukuma"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 67_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shibaura Wharf [line-id 67_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 芝浦埠頭 [line-id 67_0_0]
+msgctxt "ES0378987"
+msgid "Shibaura Muelle"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 68_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Go Parlor [line-id 68_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 碁会所 [line-id 68_0_0]
+msgctxt "ES0378988"
+msgid "Salón de Go"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 69_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Multipurpose Complex [line-id 69_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 雑居ビル [line-id 69_0_0]
+msgctxt "ES0378989"
+msgid "Complejo Multiuso"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 70_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Paradise [line-id 70_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: パラダイス [line-id 70_0_0]
+msgctxt "ES0378990"
+msgid "Paraíso"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 71_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Hanagata Building [line-id 71_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 花形ビル [line-id 71_0_0]
+msgctxt "ES0378991"
+msgid "Edificio Hanagata"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 72_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Shangri-la [line-id 72_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 桃源郷 [line-id 72_0_0]
+msgctxt "ES0378992"
+msgid "Shangri-la"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 73_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Ryujin Building [line-id 73_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 龍神会館 [line-id 73_0_0]
+msgctxt "ES0378993"
+msgid "Edificio Ryujin"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 74_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Peace Finance [line-id 74_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: ピースファイナンス [line-id 74_0_0]
+msgctxt "ES0378994"
+msgid "Finanzas de Paz"
+msgstr ""
+
+#. type: dialogue
+#. speaker: UNKNOWN
+#. speaker-source: not_resolved
+#. line-id: 75_0_0
+#. en-match: 1:1 (EN:ES)
+#. en-confidence: high
+#. english: Clinic [line-id 75_0_0]
+#. jp-match: 1:1 (JP:ES via EN)
+#. jp-confidence: high
+#. jp-via-english: 1/1
+#. japanese: 診療所 [line-id 75_0_0]
+msgctxt "ES0378995"
+msgid "Clínica"
+msgstr ""
